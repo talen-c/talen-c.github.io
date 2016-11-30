@@ -32,7 +32,7 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true
-pygments:    true
+#pygments:    true
 markdown:    kramdown
 
 # Amount of posts to show on home page
