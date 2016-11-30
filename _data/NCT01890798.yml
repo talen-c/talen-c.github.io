@@ -1,0 +1,198 @@
+---
+firstreceived_date: June 27, 2013
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01890798
+intervention:
+- intervention_name: Drisapersen
+  other_name: []
+  description: Drisapersen will be supplied as 3 millilitre (mL) vials containing
+    1mL sterile solution for subcutaneous injection. The strength of drisapersen solution
+    will be 200 mg/mL.
+  arm_group_label:
+  - Drisapersen (DMD117402)
+  intervention_type: Drug
+source: GlaxoSmithKline
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Prior DMD114876 subjects: Subjects who completed both the 24 week double-blind
+                   treatment and 24 week post-treatment phases in study DMD114876, OR Subjects who
+                   withdrew from the treatment portion of study DMD114876 due to meeting laboratory
+                   safety stopping criteria may be eligible to enroll in the extension study if: the
+                   laboratory parameters that led to stopping have resolved; benefit of further
+                   treatment with drisapersen outweighs the risk to the individual subject; and
+                   following consultation with the GSK Medical Lead.
+
+                -  Prior DMD115501 subjects:
+
+                -  Active subjects who entered into open-label extension study DMD115501. Subjects are
+                   required to be withdrawn from DMD115501 to participate.
+
+                -  Prior DMD114044 Subjects: US citizens who completed study DMD114044 in another
+                   country and who want to return to the US to participate, upon agreement by a
+                   physician conducting this protocol, OR Unites States citizens who participated in
+                   DMD114044 but who had to withdraw from the study due to meeting laboratory safety
+                   stopping criteria may be eligible to enroll if: the laboratory parameters that led to
+                   stopping have resolved; benefit of further treatment with drisapersen outweighs the
+                   risk to the individual subject; and following consultation with the GSK Medical Lead
+                   and upon agreement of physician conducting this protocol
+
+                -  Prior DMD114349 Subjects: US citizens who participated in and completed study
+                   DMD114044 in another country and who entered into the ongoing open-label extension
+                   study DMD114349 in a country outside the US who wish to withdraw from DMD114349 and
+                   return to the US to participate in this protocol, upon agreement by a physician
+                   conducting this protocol. Subjects are required to withdraw from DMD114349 to
+                   participate in this protocol.
+
+                -  Baseline platelets of 150 x 109/Liters (L) or greater and no history of
+                   thrombocytopenia.
+
+                -  Continued use of glucocorticosteroids for a minimum of 60 days prior to protocol
+                   entry with a reasonable expectation that the subject will remain on steroids for the
+                   duration of the protocol. Changes to or cessation of glucocorticosteroids will be at
+                   the discretion of the physician conducting this protocol in consultation with the
+                   subject/parent. The GSK Medical Lead must be notified in a timely manner.
+
+                -  Willing and able to comply with all protocol requirements and procedures (with the
+                   exception of those assessments requiring a subject to be ambulant, for those subjects
+                   who have lost ambulation).
+
+                -  Able to give informed assent and/or consent in writing signed by the subject and/or
+                   parent(s)/legal guardian (according to local regulations).
+
+              Exclusion Criteria:
+
+                -  Subject had a serious adverse experience or who met safety stopping criteria that
+                   remains unresolved from protocol DMD114876, which in the opinion of the physician
+                   conducting this protocol could have been attributable to study medication, and which
+                   is ongoing. Once resolved, subject may be eligible to enroll following consultation
+                   with the GlaxoSmithKline (GSK) Medical Lead.
+
+                -  Use of anticoagulants, antithrombotics or antiplatelet agents, or previous treatment
+                   with investigational drugs, except for drisapersen, within 28 days of the first
+                   administration of drisapersen.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: January 2014
+last_injected: '2015-09-26T03:09:33.532Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: January 2014
+why_stopped: |-
+  Rights for the further development of drisapersen have been transferred to Prosensa. Therefore
+      this study has been cancelled before enrollment.
+id_info:
+  org_study_id: '117402'
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01890798
+acronym: 
+arm_group:
+- description: The protocol is open only to the subjects who completed GSK protocol
+    DMD114876 and participated in protocol DMD115501, United States citizens who have
+    completed protocol DMD114044, or United States citizens who are participating
+    in protocol DMD114349 outside the United States and want to end their participation
+    in the DMD114349 study. Eligible subjects will receive drisapersen 6 milligram
+    (mg)/kilograms (kg) once a week via subcutaneous (SC) injection.
+  arm_group_label: Drisapersen (DMD117402)
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: GlaxoSmithKline
+    agency_class: Industry
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Withdrawn
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline to Week 48
+  description: AEs will be collected from the start of Study Treatment and until 5
+    days post last-dose (at follow up).
+  measure: Safety as assessed by the collection of adverse events (AEs)
+- safety_issue: 'No'
+  time_frame: Baseline to Week 48
+  description: Absolute values and changes over time of hematology, clinical chemistry,
+    and urinalysis
+  measure: Safety as assessed by laboratory parameters
+- safety_issue: 'No'
+  time_frame: Baseline to Week 48
+  description: 
+  measure: Safety as assesses by electrocardiogram (ECG) intervals
+overall_official:
+- first_name: 
+  last_name: GSK Clinical Trials
+  middle_name: 
+  affiliation: GlaxoSmithKline
+  degrees: 
+  role: Study Director
+phase: Phase 3
+location_countries: {}
+condition:
+- Muscular Dystrophies
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne Muscular Dystrophy
+- GSK2402968
+- drisapersen
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location: []
+official_title: A Continued Access Protocol for Eligible US Subjects With Duchenne
+  Muscular Dystrophy Who Previously Participated in an Approved Drisapersen Study
+verification_date: March 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01890798
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Drisapersen Duchenne Muscular Dystrophy (DMD) Treatment Protocol
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This is a single arm, open-label continued access protocol of drisapersen for the treatment
+          of male subjects with Duchenne muscular dystrophy (DMD) having dystrophin mutations
+          correctable by drisapersen-induced DMD Exon 51 skipping. The purpose of this continued
+          access protocol is to offer pre-approval access to drisapersen for the treatment of subjects
+          with DMD who previously participated in eligible drisapersen studies. The protocol will
+          collect safety data required to assure subject safety and periodic efficacy data on muscle
+          function.
+enrollment:
+  attributes:
+    type: Actual
+  value: '0'
+lastchanged_date: March 20, 2014

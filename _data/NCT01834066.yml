@@ -1,0 +1,199 @@
+---
+firstreceived_date: February 26, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Muscular dystrophy is a group of inherited disorders that involve muscle weakness and loss
+          of muscle tissue, which get worse over time. Duchenne muscular dystrophy is caused by a
+          defective gene for dystrophin (a protein in the muscles). However, it often occurs in people
+          without a known family history of the condition. slowly progress diseases.it causes Muscle
+          weaknesses, Difficulty with motor skills ,Progressive difficulty walking.Breathing
+          difficulties and heart disease,Frequent falls,weak limbs,lose motor Function.Begins in the
+          legs and pelvis, but also occurs less severely in the arms, neck, and other areas of the
+          body.Trouble getting up from a lying position or climbing stairs.
+link: []
+has_expanded_access: 'No'
+id: NCT01834066
+intervention:
+- intervention_name: Stem Cell
+  other_name:
+  - Intravenous transfer of Autologous Stem Cell ( MNCs )
+  description: Intralesional transfer of Autologous Stem cell (MNCs) per dose. 6 doses
+    in 3 months
+  arm_group_label:
+  - STEM CELL
+  intervention_type: Biological
+source: Chaitanya Hospital, Pune
+eligibility:
+  gender: Both
+  maximum_age: 25 Years
+  sampling_method: 
+  minimum_age: 6 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Patient with Diagnose of Duchenne Muscular Dystrophy.
+
+                -  Aged in between 6 to 25 Years.
+
+                -  Willingness to undergo Bone Marrow derived Autologous cell Therapy.
+
+                -  Ability to comprehend the explained protocol and thereafter give an informed consent
+                   as well as sign the required Informed Consent form(ICF) for the study.
+
+                -  Ability and willingness to regular visit to hospital for protocol procedures and
+                   follow up
+
+              Exclusion Criteria:
+
+                -  Patient who is not Diagnose of Duchenne Muscular Dystrophy.
+
+                -  Patient with History of Immunodeficiency HIV+,Hepatitis B ,HBV and TPPA+,Tumor
+                   Markers+
+
+                -  History of Life threatening allergic or immune -Mediated Reaction.
+
+                -  the site of bone marrow aspiration potentially limiting Procedure.
+
+                -  Alcohol and drug abuse / dependence.
+
+                -  Patients with History of Hypertension and Hypersensitive.
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: November 2016
+last_injected: '2015-09-26T04:50:03.619Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: September 2014
+why_stopped: 
+id_info:
+  org_study_id: '00101'
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01834066
+acronym: mdp
+arm_group:
+- description: Intra thecal transplantation of autologous Stem Cell MNCs
+  arm_group_label: STEM CELL
+  arm_group_type: Other
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Chaitanya Hospital, Pune
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 6 months
+  description: 
+  measure: "-Improvement of daily living scale and baseline in EMG(electromyography)"
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 6 Months
+  description: 
+  measure: Significant Improvement in Muscle strength by using Kinetics Muscle testing
+    or by using MMT( manual muscle test }score
+overall_official:
+- first_name: 
+  last_name: ANANT E BAGUL, MS ORTHO
+  middle_name: 
+  affiliation: CHAITANYA HOSPITAL
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - India
+condition:
+- Muscular Dystrophy
+- Duchenne Muscular Dystrophy,
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- muscular Dystrophy stem cell
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'India: Institutional Review Board'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Chaitnany Hospital
+    address:
+      city: Pune
+      state: Maharashtra
+      zip: '411009'
+      country: India
+  investigator:
+  - first_name: 
+    last_name: ANANT E BAGUL, MS ORTHO
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Sachin P Jamadar, D ORTHO
+    middle_name: 
+    phone_ext: 
+    phone: "+918888788880"
+    degrees: 
+    email: sac2751982@gmail.com
+  geodata:
+    latitude: 18.52
+    formatted: Pune, Maharashtra, India
+    longitude: 73.857
+    original: Pune, Maharashtra
+official_title: Safety and Efficacy of Bone Marrow Autologous Cells in Muscular Dystrophy.
+  It is Self Funded (Patients' Own Funding) Clinical Trial
+verification_date: September 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01834066
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Sachin P Jamadar, D.Ortho
+  middle_name: 
+  phone_ext: 
+  phone: "+918888788880"
+  degrees: 
+  email: sac2751982@gmail.com
+brief_title: Study Safety and Efficacy of Bone Marrow Derived Autologous Cells for
+  the Treatment of Muscular Dystrophy.
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This Study is single arm, single centre trial to check the safety and efficacy of Bone
+          Marrow derived autologous cell(100 million per dose) for the patient with Duchenne Muscular
+          Dystrophy.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '25'
+lastchanged_date: September 16, 2014

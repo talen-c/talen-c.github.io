@@ -1,0 +1,305 @@
+---
+firstreceived_date: May 4, 2011
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: April 2013
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    The current clinical trial including people with Becker's muscular dystrophy and established
+          deficiency in muscular content of nNOS protein consist of three sub-studies focusing on each
+          of muscle function, cardiac function and brain function. In muscular dystrophy the
+          dystrophin cellular complex usually located to muscle cells, is disrupted resulting in a
+          known reduced nNOS activity. The reduced nNOS leads to reduced cyclic GMP production. nNOS
+          and cyclic GMP are involved in the vascular response in striate muscle, cardiac vessels as
+          well as the cerebrovascular response to hypercapnia and regional activation. In muscular
+          dystrophy, the is an affected muscular and cardiac function and in some patients a changed
+          cognitive function in described. Whether such is related to a reduced nNOS function and
+          subsequent cGMP production is not fully understood. Inhibition of cGMP degradation by
+          inhibiting the cGMP degrading enzyme phosphodiesterase 5 (PDE5) using PDE5 inhibitors such
+          as sildenafil may result in restoration of vascular responses.
+
+          The study is designed as a double blind, randomised, balanced, placebo-controlled cross-over
+          study performed during a 10 week treatment period. The patients will receive 4 weeks of
+          either sildenafil or placebo with a 2 week washout period in between treatments. The study
+          out-come parameters will be performed on two consecutive days at baseline, 4 weeks and 10
+          weeks, at two collaborating centers, Rigshospitalet for muscle and cardiac parameters and
+          Glostrup Hospital for cerebrovascular and cognitive parameters.
+
+          The primary endpoints relate to each sub-study, assessing and comparing individual changes
+          from baseline and during placebo/sildenafil treatment.
+link: []
+has_expanded_access: 'No'
+id: NCT01350154
+intervention:
+- intervention_name: Sildenafil
+  other_name:
+  - Placebo
+  description: 20 mg in gelatine capsules, oral, three times daily
+  arm_group_label:
+  - Sildenafil (Revation) 20 mg
+  intervention_type: Drug
+- intervention_name: Placebo
+  other_name:
+  - Sildenafil (Revatio)
+  description: Lactose monohydrate oral in gelatine capsules, 3 times daily
+  arm_group_label:
+  - Placebo
+  intervention_type: Drug
+source: Rigshospitalet, Denmark
+eligibility:
+  gender: Male
+  maximum_age: 80 Years
+  sampling_method: 
+  minimum_age: 18 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Muscular dystrophy with known deficiency in nNOS
+
+                -  Reduced cardiac function (<50%) and/or reduced muscular function (MRC<4+)
+
+                -  Stable dosing (> 3 month)of cardiovascular medication
+
+                -  Signed informed consent
+
+              Exclusion Criteria:
+
+                -  Recent (< 6 month) cerebral or cardiac stroke
+
+                -  Use of nitrate containing compounds, alpha receptor blocking agents or potent CUP3A4
+                   inhibitors.
+
+                -  Intolerance or allergy to sildenafil, or intake of drugs not compatible with
+                   sildenafil intake
+
+                -  Overuse of drugs or alcohol
+
+                -  inclusion in other trials of experimental medication within last 30 days
+
+                -  known epilepsy
+
+                -  reduced liver function (ASAT >500U/l in 2 repeated measurements when corrected for
+                   increase in creatinkinase levels.
+
+                -  non-arteriitis anterior ischemic optic neuropathy (NAION) with reduced vision
+
+                -  contraindications for MRI scan (metal implants, claustrophobia)
+
+                -  hypotension (<90 mmHg systolic at baseline)
+
+                -  conditions, medical or psychosocial which makes the subject inclusion inadvisable
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: April 2013
+last_injected: '2015-10-14T23:53:06.585Z'
+intervention_browse:
+  mesh_term:
+  - Sildenafil
+target_duration: 
+number_of_arms: '2'
+start_date: November 2011
+why_stopped: 
+id_info:
+  org_study_id: RHGLBMD
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01350154
+acronym: 
+arm_group:
+- description: This arm will receive sildenafil for 4 weeks followed by 2 weeks washout
+    and 4 weeks placebo.
+  arm_group_label: Sildenafil (Revation) 20 mg
+  arm_group_type: Experimental
+- description: This arm will receive placebo for 4 weeks followed by 2 weeks washout
+    and 4 weeks sildenafil
+  arm_group_label: Placebo
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: Glostrup University Hospital, Copenhagen
+    agency_class: Other
+  lead_sponsor:
+    agency: Rigshospitalet, Denmark
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 1
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in 6 minutes walk test
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 1
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in max test, measured by O2 uptake during maximal exercise on bike
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 1
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in Quality of life by SF36
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 2. Evaluation of resting cardiac ejection fraction and end-systolic
+    volume.
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in resting cardiac function measured by cardiac MRI
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 2. Cardiac volumes and ejection fraction during 1 minute repeated
+    maximal force hand exercise will be measured.
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in cardiac function during hand grip exercise measured by cardiac MRI
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 3. fMRI BOLD evaluation of visual stimulation, MRI angiography
+    for arterial diameter, arterial spin labeling for evaluation of cerebral blood
+    flow and blood volumen.
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in cerebrovascular reactivity and blood flow
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 3.Resting state network by fMRI and metabolites in brain regions
+    by MRI spectroskopy.
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in basic activity and metabolites of the brain
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 3. A paper and pen cognitive test battery will be applied,
+    including Trail making A and B, Addenbrooke's Cognitive Examination, Symbol DIgital
+    MOdality tests
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in cognitive function measured by paper and pen test battery
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Substudy 3. From blood samples taken at baseline, 4 and 10 weeks, analysis
+    of several signalling molecules relevant for cardiac and cerebrovascular function
+    will be performed.
+  measure: Difference in changes from baseline to 4 weeks treatment placebo/sildenafil
+    in plasma levels of signalling molecules
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Primary outcome for substudy 1
+  measure: Difference in change from baseline to 4 week placebo/sildenafil treatment
+    in handgrip test with concomitant ultrasound measurement of flow in the brachial
+    artery
+- safety_issue: 'No'
+  time_frame: Baseline and 4 week treatment
+  description: Primary outcome for substudy 2
+  measure: Difference in changes from baseline to 4 week placebo/sildenafil treatment
+    in resting cardiac end-diastolic volume measured by MRI
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Primary outcome for substudy 3
+  measure: Difference in changes from baseline to 4 week placebo/sildenafil treatment
+    in cerebrovascular reactivity to CO2 inhalation and finger stimulation measured
+    by BOLD fMRI
+- safety_issue: 'No'
+  time_frame: Baseline and 4 weeks treatment
+  description: Primay outcome for substudy 3
+  measure: Difference in changes from baseline to 4 weeks placebo/sildenafil treatment
+    in Cognitive function measured by Cambridge Neuropsychological Test Automated
+    Battery (CANTAB)
+overall_official:
+- first_name: 
+  last_name: John Vissing, MD, DMSci
+  middle_name: 
+  affiliation: Neuromuscular Clinic and Research Unit, Dept. Neurology, Rigshospitalet
+  degrees: 
+  role: Study Chair
+phase: Phase 2
+location_countries:
+  country:
+  - Denmark
+condition:
+- Becker Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention
+  Model: Crossover Assignment, Masking: Double Blind (Subject, Caregiver, Investigator,
+  Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- clinical trial
+- sildenafil
+- revatio
+- muscular dystrophy
+- adult
+- nNOS
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'Denmark: The Regional Committee on Biomedical Research Ethics'
+  - 'Denmark: Danish Medicines Agency'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Neuromuscular Clinic and Research Unit, Dept. Neurology, Rigshospitalet,
+    address:
+      city: Copenhagen
+      state: 
+      zip: '2100'
+      country: Denmark
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 55.676
+    formatted: Copenhagen, Denmark
+    longitude: 12.568
+    original: Copenhagen, Denmark
+official_title: Does Modulation of the nNOS System in Patients With Muscular Dystrophy
+  and Defect nNOS Signalling Affect Cardiac, Muscular or Cognitive Function?
+verification_date: April 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01350154
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Effect of Modulating the nNOS System on Cardiac, Muscular and Cognitive
+  Function in Becker Muscular Dystrophy Patients
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This study is done to evaluate whether treatment with the drug sildenafil (Revatio®) can
+          improve muscular, cardiac, cerebrovascular or cognitive function in patients with Beckers
+          muscular dystrophy when compared to placebo (inactive medication). The study is based on the
+          recent findings of an improved cardiac function in a mouse model of muscular dystrophy
+          (Adamo et al 2010) and the previous findings of changed cognitive function in people with
+          Becker dystrophy.
+
+          In muscular dystrophy, the cellular protein, dystrophin is affected. During normal
+          conditions, the enzyme neuronal nitric oxide synthase (nNOS), which produce nitric oxide
+          (NO), is attached to dystrophin. NO is important in normal vascular function in each of
+          muscle, heart and brain by stimulating production of cyclic GMP. However, in muscular
+          dystrophy with dystrophin deficiency, nNOS do not have the normal cellular anchor, resulting
+          in decreased NO levels and subsequent reduced cyclic GMP production. Sildenafil inhibits
+          degradation of cGMP thus prolonging and increasing a cGMP response. Such effects are the
+          basis for use of sildenafil in pulmonary hypertension and erectile dysfunction. Current
+          hypothesis: Sildenafil restores the cyclic GMP function affected in muscular dystrophy wit
+          nNOS deficiency resulting in improved muscle, cardiac, cerebrovascular and cognitive
+          function.
+enrollment:
+  attributes:
+    type: Actual
+  value: '17'
+lastchanged_date: April 9, 2013

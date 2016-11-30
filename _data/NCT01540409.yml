@@ -1,0 +1,398 @@
+---
+firstreceived_date: February 23, 2012
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    This is an open label, multiple dose extension study to assess the ongoing efficacy, safety,
+          and tolerability of weekly intravenous (IV) infusions of eteplirsen in DMD subjects who have
+          successfully completed Study 4658-us 201.
+
+          Subjects will have the opportunity to enroll in this study during the last visit of Study
+          4658-us-201 (Week 28). Eligible subjects will receive once weekly IV infusions of eteplirsen
+          (50 or 30 mg/kg) for an additional 212 weeks. Subjects will receive the same dose of
+          eteplirsen they received in Study 4658-us-201.
+
+          Safety, efficacy, pharmacokinetic (PK), and biomarker assessments will be performed at
+          scheduled visits; adverse events (AEs) and concomitant medications and therapies will be
+          continuously monitored.
+
+          If review of data from this open label study suggests that continued treatment with
+          eteplirsen is warranted, this study may be extended by protocol amendment or subjects who
+          successfully complete this study may have the opportunity to participate in a separate
+          follow on, open label eteplirsen study.
+link:
+- url: http://www.skipahead.com/
+  description: Online resource center for patients with DMD, families, and their healthcare
+    providers
+has_expanded_access: 'No'
+id: NCT01540409
+intervention:
+- intervention_name: AVI-4658 (Eteplirsen)
+  other_name: []
+  description: Eteplirsen will be administered once weekly via an IV infusion. Their
+    are two treatment groups, 30 mg/kg and 50 mg/kg.
+  arm_group_label:
+  - AVI-4658 (Eteplirsen)
+  intervention_type: Drug
+source: Sarepta Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 13 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+              A subject must meet all of the following criteria to be eligible for this study.
+
+                1. The subject and/or their parent/legal guardian are willing and able to provide signed
+                   informed consent.
+
+                2. The subject has successfully completed 28 weeks of treatment in Study 4658-US-201.
+
+                3. The subject has a parent(s) or legal guardian(s) who is able to understand and comply
+                   with all of the study procedure requirements.
+
+              Exclusion Criteria:
+
+              A subject who meets any of the following criteria will be excluded from this study.
+
+              1. The subject has a prior or ongoing medical condition that, in the Investigator's
+              opinion, could adversely affect the safety of the subject or make it unlikely that the
+              course of treatment or follow-up would be completed or impair the assessment of study
+              results.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline, Week 20, Week 140 (optional)
+  description: |-
+    Dystrophin intensity per fiber in muscle biopsy tissue as determined by IHC
+    CD3, CD4, and CD8 lymphocyte count in muscle biopsy tissue
+    Total dystrophin protein in muscle biopsy tissue as determined by Western blot analysis
+    Exon skipping in muscle biopsy tissue as assessed by reverse transcriptase polymerase chain reaction (RT PCR)
+  measure: Muscle Biopsy
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 4, 8, 20, 32, 46, 56, 68, 92, 116, 140, 164
+  description: 
+  measure: Timed 4 Step Test results
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 4, 8, 20, 32, 46, 56, 68, 92, 116, 140, 164
+  description: 
+  measure: North Star Ambulatory Assessment (NSAA) results
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 4, 8, 20, 32, 46, 56, 68, 92, 116, 140, 164
+  description: 
+  measure: Maximum voluntary isometric contraction test (MVICT) results
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 20, 46, 68, 92, 116, 140, 164
+  description: 
+  measure: 9 Hole Peg Test results
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 20, 46, 68, 116, 164
+  description: 
+  measure: Pediatric Quality of Life Inventory (PedsQL) results, including the neuromuscular
+    module (NMM)
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 8, 20, 32, 46, 68, 92, 116, 140, 164
+  description: including forced vital capacity (FVC), percent predicted FVC, forced
+    expiratory volume in 1 second (FEV1), FEV1%, FEV1/FVC ratio, maximum inspiratory
+    pressure (MIP), and maximum expiratory pressure (MEP)
+  measure: Pulmonary function test results
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: April 2016
+last_injected: '2015-07-14T06:45:42.582Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: February 2012
+why_stopped: 
+id_info:
+  org_study_id: 4658-us-202
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01540409
+acronym: 
+arm_group:
+- description: Multiple-Dose Extension Study
+  arm_group_label: AVI-4658 (Eteplirsen)
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Sarepta Therapeutics
+    agency_class: Industry
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 20 Weeks
+  description: The primary biological efficacy endpoint will be the change from baseline
+    at Week 20 in the percent of dystrophin positive fibers (type = anti-dystrophin
+    antibody MANDYS106) in muscle biopsy tissue as measured by immunohistochemistry
+    (IHC).
+  measure: Percent of dystrophin positive fibers
+- safety_issue: 'No'
+  time_frame: Baseline, Wks 4, 8, 20, 32, 46, 56, 68, 92, 116, 140, 164
+  description: The primary functional efficacy endpoint will be the change from baseline
+    to end-of-study on the 6 Minute Walk Test (6MWT).
+  measure: 6 Minute Walk Test (6MWT)
+overall_official:
+- first_name: 
+  last_name: Jerry R Mendell, MD
+  middle_name: 
+  affiliation: Nationwide Children's Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy (DMD)
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- DMD, Duchenne, Eteplirsen, dystrophy, dystrophin, exon 51
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Miller Children's Hospital
+    address:
+      city: Long Beach
+      state: California
+      zip: '90806'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 33.804
+    formatted: Long Beach, CA, USA
+    longitude: -118.158
+    original: Long Beach, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Florida Clinical Research Center
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: 
+  contact_backup: {}
+  facility:
+    name: Rush University Medical Center
+    address:
+      city: Chicago
+      state: Illinois
+      zip: '60612'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: 
+  contact_backup: {}
+  facility:
+    name: Massachusetts General Hospital
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02114'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+- status: 
+  contact_backup: {}
+  facility:
+    name: Washington University Medical School
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: 
+  contact_backup: {}
+  facility:
+    name: Dartmouth-Hitchcock Medical Center
+    address:
+      city: Lebanon
+      state: New Hampshire
+      zip: '03756'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.642
+    formatted: Lebanon, NH, USA
+    longitude: -72.252
+    original: Lebanon, New Hampshire
+- status: 
+  contact_backup: {}
+  facility:
+    name: Summerwood Pediatrics/Infusacare Medical Services
+    address:
+      city: Liverpool
+      state: New York
+      zip: '13088'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.106
+    formatted: Liverpool, NY, USA
+    longitude: -76.218
+    original: Liverpool, New York
+- status: 
+  contact_backup: {}
+  facility:
+    name: Levine Children's Hospital
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: '28203'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: 
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Pittsburgh of UPMC
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: '15224'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Specialty Group, Pediatric Neurology
+    address:
+      city: Norfolk
+      state: Virginia
+      zip: '23510'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 36.851
+    formatted: Norfolk, VA, USA
+    longitude: -76.286
+    original: Norfolk, Virginia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Osceola Medical Center
+    address:
+      city: Osceola
+      state: Wisconsin
+      zip: '54020'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.3205199
+    original: Osceola, Wisconsin
+    longitude: -92.7049303
+    formatted: Osceola, WI, USA
+official_title: Open-Label, Multiple-Dose, Efficacy, Safety, and Tolerability Study
+  of Eteplirsen in Subjects With Duchenne Muscular Dystrophy Who Participated in Study
+  4658-US-201
+verification_date: October 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01540409
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Efficacy, Safety, and Tolerability Rollover Study of Eteplirsen in Subjects
+  With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The primary objective of this study is to assess the ongoing efficacy, safety, and
+          tolerability of an additional 212 weeks of treatment with eteplirsen injection in Duchenne
+          muscular dystrophy (DMD) subjects who have successfully completed the 28 week eteplirsen
+          study: Study 4658-us-201. This study will also evaluate the correlation between biomarkers
+          for DMD and the clinical status of participating DMD subjects.
+enrollment:
+  attributes:
+    type: Actual
+  value: '12'
+lastchanged_date: October 14, 2014

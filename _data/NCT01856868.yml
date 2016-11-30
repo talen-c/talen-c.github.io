@@ -1,0 +1,275 @@
+---
+firstreceived_date: May 9, 2013
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2014
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link:
+- url: http://www.ucdmc.ucdavis.edu/pmr/research/Index.html
+  description: UC Davis Neuromuscular Research Center
+has_expanded_access: 'No'
+id: NCT01856868
+intervention:
+- intervention_name: "(-)-epicatechin"
+  other_name: []
+  description: 
+  arm_group_label:
+  - Treatment
+  intervention_type: Drug
+source: University of California, Davis
+eligibility:
+  gender: Male
+  maximum_age: 60 Years
+  sampling_method: 
+  minimum_age: 18 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Male
+
+                -  Age 18 years to 60 years
+
+                -  Average to low daily physical activity
+
+                -  Ability to ambulate for 75 meters without assistive devices
+
+                -  Diagnosis of BMD confirmed by at least one the following:
+
+                     -  Dystrophin immunofluorescence and/or immunoblot showing partial dystrophin
+                        deficiency, and clinical picture consistent with typical BMD, or
+
+                     -  Gene deletions test positive (missing one or more exons) of the dystrophin gene,
+                        where reading frame can be predicted as 'in-frame', and clinical picture
+                        consistent with typical BMD, or
+
+                     -  Complete dystrophin gene sequencing showing an alteration (point mutation,
+                        duplication, or other mutation resulting in a stop codon mutation) that can be
+                        definitely associated with BMD, with a typical clinical picture of BMD, or
+
+                     -  Positive family history of BMD confirmed by one of the criteria listed above in
+                        a sibling or maternal uncle, and clinical picture typical of BMD.
+
+                -  Nutritional, herbal and antioxidant supplements taken with the intent of maintaining
+                   or improving skeletal muscle strength or functional mobility have been discontinued
+                   at least 2 weeks prior to screening (daily multivitamin use is acceptable).
+
+                -  Hematology profile within normal range
+
+                -  Baseline laboratory safety chemistry profile within normal range
+
+                -  No plan to change exercise regimen during study participation
+
+              Exclusion Criteria:
+
+                -  Currently enrolled in another treatment clinical trial.
+
+                -  History of significant concomitant illness or significant impairment of renal or
+                   hepatic function.
+
+                -  Use of regular daily aspirin or other medication with antiplatelet effects within 3
+                   weeks of first dose of study medication.
+
+                -  Regular participation in vigorous exercise.
+
+                -  Symptomatic heart failure with cardiac ejection fraction <25%
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Evaluation by histology, Western Blot, immunostain and electron microscopy
+  measure: Normalization of Muscle Stucture
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2014
+last_injected: '2015-09-26T04:08:54.950Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: May 2013
+why_stopped: 
+id_info:
+  org_study_id: UCD0113
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01856868
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Treatment
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: Cardero Therapeutics, Inc.
+    agency_class: Industry
+  lead_sponsor:
+    agency: Craig McDonald, MD
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 8 Weeks
+  description: 'Standard clinical safety panel including: hematologic, hepatologic,
+    renal and metabolic profiles'
+  measure: "-(-)Epicatechin Pharmacokinetics"
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: 
+  measure: Muscle Function
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: 
+  measure: Muscle Stength
+overall_official:
+- first_name: 
+  last_name: Craig M McDonald, MD
+  middle_name: 
+  affiliation: University of California, Davis
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Erik K Henricson, MPH
+  middle_name: 
+  affiliation: University of California, Davis
+  degrees: 
+  role: Study Director
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Becker Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- BMD
+- Becker muscular dystrophy
+- epicatechin
+- clinical trial
+- neuromuscular disease
+results_reference: []
+oversight_info:
+  has_dmc: 
+  authority:
+  - 'United States: Institutional Review Board'
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of California, Davis
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Craig M McDonald, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Erik K Henricson, MPH
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Richard T Abresch, MS
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Frank Sharp, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Glenn Jickling, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Bjorn E Oskarsson, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Erica Goude, BA CCRP
+    middle_name: 
+    phone_ext: 
+    phone: 916-734-0968
+    degrees: 
+    email: erica.goude@ucdmc.ucdavis.edu
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+official_title: An Open-label Pilot Study of Purified Tea-derived Epicatechin to Improve
+  Mitochondrial Function, Strength and Skeletal Muscle Exercise Response in Becker
+  Muscular Dystrophy.
+verification_date: August 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01856868
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Erica Goude, BA CCRP
+  middle_name: 
+  phone_ext: 
+  phone: 916-734-0968
+  degrees: 
+  email: erica.goude@ucdmc.ucdavis.edu
+brief_title: Use of (-)-Epicatechin in the Treatment of Becker Muscular Dystrophy
+  (Pilot Study)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    (-)-Epicatechin will be evaluated for the treatment of progressive muscle loss and impaired
+          skeletal muscle function in Becker Muscular Dystrophy (BMD) patients. This is a
+          proof-of-concept phase 1/2a pilot and endpoint development study that is designed to provide
+          initial evidence of biological activity of (-)-epicatechin. Primary endpoints include
+          initial assessment of tissue-specific evidence of efficacy from muscle biopsy samples.
+          Secondary endpoints include measures of strength and physical function, and safety and
+          adverse event data. Pilot endpoints include assessment of mRNA and miRNA peripheral blood
+          profiles and validation of non-invasive near-infrared spectroscopy (NIRS) muscle perfusion
+          studies during exercise and a recumbent cycle exercise test that may be employed as
+          endpoints in future clinical trials.
+
+          This single center open-label pilot study will enroll 10 adults with genetically-confirmed
+          Becker muscular dystrophy, who will receive the purified nutritional extract (-)-epicatechin
+          100mg/day orally for 8 weeks. After screening visits, participants will be enrolled in the
+          study if they meet all inclusion criteria. They will be evaluated at baseline and at
+          screening, day 1, and weeks 1, 2, 4 and 8.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '10'
+lastchanged_date: August 23, 2013

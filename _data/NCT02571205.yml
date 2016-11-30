@@ -1,0 +1,249 @@
+---
+firstreceived_date: August 24, 2015
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Claire Wood
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: claire.wood@ncl.ac.uk
+completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2019
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT02571205
+intervention:
+- intervention_name: Sustanon (testosterone)
+  other_name: []
+  description: Standard incremental regimen of Sustanon
+  arm_group_label: []
+  intervention_type: Drug
+source: Newcastle-upon-Tyne Hospitals NHS Trust
+eligibility:
+  gender: Male
+  maximum_age: 17 Years
+  sampling_method: Probability Sample
+  minimum_age: 12 Years
+  study_pop:
+    textblock: |-
+      This is a single-centre, prospective, observational, study on clinical outcomes of
+              testosterone replacement therapy in adolescents with DMD and delayed puberty. Being an
+              observational study of routine care, there will be no specified end point. We will aim to
+              recruit any adolescent with DMD and delayed puberty who is reviewed by the muscle team at
+              the John Walton Muscular Dystrophy Research Centre from the study approval date.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  A molecular diagnosis of Duchenne Muscular Dystrophy.
+
+                -  Males aged between 12 and 17 years of age at time of first dosing
+
+                -  Prepubertal (Tanner stage 1, testicular volume <4 mls, initial testosterone level of
+                   <2.0 nmol/l)
+
+                -  Subjects are receiving the standard of care for DMD as recommended by the NorthStar
+                   UK and TREAT-NMD guidelines
+
+                -  Patients are capable of sitting upright in a wheelchair for at least an hour
+
+                -  Patients have stable respiratory function. Artificial ventilation with either
+                   Bipap/continuous positive airways pressure (CPAP) or tracheostomy is not a
+                   contraindication to the study.
+
+                -  Informed consent/assent signed by the patient (or parent/guardian if under 16 years
+                   of age)
+
+              Exclusion Criteria:
+
+                -  Severe learning difficulties that would preclude them from cooperating with
+                   examination.
+
+                -  Anticipated surgery during the study period.
+
+                -  Symptomatic cardiac failure.
+
+                -  Participants/families who may have emotional or psychological problems if recruited
+                   to a study
+
+                -  Hypersensitivity to the active substance or to any of the excipients, including
+                   arachis oil or derivatives (including hypersensitivity and allergy to peanuts or
+                   soya.)
+
+                -  Any contra-indication to receiving an intramuscular injection
+
+                -  Any additional chronic disease that affects androgen production
+
+                -  Anti-coagulant therapy
+
+                -  If participation in the study is not recommended in the opinion of the investigators
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: February 2019
+last_injected: '2015-10-08T22:39:09.795Z'
+intervention_browse:
+  mesh_term:
+  - Methyltestosterone
+  - Testosterone
+  - Testosterone 17 beta-cypionate
+  - Testosterone enanthate
+  - Testosterone undecanoate
+target_duration: 
+number_of_arms: 
+start_date: November 2015
+why_stopped: 
+id_info:
+  org_study_id: 2015-003195-68
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02571205
+acronym: 
+arm_group: []
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Newcastle-upon-Tyne Hospitals NHS Trust
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Subject's reported effectiveness of testosterone therapy as assessed by
+    semi-structured interviews pre and post treatment
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Total score in Northstar Ambulatory Assessment or Performance of the Upper
+    Limb if non-ambulant
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Z-score from Bone mineral adjusted density of the lumbar spine and total
+    body (minus head) using Dual Xray Absorptiometry (DXA)
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Percentage of body mass assessed by DXA
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Osteocalcin level, measured by blood test
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: P1NP level, measured by blood test
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Percentage fat fraction as assessed by muscle Magnetic Resonance Imaging
+    (MRI) of upper and lower limbs
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Pubertal staging assessed using Tanner staging and testicular volume
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Bone age as assessed by wrist and hand X-Ray
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Hormonal assessment of pubertal staging using testosterone level
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Forced vital capacity, measured by spirometry
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Cardiac function, assessed by Electrocardiogram (ECG) and echo
+study_type: Observational
+biospec_retention: Samples With DNA
+overall_status: Not yet recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Total score in the Treatment Satisfaction Questionnaire for Medication
+    (TSQM)
+overall_official:
+- first_name: 
+  last_name: Michela Guglieri
+  middle_name: 
+  affiliation: Newcastle University
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries: {}
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Case-Only, Time Perspective: Prospective'
+keyword:
+- testosterone
+- pubertal delay
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United Kingdom: Research Ethics Committee'
+number_of_groups: '1'
+location: []
+official_title: Observational Study of Clinical Outcomes for Testosterone Treatment
+  of Pubertal Delay in Duchenne Muscular Dystrophy
+verification_date: October 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02571205
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Volker Straub
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: volker.straub@ncl.ac.uk
+brief_title: Testosterone Therapy for Pubertal Delay in Duchenne Muscular Dystrophy
+biospec_descr:
+  textblock: Samples to be collected as part of Biobank
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    "Observational study of clinical outcomes for testosterone treatment of pubertal delay in
+          Duchenne Muscular Dystrophy" is a single centre observational study that aims to follow the
+          progress of 20 adolescents with Duchenne Muscular Dystrophy (DMD) and delayed puberty who
+          are treated by the Newcastle muscle team, as they are treated with testosterone to induce
+          puberty. The participants will all be treated with the standard stepwise regimen of
+          testosterone injections every 4 weeks and data will be collected to help determine the
+          effectiveness and tolerability of the current treatment regimen. The investigators will use
+          the data to explore the effect of testosterone on pubertal development, growth, muscle
+          strength and function, bone mineral density and body composition and characterise any side
+          effects. Semi-structured interviews will also be carried out to learn the boys' views on the
+          tolerability of the regimen. The study will last up to a maximum of 27 months in total for
+          each participant, but may be less if they are happy with pubertal development before this
+          time. It is important to do this study because from the investigator's limited experience in
+          this group, testosterone treatment seems to be well liked and tolerated but the best
+          treatment regimen to use remains unknown and there is no current consensus. It is not
+          currently part of the standard of care in DMD but it would be important to include it if
+          this study can show that it is an effective treatment for pubertal delay.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '20'
+lastchanged_date: October 7, 2015

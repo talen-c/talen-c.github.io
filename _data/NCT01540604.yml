@@ -1,0 +1,131 @@
+---
+firstreceived_date: February 23, 2012
+is_fda_regulated: 
+reference: []
+overall_contact_backup: {}
+completion_date: {}
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01540604
+intervention:
+- intervention_name: CRD007
+  other_name: []
+  description: 
+  arm_group_label:
+  - CRD007 10 mg tablet
+  intervention_type: Drug
+source: RSPR Pharma AB
+eligibility:
+  gender: Both
+  maximum_age: 11 Years
+  sampling_method: 
+  minimum_age: 2 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Documented diagnosis of dystrophinopathy
+
+              Exclusion Criteria:
+
+                -  Severe functional impairment
+  healthy_volunteers: 
+removed_countries: {}
+other_outcome: []
+primary_completion_date: {}
+last_injected: '2015-07-14T06:45:29.632Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: 
+why_stopped: 
+id_info:
+  org_study_id: Cardoz-004
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01540604
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: CRD007 10 mg tablet
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: RSPR Pharma AB
+    agency_class: Industry
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome: []
+overall_official:
+- first_name: 
+  last_name: T Sejersen, MD PhD
+  middle_name: 
+  affiliation: Karolinska University Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 2
+location_countries:
+  country:
+  - Sweden
+condition:
+- Duchenne Muscular Dystrophy
+- Becker Muscular Dystrophy
+clinical_results: {}
+study_design: N/A
+keyword:
+- DMD
+- BMD
+- symptomatic carriers
+results_reference: []
+oversight_info:
+  has_dmc: 
+  authority:
+  - 'Sweden: Medical Products Agency'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Stockholm
+      state: 
+      zip: 
+      country: Sweden
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 59.329
+    formatted: Stockholm, Sweden
+    longitude: 18.065
+    original: Stockholm, Sweden
+official_title: An Open-label, Un-controlled, Single-centre Trial Investigating the
+  Efficacy and Safety of CRD007 in Children With Duchenne Muscular Dystrophy (DMD)
+  or Becker Muscular Dystrophy (BMD) or Children Being Symptomatic Carriers for DMD
+  or BMD
+verification_date: October 2012
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01540604
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: CRD007 for the Treatment of Duchenne Muscular Dystrophy, Becker Muscular
+  Dystrophy and Symptomatic Carriers
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This is an investigation of the efficacy and safety of CRD007 in Duchenne Muscular Dystrophy
+          (DMD), Becker Muscular Dystrophy (BMD) and symptomatic carriers.
+enrollment: {}
+lastchanged_date: October 1, 2012

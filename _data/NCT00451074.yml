@@ -1,0 +1,236 @@
+---
+firstreceived_date: March 21, 2007
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: July 2009
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description:
+  textblock: |-
+    The primary purpose of this second cohort is to see if the IV Medication, gentamicin, is
+          safe to give twice a week for six months to boys with Duchenne muscular dystrophy (DMD).
+          Secondarily, we want to know if gentamicin can help strengthen the muscles of boys with DMD
+          who have a particular type of genetic mutation known as a stop codon. The gentamicin is
+          thought to allow for "read-through" of this type of mutation which would allow for the
+          production of dystrophin, a protein which is lacking in boys with DMD.
+link:
+- url: http://www.nationwidechildrens.org/center-for-gene-therapy
+  description: Center for Gene Therapy, The Research Institute at Nationwide Children's
+    Hospital
+has_expanded_access: 'No'
+id: NCT00451074
+intervention:
+- intervention_name: Gentamicin infusions twice a week for six months
+  other_name: []
+  description: Gentamicin infusions twice a week
+  arm_group_label: []
+  intervention_type: Drug
+source: Nationwide Children's Hospital
+eligibility:
+  gender: Male
+  maximum_age: 20 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Age 5-20 years
+
+                -  Duchenne muscular dystrophy documented by written report of stop codon mutation
+                   analysis of the dystrophin gene.
+
+                -  Subject is capable of cooperating for efficacy and safety testing
+
+                -  Absent dystrophin on muscle biopsy
+
+                -  Subjects may be untreated, taking prednisone or comparable corticosteroids
+
+                -  Subjects taking corticosteroids must be on the same dose for at least 3 months (90
+                   days) prior to the start of the study.
+
+              Exclusion Criteria:
+
+                -  Known allergy to any aminoglycoside or sulfate compounds
+
+                -  Current use of potential nephrotoxic or ototoxic drug
+
+                -  Current use of corticosteroids has not been stable for 3 months (90) days
+
+                -  Known mutation at nucleotide 1555 in 12S rRNA gene of mitochondrial DNA (predisposes
+                   to aminoglycoside hearing loss and commercially available via Athena Diagnostics
+                   Lab). This DNA testing (Hearing susceptibility test) will be made available through
+                   funding from this grant.
+
+                -  Inability to hear within the range of 0 to 25 dB in any hearing frequency by pure
+                   tone audiometry
+
+                -  Cystatin C equal to or > 1.4mg/L
+
+                -  Other medical condition that would impede the conduct of study (e.g., congestive
+                   heart failure)
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: July 2009
+last_injected: '2015-10-14T22:51:13.745Z'
+intervention_browse:
+  mesh_term:
+  - Gentamicins
+target_duration: 
+number_of_arms: '1'
+start_date: March 2007
+why_stopped: 
+id_info:
+  org_study_id: NS043186
+  secondary_id:
+  - 7R01NS043186
+  nct_alias: []
+  nct_id: NCT00451074
+acronym: 
+arm_group: []
+sponsors:
+  collaborator:
+  - agency: National Institutes of Health (NIH)
+    agency_class: NIH
+  - agency: National Institute of Neurological Disorders and Stroke (NINDS)
+    agency_class: NIH
+  lead_sponsor:
+    agency: Nationwide Children's Hospital
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 6 months
+  description: 
+  measure: Determine if gentamicin given over six months improves muscle strength.
+- safety_issue: 'No'
+  time_frame: 6 months
+  description: 
+  measure: Determine if gentamicin given over six months increases dystrophin binding
+    at the muscle membrane.
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 6 months
+  description: 
+  measure: In this phase 1 clinical trial, safety will be measured via gentamicin
+    trough levels, audiology, and renal function tests. These lab tests will remain
+    in the normal range while infusing gentamicin twice a week for 6 month.
+overall_official:
+- first_name: 
+  last_name: Jerry R. Mendell, M.D.
+  middle_name: 
+  affiliation: The Research Institute at Nationwide Children's Hospital/ Nationwide
+    Children's Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety Study, Intervention Model: Single Group
+  Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Stop codon mutations
+results_reference:
+- PMID: '21179598'
+  citation: 'Malik V, Rodino-Klapac LR, Viollet L, Mendell JR. Aminoglycoside-induced
+    mutation suppression (stop codon readthrough) as a therapeutic strategy for Duchenne
+    muscular dystrophy. Ther Adv Neurol Disord. 2010 Nov;3(6):379-89. doi: 10.1177/1756285610388693.'
+- PMID: '20517938'
+  citation: 'Malik V, Rodino-Klapac LR, Viollet L, Wall C, King W, Al-Dahhak R, Lewis
+    S, Shilling CJ, Kota J, Serrano-Munuera C, Hayes J, Mahan JD, Campbell KJ, Banwell
+    B, Dasouki M, Watts V, Sivakumar K, Bien-Willner R, Flanigan KM, Sahenk Z, Barohn
+    RJ, Walker CM, Mendell JR. Gentamicin-induced readthrough of stop codons in Duchenne
+    muscular dystrophy. Ann Neurol. 2010 Jun;67(6):771-80. doi: 10.1002/ana.22024.'
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Neuromuscular Research Institute - Scottsdale Healthcare Hopsital at Shea
+    address:
+      city: Scottsdale
+      state: Arizona
+      zip: '85258'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 33.494
+    formatted: Scottsdale, AZ, USA
+    longitude: -111.926
+    original: Scottsdale, Arizona
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Kansas
+    address:
+      city: Kansas City
+      state: Kansas
+      zip: 66160-0001
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.114
+    formatted: Kansas City, KS, USA
+    longitude: -94.627
+    original: Kansas City, Kansas
+- status: 
+  contact_backup: {}
+  facility:
+    name: The Research Institute at Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: 43205-2696
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+official_title: A Six Month Randomized, Clinical Trial of Gentamicin in Duchenne Muscular
+  Dystrophy Subjects With Stop Codon Mutations
+verification_date: March 2012
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00451074
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Six Month Study of Gentamicin in Duchenne Muscular Dystrophy With Stop
+  Codons
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to determine the safety of giving intravenous (IV) gentamicin
+          to boys with Duchenne muscular dystrophy who have stop codon mutations.
+enrollment:
+  attributes:
+    type: Actual
+  value: '12'
+lastchanged_date: March 22, 2012

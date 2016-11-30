@@ -1,0 +1,195 @@
+---
+firstreceived_date: October 12, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Magnhild Rasmussen, Dr.med.
+  middle_name: 
+  phone_ext: 
+  phone: '02770'
+  degrees: 
+  email: marasmus@ous-hf.no
+completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    The participants who are not regularly seen at our regional hospital, are recruited via
+          their local neuropediatrician. Patients who do not come to our region hospital will be seen
+          at their local hospital.Each participant will be seen three times with one year between each
+          visit. The visits include clinical examination, DXA scan, x-ray for bone age, and blood
+          tests including several parameters related to bone health, growth and puberty. Standardized
+          questionnaires regarding quality of life (patients and parents) will be used, and certain
+          questions regarding the importance of achieving normal height and puberty will be added.
+          Additional anamnestic data will be retrieved from the patients' medical records.
+link: []
+has_expanded_access: 'No'
+id: NCT01963897
+intervention: []
+source: Oslo University Hospital
+eligibility:
+  gender: Male
+  maximum_age: 18 Years
+  sampling_method: Probability Sample
+  minimum_age: N/A
+  study_pop:
+    textblock: All patients with Duchenne muscular dystrophy under 18 years in Norway
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Diagnosis of Duchenne muscular dystrophy
+
+                -  Age under 18 years
+
+                -  Residing in Norway
+
+              Exclusion Criteria:
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2016
+last_injected: '2015-10-01T22:49:30.992Z'
+intervention_browse: {}
+target_duration: 3 Years
+number_of_arms: 
+start_date: August 2013
+why_stopped: 
+id_info:
+  org_study_id: 2013/513
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01963897
+acronym: 
+arm_group: []
+sponsors:
+  collaborator:
+  - agency: The Research Council of Norway
+    agency_class: Other
+  - agency: University Hospital of North Norway
+    agency_class: Other
+  lead_sponsor:
+    agency: Oslo University Hospital
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational [Patient Registry]
+biospec_retention: Samples With DNA
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 1 day (At first visit)
+  description: Specific description of mutation
+  measure: Genotype
+overall_official:
+- first_name: 
+  last_name: Magnhild Rasmussen, Dr.med.
+  middle_name: 
+  affiliation: Oslo University Hospital
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - Norway
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Cohort, Time Perspective: Prospective'
+keyword:
+- Genotype/phenotype correlations
+- Growth
+- Bone health
+- Puberty
+- Quality of life
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - Norway:National Committee for Medical and Health Research Ethics
+number_of_groups: '1'
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Magnhild Rasmussen, Dr.med.
+    middle_name: 
+    phone_ext: 
+    phone: '02770'
+    degrees: 
+    email: marasmus@ous-hf.no
+  facility:
+    name: Oslo University Hospital
+    address:
+      city: Oslo
+      state: 
+      zip: '0424'
+      country: Norway
+  investigator:
+  - first_name: 
+    last_name: Ellen J Annexstad, Cand.med.
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Magnhild Rasmussen, Dr.med.
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Ellen J Annexstad, Cand.med.
+    middle_name: 
+    phone_ext: 
+    phone: '02770'
+    degrees: 
+    email: ellann@ous-hf.no
+  geodata:
+    latitude: 59.914
+    formatted: Oslo, Norway
+    longitude: 10.752
+    original: Oslo, Norway
+official_title: Duchenne Muscular Dystrophy in Norway. Genotype/Phenotype in Patients
+  Younger Than 18 Years, With a Main Focus on Growth, Puberty, Bone Health and Quality
+  of Life.
+verification_date: October 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01963897
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Ellen J Annexstad, Cand.med.
+  middle_name: 
+  phone_ext: 
+  phone: '02770'
+  degrees: 
+  email: ellann@ous-hf.no
+brief_title: 'Duchenne Muscular Dystrophy < 18y in Norway: Genotype/Phenotype, Growth,
+  Puberty, Bone Health and Quality of Life.'
+biospec_descr:
+  textblock: whole blood, serum
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The study will give a consent based epidemiological overview of Norwegian patients with
+          Duchenne muscular dystrophy younger than 18 years of age. Genotype of the population will be
+          described. Longitudinal development of growth, bone health, and , when applicable, puberty
+          over a two year period will be studied. Questionnaires regarding quality of life will also
+          be an important part of the study.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '70'
+lastchanged_date: October 31, 2014

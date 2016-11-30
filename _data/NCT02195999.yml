@@ -1,0 +1,271 @@
+---
+firstreceived_date: July 17, 2014
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Magnetic Resonance Imaging (MRI) of the heart and breathing muscles, special breathing tests
+          (called pulmonary function testing), special exercise tests (using a stationary bike), and
+          possibly an echocardiogram (ultrasound of the heart, commonly known as an "echo") will be
+          completed up to 4 times per year for up to 4 years. Most participants will complete testing
+          once or twice each year; however, some participants will be asked to repeat some of the
+          tests twice during each visit.
+link: []
+has_expanded_access: 'No'
+id: NCT02195999
+intervention:
+- intervention_name: Magnetic Resonance Imaging (MRI)
+  other_name: []
+  description: It is a non-invasive method to determine ventricular size, volumes,
+    mass, and ejection fraction.
+  arm_group_label:
+  - Individuals with DMD
+  intervention_type: Other
+- intervention_name: Pulmonary Function Testing (PFT)
+  other_name: []
+  description: It is non-invasive breathing tests that characterize respiratory muscle
+    function, as well as lung compliance and physiology.
+  arm_group_label:
+  - Individuals with DMD
+  intervention_type: Other
+- intervention_name: Metabolic Exercise Testing using stationary bicycle
+  other_name: []
+  description: Metabolic exercise testing, including assessment of exercise capacity
+    and MVO2, evaluates global cardiopulmonary functional status. This is performed
+    with the use of a stationary bicycle.
+  arm_group_label:
+  - Individuals with DMD
+  intervention_type: Other
+- intervention_name: Echocardiogram
+  other_name:
+  - Multiple-echo Dixon
+  description: The echocardiogram performed with the multiple-echo Dixon method helps
+    to assess participants cross-sectionally and longitudinally for variations and
+    changes in myocardial structure.
+  arm_group_label:
+  - Individuals with DMD
+  intervention_type: Other
+source: University of Florida
+eligibility:
+  gender: Male
+  maximum_age: 13 Years
+  sampling_method: Non-Probability Sample
+  minimum_age: 5 Years
+  study_pop:
+    textblock: |-
+      As the focus of this study is on validating novel measures of cardiac and respiratory
+              function in individuals with DMD, this study will utilize a single-group design with up to
+              60 males with DMD between 5 and 13 years old upon entry to the study. The participant
+              selection is limited to children since the detrimental effects of DMD begin in early
+              childhood, and the life expectancy of these boys is shortened to the early- to mid-20s.
+              Only males will be eligible to participate in the study because DMD is an X-linked
+              recessive genetic disorder that only leads to the characteristic disease in males.
+              Although females may be carriers, they do not exhibit the same phenotype as males.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Male
+
+                -  5-13 years old at the time of enrollment
+
+                -  Diagnosed with DMD (as defined by parent project)
+
+                -  Written parental informed consent (and assent where appropriate) before any study
+                   procedures take place
+
+              Exclusion Criteria:
+
+                -  Contraindication to an MRI examination
+
+                -  Presence of a secondary condition that impacts muscle function or metabolism, that
+                   leads to developmental delay or impaired motor control, or that is not stable
+
+                -  Participant is unable to comply with study requirements
+
+                -  Congenital structural abnormality of the heart, repaired or unrepaired
+
+                -  Clinically contraindicated participation
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2017
+last_injected: '2015-10-16T22:47:02.139Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: December 2013
+why_stopped: 
+id_info:
+  org_study_id: '201300420'
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02195999
+acronym: CPI
+arm_group:
+- description: |-
+    Magnetic Resonance Imaging is a non-invasive method to determine ventricular size, volumes, mass, and ejection fraction.
+    Pulmonary Function testing (PFT) are a series of non-invasive breathing tests that characterize respiratory muscle function, as well as lung compliance and physiology.
+    Metabolic exercise testing using stationary bicycle (exercise capacity and MVO2) evaluates global cardiopulmonary functional status.
+    Echocardiogram with multiple-echo Dixon method helps to assess cross-sectional and longitudinal variations in myocardial structure.
+  arm_group_label: Individuals with DMD
+  arm_group_type: 
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: University of Florida
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: up to 4 years
+  description: Non-invasive breathing tests that characterize respiratory muscle function,
+    as well as lung compliance and physiology.
+  measure: Pulmonary Function Testing (PFT)
+- safety_issue: 'No'
+  time_frame: up to 4 years
+  description: With the use of metabolic exercise testing, the aim is to correlate
+    changes in cardiopulmonary function with decline in peripheral skeletal muscle
+    function in individuals with DMD. Metabolic exercise testing includes measuring
+    exercise capacity and maximum oxygen consumption (MVO2).
+  measure: Metabolic Exercise Testing (exercise capacity and MVO2)
+- safety_issue: 'No'
+  time_frame: up to 4 years
+  description: The echocardiogram performed with the multiple-echo Dixon method helps
+    to assess participants cross-sectionally and longitudinally for variations and
+    changes in myocardial structure. This method and MRS will also be used for fat
+    fraction determination.
+  measure: Multiple-echo Dixon
+study_type: Observational
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: up to 4 years
+  description: The MRI T2 and MRS will be used as a noninvasive marker of myocardial
+    damage/inflammation of participants of this study as an early detection for DMD.
+  measure: Magnetic Resonance (MRI) T2 and Magnetic Resonance Spectroscopy (MRS)
+overall_official:
+- first_name: 
+  last_name: Barry Byrne, MD, PhD
+  middle_name: 
+  affiliation: University of Florida
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Muscular Dystrophy, Duchenne
+clinical_results: {}
+study_design: 'Observational Model: Cohort, Time Perspective: Prospective'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '1'
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Clinical and Translational Research Building
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Barry Byrne, M.D., Ph.D.
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Glenn Walter, Ph.D.
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Barbara Smith, PhD, PT
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Anatole Martin, PhD, PT
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Krista Vandenborne, PhD, PT
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Sean Forbes, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Tina Cousins, BS, RDCS
+    middle_name: 
+    phone_ext: 
+    phone: 352-273-9615
+    degrees: 
+    email: couscm@peds.ufl.edu
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+official_title: Assessment of Cardiopulmonary Function in Duchenne Muscular Dystrophy
+verification_date: October 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02195999
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Tina Cousins, B.S.
+  middle_name: 
+  phone_ext: 
+  phone: '3522739615'
+  degrees: 
+  email: couscm@peds.ufl.edu
+brief_title: Assessment of Cardiopulmonary Function in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This study seeks to develop and validate non-invasive assessments of cardiac and respiratory
+          muscles with magnetic resonance imaging (MRI) to better predict the natural disease
+          progression of Duchenne muscular dystrophy (DMD) in affected individuals over time, as well
+          as determine whether peripheral skeletal muscle dysfunction can predict cardiopulmonary
+          dysfunction. The central hypothesis is that non-invasive MRI measures of the heart, muscle,
+          and peripheral skeletal muscles can sensitively predict future cardiopulmonary decline.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '60'
+lastchanged_date: October 14, 2015

@@ -1,0 +1,215 @@
+---
+firstreceived_date: July 16, 2014
+is_fda_regulated: 'No'
+reference:
+- PMID: '21604081'
+  citation: 'Ballew SH, Hannum SM, Gaines JM, Marx KA, Parrish JM. The role of spiritual
+    experiences and activities in the relationship between chronic illness and psychological
+    well-being. J Relig Health. 2012 Dec;51(4):1386-96. doi: 10.1007/s10943-011-9498-0.'
+- PMID: '11574710'
+  citation: 'Bédard M, Molloy DW, Squire L, Dubois S, Lever JA, O''Donnell M. The
+    Zarit Burden Interview: a new short version and screening version. Gerontologist.
+    2001 Oct;41(5):652-7.'
+- PMID: '23993396'
+  citation: 'Biesecker BB, Erby LH, Woolford S, Adcock JY, Cohen JS, Lamb A, Lewis
+    KV, Truitt M, Turriff A, Reeve BB. Development and validation of the Psychological
+    Adaptation Scale (PAS): use in six studies of adaptation to a health condition
+    or risk. Patient Educ Couns. 2013 Nov;93(2):248-54. doi: 10.1016/j.pec.2013.05.006.
+    Epub 2013 Aug 28.'
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: April 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    The proposed study aims to examine the relationships between maternal uncertainty, hope, and
+          coping efficacy in mothers of children with Duchenne/Becker Muscular Dystrophy (DBMD). DBMD
+          is described as a complex chronic condition causing challenges exemplified by both chronic
+          and terminal illnesses. Parental adaptation to a child s DBMD diagnosis is multifaceted due
+          to the evolution of the disease and uncertain timing of the progressive losses the child and
+          family face. In addition to prognostic uncertainty associated with DBMD, there is
+          uncertainty about the management of the condition, future and reproductive planning, the
+          family s social connections, and the existential meaning of the child s life. It is not
+          fully understood how mothers of children with DBMD appraise, cope with, and ultimately adapt
+          to their child s condition in light of this uncertainty. While high degrees of perceived
+          uncertainty may be seen as a threat to coping and adaptation, there is evidence that
+          caregivers may find benefits in uncertainty. The theoretical literature suggests that a
+          person s hope may influence the appraisal of uncertainty, as well as have therapeutic value
+          in positively affecting coping and ultimately, adaptation. This study s conceptual framework
+          is based on an integrated model from Lazarus and Folkman s Transactional Model of Stress and
+          Coping, Mishel s Perceived Uncertainty in Illness Theory, and Dufault and Martocchio s Model
+          of Hope. The proposed study uses a cross-sectional research design to explore the
+          relationships between maternal uncertainty, hope, and coping efficacy and is nested within a
+          larger longitudinal study designed to examine the predictors of wellbeing among mothers of
+          boys with DBMD. In addition, open-ended questions will be used to describe the uncertainty
+          the mothers perceive and the impact uncertainty has had on their life. Participants were
+          recruited through the DuchenneConnect registry, Parent Project Muscular Dystrophy (PPMD),
+          and Cincinnati Children s Hospital Medical Center Neuromuscular Clinic. Additional mothers
+          will be recruited through the DuchenneConntect registry, PPMD, and the Muscular Dystrophy
+          Association.
+link: []
+has_expanded_access: 'No'
+id: NCT02194725
+intervention: []
+source: National Institutes of Health Clinical Center (CC)
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 18 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      -  INCLUSION CRITERIA:
+
+              Participants will be biological mothers of a living child with Duchenne or Becker muscular
+              dystrophy living in the United States, who are 18 years or older and able to answer a
+              survey in English.
+
+              Participants will be asked to disclose their child's diagnosis but no screening evaluation
+              will be required.
+
+              EXCLUSION CRITERIA:
+
+              Participants unable to answer a survey in English.
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: April 2015
+last_injected: '2015-09-26T12:02:11.006Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: July 2014
+why_stopped: 
+id_info:
+  org_study_id: '999914149'
+  secondary_id:
+  - 14-HG-N149
+  nct_alias: []
+  nct_id: NCT02194725
+acronym: 
+arm_group: []
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: National Human Genome Research Institute (NHGRI)
+    agency_class: NIH
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Current
+  description: 
+  measure: Uncertainty
+- safety_issue: 'No'
+  time_frame: Current
+  description: 
+  measure: Adaptation
+study_type: Observational
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Current
+  description: 
+  measure: Coping Efficacy
+overall_official:
+- first_name: 
+  last_name: Barbara B Biesecker
+  middle_name: 
+  affiliation: National Human Genome Research Institute (NHGRI)
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Stress
+clinical_results: {}
+study_design: 'Time Perspective: Cross-Sectional'
+keyword:
+- Stress and Coping Model
+- Coping
+results_reference: []
+oversight_info:
+  has_dmc: 
+  authority:
+  - 'United States: Federal Government'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: National Human Genome Research Institute (NHGRI), 9000 Rockville Pike
+    address:
+      city: Bethesda
+      state: Maryland
+      zip: '20892'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.985
+    formatted: Bethesda, MD, USA
+    longitude: -77.095
+    original: Bethesda, Maryland
+official_title: Where Does Hope Fit In? The Relationship Between Hope, Uncertainty,
+  and Coping Efficacy in Mothers of Children With Duchenne/Becker Muscular Dystrophy
+verification_date: April 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02194725
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Where Does Hope Fit In? The Relationship Between Hope, Uncertainty, and
+  Coping Efficacy in Mothers of Children With Duchenne/Becker Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Background:
+
+          - Children with Duchenne/Becker Muscular Dystrophy (DBMD) slowly lose muscle function. They
+          usually die at a young age. Some mothers adapt to the demands of caring for a child with
+          this disease better than others. Studies show that a person s hope may positively affect how
+          they cope and adapt. Researchers want to find out more about this. They want to develop ways
+          to improve caregivers overall wellness.
+
+          Objective:
+
+          - To study the relationships between uncertainty, hope, and coping ability in mothers of
+          children with DBMD.
+
+          Eligibility:
+
+          - Women in the United States 18 years and older. They must be biological mothers of a living
+          child with DBMD and be able to answer a survey in English.
+
+          Design:
+
+            -  This study is part of a larger study that examines the well-being of mothers with sons
+               who have DBMD.
+
+            -  Participants will take a questionnaire. The questionnaire can be done on paper or on a
+               computer. It will take 30 45 minutes to complete.
+
+            -  The questionnaire will include basic demographic questions about the participant and
+               the child. There will also be questions about how the participant copes with the stress
+               and uncertainty of DBMD.
+
+            -  For most of the questions, participants will rate their feelings on a scale. There will
+               also be four open-ended questions.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '250'
+lastchanged_date: April 24, 2015

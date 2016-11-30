@@ -1,0 +1,380 @@
+---
+firstreceived_date: October 10, 2011
+is_fda_regulated: 'No'
+reference:
+- PMID: '21807516'
+  citation: 'Akima H, Lott D, Senesac C, Deol J, Germain S, Arpan I, Bendixen R, Lee
+    Sweeney H, Walter G, Vandenborne K. Relationships of thigh muscle contractile
+    and non-contractile tissue with function, strength, and age in boys with Duchenne
+    muscular dystrophy. Neuromuscul Disord. 2012 Jan;22(1):16-25. doi: 10.1016/j.nmd.2011.06.750.
+    Epub 2011 Jul 31.'
+- PMID: '23696684'
+  citation: 'Forbes SC, Walter GA, Rooney WD, Wang DJ, DeVos S, Pollaro J, Triplett
+    W, Lott DJ, Willcocks RJ, Senesac C, Daniels MJ, Byrne BJ, Russman B, Finkel RS,
+    Meyer JS, Sweeney HL, Vandenborne K. Skeletal muscles of ambulant children with
+    Duchenne muscular dystrophy: validation of multicenter study of evaluation with
+    MR imaging and MR spectroscopy. Radiology. 2013 Oct;269(1):198-207. doi: 10.1148/radiol.13121948.
+    Epub 2013 May 21.'
+- PMID: '24006208'
+  citation: 'Triplett WT, Baligand C, Forbes SC, Willcocks RJ, Lott DJ, DeVos S, Pollaro
+    J, Rooney WD, Sweeney HL, Bönnemann CG, Wang DJ, Vandenborne K, Walter GA. Chemical
+    shift-based MRI to measure fat fractions in dystrophic skeletal muscle. Magn Reson
+    Med. 2014 Jul;72(1):8-19. doi: 10.1002/mrm.24917. Epub 2013 Sep 4.'
+- PMID: '24491484'
+  citation: 'Willcocks RJ, Arpan IA, Forbes SC, Lott DJ, Senesac CR, Senesac E, Deol
+    J, Triplett WT, Baligand C, Daniels MJ, Sweeney HL, Walter GA, Vandenborne K.
+    Longitudinal measurements of MRI-T2 in boys with Duchenne muscular dystrophy:
+    effects of age and disease progression. Neuromuscul Disord. 2014 May;24(5):393-401.
+    doi: 10.1016/j.nmd.2013.12.012. Epub 2014 Jan 11.'
+- PMID: '25098537'
+  citation: 'Arpan I, Willcocks RJ, Forbes SC, Finkel RS, Lott DJ, Rooney WD, Triplett
+    WT, Senesac CR, Daniels MJ, Byrne BJ, Finanger EL, Russman BS, Wang DJ, Tennekoon
+    GI, Walter GA, Sweeney HL, Vandenborne K. Examination of effects of corticosteroids
+    on skeletal muscles of boys with DMD using MRI and MRS. Neurology. 2014 Sep 9;83(11):974-80.
+    doi: 10.1212/WNL.0000000000000775. Epub 2014 Aug 6.'
+- PMID: '23044995'
+  citation: 'Arpan I, Forbes SC, Lott DJ, Senesac CR, Daniels MJ, Triplett WT, Deol
+    JK, Sweeney HL, Walter GA, Vandenborne K. T₂ mapping provides multiple approaches
+    for the characterization of muscle involvement in neuromuscular diseases: a cross-sectional
+    study of lower leg muscles in 5-15-year-old boys with Duchenne muscular dystrophy.
+    NMR Biomed. 2013 Mar;26(3):320-8. doi: 10.1002/nbm.2851. Epub 2012 Oct 9.'
+- PMID: '25203313'
+  citation: 'Forbes SC, Willcocks RJ, Triplett WT, Rooney WD, Lott DJ, Wang DJ, Pollaro
+    J, Senesac CR, Daniels MJ, Finkel RS, Russman BS, Byrne BJ, Finanger EL, Tennekoon
+    GI, Walter GA, Sweeney HL, Vandenborne K. Magnetic resonance imaging and spectroscopy
+    assessment of lower extremity skeletal muscles in boys with Duchenne muscular
+    dystrophy: a multicenter cross sectional study. PLoS One. 2014 Sep 9;9(9):e106435.
+    doi: 10.1371/journal.pone.0106435. eCollection 2014. Erratum in: PLoS One. 2014;9(10):e111822.'
+- PMID: '24499260'
+  citation: 'Bendixen RM, Lott DJ, Senesac C, Mathur S, Vandenborne K. Participation
+    in daily life activities and its relationship to strength and functional measures
+    in boys with Duchenne muscular dystrophy. Disabil Rehabil. 2014;36(22):1918-23.
+    doi: 10.3109/09638288.2014.883444. Epub 2014 Feb 6.'
+- PMID: '25592189'
+  citation: 'Senesac CR, Lott DJ, Forbes SC, Mathur S, Arpan I, Senesac ES, Walter
+    GA, Vandenborne K. Longitudinal Evaluation of Muscle Composition Using Magnetic
+    Resonance in 4 Boys With Duchenne Muscular Dystrophy: Case Series. Phys Ther.
+    2015 Jul;95(7):978-88. doi: 10.2522/ptj.20140234. Epub 2015 Jan 15.'
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: April 2020
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    The overall objective of this proposal is to validate the potential of noninvasive magnetic
+          resonance imaging (MRI) and spectroscopy (MRS) to monitor disease progression and to serve
+          as an outcome measure for clinical trials in Duchenne muscular dystrophy (DMD). DMD is one
+          of the most devastating genetically linked neuromuscular diseases and is characterized by
+          the absence of dystrophin, resulting in progressive muscle weakness, loss of walking ability
+          and premature death. Despite the poor prognosis for patients with muscular dystrophy,
+          therapeutic interventions have been lacking, and outcome measures for clinical trials have
+          been limited to measures of muscle function, serum biomarkers of muscle breakdown and
+          invasive muscle biopsies. Additional quantitative outcome measures that are noninvasive and
+          sensitive to changes in muscle structure and composition are needed to facilitate the rapid
+          translation of promising new interventions from preclinical studies to clinical trials. As
+          such, this proposal targets the development and validation of magnetic resonance as a
+          noninvasive biomarker of disease progression in muscular dystrophy. Using a multi-site
+          research design this study will examine the intramuscular lipid content, muscle
+          damage/inflammation and contractile area in the lower extremity muscles of 100 ambulatory
+          boys with DMD and 50 healthy age matched boys using a combination of MRI and MRS
+          technologies. In order to assess the sensitivity of each MR measure to disease progression,
+          all boys with DMD will be reevaluated in yearly or 6 month intervals. In addition, the
+          investigators will correlate changes in MR measures with standard measures of disease
+          progression, such as loss in muscle strength and functional ability. Using MRI/MRS the
+          investigators will also examine the effect of initiating corticosteroid treatment on
+          skeletal muscle characteristics and composition. Finally, the investigators will deposit
+          immortalized fibroblasts from carefully characterized DMD boys participating in this study
+          in established tissue repositories.
+
+          The investigators anticipate that the MR techniques developed and validated in this proposal
+          will be suitable for clinical trials in a wide range of muscular dystrophies and other
+          neuromuscular diseases. In addition, MR characterization may serve as a powerful tool to
+          further advance our understanding of the pathogenesis of muscular dystrophy and help guide
+          the design of future trials.
+link:
+- url: http://www.imagingdmd.org
+  description: Study Website
+has_expanded_access: 'No'
+id: NCT01484678
+intervention: []
+source: University of Florida
+eligibility:
+  gender: Male
+  maximum_age: 14 Years
+  sampling_method: Non-Probability Sample
+  minimum_age: 5 Years
+  study_pop:
+    textblock: |-
+      Subjects will be recruited from across the country as well as locally. The investigators
+              have established a website (www.imagingDMD.org) and advertise the study nationally through
+              list serves.The study will also be advertised at the website of non-profit DMD
+              organizations. General information will be emailed to faculty and colleagues around the
+              country. Fliers and brochures will be distributed in participating local clinics, MDA
+              clinics, schools, and local pediatric clinics, and in strategic locations in associated
+              hospitals. Age-matched healthy boys will be recruited from the families of the local DMD
+              population as well as the university community. Parents of eligible subjects will be asked
+              to contact the site clinical coordinator, who will complete a telephone screening
+              interview to assess eligibility.
+  criteria:
+    textblock: |-
+      Inclusion Criteria for boys with DMD:
+
+                1. Ambulatory males (ages 5-14) previously diagnosed with DMD based on:
+
+                     -  clinical features with onset of symptoms before age five
+
+                     -  elevated serum creatine kinase level or
+
+                     -  absence of dystrophin expression, as determined by immunostain or western blot
+                        (<2%) . and/or DNA confirmation of a dystrophin mutation.
+
+                2. Ability to ambulate independently for at least 100 meters without an external
+                   assistive device
+
+                3. Ability to climb 4 stairs
+
+                4. Subjects will not be excluded based on corticosteroid treatment
+
+              Inclusion Criteria for age matched controls:
+
+              1. Ambulatory males (ages 5-14) without disease or injury to the lower extremities
+
+              Exclusion Criteria:
+
+                1. Males with a contraindication to an MR examination
+
+                2. Males with unstable medical problems
+
+                3. Males who are not able to cooperate during testing
+
+                4. Males with a secondary condition that may impact muscle metabolism, muscle function
+                   or functional ability (i.e. cerebral palsy, endocrine disorders, mitochondrial
+                   disease)
+
+                5. Healthy boys who participate in competitive sports specific training in excess of 8
+                   hours per week. Participation in multiple recreational sports activities is not an
+                   exclusion.
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: April 2020
+last_injected: '2015-09-25T23:27:51.115Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: May 2010
+why_stopped: 
+id_info:
+  org_study_id: ImagingDMD
+  secondary_id:
+  - R01AR056973
+  nct_alias: []
+  nct_id: NCT01484678
+acronym: 
+arm_group:
+- description: Age matched non-affected (non-DMD) boys
+  arm_group_label: Age Matched Controls
+  arm_group_type: 
+- description: This group will include ambulatory boys with Duchenne Muscular Dystrophy
+    ranging form 5-14 years old.
+  arm_group_label: Boys with DMD
+  arm_group_type: 
+sponsors:
+  collaborator:
+  - agency: University of Pennsylvania
+    agency_class: Other
+  - agency: Oregon Health and Science University
+    agency_class: Other
+  - agency: Children's Hospital of Philadelphia
+    agency_class: Other
+  - agency: Shriners Hospitals for Children
+    agency_class: Other
+  - agency: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+      (NIAMS)
+    agency_class: NIH
+  lead_sponsor:
+    agency: University of Florida
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Change in baseline up to 5 years
+  description: |-
+    Muscle T2 will be measured in the lower extremity muscles using MR at yearly intervals up to 5 years.
+    We will report the change for each year interval.
+  measure: Change from baseline in muscle T2 up to 5 years
+- safety_issue: 'No'
+  time_frame: change in baseline up to 5 years
+  description: Muscle contractile area will be measured in the lower extremity muscles
+    using MR at yearly intervals up to 5 years. We will report the change for each
+    year interval.
+  measure: Change from baseline in muscle contractile area up to 5 years
+- safety_issue: 'No'
+  time_frame: Change in baseline up to 6 months
+  description: In a subgroup of subjects the effect of corticosteroids on muscle T2
+    will be measured at 3 and 6 months. Muscle T2 is a noninvasive marker of muscle
+    damage/inflammation and will be measured using MR. This substudy requires its
+    own Primary and Secondary Outcome measures.
+  measure: Change from baseline in muscle T2 at 6 months
+study_type: Observational
+biospec_retention: Samples With DNA
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Change in baseline up to 5 years
+  description: MR measures of intramuscular lipid will be measured in yearly intervals
+    for a period up to 5 years.
+  measure: Change from baseline in intramuscular lipid up to 5 years
+- safety_issue: 'No'
+  time_frame: Change in baseline up to 3 months
+  description: In a subgroup of subjects the effect of corticosteroids on muscle T2
+    will be measured at 3 and 6 months. Muscle T2 is a noninvasive marker of muscle
+    damage/inflammation and will be measured using MR. This substudy requires its
+    own Primary and Secondary Outcome measures.
+  measure: Change from baseline in muscle T2 up to 3 months
+overall_official:
+- first_name: 
+  last_name: Gihan Tennekoon, MD
+  middle_name: 
+  affiliation: Children's Hospital of Philadelphia
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: William Rooney, PhD
+  middle_name: 
+  affiliation: Oregan Health and Science University
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: H. Lee Sweeney, PhD
+  middle_name: 
+  affiliation: University of Pennsylvania
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Krista Vandenborne, PhD
+  middle_name: 
+  affiliation: University of Florida
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Case Control, Time Perspective: Prospective'
+keyword:
+- Duchenne Muscular Dystrophy
+- Magnetic Resonance Imaging
+- Magnetic Resonance Spectroscopy
+- Muscle
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '2'
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Florida
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: 
+  contact_backup: {}
+  facility:
+    name: Oregon Health and Science University
+    address:
+      city: Portland
+      state: Oregon
+      zip: '97239'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.523
+    formatted: Portland, OR, USA
+    longitude: -122.676
+    original: Portland, Oregon
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Philadelphia
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Pennsylvania
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+official_title: Magnetic Resonance Imaging and Biomarkers for Muscular Dystrophy
+verification_date: April 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01484678
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Magnetic Resonance Imaging and Biomarkers for Muscular Dystrophy
+biospec_descr:
+  textblock: Blood and Skin Samples Collected
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this research study is to determine the potential of magnetic resonance
+          imaging to monitor disease progression and to serve as an objective outcome measure for
+          clinical trials in Duchenne Muscular Dystrophy (DMD). The investigators also hope to learn
+          more about the changes that occur in muscles of the lower leg in boys with DMD.
+
+          The investigators will compare the muscles of ambulatory boys with DMD with muscles of
+          healthy children of the same age and monitor disease progression in boys with DMD over a 5
+          year period. The amount of muscle damage and fat that the investigators measure will also be
+          related to performance in daily activities, such as walking and the loss of muscle strength.
+          In a small group of subjects the investigators will also assess the effect of corticosteroid
+          drugs on the muscle measurements.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '185'
+lastchanged_date: April 14, 2015

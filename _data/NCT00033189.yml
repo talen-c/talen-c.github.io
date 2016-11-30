@@ -1,0 +1,190 @@
+---
+firstreceived_date: April 8, 2002
+is_fda_regulated: 
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: 
+  value: January 2005
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 
+id: NCT00033189
+intervention:
+- intervention_name: Coenzyme Q10
+  other_name: []
+  description: 
+  arm_group_label: []
+  intervention_type: Drug
+source: Cooperative International Neuromuscular Research Group
+eligibility:
+  gender: Male
+  maximum_age: 11 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Subject Inclusion Criteria
+
+                1. Age: 5 - 11 years old
+
+                2. Ambulant
+
+                3. Diagnosis of DMD confirmed by at least one the following:
+
+                     -  Positive X-linked family history for typical Duchenne muscular dystrophy in
+                        older male relatives (onset by age 5 yr., wheelchair-bound by age 12 yr.) OR
+
+                     -  Dystrophin immunofluorescence and/or immunoblot showing complete dystrophin
+                        deficiency, and clinical picture consistent with typical Duchenne dystrophy OR
+
+                     -  Gene deletion test positive (missing one or more exons) in the central rod
+                        domain (exons 25-60) of dystrophin, where reading frame can be predicted as
+                        `out-of-frame', and clinical picture consistent with typical Duchenne dystrophy.
+
+                4. On Glucocorticosteroids: Children must be on a steady dose of prednisone or
+                   deflazacort, on any schedule (Daily, alternate days, 10 days on, 10 days off or twice
+                   a week), for the last 6 months before starting the clinical trial. Dose of steroid or
+                   schedule cannot be altered during the study.
+
+                5. Evidence of muscle weakness by MRC score or clinical functional evaluation
+
+                6. Ability to provide reproducible repeat QMT bicep score within 10% of first assessment
+                   score.
+
+                7. Ability to swallow tablets
+
+              Subject Exclusion Criteria
+
+                1. Failure to achieve one or more of the diagnostic inclusion criteria cited above.
+
+                2. Symptomatic DMD carrier
+
+                3. Previous (6 months or less) or current use of Coenzyme Q10 (for DMD or any other
+                   disease)
+
+                4. Use of carnitine, other amino acids, creatine, glutamine, or any herbal medicines
+                   within the last 3 months.
+
+                5. History of significant concomitant illness or significant impairment of renal or
+                   hepatic function.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date: {}
+last_injected: '2015-09-26T08:58:09.820Z'
+intervention_browse:
+  mesh_term:
+  - Coenzyme Q10
+  - Ubiquinone
+target_duration: 
+number_of_arms: 
+start_date: September 2001
+why_stopped: 
+id_info:
+  org_study_id: CNMC0301
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00033189
+acronym: 
+arm_group: []
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Cooperative International Neuromuscular Research Group
+    agency_class: Other
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome: []
+overall_official: []
+phase: Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Muscular Dystrophy, Duchenne
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy
+  Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary
+  Purpose: Treatment'
+keyword:
+- duchenne
+- dystrophy
+- DMD
+- clinical trial
+- CINRG
+results_reference: []
+oversight_info:
+  has_dmc: 
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's National Medical Center
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: '20010'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Washington University-St. Louis
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+official_title: 
+verification_date: November 2010
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00033189
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: An Open-label Pilot Study of Coenzyme Q10 in Steroid-Treated Duchenne
+  Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This study will help to determine the safety and efficacy of the nutritional supplement
+          Coenzyme Q10 when added to steroids as a treatment for Duchenne muscular dystrophy (DMD).
+          Boys with DMD who are enrolled in this study will should be on a stable dose of steroids for
+          at least six months, and will remain on their usual dose throughout the study. They will
+          complete two screening visits within a one-week period, and if enrolled will then have their
+          strength tested monthly for three months before beginning therapy with Coenzyme Q10. Once
+          Coenzyme Q10 therapy is started, participants will have their strength tested monthly for
+          six months. Following the six month treatment period, participants will be given the option
+          to remain on Coenzyme Q10 until the study is completed.
+enrollment:
+  attributes:
+    type: 
+  value: '15'
+lastchanged_date: November 15, 2010

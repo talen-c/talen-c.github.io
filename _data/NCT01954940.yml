@@ -1,0 +1,280 @@
+---
+firstreceived_date: September 13, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Sabrina Hamer, BA
+  middle_name: 
+  phone_ext: '1419'
+  phone: '6137376000'
+  degrees: 
+  email: shamer@cheo.on.ca
+completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01954940
+intervention:
+- intervention_name: Whole Body Vibration Therapy
+  other_name: []
+  description: 
+  arm_group_label:
+  - Whole Body Vibration Therapy
+  intervention_type: Device
+source: Children's Hospital of Eastern Ontario
+eligibility:
+  gender: Male
+  maximum_age: 14 Years
+  sampling_method: 
+  minimum_age: 8 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                1. Diagnosis of Duchenne muscular dystrophy confirmed by at least one of the following:
+
+                     -  Dystrophin immunofluorescence and/or immunoblot showing complete dystrophin
+                        deficiency, and clinical presentation consistent with typical DMD
+
+                     -  Positive gene deletion test (missing one or more exons) in the central rod
+                        domain (exons 25-60) of dystrophin, where reading frame can be predicted as
+                        "out-of-frame", and clinical presentation consistent with typical DMD
+
+                     -  Complete dystrophin gene sequencing showing an alteration (point mutation,
+                        duplication, or other mutation resulting in a stop codon mutation) definitively
+                        associated with DMD, and clinical presentation consistent with typical DMD
+
+                2. Age between 5 - 14 yrs old (inclusive)
+
+                3. Positive Gower sign (indicating ability to rise from the floor & presence of proximal
+                   muscle weakness).
+
+                4. Able to walk 10 meters in <12 seconds
+
+                5. Able to stand upon WBVT plate (with knees flexed) for entire treatment protocol (i.e.
+                   15-minutes)
+
+                6. Stable absolute dose of glucocorticoids (i.e. prednisone or deflazacort) for at least
+                   3 months prior
+
+                7. Stable absolute doses of all medication that may affect muscle function (i.e.
+                   coenzyme Q10, green tea extract, creatine, arginine, glutamine, nutritional
+                   supplements, etc.) for at least 3 months prior
+
+                8. Stable absolute dose of all medication that may affect bone metabolism (i.e. vitamin
+                   D and calcium supplementation) for at least 3 months prior
+
+              Exclusion Criteria:
+
+                1. Clinical presentation, genetic testing and/or muscle biopsy consistent with Becker
+                   muscular dystrophy
+
+                2. History of recent surgery (within past 6-months)
+
+                3. History of a recent fracture (long-bone or vertebral) within past 6-months.
+
+                4. Acute inflammatory processes of lower extremities (e.g. cellulitis, etc) due to risk
+                   of pain and/or worsening inflammatory process
+
+                5. History of venous thrombosis (theoretically risk of inducing thromboembolic event).
+
+                6. History of kidney or bladder stones
+
+                7. History of uncontrolled seizures or severe migraines
+
+                8. History of cardiac arrhythmia
+
+                9. Intracranial pathology or hardware (e.g. ventriculoperitoneal shunt, cochlear
+                   implant).
+
+               10. Use of any investigational or experimental products within last 6-months and/or
+                   concomitant participation in another study
+
+               11. Inability or refusal to follow the study requirements (e.g. autism, severe cognitive
+                   or behaviour problems)
+
+               12. Inability or refusal to provide informed consent (parent) and/or assent (child)
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2015
+last_injected: '2015-09-26T01:17:35.751Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: March 2013
+why_stopped: 
+id_info:
+  org_study_id: "# 12/17E"
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01954940
+acronym: 
+arm_group:
+- description: Group will receive daily whole body vibration therapy for up to 9 minutes
+    maximum at a maximum of 18 Hz.
+  arm_group_label: Whole Body Vibration Therapy
+  arm_group_type: Experimental
+- description: Group will not receive whole body vibration therapy. This group will
+    conduct all other tests and outcomes except whole body vibration therapy.
+  arm_group_label: Control group
+  arm_group_type: No Intervention
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Children's Hospital of Eastern Ontario
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Does WBVT results in any measurable change in muscle strength measured
+    by the maximum resistance of deltoid, hip flexor and knee extensor (measured with
+    microFET2 dynamometer) and grip strength (measured by Jamar hand-held dynamometer)
+  measure: Does WBVT result in any change in muscle strength.
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Does WBVT results in any measurable change in muscle function as measured
+    by timed functional testing (timed 10m walk test; timed 4-stair climb; timed Gower
+    manoeuvre, 6-minute walk test)?
+  measure: Does WBVT result in any muscle function change.
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Does WBVT result in any measurable change in muscle endurance (total
+    number of steps taken each day, measured by pedometer)?
+  measure: Does WBVT result in any measurable change in muscle endurance.
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Does WBVT result in any change in patient and family reported quality
+    of life report? Measured by the Peds Q of L questionnaire.
+  measure: Quality of life changes.
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Does WBVT result in any change in patient's gait (as measured by Gangway
+    gait analysis and Leonardo force plate analysis)
+  measure: Gait changes.
+- safety_issue: 'No'
+  time_frame: 8 weeks
+  description: Does WBVT result in any change in bone health indices (as measured
+    by pQCT and routine skeletal imaging)
+  measure: Bone health
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 8 weeks
+  description: Is WBVT safe, convenient and well-tolerated when administered daily
+    to ambulatory to boys with DMD?
+  measure: Assess the safety of using whole body vibration therapy in boys with Duchenne
+    muscular dystrophy. To assess whether whole body vibration therapy can improve
+    muscle strength and prolong ambulation from baseline to 8 weeks of therapy. To
+    asses.
+overall_official:
+- first_name: 
+  last_name: Hugh McMillan, MD
+  middle_name: 
+  affiliation: Children's Hospital of Eastern Ontario
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - Canada
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention'
+keyword:
+- Whole body vibration therapy, muscle strength testing, bone health, ambulatory,
+  endurance.
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'Canada: CHEO Research Ethics Board'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Sabrina Hamer, BA
+    middle_name: 
+    phone_ext: '1419'
+    phone: '6137377600'
+    degrees: 
+    email: shamer@cheo.on.ca
+  facility:
+    name: Children's Hospital of Eastern Ontario
+    address:
+      city: Ottawa
+      state: Ontario
+      zip: K4P1E5
+      country: Canada
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Hugh McMillan, MD
+    middle_name: 
+    phone_ext: '1419'
+    phone: '6137377600'
+    degrees: 
+    email: shamer@cheo.on.ca
+  geodata:
+    latitude: 45.422
+    formatted: Ottawa, ON, Canada
+    longitude: -75.697
+    original: Ottawa, Ontario
+official_title: THE EFFECT OF WHOLE BODY VIBRATION THERAPY UPON MUSCLE STRENGTH &
+  FUNCTION IN AMBULATORY BOYS WITH DUCHENNE MUSCULAR DYSTROPHY
+verification_date: September 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01954940
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Hugh McMillan, MD
+  middle_name: 
+  phone_ext: '2605'
+  phone: '6137377600'
+  degrees: 
+  email: hmcmillan@cheo.on.ca
+brief_title: Whole Body Vibration Therapy in Boys With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Whole-body vibration therapy (WBVT) is a novel, non-pharmacological intervention aimed at
+          improving muscle strength and endurance as well as bone density. It holds promise for
+          children with neuromuscular disorders such as Duchenne muscular dystrophy (DMD) since muscle
+          weakness results not only from muscle breakdown but also physical inactivity and muscle
+          disuse atrophy. Weak DMD patients may increasingly limit their physical activity due to fear
+          of falling or loss of independence (e.g. difficulty rising to stand without assistance).
+          Prolonging the length of time boys with DMD are ambulatory is important for delaying
+          complications of this disease (lung hypoventilation, scoliosis) as well as maintaining bone
+          health. We propose to conduct a pilot study of WBVT in young boys with Duchenne muscular
+          dystrophy (DMD). The primary outcome will be to document safety and feasibility of WBVT in
+          this patient population. The secondary outcomes will evaluate changes in muscle strength and
+          endurance. Bone health will also be examined as part of routine clinical care. The study
+          will include 20 ambulatory boys with DMD; patients will be randomized (1:1 allocation) into
+          2 groups: WBVT treatment or no WBVT treatment (controls). Treatment groups will consist of
+          10 boys undergoing daily WBVT in an 8-week, open-label trial.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '20'
+lastchanged_date: October 4, 2013

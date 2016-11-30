@@ -1,0 +1,346 @@
+---
+firstreceived_date: May 2, 2013
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Angela L Britton, MS
+  middle_name: 
+  phone_ext: 
+  phone: 301 758 0468
+  degrees: 
+  email: abritton@akashirx.com
+completion_date:
+  attributes:
+    type: Anticipated
+  value: January 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link:
+- url: http://www.akashirx.com/
+  description: Sponsor company website
+has_expanded_access: 'No'
+id: NCT01847573
+intervention:
+- intervention_name: HT-100
+  other_name:
+  - halofuginone hydrobromide delayed-release tablet
+  description: May be administered in either fed or fasted state
+  arm_group_label:
+  - 'Cohort 1: HT-100 tablet, Dose 1'
+  - 'Cohort 2: HT-100 tablet, Dose 2'
+  - 'Cohort 3: HT-100 tablet, Dose 3'
+  - 'Cohort 4: HT-100 tablet, Dose 4'
+  - 'Cohort 5: HT-100 tablet, Dose 5'
+  intervention_type: Drug
+source: Akashi Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 20 Years
+  sampling_method: 
+  minimum_age: 6 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Main Inclusion Criteria:
+
+                -  Ambulatory or non-ambulatory
+
+                -  Diagnosis of DMD with confirmation of minimal to no dystrophin
+
+                -  Corticosteroid naive or on therapy for at least 12 months (stable dose and regimen)
+
+              Main Exclusion Criteria:
+
+                -  Recent, substantial change in use of cardiac medications or medications affecting
+                   muscle function
+
+                -  Inability to undergo magnetic resonance imaging (MRI)
+
+                -  Significantly compromised cardio-respiratory function
+
+                -  Prior treatment with another investigational product in past 6 months
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: November 2015
+last_injected: '2015-09-26T04:26:57.246Z'
+intervention_browse:
+  mesh_term:
+  - Halofuginone
+target_duration: 
+number_of_arms: '5'
+start_date: May 2013
+why_stopped: 
+id_info:
+  org_study_id: HALO-DMD-01
+  secondary_id:
+  - HALO
+  nct_alias: []
+  nct_id: NCT01847573
+acronym: 
+arm_group:
+- description: |-
+    Single dose administration: Dose 1
+    Multiple dose administration: Dose 1
+  arm_group_label: 'Cohort 1: HT-100 tablet, Dose 1'
+  arm_group_type: Experimental
+- description: |-
+    Single dose administration: Dose 2
+    Multiple dose administration: Dose 2
+  arm_group_label: 'Cohort 2: HT-100 tablet, Dose 2'
+  arm_group_type: Experimental
+- description: |-
+    Single dose administration: Dose 3
+    Multiple dose administration: Dose 3
+  arm_group_label: 'Cohort 3: HT-100 tablet, Dose 3'
+  arm_group_type: Experimental
+- description: |-
+    Single dose administration: Dose 4
+    Multiple dose administration: Dose 4
+  arm_group_label: 'Cohort 4: HT-100 tablet, Dose 4'
+  arm_group_type: Experimental
+- description: |-
+    Single dose administration: Dose 5
+    Multiple dose administration: Dose 5
+  arm_group_label: 'Cohort 5: HT-100 tablet, Dose 5'
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Akashi Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 1 week
+  description: Halofuginone plasma concentrations
+  measure: Pharmacokinetic plasma profile of halofuginone after single and multiple
+    dose administration of HT-100 in DMD boys
+- safety_issue: 'Yes'
+  time_frame: 4 weeks
+  description: Safety profile by review of AEs, physical examination findings, clinical
+    laboratory test results, and other diagnostic testing
+  measure: Safety and tolerability of administering multiple ascending doses of HT-100
+    in DMD boys over 4 weeks
+- safety_issue: 'No'
+  time_frame: 4 weeks
+  description: |-
+    Pharmacodynamic measures relevant to DMD pathology:
+    Pulmonary function
+    Motor function
+    Muscle composition
+    Biochemical and imaging markers
+  measure: Early pharmacodynamic signals of HT-100 after 4 weeks of continuous dosing
+    in DMD boys
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 1 week
+  description: Safety profile by review of adverse events (AEs), physical examination
+    findings, clinical laboratory test results, and other diagnostic testing
+  measure: Safety and tolerability of administering single and multiple ascending
+    doses of HT-100 in DMD boys
+overall_official:
+- first_name: 
+  last_name: Diana M Escolar, MD
+  middle_name: 
+  affiliation: Akashi Therapeutics
+  degrees: 
+  role: Study Director
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety Study,
+  Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- halofuginone hydrobromide
+- anti-fibrotic
+- anti-inflammatory
+- muscle regeneration
+- protein synthesis inhibitor
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of California, Davis Medical Center
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Jay J Han, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Erica Goude, BA CCRP
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: erica.goude@ucdmc.ucdavis.edu
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Kennedy Krieger Institute, Johns Hopkins School of Medicine
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: '21205'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Kathryn R Wagner, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Genila Bibat, MD
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: bibat@kennedykrieger.org
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Washington University School of Medicine
+    address:
+      city: St Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Anne M Connolly, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Linda Schimmoeller, RN BSN, CCRC
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: schimmoellerl@neuro.wustl.edu
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St Louis, Missouri
+- status: Active, not recruiting
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Kevin M Flanigan, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Mallory Rowell, CRC
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: Mallory.Rowell@nationwidechildrens.org
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+official_title: A Phase 1b Open Label, Single and Multiple Ascending Dose Study to
+  Evaluate the Safety, Tolerability, and Pharmacokinetics of HT-100 in Patients With
+  Duchenne Muscular Dystrophy
+verification_date: June 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01847573
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Marc B Blaustein, MPP
+  middle_name: 
+  phone_ext: 
+  phone: 617 431 7250
+  degrees: 
+  email: mblaustein@akashirx.com
+brief_title: Safety, Tolerability, and Pharmacokinetics of Single and Multiple Doses
+  of HT-100 in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The main purpose of this study is to test the safety and tolerability of different,
+          increasing doses of an experimental medication called HT-100 in boys and young men with
+          Duchenne muscular dystrophy (DMD). The study medication, HT-100, is a medicine that may help
+          promote healthy muscle regeneration, diminish inflammation and the resulting damage to
+          muscle, and decrease the scar tissue that forms in the muscles of children with DMD. In this
+          study, pharmacokinetic sampling, or measurements of the amount of HT-100 in the bloodstream
+          will also be taken.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '30'
+lastchanged_date: June 26, 2015

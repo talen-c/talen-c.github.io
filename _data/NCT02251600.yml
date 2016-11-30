@@ -1,0 +1,321 @@
+---
+firstreceived_date: September 22, 2014
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: October 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT02251600
+intervention:
+- intervention_name: Deflazacort
+  other_name: []
+  description: Oral deflazacort administered once daily at 0.9 mg/kg for eight days
+  arm_group_label:
+  - Deflazacort
+  intervention_type: Drug
+source: Marathon Pharmaceuticals, LLC
+eligibility:
+  gender: Male
+  maximum_age: 16 Years
+  sampling_method: 
+  minimum_age: 4 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  In the opinion of the investigator, the subject is capable of understanding and
+                   complying with protocol requirements.
+
+                -  The subject or, when applicable, the subject's legally acceptable representative
+                   signs and dates a written, informed consent form and any required privacy
+                   authorization prior to the initiation of any study procedures.
+
+                -  If above the age of 7, the subject signs and dates a written, informed assent form
+                   (IAF) and any required privacy authorization prior to the initiation of any study
+                   procedures.
+
+                -  The subject must have confirmed diagnosis of Duchenne Muscular Dystrophy defined as
+                   muscle biopsy and dystrophin analyses consistent with DMD or DNA mutation and
+                   analysis by PCR or Southern blot techniques to detect gene deletions as well as:
+
+                     1. onset of weakness before 5 years of age;
+
+                     2. proximal muscle weakness;
+
+                     3. increased serum creatine kinase more than 10 times the upper limit of normal
+                        (ULN);
+
+                -  The subject is male and aged 4 to 16 years, inclusive.
+
+                -  The subject weighs at least 13 kg and has a Body Mass Index (BMI) of ≤ 40.
+
+                -  Willingness and ability to comply with scheduled visits, oral drug administration,
+                   and study procedures including blood sample draws (total blood volume collected not
+                   to exceed 50 mL for the study duration or 25 mL on any single study day [≤ 3 mL/kg])
+
+                -  The subject has a life expectancy of >1 year.
+
+                -  Up to date on all childhood vaccinations, specifically varicella vaccine (chicken
+                   pox).
+
+                -  Baseline health is judged to be stable based on medical history, physical
+                   examination, laboratory profiles, vital signs, or ECGs at screening, as deemed by the
+                   Investigator.
+
+                -  Continuous non smoker who has not used nicotine containing products for at least 3
+                   months prior to the first dose.
+
+                -  The subject is able to take tablets.
+
+              Exclusion Criteria:
+
+                -  The subject has received any investigational compound and/or has participated in
+                   another clinical study within 90 days prior to study treatment with the exception of
+                   observational cohort studies or non-interventional studies.
+
+                -  The subject has received deflazacort within 30 days or previous discontinued
+                   deflazacort due to an intolerable reaction.
+
+                -  The subject is an immediate family member, study site employee, or is in a dependent
+                   relationship with a study site employee who is involved in the conduct of this study
+                   (e.g. spouse, parent, child, sibling) or may consent under duress.
+
+                -  Any significant finding on the Columbia suicide severity rating scale (C SSRS) for
+                   subjects (ages 12-16, inclusive), in the opinion of the PI, warrants exclusion from
+                   this study.
+
+                -  The subject has, in the judgment of the investigator, clinically significant abnormal
+                   clinical chemistry laboratory parameters that may affect safety at Screening.
+
+                -  The subject has, in the judgment of the investigator, a history or current medical
+                   condition that could affect safety including, but not limited to:
+
+                     1. Major renal or hepatic impairment
+
+                     2. Immunosuppression or other contraindications for corticosteroid treatment
+
+                     3. History of chronic systemic fungal or viral infections
+
+                     4. Diabetes mellitus
+
+                     5. Idiopathic hypocalcuria
+
+                     6. Symptomatic cardiomyopathy at screening
+
+                -  The subject has a history of hypersensitivity or allergic reaction to steroids or
+                   their formulations including, but not limited to lactose, sucrose, etc.
+
+                -  Inability to take tablets as assessed by site investigator.
+
+                -  Unable to refrain from or anticipates the use of:
+
+                     -  Any medications at least 4 hours before and after dosing on PK Days 1 and 8.
+
+                     -  Any vitamins, vitamins with minerals, and/or meal supplementation (e.g., Ensure,
+                        Boost, etc.) at least 4 hours before and after dosing on PK Days 1 and 8.
+
+                     -  Any drug, including prescription and non prescription medications, and herbal
+                        remedies known to be significant inhibitors of CYP 3A4 enzymes and/or P gp for
+                        14 days prior to the first dose of study drug and throughout the study.
+                        Appropriate sources will be consulted by the PI or designee to confirm lack of
+                        pharmacokinetic/pharmacodynamic interaction with study drug. Acetaminophen may
+                        be permitted during the study (doses to be based upon appropriate age/weight
+                        ranges.
+
+                     -  Any drugs known to be significant inducers of CYP 3A4 enzymes and/or P gp for 28
+                        days prior to the first dose of study drug and throughout the study. Appropriate
+                        sources will be consulted by the PI or designee to confirm lack of
+                        PK/pharmacodynamics interaction with study drug.
+
+                -  Subject is mentally or legally incapacitated or has significant emotional problems at
+                   the time of screening visit or expected during the conduct of the study.
+
+                -  History of any illness that, in the opinion of the PI, might confound the results of
+                   the study or poses an additional risk to the subject by their participation in the
+                   study.
+
+                -  Positive urine drug or alcohol results at screening or check in.
+
+                -  Positive urine cotinine at screening.
+
+                -  Positive results at screening for HIV, HBsAg, or HCV.
+
+                -  Hemoglobin level below the lower limit of normal at screening.
+
+                -  Donation of blood or significant blood loss within 56 days prior to the first dose of
+                   study drug.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: October 2015
+last_injected: '2015-10-21T22:50:44.534Z'
+intervention_browse:
+  mesh_term:
+  - Deflazacort
+target_duration: 
+number_of_arms: '1'
+start_date: December 2014
+why_stopped: 
+id_info:
+  org_study_id: MP-104-CL-005
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02251600
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Deflazacort
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Marathon Pharmaceuticals, LLC
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: Day 1-8
+  description: 
+  measure: Number of participants with adverse events as a measure of safety and tolerability
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Day 1, Day 8
+  description: 
+  measure: The area under the plasma concentration time curve, from time 0 to the
+    last measurable concentration non-zero, for single-state pharmacokinetics on Day
+    1 of deflazacort and 21-desacetyl-DFZ, the active metabolite
+- safety_issue: 'No'
+  time_frame: Day 8
+  description: 
+  measure: The area under the plasma concentration versus time curve over the final
+    dosing interval for steady state pharmacokinetics on Day 8 of deflazacort and
+    21-desacetyl-DFZ, the active metabolite
+overall_official:
+- first_name: 
+  last_name: Katherine Smith, MD
+  middle_name: 
+  affiliation: Drug Safety Solutions/Celerion
+  degrees: 
+  role: Study Chair
+phase: Phase 1
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Pharmacokinetics Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Basic Science'
+keyword:
+- Pediatric
+- Adolescent
+- Deflazacort
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: UCLA
+    address:
+      city: Los Angeles
+      state: California
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: Lurie Children's Hospital
+    address:
+      city: Chicago
+      state: Illinois
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Rochester Medical Center
+    address:
+      city: Rochester
+      state: New York
+      zip: '14642'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.161
+    formatted: Rochester, NY, USA
+    longitude: -77.611
+    original: Rochester, New York
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Utah
+    address:
+      city: Salt Lake City
+      state: Utah
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.761
+    formatted: Salt Lake City, UT, USA
+    longitude: -111.891
+    original: Salt Lake City, Utah
+official_title: A Multi-center Study to Evaluate the Pharmacokinetics of 21-Desacetyldeflazacort
+  and the Safety of Deflazacort After Oral Administration of Deflazacort Tablets to
+  Children and Adolescent Subjects With Duchenne Muscular Dystrophy
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02251600
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: A Pharmacokinetic Study of Oral Deflazacort in Children and Adolescent
+  Subjects With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Study to characterize the single-state and steady-state dosing of oral deflazacort in
+          pediatric and adolescents subjects.
+enrollment:
+  attributes:
+    type: Actual
+  value: '24'
+lastchanged_date: October 20, 2015

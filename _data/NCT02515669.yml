@@ -1,0 +1,504 @@
+---
+firstreceived_date: July 29, 2015
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: 'First line of the email MUST contain NCT# and Site #.'
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: 
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2018
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description: {}
+link:
+- url: http://ctr.bms.com/ctd/start.do
+  description: BMS Clinical Trial Information
+- url: http://www.bms.com/studyconnect/Pages/home.aspx
+  description: BMS clinical trial educational resource
+- url: http://www.bms.com/clinical_trials/Pages/Investigator_Inquiry_form.aspx
+  description: Investigator Inquiry form
+- url: http://www.fda.gov/MEDWATCH/safety.htm
+  description: FDA Safety Alerts and Recalls
+has_expanded_access: 'No'
+id: NCT02515669
+intervention:
+- intervention_name: BMS-986089
+  other_name:
+  - Anti-Myostatin Adnectin
+  description: 
+  arm_group_label:
+  - BMS-986089
+  intervention_type: Biological
+- intervention_name: Placebo
+  other_name: []
+  description: 
+  arm_group_label:
+  - Placebo
+  intervention_type: Biological
+source: Bristol-Myers Squibb
+eligibility:
+  gender: Male
+  maximum_age: 10 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      For more information regarding BMS clinical trial participation, please visit
+              www.BMSStudyConnect.com
+
+              Inclusion Criteria:
+
+                -  Diagnosed with DMD by a blood test
+
+                -  Able to walk without assistance
+
+                -  Able to walk up 4 stairs in 8 seconds or less
+
+                -  Weigh at least 15 kg
+
+                -  Taking corticosteroids for DMD
+
+              Exclusion Criteria:
+
+                -  Any behavior or mental issue that will affect the ability to complete the required
+                   study procedures
+
+                -  Previously or currently taking medications like androgens, human growth hormone or
+                   bisphosphonates
+
+                -  Use of a ventilator during the day
+
+                -  Unable to have blood samples collected or receive an injection under the skin
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2018
+last_injected: '2015-10-06T22:40:24.188Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: November 2015
+why_stopped: 
+id_info:
+  org_study_id: CN001-006
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02515669
+acronym: 
+arm_group:
+- description: BMS-986089 subcutaneous injections on specified days
+  arm_group_label: BMS-986089
+  arm_group_type: Active Comparator
+- description: Placebo subcutaneous injections on specified days
+  arm_group_label: Placebo
+  arm_group_type: Placebo Comparator
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Bristol-Myers Squibb
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Trough concentrations of BMS-986089
+- safety_issue: 'No'
+  time_frame: Day 1 and 29
+  description: 
+  measure: Maximum observed concentration (Cmax) of BMS-986089
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Frequency of subjects with positive anti-BMS-986089 antibodies (ADA) assessment
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Frequency of subjects who develop positive ADA following a negative baseline
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Anti-BMS-986089 antibodies on selected days
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Serum concentration of free myostatin
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Change from baseline in volume of thigh muscle contractile and non-contractile
+    tissue
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Change from baseline in thigh muscle lipid fraction
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Change from baseline in thigh muscle maximal cross sectional area
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Serum concentration of drug-myostatin complex
+- safety_issue: 'No'
+  time_frame: Day 8 through Week 24
+  description: 
+  measure: Serum concentration of percent inhibition of free myostatin at trough
+study_type: Interventional
+biospec_retention: 
+overall_status: Not yet recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 24 weeks
+  description: Adverse event (AEs)
+  measure: Safety and Tolerability based on number of incidences of AEs, serious AEs,
+    AEs leading to discontinuation and death, as well as marked treatment emergent
+    abnormalities in clinical laboratory tests
+- safety_issue: 'Yes'
+  time_frame: 24 weeks
+  description: 
+  measure: Safety and Tolerability based on number of incidences of vital sign measurements,
+    ECGs, echocardiograms, and physical examinations
+overall_official:
+- first_name: 
+  last_name: Bristol Myers Squibb
+  middle_name: 
+  affiliation: Bristol-Myers Squibb
+  degrees: 
+  role: Study Director
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Muscular Dystrophy (DMD)
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety Study, Intervention
+  Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator,
+  Outcomes Assessor), Primary Purpose: Basic Science'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90095'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0008
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Palo Alto
+      state: California
+      zip: '94304'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0004
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 37.442
+    formatted: Palo Alto, CA, USA
+    longitude: -122.143
+    original: Palo Alto, California
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0007
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32611'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0002
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Orlando
+      state: Florida
+      zip: '32827'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0005
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 28.538
+    formatted: Orlando, FL, USA
+    longitude: -81.379
+    original: Orlando, Florida
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Atlanta
+      state: Georgia
+      zip: '30342'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0012
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 33.749
+    formatted: Atlanta, GA, USA
+    longitude: -84.388
+    original: Atlanta, Georgia
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Chicago
+      state: Illinois
+      zip: '60612'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0006
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Kansas City
+      state: Kansas
+      zip: '66160'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0011
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 39.114
+    formatted: Kansas City, KS, USA
+    longitude: -94.627
+    original: Kansas City, Kansas
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: '21205'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0009
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0003
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0010
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Local Institution
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: '15224'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Site 0001
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+official_title: A Multi-site, Randomized, Placebo-controlled, Double-blind, Multiple
+  Ascending Subcutaneous Dose Study to Evaluate the Safety Tolerability and Pharmacokinetics
+  of BMS-986089 in Ambulatory Boys With Duchenne Muscular Dystrophy
+verification_date: August 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02515669
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: 'Recruiting sites have contact information. Please contact the sites
+    directly. If there is no contact information, please email:'
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: Clinical.Trials@bms.com
+brief_title: Study of BMS-986089 in Ambulatory Boys With DMD
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+brief_summary:
+  textblock: |-
+    The purpose of this study is to determine the safety and tolerability of BMS-986089 in boys
+          with Duchenne Muscular Dystrophy.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '40'
+lastchanged_date: October 5, 2015

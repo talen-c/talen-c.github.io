@@ -1,0 +1,223 @@
+---
+firstreceived_date: September 23, 2013
+is_fda_regulated: 'No'
+reference:
+- PMID: '23913485'
+  citation: 'Bladen CL, Rafferty K, Straub V, Monges S, Moresco A, Dawkins H, Roy
+    A, Chamova T, Guergueltcheva V, Korngut L, Campbell C, Dai Y, Barišić N, Kos T,
+    Brabec P, Rahbek J, Lahdetie J, Tuffery-Giraud S, Claustres M, Leturcq F, Ben
+    Yaou R, Walter MC, Schreiber O, Karcagi V, Herczegfalvi A, Viswanathan V, Bayat
+    F, de la Caridad Guerrero Sarmiento I, Ambrosini A, Ceradini F, Kimura E, van
+    den Bergen JC, Rodrigues M, Roxburgh R, Lusakowska A, Oliveira J, Santos R, Neagu
+    E, Butoianu N, Artemieva S, Rasic VM, Posada M, Palau F, Lindvall B, Bloetzer
+    C, Karaduman A, Topaloğlu H, Inal S, Oflazer P, Stringer A, Shatillo AV, Martin
+    AS, Peay H, Flanigan KM, Salgado D, von Rekowski B, Lynn S, Heslop E, Gainotti
+    S, Taruscio D, Kirschner J, Verschuuren J, Bushby K, Béroud C, Lochmüller H. The
+    TREAT-NMD Duchenne muscular dystrophy registries: conception, design, and utilization
+    by industry and academia. Hum Mutat. 2013 Nov;34(11):1449-57. doi: 10.1002/humu.22390.
+    Epub 2013 Aug 26.'
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: October 2047
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    DuchenneConnect was created in 2007 by Parent Project Muscular Dystrophy (PPMD), with
+          assistance from the NIH, the CDC, and Emory Genetics. In early 2011, PPMD alone began
+          financing the registry's operation and maintenance, and is the sole guardian of
+          DuchenneConnect and its material.
+
+          Questions may be addressed to the DuchenneConnect Coordinator at telephone 201.937.1408 or
+          coordinator@duchenneconnect.org. The DuchenneConnect Coordinator is a certified genetic
+          counselor who is available to answer questions regarding the registration process, genetic
+          testing and counseling, and clinical trials and research studies.
+link:
+- url: https://www.duchenneconnect.org/
+  description: DuchenneConnect
+- url: http://www.treat-nmd.eu/
+  description: TREAT-NMD Neuromuscular Alliance
+- url: http://www.parentprojectmd.org
+  description: Parent Project Muscular Dystrophy
+- url: http://pcornet.org/
+  description: PCORnet - The National Patient-Centered Clinical Research Network
+has_expanded_access: 'No'
+id: NCT02069756
+intervention: []
+source: DuchenneConnect
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: Probability Sample
+  minimum_age: N/A
+  study_pop:
+    textblock: |-
+      DuchenneConnect is primarily a United States registry, but we do welcome participants from
+              other countries and we currently have over 100 countries represented in the registry.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Diagnosis of Duchenne or Becker muscular dystrophy; Manifesting female carriers and
+                   asymptomatic female carriers also included in registry.
+
+              Exclusion Criteria:
+
+                -  Diagnosis of any other type of muscular dystrophy (including limb-girdle muscular
+                   dystrophy).
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: Registrants are requested to update their medical history every 12 months,
+    and they will be followed throughout their lifetime.
+  description: Data collected includes whether or not corticosteroids are used, and
+    if so, name of corticosteroid, age started/stopped, dose and dosing regimen.
+  measure: Corticosteroid use
+- safety_issue: 'No'
+  time_frame: Registrants are requested to update their medical history every 12 months,
+    and they will be followed throughout their lifetime.
+  description: Multiple questions regarding cardiovascular symptoms, age at diagnosis
+    of cardiomyopathy, use of cardiac medications, date of most recent echocardiogram
+    and/or cardiac MRI, and the LVEF and/or LVSF value.
+  measure: Cardiovascular status
+- safety_issue: 'No'
+  time_frame: Registrants are requested to update their medical history every 12 months,
+    and they will be followed throughout their lifetime.
+  description: Assessed from questions about use of breathing devices, age at which
+    breathing devices were started, date of most recent pulmonary function test (spirometry),
+    and the FVC value (% predicted and raw FVC in liters).
+  measure: Respiratory status
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: October 2027
+last_injected: '2015-09-26T13:00:28.513Z'
+intervention_browse: {}
+target_duration: 40 Years
+number_of_arms: 
+start_date: October 2007
+why_stopped: 
+id_info:
+  org_study_id: DC-PPMD-2013
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02069756
+acronym: 
+arm_group:
+- description: Patients with Duchenne or Becker Muscular Dystrophy, as well as carrier
+    females.
+  arm_group_label: Duchenne and Becker Muscular Dystrophy
+  arm_group_type: 
+sponsors:
+  collaborator:
+  - agency: Parent Project Muscular Dystrophy
+    agency_class: Other
+  lead_sponsor:
+    agency: DuchenneConnect
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Registrants are requested to update their medical history every 12 months,
+    and they will be followed throughout their lifetime.
+  description: Ambulation status is assessed from several questions about mobility
+    in home and away from home, ability to sit and stand, use of assistive devices,
+    and age at full time wheelchair use.
+  measure: Ambulation status
+study_type: Observational [Patient Registry]
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Registrants are requested to update their medical history every 12 months,
+    and they will be followed throughout their lifetime.
+  description: Genetic mutation data is collected by patient report and verified by
+    curation/review of genetic test report when provided. Genetic test report is requested
+    for each registrant and is required for participation in global DMD (TREAT-NMD)
+    registry.
+  measure: Genetic mutation
+overall_official: []
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+- Becker Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Cohort, Time Perspective: Prospective'
+keyword:
+- Duchenne
+- Becker
+- Muscular Dystrophy
+results_reference:
+- PMID: '22453902'
+  citation: Rangel V, Martin AS, Peay HL. DuchenneConnect Registry Report. Version
+    2. PLoS Curr. 2012 Feb 29 [revised 2012 Mar 13];4:RRN1309.
+- PMID: '25635234'
+  citation: 'Wang RT, Silverstein Fadlon CA, Ulm JW, Jankovic I, Eskin A, Lu A, Rangel
+    Miller V, Cantor RM, Li N, Elashoff R, Martin AS, Peay HL, Halnon N, Nelson SF.
+    Online self-report data for duchenne muscular dystrophy confirms natural history
+    and can be used to assess for therapeutic benefits. PLoS Curr. 2014 Oct 17;6.
+    pii: ecurrents.md.e1e8f2be7c949f9ffe81ec6fca1cce6a. doi: 10.1371/currents.md.e1e8f2be7c949f9ffe81ec6fca1cce6a.'
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'European Union:  TREAT-NMD Neuromuscular Alliance'
+number_of_groups: '1'
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: DuchenneConnect / PPMD
+    address:
+      city: Hackensack
+      state: New Jersey
+      zip: '07601'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Ann Martin, MS, CGC
+    middle_name: 
+    phone_ext: 
+    phone: 201-937-1408
+    degrees: 
+    email: coordinator@duchenneconnect.org
+  geodata:
+    latitude: 40.886
+    formatted: Hackensack, NJ, USA
+    longitude: -74.043
+    original: Hackensack, New Jersey
+official_title: 'DuchenneConnect: An International, Patient-Report Registry for Individuals
+  With Duchenne/Becker Muscular Dystrophy (Member of TREAT-NMD Neuromuscular Alliance)'
+verification_date: February 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02069756
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: DuchenneConnect Registry
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    DuchenneConnect is an online, patient-report registry for individuals with Duchenne and
+          Becker muscular dystrophy and carrier females. The purpose of DuchenneConnect is to connect
+          Duchenne and Becker patients with actively recruiting clinical trials and research studies,
+          and to educate patients and families about Duchenne and Becker care and research. At the
+          same time, DuchenneConnect is a valuable resource for clinicians and researchers in academia
+          and industry, allowing access to a de-identified, aggregate dataset provided by patients and
+          their families—information that is vital to advances in the care and treatment of Duchenne.
+          DuchenneConnect is a member of PCORnet, the National Patient-Centered Clinical Research
+          Network.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '10000'
+lastchanged_date: February 12, 2015

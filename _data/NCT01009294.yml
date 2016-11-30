@@ -1,0 +1,369 @@
+---
+firstreceived_date: November 5, 2009
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: May 2010
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description:
+  textblock: |-
+    It is planned that this Phase 2a, open-label, safety and efficacy study will be performed at
+          5 sites in the US and 1 site in the UK.
+
+          The study will enroll ~30 boys with nonsense mutation DMD/BMD who have been nonambulatory
+          for at least one year. Enrollment will be stratified to ensure evaluation of ~15
+          participants who are receiving chronic corticosteroid therapy and of ~15 participants who
+          are not receiving chronic corticosteroid therapy. Subjects will take ataluren 3 times per
+          day (at breakfast, lunch, and dinner) for 48 weeks (~1 year). Study assessments will be
+          performed at clinic visits during screening, every 6 weeks for 2 visits and then every 12
+          weeks until the end of the study. Additional safety laboratory testing is required 4 times
+          during the course of the study; this may be performed at the investigational site, at an
+          accredited local laboratory or clinic, or in the subject's home using a nursing service.
+link:
+- url: http://www.ptcbio.com
+  description: 
+has_expanded_access: 'No'
+id: NCT01009294
+intervention:
+- intervention_name: Ataluren (PTC124)
+  other_name: []
+  description: Oral powder for suspension taken 3 times per day (20 mg/kg with breakfast,
+    20 mg/kg with lunch, and 40 mg/kg with dinner) for up to 48 weeks.
+  arm_group_label:
+  - Ataluren (PTC124)
+  intervention_type: Drug
+source: PTC Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Diagnosis of DMD or BMD
+
+                -  Presence of a nonsense mutation in the dystrophin gene
+
+                -  Unable to ambulate independently for ≥1 year due to DMD/BMD
+
+                -  Presence of sufficient shoulder and elbow function to perform study-related
+                   functional procedures (eg, 9-hole peg test)
+
+                -  Adequate hepatic, renal, and adrenal function
+
+                -  Ability to provide evaluable pretreatment echocardiogram and lung function
+                   assessments
+
+                -  Willingness and ability to comply with scheduled visits, drug administration plan,
+                   study procedures, laboratory tests, and study restrictions
+
+                -  Ability to provide written informed consent (parental/guardian consent if
+                   applicable)/assent (if <18 years of age)
+
+              Exclusion Criteria:
+
+                -  Initiation of systemic corticosteroid therapy within 6 months prior to start of study
+                   treatment or change in systemic corticosteroid therapy within 3 months prior to start
+                   of study treatment
+
+                -  Use of any intermittent systemic corticosteroid therapy regimen (eg, 10 days on
+                   followed by 10 days off, weekend dosing, every-other-day dosing); note that patients
+                   must either be receiving a daily dosing regimen of prednisone, prednisolone, or
+                   deflazacort at the time of enrollment into the study or must not be receiving any
+                   systemic corticosteroids
+
+                -  Any change in treatment for congestive heart failure within 3 months prior to start
+                   of study treatment
+
+                -  Ongoing warfarin or phenytoin therapy
+
+                -  Prior therapy with ataluren
+
+                -  Known hypersensitivity to any of the ingredients or excipients of ataluren (Litesse®
+                   UltraTM [refined polydextrose], polyethylene glycol 3350, Lutrol® micro F127
+                   [poloxamer 407], mannitol 25C, crospovidone XL10, hydroxyethyl cellulose, vanilla,
+                   Cab O Sil® M5P [colloidal silica], magnesium stearate).
+
+                -  Exposure to another investigational drug within 2 months prior to start of study
+                   treatment
+
+                -  History of major surgical procedure within 1 month prior to start of study treatment
+                   or expectation of major surgical procedure (eg, scoliosis surgery) during the 48-week
+                   treatment period of the study
+
+                -  Ongoing immunosuppressive therapy (other than corticosteroids)
+
+                -  Ongoing participation in any other clinical trial
+
+                -  Requirement for daytime ventilator assistance
+
+                -  Uncontrolled clinical symptoms and signs of congestive heart failure
+
+                -  Prior or ongoing medical condition (eg, concomitant illness, psychiatric condition,
+                   behavioral disorder, alcoholism, drug abuse), medical history, physical findings, ECG
+                   findings, or laboratory abnormality that, in the investigator's opinion, could
+                   adversely affect the safety of the subject, makes it unlikely that the course of
+                   treatment or follow up would be completed, or could impair the assessment of study
+                   results.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: May 2010
+last_injected: '2015-09-26T11:13:52.123Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: November 2009
+why_stopped: 
+id_info:
+  org_study_id: PTC124-GD-008-DMD
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01009294
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Ataluren (PTC124)
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: Genzyme, a Sanofi Company
+    agency_class: Industry
+  lead_sponsor:
+    agency: PTC Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Upper extremity function
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Upper extremity range of motion
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Upper extremity muscle strength
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Hand fine-motor coordination and dexterity
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Pulmonary function
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Cardiac function
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Cognitive ability
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Health-related quality of life
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Activities of daily living
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Muscle fragility as determined by serum CK levels
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Muscle dystrophin expression
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Ataluren compliance
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: Ataluren plasma exposure
+study_type: Interventional
+biospec_retention: 
+overall_status: Terminated
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 48 weeks
+  description: 
+  measure: Safety and tolerability of ataluren (PTC124)
+overall_official:
+- first_name: 
+  last_name: Leone Atkinson, MD, PhD
+  middle_name: 
+  affiliation: PTC Therapeutics
+  degrees: 
+  role: Study Director
+phase: Phase 2
+location_countries:
+  country:
+  - United Kingdom
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+- Becker Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety Study, Intervention Model: Single Group
+  Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- Becker muscular dystrophy
+- Nonsense mutation
+- Premature stop codon
+- DMD
+- BMD
+- Ataluren
+- PTC124
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of California-Davis
+    address:
+      city: Davis
+      state: California
+      zip: '95616'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.545
+    formatted: Davis, CA, USA
+    longitude: -121.741
+    original: Davis, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Boston
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02115'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Minnesota
+    address:
+      city: Minneapolis
+      state: Minnesota
+      zip: '55455'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 44.98
+    formatted: Minneapolis, MN, USA
+    longitude: -93.264
+    original: Minneapolis, Minnesota
+- status: 
+  contact_backup: {}
+  facility:
+    name: Washington University Medical School
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: 
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Newcastle
+    address:
+      city: Newcastle upon Tyne
+      state: 
+      zip: NE1 3BZ
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle upon Tyne, United Kingdom
+official_title: A Phase 2a Study of Ataluren (PTC124) in Nonambulatory Patients With
+  Nonsense-Mutation-Mediated Duchenne/Becker Muscular Dystrophy
+verification_date: August 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01009294
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Study of Ataluren (PTC124®) in Nonambulatory Patients With Nonsense-Mutation-Mediated
+  Duchenne/Becker Muscular Dystrophy (nmDMD/BMD)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Duchenne/Becker muscular dystrophy (DMD/BMD) is a genetic disorder that develops in boys. It
+          is caused by a mutation in the gene for dystrophin, a protein that is important for
+          maintaining normal muscle structure and function. Loss of dystrophin causes muscle fragility
+          that leads to weakness and loss of walking ability during childhood and teenage years. A
+          specific type of mutation, called a nonsense (premature stop codon) mutation is the cause of
+          DMD/BMD in approximately 10-15% of boys with the disease. Ataluren (PTC124) is an orally
+          delivered, investigational drug that has the potential to overcome the effects of the
+          nonsense mutation. This study is a Phase 2a trial that will enroll boys with nonsense
+          mutation DMD/BMD who have lost independent mobility due to the disease. This study will
+          evaluate the safety and tolerability of ataluren (PTC124) and will also evaluate efficacy
+          outcomes in this patient population.
+enrollment:
+  attributes:
+    type: Actual
+  value: '6'
+lastchanged_date: August 28, 2013

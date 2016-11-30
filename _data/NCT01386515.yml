@@ -1,0 +1,202 @@
+---
+firstreceived_date: June 30, 2011
+is_fda_regulated: 'No'
+reference:
+- PMID: '19021037'
+  citation: 'Branstetter JE, Domian EW, Williams PD, Graff JC, Piamjariyakul U. Communication
+    themes in families of children with chronic conditions. Issues Compr Pediatr Nurs.
+    2008 Oct-Dec;31(4):171-84. doi: 10.1080/01460860802475184.'
+- PMID: '19945914'
+  citation: 'Bushby K, Finkel R, Birnkrant DJ, Case LE, Clemens PR, Cripe L, Kaul
+    A, Kinnett K, McDonald C, Pandya S, Poysky J, Shapiro F, Tomezsko J, Constantin
+    C; DMD Care Considerations Working Group. Diagnosis and management of Duchenne
+    muscular dystrophy, part 2: implementation of multidisciplinary care. Lancet Neurol.
+    2010 Feb;9(2):177-89. doi: 10.1016/S1474-4422(09)70272-8. Epub 2009 Nov 27. Review.
+    Erratum in: Lancet Neurol. 2010 Mar;9(3):237.'
+- PMID: '17873636'
+  citation: Chen JY, Clark MJ. Family function in families of children with Duchenne
+    muscular dystrophy. Fam Community Health. 2007 Oct-Dec;30(4):296-304.
+overall_contact_backup: {}
+completion_date: {}
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    This study proposes to explore the role of family functioning in promoting adaptation in
+          unaffected siblings of children with Duchenne muscular dystrophy (DMD). Although evidence
+          suggests that family functioning may be a predictor of adaptation in caregivers of children
+          with chronic illnesses, little research has been conducted on the relationships between
+          aspects of family functioning and the adaptation of unaffected siblings. Evidence in the
+          literature suggests that aspects of family functioning may play a key role in adaptation.
+          Moreover, the role of DMD-specific communication in facilitating sibling adaptation has not
+          yet been explored in the literature and further insight may be derived from exploring this
+          relationship. The goals of this study are to better understand the relationship of family
+          functioning with the adaptation of unaffected siblings, as well as to explore the timing,
+          extent (depth and content), and the characteristics of initiation of discussion of
+          parent-sibling communication around DMD. Currently, some evidence exists to direct the
+          creation of interventions that reinforce a family-centered approach to facilitate adaptation
+          of family members to living with a child with a chronic health condition. Nevertheless, more
+          insight is needed to understand how family processes affect individual adaptation,
+          especially that of the unaffected sibling, in order to maximize the effectiveness of future
+          interventions with this population.
+link: []
+has_expanded_access: 'No'
+id: NCT01386515
+intervention: []
+source: National Institutes of Health Clinical Center (CC)
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 13 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      -  INCLUSION CRITERIA:
+
+              Parents/Caregivers:
+
+                -  Parent or caregiver of child with DMD and child without DMD
+
+                -  Lives with child that does not have DMD
+
+                -  18 or older
+
+                -  Reads/Writes English
+
+              Siblings:
+
+                -  Sibling of child with DMD
+
+                -  Lives in same household as individual with DMD
+
+                -  13-18 years of age
+
+                -  Reads/Writes English
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date: {}
+last_injected: '2015-07-13T13:51:34.828Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: June 2011
+why_stopped: 
+id_info:
+  org_study_id: '999911177'
+  secondary_id:
+  - 11-HG-N177
+  nct_alias: []
+  nct_id: NCT01386515
+acronym: 
+arm_group: []
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: National Human Genome Research Institute (NHGRI)
+    agency_class: NIH
+secondary_outcome: []
+study_type: Observational
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 
+  time_frame: 
+  description: 
+  measure: adaptation, behavior problems, self-concept, pro-social behavior
+overall_official:
+- first_name: 
+  last_name: Barbara B Biesecker
+  middle_name: 
+  affiliation: National Human Genome Research Institute (NHGRI)
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Genetic Disease
+- Communication
+clinical_results: {}
+study_design: N/A
+keyword:
+- Adaptation
+- Duchenne Muscular Dystrophy
+- Communication about Duchenne Muscular Dystrophy
+- Sibling
+results_reference: []
+oversight_info:
+  has_dmc: 
+  authority:
+  - 'United States: Federal Government'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: National Human Genome Research Institute (NHGRI), 9000 Rockville Pike
+    address:
+      city: Bethesda
+      state: Maryland
+      zip: '20892'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.985
+    formatted: Bethesda, MD, USA
+    longitude: -77.095
+    original: Bethesda, Maryland
+official_title: The Role of Family Functioning in Promoting Adaptation in Siblings
+  of Individuals With Duchenne Muscular Dystrophy (DMD)
+verification_date: February 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01386515
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: The Role of Family Functioning in Promoting Adaptation in Siblings of
+  Individuals With Duchenne Muscular Dystrophy (DMD)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Background:
+
+          We want to learn more about the relationship between the way families function and how
+          children adapt to having a sibling with Duchenne muscular dystrophy (DMD). What we learn
+          will help us design better interventions for families.
+
+          Objective:
+
+            -  To learn more about how families with an individual with DMD function.
+
+            -  To learn how siblings adapt in families with an individual with DMD.
+
+          Eligibility:
+
+            -  One parent and one child, age 13-18, from a family where another child has DMD.
+
+            -  The parent and the child must be able to read and write English.
+
+          Design:
+
+            -  One parent from each family will complete a survey about how family members communicate
+               and relate with each other. The parent will also answer questions about the behavior of
+               the child without DMD. This survey will take you about 40 minutes to complete.
+
+            -  One child from each family, either a boy or a girl, will also complete a survey. This
+               survey asks about how he/she views him/herself. It also asks about how he/she interacts
+               with peers and family members and how he/she behaves. The survey also asks how
+               satisfied he/she is with how his/her family functions. This survey takes about 30
+               minutes to finish.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '50'
+lastchanged_date: February 20, 2015

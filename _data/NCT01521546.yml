@@ -1,0 +1,640 @@
+---
+firstreceived_date: January 26, 2012
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2016
+responsible_party: {}
+firstreceived_results_date: April 21, 2015
+is_section_801: 'No'
+detailed_description:
+  textblock: |-
+    Duchenne Muscular dystrophy (DMD) is a deadly X-linked disease affecting 1 in 3,500 males.
+          DMD patients suffer significant disability due to skeletal myopathy and excess death due to
+          cardiomyopathy. Current guidelines advocate initiating cardioprotective treatment with
+          evident global cardiac dysfunction, yet this treatment paradigm has not improved survival
+          much beyond the third decade of life. Potentially promising approaches like gene therapy
+          will take considerable time to improve outcomes. Recently completed studies in a DMD mouse
+          model at our institution indicate that existing drugs known as aldosterone antagonists,
+          typically reserved for advanced heart failure patients, preserve skeletal and cardiac muscle
+          function at 80% of normal. Clinical studies at many centers including ours have shown that
+          high-resolution, noninvasive cardiac magnetic resonance (CMR) detects subclinical myocardial
+          fibrosis and abnormal regional function prior to global functional abnormalities. Combining
+          findings from these preclinical and clinical studies, we plan to execute a randomized,
+          controlled clinical trial (RCT) of eplerenone plus background therapy vs. background therapy
+          alone in patients with DMD. We expect that the aldosterone antagonist eplerenone compared to
+          standard therapy significantly delays progressive cardiomyopathy and skeletal myopathy using
+          highly reproducible imaging biomarkers selected for efficient sample size design, to
+          ultimately reduce disability and death.
+link:
+- url: http://www.sciencedirect.com/science/article/pii/S1474442214703187
+  description: Journal article
+has_expanded_access: 'No'
+id: NCT01521546
+intervention:
+- intervention_name: eplerenone
+  other_name: []
+  description: 25mg tablet, once daily by mouth for 12 months
+  arm_group_label:
+  - eplerenone
+  intervention_type: Drug
+- intervention_name: placebo
+  other_name: []
+  description: one tablet by mouth daily for 12 months
+  arm_group_label:
+  - sugar pill
+  intervention_type: Drug
+source: Ohio State University
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  DMD patients age 7 years and older (and able to complete cardiac MRI without
+                   sedation) with preserved left ventricular (LV) systolic function and abnormal heart
+                   muscle by late post-gadolinium imaging (LGE)
+
+              Exclusion Criteria:
+
+                -  renal insufficiency (GFR <40 mL/min/m2)
+
+                -  non-MR compatible implants (e.g. neurostimulator, AICD)
+
+                -  severe claustrophobia
+
+                -  allergy to gadolinium contrast
+
+                -  prior use of or known allergy to epleronone
+
+                -  use of potassium-sparing diuretics
+
+                -  serum potassium level of >5.0 mmol/L
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2016
+last_injected: '2015-07-21T14:41:33.907Z'
+intervention_browse:
+  mesh_term:
+  - Eplerenone
+target_duration: 
+number_of_arms: '2'
+start_date: February 2012
+why_stopped: 
+id_info:
+  org_study_id: 2011H0251
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01521546
+acronym: E-SCAR DMD
+arm_group:
+- description: active study drug
+  arm_group_label: eplerenone
+  arm_group_type: Active Comparator
+- description: placebo
+  arm_group_label: sugar pill
+  arm_group_type: Placebo Comparator
+sponsors:
+  collaborator:
+  - agency: Ballou Skies
+    agency_class: Other
+  lead_sponsor:
+    agency: Subha Raman
+    agency_class: Other
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: baseline and 12 months
+  description: a sensitive measurement of heart function using cardiac MRI, change
+    was 12 months minus baseline.
+  measure: 12-month Change in Myocardial Strain
+overall_official:
+- first_name: 
+  last_name: Subha V Raman, MD, MSEE
+  middle_name: 
+  affiliation: Ohio State University
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results:
+  limitations_and_caveats: 
+  baseline:
+    measure_list:
+      measure:
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '20'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '22'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '42'
+                  upper_limit: 
+        title: Number of Participants
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: Age
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: '12.0'
+                  value: '14.5'
+                  upper_limit: '18.5'
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: '11.0'
+                  value: '15.0'
+                  upper_limit: '19.0'
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: '11.75'
+                  value: '15.0'
+                  upper_limit: '19.0'
+        title: Age
+        param: Median
+        dispersion: Inter-Quartile Range
+        units: years
+      - description: The study was approved for 42 participants and 42 participants
+          were enrolled.
+        category_list:
+          category:
+          - sub_title: Female
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Male
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '20'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '22'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '42'
+                  upper_limit: 
+        title: Gender
+        param: Number
+        dispersion: 
+        units: participants
+    group_list:
+      group:
+      - attributes:
+          group_id: B1
+        description: |-
+          active study drug
+          eplerenone: 25mg tablet, once daily by mouth for 12 months
+        title: Eplerenone
+      - attributes:
+          group_id: B2
+        description: |-
+          placebo
+          placebo: one tablet by mouth daily for 12 months
+        title: Placebo
+      - attributes:
+          group_id: B3
+        description: Total of all reporting groups
+        title: Total
+    population: Males with Duchenne Muscular Dystrophy
+  point_of_contact:
+    name_or_title: Subha V. Raman, MD
+    email: raman.1@osu.edu
+    phone: "(614)293-8963"
+    organization: The Ohio State University
+  reported_events:
+    serious_events:
+      frequency_threshold: 
+      category_list:
+        category:
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '22'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '20'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Total, serious adverse events
+              description: 
+          title: Total
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '22'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '20'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: death due to fat embolism
+              description: 
+          title: Vascular disorders
+      default_assessment: 
+      default_vocab: 
+    other_events:
+      frequency_threshold: '1'
+      category_list:
+        category:
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '22'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '20'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Total, other adverse events
+              description: 
+          title: Total
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '22'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '20'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: headache coincident with seasonal allergies
+              description: 
+          title: Nervous system disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '22'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '20'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: anxiety
+              description: 
+          title: Psychiatric disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '22'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '20'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: flushing
+              description: 
+          title: Skin and subcutaneous tissue disorders
+      default_assessment: 
+      default_vocab: 
+    time_frame: 
+    group_list:
+      group:
+      - attributes:
+          group_id: E1
+        description: placebo one tablet daily for 12 months
+        title: Placebo
+      - attributes:
+          group_id: E2
+        description: eplerenone one tablet daily for 12 months
+        title: Eplerenone
+    desc: 
+  certain_agreements:
+    restrictive_agreement: There is NOT an agreement between Principal Investigators
+      and the Sponsor (or its agents) that restricts the PI's rights to discuss or
+      publish trial results after the trial is completed.
+    pi_employee: Principal Investigators are NOT employed by the organization sponsoring
+      the study.
+  outcome_list:
+    outcome:
+    - description: a sensitive measurement of heart function using cardiac MRI, change
+        was 12 months minus baseline.
+      title: 12-month Change in Myocardial Strain
+      safety_issue: 'No'
+      time_frame: baseline and 12 months
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: 'placebo: one tablet by mouth daily for 12 months'
+          title: Placebo
+        - attributes:
+            group_id: O2
+          description: eplerenone one tablet by mouth daily for 12 months
+          title: Eplerenone
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '20'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '20'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: a sensitive measurement of heart function using cardiac MRI,
+            change was 12 months minus baseline.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: '1.3'
+                    value: '2.2'
+                    upper_limit: '3.1'
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: '0.3'
+                    value: '1.0'
+                    upper_limit: '2.2'
+          title: 12-month Change in Myocardial Strain
+          param: Median
+          dispersion: Inter-Quartile Range
+          units: percent change in heart dimension
+      type: Primary
+      population: 
+  participant_flow:
+    period_list:
+      period:
+      - drop_withdraw_reason_list: {}
+        milestone_list:
+          milestone:
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '22'
+                  group_id: P1
+              - attributes:
+                  count: '20'
+                  group_id: P2
+            title: STARTED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '20'
+                  group_id: P1
+              - attributes:
+                  count: '20'
+                  group_id: P2
+            title: COMPLETED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '2'
+                  group_id: P1
+              - attributes:
+                  count: '0'
+                  group_id: P2
+            title: NOT COMPLETED
+        title: Overall Study
+    recruitment_details: 
+    pre_assignment_details: Enrollment was required prior to assignment.
+    group_list:
+      group:
+      - attributes:
+          group_id: P1
+        description: |-
+          placebo
+          placebo: one tablet by mouth daily for 12 months
+        title: Placebo
+      - attributes:
+          group_id: P2
+        description: |-
+          active study drug
+          eplerenone: 25mg tablet, once daily by mouth for 12 months
+        title: Eplerenone
+study_design: 'Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention
+  Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator,
+  Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- cardiomyopathy
+- aldosterone antagonist
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Mattel Children's Hospital and David Geffen School of Medicine at UCLA
+    address:
+      city: Los Angeles
+      state: California
+      zip: 90095-1743
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: The Ohio State University Medical Center
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43210'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+official_title: Early Treatment With Aldosterone Antagonism Attenuates Cardiomyopathy
+  in Duchenne Muscular Dystrophy
+verification_date: June 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01521546
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Eplerenone for Subclinical Cardiomyopathy in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Cardiomyopathies
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Duchenne muscular dystrophy (DMD), the most common muscular dystrophy, leads to skeletal and
+          cardiac muscle damage. Treatment of pulmonary complications has improved survival; however,
+          heart muscle disease or cardiomyopathy has emerged as a leading cause of death, typically by
+          the third decade. Although myocardial changes begin early, clinically significant heart
+          disease is rarely detected in the first decade of life. Consequently, DMD cardiomyopathy
+          frequently goes unrecognized (and untreated) until advanced (and irreversible).
+
+          Current DMD cardiovascular care guidelines recommend beta-blockers and angiotensin
+          converting enzyme inhibitors (ACEIs) when decreased ejection fraction (EF) is noted by
+          echocardiography (echo); however, this strategy has not significantly improved outcomes. Our
+          team has recently made a breakthrough in a mouse study, showing in a model that causes the
+          same heart muscle disease in humans with DMD adding an old medicine traditionally used for
+          high blood pressure and late-stage heart failure can actually prevent heart muscle damage.
+          Because of this drug's proven safety in both children and adults, it is ready to be studied
+          immediately in an RCT in patients with DMD to hopefully show, as we did in mice, that we can
+          prevent the devastating consequences of heart muscle damage.
+enrollment:
+  attributes:
+    type: Actual
+  value: '42'
+lastchanged_date: June 26, 2015

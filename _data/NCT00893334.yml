@@ -1,0 +1,287 @@
+---
+firstreceived_date: May 4, 2009
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: December 2013
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Specific Aims:
+
+          Aim 1: Evaluate integrity of the extracellular matrix in patients with LGMD by measuring
+          serum growth factors and cytokines and compare these to a disease control (BMD) and normal
+          volunteers.
+
+          Aim 2: Measure growth factors and cytokines following medical evaluation and compare them to
+          the baseline levels.
+
+          Aim 3: Discovery Aim for future multicenter clinical trials in LGMD. Aim 3A: Abstract
+          medical records with particular emphasis on age of disease onset, initial clinical symptoms,
+          progression and location of the muscular weakness, treatments attempted, and other medical
+          complications. A review of the diagnostic testing performed will also be conducted.
+
+          Aim 3B: Perform complete clinical evaluation including anthropometric measures, evaluation
+          of joint limitations, timed functional testing, muscle strength, pulmonary function, and a
+          cardiac assessment.
+
+          Aim 3C: Determine patient understanding of diagnosis of LGMD and genetic testing results. A
+          questionnaire will be generated that addresses the patient's understanding of his/her
+          diagnosis as well as their understanding of genetic concepts of autosomal recessive
+          inheritance, genes, molecular testing and implications for themselves as well as their
+          family.
+
+          Aim 3D: Quality of Life (QOL) questionnaires will be administered. These will be used to
+          identify functional limitations by the patients and compare those limitations with the
+          clinical evaluation.
+
+          Study Description
+
+          Only one visit will be necessary for this study. The study visit includes:
+
+            1. Review of the informed consent form
+
+            2. Blood collection Blood will be collected for the following: DNA extraction to confirm
+               genotype if not already performed; Muscle Enzymes before and after physical evaluation;
+               and Growth factors and cytokines: before and after physical evaluation.
+
+            3. Medical history review
+
+            4. Physical Examination
+
+            5. Questionnaires: Participants will complete 3 questionnaires: Diagnosis and genetic
+               testing, ACTIVLIM, and INQoL
+
+            6. Clinical Evaluator assessment which includes: Manual Muscle Testing, Quantitative
+               Muscle Testing, Pulmonary Function Testing, Anthropometric measurements, and Timed and
+               Functional testing
+
+            7. Cardiac evaluation will include: Electrocardiogram and Echocardiogram
+
+          Control subjects will be required to come to the test site to complete the informed consent
+          process, clinical evaluator assessment, and have blood drawn before and after the clinical
+          evaluator assessment. No other examinations or procedures will be performed on the control
+          participants.
+link:
+- url: http://www.cinrgresearch.org
+  description: CINRG
+has_expanded_access: 'No'
+id: NCT00893334
+intervention: []
+source: Cooperative International Neuromuscular Research Group
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: Non-Probability Sample
+  minimum_age: 18 Years
+  study_pop:
+    textblock: |-
+      The subject population will include all patients diagnosed LGMD2I, LGMD2A, LGMD2B, and
+              BMD. BMD is an X-linked recessive condition that only affects males. It has been described
+              in all ethnic backgrounds. LGMD2I, LGMD2A and LGMD2B are autosomal recessive conditions
+              affecting both males and females of all ethnic backgrounds equally, both sexes and all
+              ethnicities are expected to be equally represented. Clinical symptoms manifest in the
+              second decade of life, therefore all participants will be over the age of 18. Healthy
+              controls will be recruited to match the study population based on age, sex, and ethnicity.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  18 years of age or older.
+
+                -  Diagnosis of LGMD2I, LGMD2A, LGMD2B, or BMD as determined by muscle biopsy
+                   immunohistochemistry, immunoblotting, or molecular analysis.
+
+                -  Able to travel to study site
+
+                -  Normal controls will be recruited as either friends of the study participants or
+                   through separate recruitment.
+
+              Exclusion Criteria:
+
+                -  Unable to travel to study site.
+
+                -  Do not have the diagnosis of LGMD2I, LGMD2A, LGMD2B, or BMD after review of clinical
+                   testing.
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: December 2013
+last_injected: '2015-09-26T00:59:54.026Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: April 2009
+why_stopped: 
+id_info:
+  org_study_id: IRB#4463
+  secondary_id:
+  - 'MDA Grant: 129066'
+  nct_alias: []
+  nct_id: NCT00893334
+acronym: 
+arm_group:
+- description: Patients diagnosed with Becker Muscular Dystrophy
+  arm_group_label: 'BMD:'
+  arm_group_type: 
+- description: patient diagnosed with Limb-Girdle Muscular Dystrophy, type 2A Calpain-3
+    deficiency
+  arm_group_label: LGMD2A
+  arm_group_type: 
+- description: Patients diagnosed with Limb-Girdle Muscular Dystrophy, type 2B Miyoshi
+    myopathy Dysferlin deficiency
+  arm_group_label: LGMD2B
+  arm_group_type: 
+- description: Patients diagnosed with Limb-Girdle Muscular Dystrophy, type 2I FKRP-deficiency
+  arm_group_label: LGMD2I
+  arm_group_type: 
+- description: Healthy Controls
+  arm_group_label: Control
+  arm_group_type: 
+sponsors:
+  collaborator:
+  - agency: Carolinas Medical Center lead study site
+    agency_class: Other
+  lead_sponsor:
+    agency: Cooperative International Neuromuscular Research Group
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 24 months
+  description: 
+  measure: Evaluation of surrogate and clinically relevant outcome measures in LGMD.
+- safety_issue: 'No'
+  time_frame: 24 months
+  description: 
+  measure: Quality of life questionnaires to correlate patient- perceived limitations
+    in daily activities with the quantitative strength measurements and functional
+    ability with timed testing.
+- safety_issue: 'No'
+  time_frame: 24 months
+  description: 
+  measure: Evaluation of patient understanding in their diagnosis and genetic etiology
+    of their diagnosis.
+study_type: Observational
+biospec_retention: Samples With DNA
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 12 months
+  description: 
+  measure: The measurement of growth factors (TGF-B, IGF-II) and cytokines (IL18,
+    IL1A, and IL1B) between the different types of LGMD and BMD.
+- safety_issue: 'No'
+  time_frame: 12 months
+  description: 
+  measure: The difference in the growth factors (TGF-B, IGF-II) and cytokines (IL18,
+    IL1A, and IL1B) pre-evaluation and post-evaluation.
+overall_official:
+- first_name: 
+  last_name: Carolina Tesi-Rocha, M.D.
+  middle_name: 
+  affiliation: Cooperative International Neuromuscular Research Group
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Susan Sparks, M.D., Ph.D.
+  middle_name: 
+  affiliation: Levine Children's Hospital at Carolinas Medical Center
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Becker Muscular Dystrophy
+- Limb-Girdle Muscular Dystrophy, Type 2A (Calpain-3 Deficiency)
+- Limb-Girdle Muscular Dystrophy, Type 2B (Miyoshi Myopathy, Dysferlin Deficiency)
+- Limb-Girdle Muscular Dystrophy, Type 2I (FKRP-deficiency)
+clinical_results: {}
+study_design: 'Observational Model: Case Control, Time Perspective: Prospective'
+keyword:
+- Duchenne and Becker muscular dystrophy
+- muscular dystrophy
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '5'
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's National Medical Center
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: '20010'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Carolinas Medical Center
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+official_title: Evaluation of Limb-Girdle Muscular Dystrophy
+verification_date: March 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00893334
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Evaluation of Limb-Girdle Muscular Dystrophy
+biospec_descr:
+  textblock: |-
+    Blood samples will be collected one time for DNA analysis.Only to confirm genotype if
+          results are not available prior enrollement
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophies, Limb-Girdle
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to understand the biochemistry of different types of
+          Limb-Girdle Muscular Dystrophy (LGMD) and to determine appropriate outcome measures for
+          future clinical treatment trials for LGMD. It is being conducted at two sites in the
+          Cooperative International Neuromuscular Research Group (CINRG). It involves a one day
+          clinical evaluation at a participating institution that will take approximately four to six
+          hours, and will involve strength testing and muscle functional testing by a physical
+          therapist, an evaluation by a physician, pulmonary function testing, a complete cardiac
+          evaluation with electrocardiogram (ECG or EKG) and echocardiogram (Echo), and involve two
+          blood draws, one before the evaluation and one after the evaluation is complete. During the
+          visit, the participant will be asked to fill out a couple of questionnaires asking questions
+          about quality of life and activity limitations, as well as his/her understanding of their
+          diagnosis with regards to etiology (or cause of their muscle disorder), genetics, and
+          inheritance of their muscle disorder.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '60'
+lastchanged_date: March 6, 2014

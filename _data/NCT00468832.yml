@@ -1,0 +1,1006 @@
+---
+firstreceived_date: May 1, 2007
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Lauren Morgenroth, MS, CGC
+  middle_name: 
+  phone_ext: 
+  phone: 412-224-2030
+  degrees: 
+  email: lhache@childrensnational.org
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2019
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Phenotyping Study Aims
+
+          Aim 1: Longitudinally assess body function and body structure (impairment) through the
+          measurement of anthropometrics, muscle strength and pulmonary function in subjects with DMD
+          through the multicenter CINRG network.
+
+          Aim 2: Longitudinally assess activity limitations in subjects with DMD through CINRG with
+          timed motor performance, burden of care, and functional status.
+
+          Aim 3: Longitudinally assess secondary conditions in subjects with DMD, and relative risks
+          of developing those conditions based on exposure to preventive interventions.
+
+          Aim 4: Longitudinally assess participation, life satisfaction, service utilization and
+          health-related quality of life in subjects with DMD.
+
+          Aim 5: Determine appropriate outcome measurements for impairment, activities (activity
+          limitations), participation and quality of life to determine the effect of prednisone and
+          other therapeutic interventions on these factors.
+
+          Aim 6: Using the most robust impairment, activity, participation and quality of life outcome
+          measures, determine the sample size, power and statistical methods for the analysis of the
+          effect size for future planned randomized-controlled rehabilitation interventions in DMD.
+
+          Aim 7: Examine the associations between interventions and incidence and severity of
+          secondary conditions, achievement of disease milestones and measures of motor function and
+          mobility.
+
+          Aim 8: To assess the validity and responsiveness of novel clinical outcome measures in DMD,
+          including the 6-minute walk test (6MWT), the 9-hole peg test (9-HPT) Egen Klassification
+          Scale(EK), the North Star Ambulatory Assessment (NSAA), and quantitative key and pinch grip
+          strength testing.
+
+          Aim 9: To assess the reliability, validity and responsiveness of novel patient-reported
+          outcome(PRO) measures in DMD, including the NeuroQOL and PedsQL Neuromuscular Module.
+
+          Aim 10: To assess the clinical meaningfulness of novel objective clinical outcome measures
+          by assessing their ability to predict milestones of loss of ability to stand from supine, to
+          stand from a seated position, to climb stairs, to ambulate independently and to raise a hand
+          to the mouth.
+
+          AIM 11: To determine the impact of development and growth on outcome measure performance,we
+          will assess physical function on a group of healthy, typically developing male children and
+          adults between 6 and 30 years of age for outcome measures of motor function and strength
+          including the9-HPT, 6MWT, NSAA, timed function tests and quantitative muscle strength (QMT).
+          Test results from this cohort will be used to develop initial percent predicted for age
+          values for these assessments.
+
+          SNP Genotyping Study Aim
+
+          Our goal of the proposed study is to define polygenic modifiers of disease progression, and
+          also response to treatment with glucocorticoids (prednisone and deflazacort). The most
+          common type of human genetic variation is the single-nucleotide polymorphism (SNP, a base
+          position at which two alternative bases occur at an appreciable frequency (>1%) in the
+          population. SNPs are 90% of variation in the human genome. SNPs occur on the average of 1
+          per 1000 to 2000 bp throughout the 3.2 billion bp of the human genome while coding region
+          SNPs (cSNPs) occur on the average of 1 per 346 bp.
+
+          Genome-wide Association Study Aim
+
+          Our goal of the proposed study is to isolate genomic DNA and find possible correlations of
+          clinical phenotypes with gene loci associated with mild vs. severe clinical presentation,
+          progression, or response to steroids.
+
+          Serum Biomarkers Study Aim
+
+          Our goal is to discover and validate sensitive and specific serum biomarkers for DMD.
+link:
+- url: http://www.cinrgresearch.org
+  description: CINRG Website
+has_expanded_access: 'No'
+id: NCT00468832
+intervention: []
+source: Cooperative International Neuromuscular Research Group
+eligibility:
+  gender: Male
+  maximum_age: 30 Years
+  sampling_method: Non-Probability Sample
+  minimum_age: 2 Years
+  study_pop:
+    textblock: |-
+      The incidence of DMD is considered equal across racial and ethnic groups. At the start of
+              the CINRG program, it was assumed by investigators that the aggregate subject populations
+              of the participating US sites should closely mirror the racial and ethnic distribution of
+              the US population.
+
+              DMD is an X-linked recessive disease affecting only males. However, female carriers of the
+              disease can be symptomatic due to skewed X-inactivation, a secondary genetic event. We
+              have opted to study the most commonly affected population, males, to ensure subject
+              homogeneity. As such, there are no outreach programs planned for women in this study.
+  criteria:
+    textblock: |-
+      DMD Subject Inclusion Criteria
+
+                -  Affected subjects must be male and between the ages of 2 and 30
+
+                -  Affected subjects between the ages of 2 and 4 must have a diagnosis of DMD confirmed
+                   by at least one the following OR have an older male sibling that meet at least one of
+                   the following criteria:
+
+                     -  Dystrophin immunofluorescence and/or immunoblot showing complete dystrophin
+                        deficiency, and clinical picture consistent with typical Duchenne dystrophy OR
+
+                     -  Gene deletion test positive (missing one or more exons) in the central rod
+                        domain exons 25-60) of dystrophin, where reading frame can be predicted as
+                        'out-of-frame',and clinical picture consistent with typical Duchenne dystrophy.
+
+                     -  Complete dystrophin gene sequencing showing an alteration (point mutation,
+                        duplication, other) that is expected to preclude production of the dystrophin
+                        protein(i.e. nonsense mutation, deletion/duplication leading to a downstream
+                        stop codon),with a typical clinical picture of DMD.
+
+                -  Affected subjects between the ages of 5 and 30 must either fulfill the above criteria
+                   OR show evidence of a dystrophinopathy and clinical picture consistent with Duchenne
+                   Muscular Dystrophy
+
+                     -  Participants who have documented clinical symptoms referable to a
+                        dystrophinopathy and direct support of the diagnosis by either (1) a positive
+                        DNA analysis for dystrophin mutation, (2) a muscle biopsy demonstrating abnormal
+                        dystrophin, or (3) an elevated CK (>5X normal), and X-linked pedigree and an
+                        affected family member who meets either criterion (1) or (2) as described above.
+
+              NOTE: Determination of the appropriate clinical symptoms consistent with DMD will
+              generally be the responsibility of the clinician. At a minimum this will include
+              progressive loss of function, with additional consideration for other clinical features
+              such as a characteristic gait, a positive Gower sign and calf pseudohypertrophy. When
+              immunostaining of muscle biopsy is used to determining case definition, the clinical
+              reviewer (site PI) should confirm that appropriate testing has ruled out a secondary
+              deficiency of dystrophin. Affected subjects that do not exhibit the above symptoms
+              consistent with DMD should be excluded.
+
+              o Muscle weakness prevalent by 5 years of age
+
+              - Non-affected adult subjects must be Parent(s) or legal guardian(s) of an eligible
+              affected subject.
+
+              DMD Serum Biomarker Inclusion Criteria
+
+                -  Participants must meet eligibility criteria for the DMD phenotyping portion of this
+                   study
+
+                -  For the GC-treatment response cohort, participants must initiate GC treatment within
+                   the first year of study participation (i.e. between their first study visit and their
+                   one year follow-up visit)
+
+              DMD Subject Exclusion Criteria
+
+              For those subjects that confirm DMD diagnosis through a clinical picture consistent with
+              DMD
+
+                -  Steroid-naïve subjects ambulating past the 13th birthday
+
+                -  Steroid users ambulating past the 16th birthday
+
+                -  Subjects/families who are unwilling or unable to comply with the protocol study
+                   procedures or visits
+
+              Controls Subject Inclusion Criteria
+
+                -  Male sex
+
+                -  Age 6-30 years
+
+                -  Able to comply with functional testing instructions
+
+              Control Serum Biomarker Inclusion criteria
+
+                -  Participants must be male
+
+                -  Participants must be free of DMD, other neuromuscular disease, or other significant
+                   concomitant illness
+
+                -  Participant must be free of glucocorticoid therapy
+
+              Control Subject Exclusion Criteria
+
+                -  Musculoskeletal disease
+
+                -  Musculoskeletal injury within 6 months of enrollment
+
+                -  Other concomitant illness that precludes functional testing in the judgment of the
+                   investigator or clinical evaluator
+
+                -  Completion of enrollment for age cohort
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries:
+  country:
+  - Japan
+  - Puerto Rico
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2019
+last_injected: '2015-09-25T22:36:03.238Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: December 2005
+why_stopped: 
+id_info:
+  org_study_id: UCD0305
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00468832
+acronym: 
+arm_group:
+- description: 340 patients currently enrolled participants with DMD.
+  arm_group_label: Ongoing Duchenne Muscular Dystrophy (DMD) Cohort
+  arm_group_type: 
+- description: Additional 100 confirmed DMD participants aged 4-7 years old to be
+    recruited.
+  arm_group_label: New Young Duchenne Muscular Dystrophy (DMD) Cohort
+  arm_group_type: 
+- description: Up to 370 typically developing male children and adults aged 6-30 years
+    old to be recruited.
+  arm_group_label: Typically Developing Control Cohort
+  arm_group_type: 
+sponsors:
+  collaborator:
+  - agency: U.S. Department of Education
+    agency_class: U.S. Fed
+  - agency: National Institutes of Health (NIH)
+    agency_class: NIH
+  - agency: Department of Defense
+    agency_class: U.S. Fed
+  - agency: Parent Project Muscular Dystrophy
+    agency_class: Other
+  lead_sponsor:
+    agency: Cooperative International Neuromuscular Research Group
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Collected either once at any visit or each visit
+  description: |-
+    Genotyping and Serum Biomarkers include blood/saliva collection for:
+    Blood collection for Genome Wide Association Study (GWAS) analysis (one time sample, any visit)
+    Blood or saliva collection for SNP sample (one time sample, any visit)
+    Blood collection for biomarker analysis (collected at each visit)
+  measure: Biomarkers and genetic modifiers
+study_type: Observational
+biospec_retention: Samples With DNA
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Collected at yearly visits
+  description: |-
+    These assessments include:
+    Quantitative muscle testing
+    Manual muscle testing
+    Pulmonary function testing
+    Functional evaluations (nine hole peg, six minute walk, North Star ambulatory assessment, Brooke and Vignos scales, Egen Klassification (EK) scale, and range of motion).
+  measure: Strength and function
+- safety_issue: 'No'
+  time_frame: Collected at yearly visits
+  description: |-
+    These questionnaires include:
+    Pediatric Quality of Life Inventory (PedsQL)
+    Pediatric Orthopaedic Functional Health Questionnaire of the Pediatric Orthopaedic Society of North America (POSNA)
+    World Health Organization Quality of Life Assessment - Brief (WHO QOL Brief)
+    Pediatrics and Adult Neuromuscular module Quality of Life (NeuroQOL)
+    Review of Systems
+  measure: Quality of life
+- safety_issue: 'No'
+  time_frame: Collected at yearly visits
+  description: Outcomes on ambulation status, medication history, hospitalizations,
+    surgeries, nutrition, fractures, and cardiac tests.
+  measure: Medical history assessment
+overall_official:
+- first_name: 
+  last_name: Craig McDonald, MD
+  middle_name: 
+  affiliation: University of California, Davis
+  degrees: 
+  role: Study Chair
+phase: N/A
+location_countries:
+  country:
+  - Argentina
+  - Australia
+  - Canada
+  - India
+  - Israel
+  - Italy
+  - Sweden
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Case Control, Time Perspective: Prospective'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '3'
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of California, Davis
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Craig McDonald, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Divya Reddy
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: divya.reddy@ucdmc.ucdavis.edu
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's National Medical Center
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: '20010'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Mathula Thangarajh, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Allyn Toles
+    middle_name: 
+    phone_ext: 
+    phone: 202-476-4802
+    degrees: 
+    email: AToles2@childrensnational.org
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: University of of Florida
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Barry Byrne, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kaitlyn Faris
+    middle_name: 
+    phone_ext: 
+    phone: 352-273-7573
+    degrees: 
+    email: kfaris10@ufl.edu
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Lurie Children's Hospial
+    address:
+      city: Chicago
+      state: Illinois
+      zip: '60614'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Nancy Kuntz, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Lauren Webb
+    middle_name: 
+    phone_ext: 
+    phone: 312-227-4483
+    degrees: 
+    email: LWebb@luriechildrens.org
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Minnesota
+    address:
+      city: Minneapolis
+      state: Minnesota
+      zip: '55455'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Peter Karachunski, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Joline Dalton
+    middle_name: 
+    phone_ext: 
+    phone: 612-625-7967
+    degrees: 
+    email: jcdalton@umn.edu
+  geodata:
+    latitude: 44.98
+    formatted: Minneapolis, MN, USA
+    longitude: -93.264
+    original: Minneapolis, Minnesota
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Washington University, St. Louis
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Anne Connolly, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Alan Pestronk, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Traci Christenson
+    middle_name: 
+    phone_ext: 
+    phone: 314-362-6991
+    degrees: 
+    email: christensont@neuro.wustl.edu
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Carolinas Medical Center
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: '28207'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Amy Harper, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jackie Sykes
+    middle_name: 
+    phone_ext: 
+    phone: 704-333-3967
+    degrees: 
+    email: Jacqueline.Sykes@carolinashealthcare.org
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Duke Children's Hospital
+    address:
+      city: Durham
+      state: North Carolina
+      zip: '27710'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Edward Smith, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Karen Cornett
+    middle_name: 
+    phone_ext: 
+    phone: 919-684-1143
+    degrees: 
+    email: k.cornett@duke.edu
+  geodata:
+    latitude: 35.994
+    formatted: Durham, NC, USA
+    longitude: -78.899
+    original: Durham, North Carolina
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Pittsburgh of UPMC
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: '15213'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Paula Clemens, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Hoda Abdel-Hamid, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Andrea Smith, MS, CGC
+    middle_name: 
+    phone_ext: 
+    phone: 412-383-7207
+    degrees: 
+    email: smithal7@upmc.edu
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Tennessee
+    address:
+      city: Memphis
+      state: Tennessee
+      zip: '38104'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Tulio Bertorini, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Cindy Benzel
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: 
+  geodata:
+    latitude: 35.15
+    formatted: Memphis, TN, USA
+    longitude: -90.049
+    original: Memphis, Tennessee
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Virginia
+    address:
+      city: Richmond
+      state: Virginia
+      zip: '23220'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Eugenio Monasterio, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Jean Teasley, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Barbara Grillo, RN
+    middle_name: 
+    phone_ext: 
+    phone: 804-228-5213
+    degrees: 
+    email: bgrillo@chva.org
+  geodata:
+    latitude: 37.541
+    formatted: Richmond, VA, USA
+    longitude: -77.436
+    original: Richmond, Virginia
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Fundacion Favaloro
+    address:
+      city: Buenos Aires
+      state: 
+      zip: '1434'
+      country: Argentina
+  investigator:
+  - first_name: 
+    last_name: Alberto Dubrovsky, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Lilia Mesa, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Luz Andreone
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: luzandreone@hotmail.com
+  geodata:
+    latitude: -34.608
+    formatted: Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina
+    longitude: -58.373
+    original: Buenos Aires, Argentina
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: The Children's Hospital at Westmead
+    address:
+      city: Sydney
+      state: New South Wales
+      zip: '2145'
+      country: Australia
+  investigator:
+  - first_name: 
+    last_name: Richard Webster, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kayla Cornett
+    middle_name: 
+    phone_ext: 
+    phone: "(02) 98451328"
+    degrees: 
+    email: kayla.cornett@health.nsw.gov.au
+  geodata:
+    latitude: -33.874
+    formatted: Sydney NSW, Australia
+    longitude: 151.207
+    original: Sydney, New South Wales
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Royal Children's Hospital
+    address:
+      city: Melbourne
+      state: Victoria
+      zip: '3052'
+      country: Australia
+  investigator:
+  - first_name: 
+    last_name: Monique Ryan, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kate Carroll
+    middle_name: 
+    phone_ext: 
+    phone: 61-3-9345-5641
+    degrees: 
+    email: Kate.Carroll@rch.org.au
+  geodata:
+    latitude: -37.813
+    formatted: Melbourne VIC, Australia
+    longitude: 144.963
+    original: Melbourne, Victoria
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Alberta Children's Hospital
+    address:
+      city: Calgary
+      state: Alberta
+      zip: T2T 5C7
+      country: Canada
+  investigator:
+  - first_name: 
+    last_name: Jean Mah, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jean Mah, MD
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: Jean.Mah@albertahealthservices.ca
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Alberta
+    address:
+      city: Edmonton
+      state: Alberta
+      zip: T6G 2J3
+      country: Canada
+  investigator:
+  - first_name: 
+    last_name: Hannah Kolski, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Hannah Kolski, MD
+    middle_name: 
+    phone_ext: 
+    phone: 780-407-1083
+    degrees: 
+    email: Hanna.Kolski@albertahealthservices.ca
+  geodata:
+    latitude: 53.544
+    formatted: Edmonton, AB, Canada
+    longitude: -113.49
+    original: Edmonton, Alberta
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Holland Bloorview Kids Rehab Hospital
+    address:
+      city: Toronto
+      state: Ontario
+      zip: M4G 1R8
+      country: Canada
+  investigator:
+  - first_name: 
+    last_name: Laura McAdam, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Gloria Lee
+    middle_name: 
+    phone_ext: 
+    phone: 416-425-6220
+    degrees: 
+    email: glee@hollandbloorview.ca
+  geodata:
+    latitude: 43.653
+    formatted: Toronto, ON, Canada
+    longitude: -79.383
+    original: Toronto, Ontario
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Apollo Hospitals
+    address:
+      city: Chennai
+      state: 
+      zip: 
+      country: India
+  investigator:
+  - first_name: 
+    last_name: V Viswanathan, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Hilda Soloman
+    middle_name: 
+    phone_ext: 
+    phone: 91-4428294735/28295045
+    degrees: 
+    email: hilda@aherf-smo.org
+  geodata:
+    latitude: 13.06
+    formatted: Chennai, Tamil Nadu, India
+    longitude: 80.25
+    original: Chennai, India
+- status: Not yet recruiting
+  contact_backup:
+    first_name: 
+    last_name: Ofir Becker
+    middle_name: 
+    phone_ext: 
+    phone: 972-546275055
+    degrees: 
+    email: Ofirbe3@clalit.org.il
+  facility:
+    name: Schneider Children's Medical Center of Israel
+    address:
+      city: Petach Tikvah
+      state: 
+      zip: 
+      country: Israel
+  investigator:
+  - first_name: 
+    last_name: Yoram Nevo, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Tamar Lev
+    middle_name: 
+    phone_ext: 
+    phone: 972-3-925-3559
+    degrees: 
+    email: TamarLe5@clalit.org.il
+  geodata:
+    latitude: 32.084
+    formatted: Petah Tikva, Israel
+    longitude: 34.888
+    original: Petach Tikvah, Israel
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: NEMO
+    address:
+      city: Milan
+      state: 
+      zip: 
+      country: Italy
+  investigator:
+  - first_name: 
+    last_name: Ksenija Gorni, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Ksenija Gorni, MD
+    middle_name: 
+    phone_ext: 
+    phone: 011-39-0291433731
+    degrees: 
+    email: ksenija.gorni@centrocliniconemo.it
+  geodata:
+    latitude: 45.464
+    formatted: Milan, Italy
+    longitude: 9.188
+    original: Milan, Italy
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Queen Silvia Children's Hospital
+    address:
+      city: Gothenburg
+      state: 
+      zip: 
+      country: Sweden
+  investigator:
+  - first_name: 
+    last_name: Mar Tulinius, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Ulrika Sterky, RN
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: ulrika.sterky@vgregion.se
+  geodata:
+    latitude: 57.709
+    formatted: Gothenburg, Sweden
+    longitude: 11.975
+    original: Gothenburg, Sweden
+official_title: Longitudinal Study of the Relationship Between Impairment, Activity
+  Limitation, Participation and Quality of Life in Persons With Confirmed Duchenne
+  Muscular Dystrophy (DMD)
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00468832
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Tanisha Brown-Caines, MBA
+  middle_name: 
+  phone_ext: 
+  phone: 202-476-2563
+  degrees: 
+  email: tbrownca@childrensnational.org
+brief_title: Longitudinal Study of the Natural History of Duchenne Muscular Dystrophy
+  (DMD)
+biospec_descr:
+  textblock: |-
+    Blood samples are being collected for single-nucleotide polymorphism, Genome-wide
+          Association Study, and biomarker analyses.
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to establish the largest long-term assessment of people with
+          Duchenne muscular dystrophy (DMD). In this study, the investigators associated with the
+          Cooperative International Neuromuscular Research Group CINRG) will take a detailed look (for
+          a minimum of eight years) at DMD participant's physical abilities, the medical problems they
+          experience, and how they use health care services. Physical abilities will be compared to a
+          group of healthy controls.
+
+          The second purpose of this study is to find out whether small, normal differences in the
+          genetic makeup of people with DMD (called "single nucleotide polymorphisms" or "SNPs")
+          affect how their disease progresses and relates to muscle strength/size and steroid
+          response.
+
+          The third purpose of this study is to study genetic variations associated with DMD.
+
+          The final purpose of this study is to determine whether certain biomarkers are present in
+          people with DMD and not in healthy controls.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '810'
+lastchanged_date: September 11, 2015

@@ -1,0 +1,206 @@
+---
+firstreceived_date: July 5, 2011
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: May 2012
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    Dystrophinopathy is a muscular dystrophy (includes Duchenne or Becker's Muscular Dystrophy)
+          that can be a lethal muscle disorder resulting from defects in the gene for dystrophin, a
+          structural protein required to maintain muscle integrity. Absence of functional dystrophin
+          leaves the muscle membrane vulnerable to damage during contraction. This damage can be
+          exacerbated by an inflammatory response leading to myofiber necrosis.
+
+          L-arginine is a widely available dietary supplement amino acid postulated to affect
+          dystrophinopathy in several favorable ways: upregulation of utrophin, vasodilation in muscle
+          via nitric oxide, enhanced synthesis of creatine, increase levels of growth hormone.
+
+          We hypothesize that administration of L-arginine may increase levels of creatine and growth
+          hormone and in turn reduce the extent of myofiber damage in our patients with
+          dystrophinopathy
+link: []
+has_expanded_access: 'No'
+id: NCT01388764
+intervention:
+- intervention_name: L-arginine
+  other_name: []
+  description: Subjects will receive oral L-Arginine (0.3 grams/kg/day, divided 2
+    times per day, not to exceed 14 grams/day)
+  arm_group_label:
+  - L-arginine
+  intervention_type: Drug
+source: Massachusetts General Hospital
+eligibility:
+  gender: Male
+  maximum_age: 11 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Confirmation of diagnosis of dystrophinopathy, documented by clinical exam and
+                   dystrophin DNA mutation analysis
+
+                -  Ambulatory male subjects between the ages of 7-11 years
+
+                -  Stable dosage of corticosteroids for 3 months prior to entry (Screening/Baseline Day
+                   0) and during treatment period
+
+                -  Able to follow instructions and give assent
+
+                -  Able to complete nonsedated MR
+
+              Exclusion Criteria:
+
+                -  Presence of metallic orthopedic hardware in the lower extremity that could affect
+                   MRI/MRS measurements
+
+                -  Routine MRI exclusion criteria such as the presence of a pacemaker, cochlear implant,
+                   or cerebral aneurysm clip
+
+                -  Subjects not capable of cooperating during MR examination
+
+                -  Known hypersensitivity to L-arginine
+
+                -  Exposure to another investigational agent, investigational supplements, growth
+                   hormone within 3 months prior to entry (Screening/Baseline Day 0) or during treatment
+                   period
+
+                -  Subjects must not be taking L-arginine for at least 4 weeks prior to entry (Day 0)
+
+                -  Subjects who are non-ambulatory or with daytime ventilatory dependence
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: May 2012
+last_injected: '2015-07-13T13:45:44.253Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: January 2012
+why_stopped: 
+id_info:
+  org_study_id: 2011D001591
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01388764
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: L-arginine
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Massachusetts General Hospital
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: Day 0 and Day 30
+  description: We will obtain safety labs [complete blood count (CBC) and comprehensive
+    metabolic panel (CMP)] from all subjects (N =8), at day 0 and day 30, after 30
+    days of oral L-argninine administration.
+  measure: Blood tests
+- safety_issue: 'No'
+  time_frame: Day 0 and Day 30
+  description: Measurements of upper and lower extremity strength will be performed
+    using a hand-held dynamometer. Functional tests will also be performed which include
+    time to walk specified distances and time to climb stairs.
+  measure: Assessment of muscle strength and function
+- safety_issue: 'No'
+  time_frame: Day 0 and Day 30
+  description: Subjects will have pulmonary function studies to assess forced vital
+    capacity
+  measure: Pulmonary function tests
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Day 0 and Day 30
+  description: MRI/MRS will be performed of the calf muscle in all subjects (N=8)
+    to assess muscle signal abnormalities on MRI and creatine levels on MRS, done
+    at the start of the study (Day 0) and at the end of the study (Day 30), after
+    30 days of L-arginine administration.
+  measure: MRI/MRS of calf muscle
+overall_official:
+- first_name: 
+  last_name: Namita Goyal, MD
+  middle_name: 
+  affiliation: Massachusetts General Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1
+location_countries:
+  country:
+  - United States
+condition:
+- Dystrophinopathy
+- Duchenne Muscular Dystrophy
+- Becker's Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy
+  Study, Intervention Model: Single Group Assignment, Masking: Open Label'
+keyword:
+- L-arginine supplement study
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Massachusetts General Hospital
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02114'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+official_title: 'Pilot Study: To Assess the Safety, Tolerability and Effects of L-Arginine
+  on Muscles in Boys With Dystrophinopathy on Corticosteroids'
+verification_date: June 2012
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01388764
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Safety, Tolerability and Effects of L-Arginine in Boys With Dystrophinopathy
+  on Corticosteroids
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of the study is to assess the safety, tolerability, and effects of L-Arginine on
+          muscles in boys with dystrophinopathy on corticosteroids. Specifically, to see if L-arginine
+          reduces muscle signal abnormalities on MRI done pre and post 30 days of L-arginine
+          administration.
+enrollment:
+  attributes:
+    type: Actual
+  value: '7'
+lastchanged_date: June 30, 2012

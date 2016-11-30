@@ -1,0 +1,4716 @@
+---
+firstreceived_date: December 24, 2008
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: December 2010
+responsible_party: {}
+firstreceived_results_date: June 8, 2015
+is_section_801: 
+detailed_description:
+  textblock: Primary outcome is safety, tolerability and dose selection for future
+    studies.
+link:
+- url: http://www.sciencedirect.com/science/article/pii/S0140673611607563
+  description: Exon skipping and dystrophin restoration in patients with Duchenne
+    muscular dystrophy after systemic phosphorodiamidate morpholino oligomer treatment
+    an open-label, phase 2, dose-escalation study
+has_expanded_access: 'No'
+id: NCT00844597
+intervention:
+- intervention_name: AVI-4658 for Injection
+  other_name:
+  - Eteplirsen
+  description: AVI-4658 for Injection, is packaged as 100 mg/mL in phosphate buffered
+    saline with 1 mL per vial. Study dosages will be infused over a 1 hour period
+    with Normal saline in 6 dose cohorts.
+  arm_group_label:
+  - Cohort 1 - 0.5 mg/kg/wk
+  - Cohort 2 - 1.0 mg/kg/wk
+  - Cohort 3 - 2.0 mg/kg/wk
+  - Cohort 4 - 4.0 mg/kg/wk
+  - Cohort 5 - 10.0 mg/kg/wk
+  - Cohort 6 - 20.0 mg/kg/wk
+  intervention_type: Drug
+source: Sarepta Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 15 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                1. Has provided written informed assent (as required by EC) and parents/guardians have
+                   provided written informed consent.
+
+                2. Has an out-of-frame deletion(s) that could be corrected by skipping exon 51 based on
+                   DNA sequencing data from the candidate.
+
+                3. Is male and between the ages of ≥ 5 years and ≤ 15 years.
+
+                4. Has a muscle biopsy analysis showing < 5% revertant fibres present at baseline.
+
+                5. DNA sequencing of the candidate's dystrophin exon 51 confirms that no DNA
+                   polymorphisms are present that could compromise PMO duplex formation or there is
+                   confirmation of in vitro dystrophin production after AVI-4658 exposure to fibroblast
+                   or myoblast in vitro cultures.
+
+                6. Intact right and left bicep muscles or alternative arm muscle group.
+
+                7. Is able to walk independently at least 25 meters.
+
+                8. Has a forced vital capacity (FVC) ≥ 50% of predicted and does not require ventilatory
+                   support or supplemental oxygen.
+
+                9. Receives the standard of care for DMD as recommended by the DMD care recommendations
+                   from the North Star UK and TREAT-NMD.
+
+               10. The parent(s) or legal guardian and Subject have undergone counselling about the
+                   expectations of this protocol and agree to participate.
+
+               11. The parent(s) or legal guardian and Subject intend to comply with all study
+                   evaluations and return for all study activities.
+
+              Exclusion Criteria:
+
+                1. A DNA polymorphism within exon 51 that may compromise PMO duplex formation.
+
+                2. Known antibodies to dystrophin.
+
+                3. Lacks intact right and left bicep muscles or alternative arm muscle group.
+
+                4. A calculated creatinine clearance less than 70% of predicted normal for age based on
+                   the Cockcroft and Gault Formula.
+
+                5. A left ventricular ejection fraction (EF) of < 35% and/or fractional shortening of
+                   <25% based on echocardiography (ECHO)during screening.
+
+                6. A history of respiratory insufficiency as defined by need for intermittent or
+                   continuous supplemental oxygen.
+
+                7. A severe cognitive dysfunction rendering the potential subject unable to understand
+                   and comply with the study protocol.
+
+                8. Any known immune deficiency or autoimmune disease.
+
+                9. A known bleeding disorder or has received chronic anticoagulant treatment within
+                   three months of study entry.
+
+               10. Receipt of pharmacologic treatment, apart from corticosteroids, that might affect
+                   muscle strength or function within 8 weeks of study entry (viz., growth hormone,
+                   anabolic steroids).
+
+               11. Surgery within 3 months of study entry or planned for anytime during the duration of
+                   the study.
+
+               12. Another clinically significant illness at time of study entry.
+
+               13. Subject or parent has active psychiatric disorder, has adverse psychosocial
+                   circumstances,recent significant emotional loss, and/or history of depressive or
+                   anxiety disorder that might interfere with protocol compliance.
+
+               14. Use of any experimental treatments, has participated in any DMD interventional
+                   clinical trial within 4 weeks of study entry or participated in the AVI-4658-33
+                   intramuscular (i.m.) trial.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: June 2010
+last_injected: '2015-10-14T23:46:07.321Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '6'
+start_date: January 2009
+why_stopped: 
+id_info:
+  org_study_id: AVI-4658-28
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00844597
+acronym: 
+arm_group:
+- description: Subjects in this group will receive a 0.5 mg/kg/wk dose of AVI-4658
+    over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+    period
+  arm_group_label: Cohort 1 - 0.5 mg/kg/wk
+  arm_group_type: Experimental
+- description: Subjects in this group will receive a 1.0 mg/kg/wk dose of AVI-4658
+    over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+    period
+  arm_group_label: Cohort 2 - 1.0 mg/kg/wk
+  arm_group_type: Experimental
+- description: Subjects in this group will receive a 2.0 mg/kg/wk dose of AVI-4658
+    over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+    period
+  arm_group_label: Cohort 3 - 2.0 mg/kg/wk
+  arm_group_type: Experimental
+- description: Subjects in this group will receive a 4.0 mg/kg/wk dose of AVI-4658
+    over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+    period
+  arm_group_label: Cohort 4 - 4.0 mg/kg/wk
+  arm_group_type: Experimental
+- description: Subjects in this group will receive a 10.0 mg/kg/wk dose of AVI-4658
+    over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+    period
+  arm_group_label: Cohort 5 - 10.0 mg/kg/wk
+  arm_group_type: Experimental
+- description: Subjects in this group will receive a 20.0 mg/kg/wk dose of AVI-4658
+    over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+    period
+  arm_group_label: Cohort 6 - 20.0 mg/kg/wk
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: British Medical Research Council
+    agency_class: Other
+  lead_sponsor:
+    agency: Sarepta Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 'Samples were taken: 30 minutes pre dose; and at 5 (±1), 15 (±2), 30
+    (±5), 60 (±5), and 90 (±5) minutes; and 2, 4, 6, 8, 12, and 24 hours (all ± 15
+    minutes) post dose at Weeks 1, 6, and 12'
+  description: Standard Pharmacokinetic parameters estimated using non-compartmental
+    modeling of plasma concentration data.
+  measure: Pharmacokinetics - Mean Peak Plasma Concentration of AVI-4658 After Administration
+- safety_issue: 'No'
+  time_frame: Biopsies were taken at Baseline and Week 14
+  description: Efficacy was defined as an estimated change in the percentage of dystrophin
+    positive fibers (assessed by IHC) at Week 14 from Baseline after 12 weekly doses
+    of eterplirsen. This outcome measure represents the number of patients to show
+    an increase in the percentage of dystrophin-positive fibers.
+  measure: Efficacy of Eteplirsen Over 12 Weeks of Dosing
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: Baseline to 6 months
+  description: Number of subjects with 1 or more Treatment Emergent Adverse Event
+    that are possibly related to the investigational drug
+  measure: Safety and Tolerability
+- safety_issue: 'Yes'
+  time_frame: from Baseline to Follow up (27 weeks)
+  description: Number of Patients with Treatment Emergent Adverse Events
+  measure: Treatment Emergent Adverse Events
+overall_official:
+- first_name: 
+  last_name: Austen Eddy, MSM
+  middle_name: 
+  affiliation: AVI BioPharma, Director, Clinical Operations
+  degrees: 
+  role: Study Director
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United Kingdom
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results:
+  limitations_and_caveats: 'Due to the small number of study participants, a single
+    adverse event (AE) in 1 patient exceeds the reporting threshold of 5%. Refer to
+    the "Post-Hoc Outcome Measures" #5 for a summary of frequent and related AEs.'
+  baseline:
+    measure_list:
+      measure:
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '3'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '19'
+                  upper_limit: 
+        title: Number of Participants
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: '0.50'
+                  group_id: B1
+                  lower_limit: 
+                  value: '8.3'
+                  upper_limit: 
+              - attributes:
+                  spread: '0.0'
+                  group_id: B2
+                  lower_limit: 
+                  value: '6.0'
+                  upper_limit: 
+              - attributes:
+                  spread: '2.83'
+                  group_id: B3
+                  lower_limit: 
+                  value: '11.0'
+                  upper_limit: 
+              - attributes:
+                  spread: '0.58'
+                  group_id: B4
+                  lower_limit: 
+                  value: '9.7'
+                  upper_limit: 
+              - attributes:
+                  spread: '2.75'
+                  group_id: B5
+                  lower_limit: 
+                  value: '8.8'
+                  upper_limit: 
+              - attributes:
+                  spread: '1.26'
+                  group_id: B6
+                  lower_limit: 
+                  value: '8.8'
+                  upper_limit: 
+              - attributes:
+                  spread: '1.91'
+                  group_id: B7
+                  lower_limit: 
+                  value: '8.7'
+                  upper_limit: 
+        title: Age
+        param: Mean
+        dispersion: Standard Deviation
+        units: years
+      - description: 
+        category_list:
+          category:
+          - sub_title: Female
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Male
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '3'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '19'
+                  upper_limit: 
+        title: Gender
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: Hispanic or Latino
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Not Hispanic or Latino
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '3'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '19'
+                  upper_limit: 
+          - sub_title: Unknown or Not Reported
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+        title: Ethnicity (NIH/OMB)
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: American Indian or Alaska Native
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Asian
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '1'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '1'
+                  upper_limit: 
+          - sub_title: Native Hawaiian or Other Pacific Islander
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Black or African American
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: White
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '1'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '3'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '18'
+                  upper_limit: 
+          - sub_title: More than one race
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Unknown or Not Reported
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B4
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B5
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B6
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B7
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+        title: Race (NIH/OMB)
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: '4.09'
+                  group_id: B1
+                  lower_limit: 
+                  value: '33'
+                  upper_limit: 
+              - attributes:
+                  spread: '3.46'
+                  group_id: B2
+                  lower_limit: 
+                  value: '23.7'
+                  upper_limit: 
+              - attributes:
+                  spread: '6.36'
+                  group_id: B3
+                  lower_limit: 
+                  value: '42.6'
+                  upper_limit: 
+              - attributes:
+                  spread: '19.00'
+                  group_id: B4
+                  lower_limit: 
+                  value: '40.1'
+                  upper_limit: 
+              - attributes:
+                  spread: '14.01'
+                  group_id: B5
+                  lower_limit: 
+                  value: '34.6'
+                  upper_limit: 
+              - attributes:
+                  spread: '8.71'
+                  group_id: B6
+                  lower_limit: 
+                  value: '33.0'
+                  upper_limit: 
+              - attributes:
+                  spread: '10.84'
+                  group_id: B7
+                  lower_limit: 
+                  value: '34.5'
+                  upper_limit: 
+        title: Body Weight
+        param: Mean
+        dispersion: Standard Deviation
+        units: kilograms
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: '5.05'
+                  group_id: B1
+                  lower_limit: 
+                  value: '127.3'
+                  upper_limit: 
+              - attributes:
+                  spread: '4.45'
+                  group_id: B2
+                  lower_limit: 
+                  value: '110.7'
+                  upper_limit: 
+              - attributes:
+                  spread: '5.09'
+                  group_id: B3
+                  lower_limit: 
+                  value: '126.9'
+                  upper_limit: 
+              - attributes:
+                  spread: '14.40'
+                  group_id: B4
+                  lower_limit: 
+                  value: '126.9'
+                  upper_limit: 
+              - attributes:
+                  spread: '10.04'
+                  group_id: B5
+                  lower_limit: 
+                  value: '123.7'
+                  upper_limit: 
+              - attributes:
+                  spread: '7.18'
+                  group_id: B6
+                  lower_limit: 
+                  value: '126.5'
+                  upper_limit: 
+              - attributes:
+                  spread: '8.99'
+                  group_id: B7
+                  lower_limit: 
+                  value: '124.5'
+                  upper_limit: 
+        title: Height
+        param: Mean
+        dispersion: Standard Deviation
+        units: centimeters
+    group_list:
+      group:
+      - attributes:
+          group_id: B1
+        description: Subjects in this group received a 0.5 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 1 - 0.5mg/kg/wk
+      - attributes:
+          group_id: B2
+        description: Subjects in this group received a 1.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 2 - 1.0mg/kg/wk
+      - attributes:
+          group_id: B3
+        description: Subjects in this group received a 2.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 3 - 2.0mg/kg/wk
+      - attributes:
+          group_id: B4
+        description: Subjects in this group received a 4.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 4 - 4.0mg/kg/wk
+      - attributes:
+          group_id: B5
+        description: Subjects in this group received a 10.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 5 - 10.0mg/kg/wk
+      - attributes:
+          group_id: B6
+        description: Subjects in this group received a 20.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 6 - 20.0mg/kg/wk
+      - attributes:
+          group_id: B7
+        description: Total of all reporting groups
+        title: Total
+    population: 
+  point_of_contact:
+    name_or_title: Edward M. Kaye, MD, Interim CEO, SVP & Chief Medical Officer
+    email: EKaye@Sarepta.com
+    phone: 617-274-4003
+    organization: Sarepta Therapeutics
+  reported_events:
+    serious_events:
+      frequency_threshold: 
+      category_list:
+        category:
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: 
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: 
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Total, serious adverse events
+              description: 
+          title: Total
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Post-Operative Nausea and Vomiting
+              description: 
+          title: Gastrointestinal disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Fracture of Left Medial Malleolus
+              description: 
+          title: Musculoskeletal and connective tissue disorders
+      default_assessment: Non-systematic Assessment
+      default_vocab: 
+    other_events:
+      frequency_threshold: '5'
+      category_list:
+        category:
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '4'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: 
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: 
+                  subjects_affected: '3'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: 
+                  subjects_affected: '4'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: 
+                  subjects_affected: '4'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Total, other adverse events
+              description: 
+          title: Total
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Platelet anisocytosis
+              description: 
+          title: Blood and lymphatic system disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '2'
+                  subjects_affected: '2'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Tachycardia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Cardiomyopathy
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Sinus tachycardia
+              description: 
+          title: Cardiac disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Ear Pain
+              description: 
+          title: Ear and labyrinth disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Nausea
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Vomiting
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Abdominal Pain
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Abdominal pain - Upper
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Constipation
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Diarrhoea
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Enteritis
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Lip dry
+              description: 
+          title: Gastrointestinal disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Influenza like illness
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Abasia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Application site rash
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Catheter Site Pain
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Disease progression
+              description: One subject had a reduction in fractional shortening due
+                DMD progression One subject had a deterioration of clinical signs
+                of DMD
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Fatigue
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Infusion related reaction
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Pyrexia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Vaccination site pain
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Vessel puncture site haematoma
+              description: 
+          title: General disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '4'
+                  subjects_affected: '4'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Rhinitis
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '2'
+                  subjects_affected: '2'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Upper respiratory tract infection
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Bronchitis
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Hordeolum
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Incision site infection
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Nasopharyngitis
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Respiratory tract infection viral
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Tinea infection
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Viral Infection
+              description: 
+          title: Infections and infestations
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Fall
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Ankle Fracture
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Arthropod bite
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Arthropod sting
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Contusion
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Excoriation
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Head Injury
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Heat Stroke
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Lumbar vertebral fracture
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Post procedural haematoma
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Procedural Pain
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Vaccination complication
+              description: 
+          title: Injury, poisoning and procedural complications
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Decreased appetitie
+              description: 
+          title: Metabolism and nutrition disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Back pain
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Myalgia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Arthralgia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Coccydynia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Musculoskeletal pain
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Osteopenia
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Pain in extremity
+              description: 
+          title: Musculoskeletal and connective tissue disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Headache
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Dizziness
+              description: 
+          title: Nervous system disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Enuresis
+              description: 
+          title: Renal and urinary disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Asthma
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '2'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Cough
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Epistaxis
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Productive cough
+              description: 
+          title: Respiratory, thoracic and mediastinal disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Drug eruption
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Skin irritation
+              description: 
+          title: Skin and subcutaneous tissue disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Haematoma
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '2'
+                  group_id: E3
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '3'
+                  group_id: E4
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E5
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '4'
+                  group_id: E6
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Pallor
+              description: 
+          title: Vascular disorders
+      default_assessment: Non-systematic Assessment
+      default_vocab: 
+    time_frame: Adverse Event data for this study was collected from Baseline to Follow-up
+      (27 Weeks)
+    group_list:
+      group:
+      - attributes:
+          group_id: E1
+        description: Subjects in this group received a 0.5 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60
+          minute period
+        title: Cohort 1 - 0.5 mg/kg/wk
+      - attributes:
+          group_id: E2
+        description: Subjects in this group received a 1.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60
+          minute period
+        title: Cohort 2 - 1.0 mg/kg/wk
+      - attributes:
+          group_id: E3
+        description: Subjects in this group received a 2.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60
+          minute period
+        title: Cohort 3 - 2.0 mg/kg/wk
+      - attributes:
+          group_id: E4
+        description: Subjects in this group received a 4.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60
+          minute period
+        title: Cohort 4 - 4.0 mg/kg/wk
+      - attributes:
+          group_id: E5
+        description: Subjects in this group received a 10.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60
+          minute period
+        title: Cohort 5 - 10.0 mg/kg/wk
+      - attributes:
+          group_id: E6
+        description: Subjects in this group received a 20.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60
+          minute period
+        title: Cohort 6 - 20.0 mg/kg/wk
+    desc: 
+  certain_agreements:
+    restrictive_agreement: The PI required written permission to publish any information
+      relating to the trial and if given permission to acknowledge the sponsor's contribution
+      and ownership of the materials.
+    pi_employee: Principal Investigators are NOT employed by the organization sponsoring
+      the study.
+  outcome_list:
+    outcome:
+    - description: Number of subjects with 1 or more Treatment Emergent Adverse Event
+        that are possibly related to the investigational drug
+      title: Safety and Tolerability
+      safety_issue: 'Yes'
+      time_frame: Baseline to 6 months
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: |-
+            AVI-4658 for Injection: AVI-4658 for Injection, is packaged as 100 mg/mL in phosphate buffered saline with 1 mL per vial. Study dosages will be infused over a 1 hour period with Normal saline as follows:
+            Cohort 1: 0.5mg/kg once weekly for 12 weeks; Cohort 2: 1.0mg/kg once weekly for 12 weeks; Cohort 3: 2.0mg/kg once weekly for 12 weeks; Cohort 4: 4.0mg/kg once weekly for 12 weeks; Cohort 5: 10.0mg/kg once weekly for 12 weeks; Cohort 6: 20.0mg/kg once weekly for 12 weeks
+          title: Open Label Treatment Arm
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '19'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Number of subjects with 1 or more Treatment Emergent Adverse
+            Event that are possibly related to the investigational drug
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '14'
+                    upper_limit: 
+          title: Safety and Tolerability
+          param: Number
+          dispersion: 
+          units: participants
+      type: Primary
+      population: Safety Population - Any patient who received at least one dose of
+        the study drug.
+    - description: Standard Pharmacokinetic parameters estimated using non-compartmental
+        modeling of plasma concentration data.
+      title: Pharmacokinetics - Mean Peak Plasma Concentration of AVI-4658 After Administration
+      safety_issue: 'Yes'
+      time_frame: 'Samples were taken: 30 minutes pre dose; and at 5 (±1), 15 (±2),
+        30 (±5), 60 (±5), and 90 (±5) minutes; and 2, 4, 6, 8, 12, and 24 hours (all
+        ± 15 minutes) post dose at Weeks 1, 6, and 12'
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: |-
+            AVI-4658 for Injection: AVI-4658 for Injection, is packaged as 100 mg/mL in phosphate buffered saline with 1 mL per vial. Study dosages will be infused over a 1 hour period with Normal saline as follows:
+            Cohort 1: 0.5mg/kg once weekly for 12 weeks; Cohort 2: 1.0mg/kg once weekly for 12 weeks; Cohort 3: 2.0mg/kg once weekly for 12 weeks; Cohort 4: 4.0mg/kg once weekly for 12 weeks; Cohort 5: 10.0mg/kg once weekly for 12 weeks; Cohort 6: 20.0mg/kg once weekly for 12 weeks
+          title: Open Label Treatment Arm
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '19'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Standard Pharmacokinetic parameters estimated using non-compartmental
+            modeling of plasma concentration data.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '16900'
+                    group_id: O1
+                    lower_limit: 
+                    value: '39000'
+                    upper_limit: 
+          title: Pharmacokinetics - Mean Peak Plasma Concentration of AVI-4658 After
+            Administration
+          param: Mean
+          dispersion: Standard Deviation
+          units: ng/mL
+      type: Secondary
+      population: 'PK Evaluable Population: Included all patients who provided at
+        least 1 PK sample. The reportable PK population included those patients with
+        at least Cmax, Tmax, and AUC0-24 computed from 1 or more of the 3 sampling
+        days (1st, 6th, 12th dose [Weeks 1, 6, and 12]).'
+    - description: Efficacy was defined as an estimated change in the percentage of
+        dystrophin positive fibers (assessed by IHC) at Week 14 from Baseline after
+        12 weekly doses of eterplirsen. This outcome measure represents the number
+        of patients to show an increase in the percentage of dystrophin-positive fibers.
+      title: Efficacy of Eteplirsen Over 12 Weeks of Dosing
+      safety_issue: 'No'
+      time_frame: Biopsies were taken at Baseline and Week 14
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: |-
+            Subjects will be sequentially allocated to one of 6 dose level cohorts and will receive 12 weekly IV infusions of AVI-4658 in 50 mL of normal saline solution over a 60-minute period
+            AVI-4658 for Injection: AVI-4658 for Injection, is packaged as 100 mg/mL in phosphate buffered saline with 1 mL per vial. Study dosages will be infused over a 1 hour period with Normal saline as follows:
+            Cohort 1: 0.5mg/kg once weekly for 12 weeks; Cohort 2: 1.0mg/kg once weekly for 12 weeks; Cohort 3: 2.0mg/kg once weekly for 12 weeks; Cohort 4: 4.0mg/kg once weekly for 12 weeks; Cohort 5: 10.0mg/kg once weekly for 12 weeks; Cohort 6: 20.0mg/kg once weekly for 12 weeks
+          title: Open Label Treatment Arm
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '17'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Efficacy was defined as an estimated change in the percentage
+            of dystrophin positive fibers (assessed by IHC) at Week 14 from Baseline
+            after 12 weekly doses of eterplirsen. This outcome measure represents
+            the number of patients to show an increase in the percentage of dystrophin-positive
+            fibers.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '11'
+                    upper_limit: 
+          title: Efficacy of Eteplirsen Over 12 Weeks of Dosing
+          param: Number
+          dispersion: 
+          units: participants
+      type: Secondary
+      population: Per Protocol Population - Included all patients who received all
+        12 doses of study treatment.
+    - description: Number of Patients with Treatment Emergent Adverse Events
+      title: Treatment Emergent Adverse Events
+      safety_issue: 'Yes'
+      time_frame: from Baseline to Follow up (27 weeks)
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: |-
+            Subjects will be sequentially allocated to one of 6 dose level cohorts and will receive 12 weekly IV infusions of AVI-4658 in 50 mL of normal saline solution over a 60-minute period
+            AVI-4658 for Injection: AVI-4658 for Injection, is packaged as 100 mg/mL in phosphate buffered saline with 1 mL per vial. Study dosages will be infused over a 1 hour period with Normal saline as follows:
+            Cohort 1: 0.5mg/kg once weekly for 12 weeks; Cohort 2: 1.0mg/kg once weekly for 12 weeks; Cohort 3: 2.0mg/kg once weekly for 12 weeks; Cohort 4: 4.0mg/kg once weekly for 12 weeks; Cohort 5: 10.0mg/kg once weekly for 12 weeks; Cohort 6: 20.0mg/kg once weekly for 12 weeks
+          title: Open Label Treatment Arm
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '19'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Number of Patients with Treatment Emergent Adverse Events
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '19'
+                    upper_limit: 
+          title: Treatment Emergent Adverse Events
+          param: Number
+          dispersion: 
+          units: participants
+      type: Primary
+      population: Safety Population
+    - description: Adverse events that occurred in >15% of overall patient population
+        across dose level arms.
+      title: Adverse Events >15%
+      safety_issue: 'No'
+      time_frame: 27 Weeks
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: Subjects in this group received a 0.5 mg/kg/wk dose of AVI-4658
+            over 12 weekly IV infusions in 50 mL of normal saline solution over a
+            60 minute period
+          title: Cohort 1 - 0.5 mg/kg/wk
+        - attributes:
+            group_id: O2
+          description: Subjects in this group received a 1.0 mg/kg/wk dose of AVI-4658
+            over 12 weekly IV infusions in 50 mL of normal saline solution over a
+            60 minute period
+          title: Cohort 2 - 1.0 mg/kg/wk
+        - attributes:
+            group_id: O3
+          description: Subjects in this group received a 2.0 mg/kg/wk dose of AVI-4658
+            over 12 weekly IV infusions in 50 mL of normal saline solution over a
+            60 minute period
+          title: Cohort 3 - 2.0 mg/kg/wk
+        - attributes:
+            group_id: O4
+          description: Subjects in this group received a 4.0 mg/kg/wk dose of AVI-4658
+            over 12 weekly IV infusions in 50 mL of normal saline solution over a
+            60 minute period
+          title: Cohort 4 - 4.0 mg/kg/wk
+        - attributes:
+            group_id: O5
+          description: Subjects in this group received a 10.0 mg/kg/wk dose of AVI-4658
+            over 12 weekly IV infusions in 50 mL of normal saline solution over a
+            60 minute period
+          title: Cohort 5 - 10.0 mg/kg/wk
+        - attributes:
+            group_id: O6
+          description: Subjects in this group received a 20.0 mg/kg/wk dose of AVI-4658
+            over 12 weekly IV infusions in 50 mL of normal saline solution over a
+            60 minute period
+          title: Cohort 6 - 20.0 mg/kg/wk
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '3'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Adverse events that occurred in >15% of overall patient population
+            across dose level arms.
+          category_list:
+            category:
+            - sub_title: Cardiomyopathy
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+            - sub_title: Tachycardia
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+            - sub_title: Abdominal Pain
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+            - sub_title: Nausea
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+            - sub_title: Vomiting
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+            - sub_title: Influenza like illness
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+            - sub_title: Rhinitis
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+            - sub_title: Upper respiratory tract infection
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+            - sub_title: Fall
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+            - sub_title: Arthralgia
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+            - sub_title: Back Pain
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+            - sub_title: Myalgia
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+            - sub_title: Dizziness
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+            - sub_title: Headache
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O3
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O4
+                    lower_limit: 
+                    value: '0'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O5
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O6
+                    lower_limit: 
+                    value: '1'
+                    upper_limit: 
+          title: Adverse Events >15%
+          param: Number
+          dispersion: 
+          units: Events
+      type: Post-Hoc
+      population: Safety Population
+  participant_flow:
+    period_list:
+      period:
+      - drop_withdraw_reason_list:
+          drop_withdraw_reason:
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '0'
+                  group_id: P1
+              - attributes:
+                  count: '0'
+                  group_id: P2
+              - attributes:
+                  count: '0'
+                  group_id: P3
+              - attributes:
+                  count: '1'
+                  group_id: P4
+              - attributes:
+                  count: '0'
+                  group_id: P5
+              - attributes:
+                  count: '0'
+                  group_id: P6
+            title: Adverse Event
+        milestone_list:
+          milestone:
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '4'
+                  group_id: P1
+              - attributes:
+                  count: '2'
+                  group_id: P2
+              - attributes:
+                  count: '2'
+                  group_id: P3
+              - attributes:
+                  count: '3'
+                  group_id: P4
+              - attributes:
+                  count: '4'
+                  group_id: P5
+              - attributes:
+                  count: '4'
+                  group_id: P6
+            title: STARTED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '4'
+                  group_id: P1
+              - attributes:
+                  count: '2'
+                  group_id: P2
+              - attributes:
+                  count: '2'
+                  group_id: P3
+              - attributes:
+                  count: '2'
+                  group_id: P4
+              - attributes:
+                  count: '4'
+                  group_id: P5
+              - attributes:
+                  count: '4'
+                  group_id: P6
+            title: COMPLETED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '0'
+                  group_id: P1
+              - attributes:
+                  count: '0'
+                  group_id: P2
+              - attributes:
+                  count: '0'
+                  group_id: P3
+              - attributes:
+                  count: '1'
+                  group_id: P4
+              - attributes:
+                  count: '0'
+                  group_id: P5
+              - attributes:
+                  count: '0'
+                  group_id: P6
+            title: NOT COMPLETED
+        title: Overall Study
+    recruitment_details: 
+    pre_assignment_details: 
+    group_list:
+      group:
+      - attributes:
+          group_id: P1
+        description: Subjects in this group received a 0.5 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 1 - 0.5 mg/kg/wk
+      - attributes:
+          group_id: P2
+        description: Subjects in this group will receive a 1.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 2 - 1.0 mg/kg/wk
+      - attributes:
+          group_id: P3
+        description: Subjects in this group will receive a 2.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 3 - 2.0 mg/kg/wk
+      - attributes:
+          group_id: P4
+        description: Subjects in this group will receive a 4.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 4 - 4.0 mg/kg/wk
+      - attributes:
+          group_id: P5
+        description: Subjects in this group will receive a 10.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 5 - 10.0 mg/kg/wk
+      - attributes:
+          group_id: P6
+        description: Subjects in this group will receive a 20.0 mg/kg/wk dose of AVI-4658
+          over 12 weekly IV infusions in 50 mL of normal saline solution over a 60-minute
+          period
+        title: Cohort 6 - 20.0 mg/kg/wk
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy
+  Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary
+  Purpose: Treatment'
+keyword: []
+results_reference:
+- PMID: '21784508'
+  citation: 'Cirak S, Arechavala-Gomeza V, Guglieri M, Feng L, Torelli S, Anthony
+    K, Abbs S, Garralda ME, Bourke J, Wells DJ, Dickson G, Wood MJ, Wilton SD, Straub
+    V, Kole R, Shrewsbury SB, Sewry C, Morgan JE, Bushby K, Muntoni F. Exon skipping
+    and dystrophin restoration in patients with Duchenne muscular dystrophy after
+    systemic phosphorodiamidate morpholino oligomer treatment: an open-label, phase
+    2, dose-escalation study. Lancet. 2011 Aug 13;378(9791):595-605. doi: 10.1016/S0140-6736(11)60756-3.
+    Epub 2011 Jul 23.'
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Great Ormond Street Hospital
+    address:
+      city: London
+      state: England
+      zip: WC1N 3JH
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.508
+    formatted: London, UK
+    longitude: -0.128
+    original: London, England
+- status: 
+  contact_backup: {}
+  facility:
+    name: Royal Victoria Infirmary
+    address:
+      city: Newcastle Upon Tyne
+      state: England
+      zip: NE2 4LP
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle Upon Tyne, England
+official_title: Clinical Study to Assess the Safety fo AVI-4658 in Subjects With Duchenne
+  Muscular Dystrophy Due to a Frame-shift Mutation Amenable to Correction by Skipping
+  Exon 51.
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00844597
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Dose-Ranging Study of AVI-4658 to Induce Dystrophin Expression in Selected
+  Duchenne Muscular Dystrophy (DMD) Patients
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The specific aim of this Phase I/II study is to assess the safety of intravenous
+          administered Morpholino oligomer directed against exon 51 (AVI-4658 PMO).
+enrollment:
+  attributes:
+    type: Actual
+  value: '19'
+lastchanged_date: September 3, 2015

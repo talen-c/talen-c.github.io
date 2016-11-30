@@ -1,0 +1,238 @@
+---
+firstreceived_date: November 1, 2010
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: May 2011
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01239758
+intervention:
+- intervention_name: ACE-031 (Extension of cohort 1 from core study, A031-03)
+  other_name: []
+  description: ACE-031 0.5 mg/kg subcutaneously once every 4 weeks for 24 weeks.
+  arm_group_label:
+  - ACE-031 (Extension of cohort 1 from core study, A031-03)
+  intervention_type: Biological
+- intervention_name: ACE-031 (Extension of cohort 2 from core study, A031-03)
+  other_name: []
+  description: Up to 1.0 mg/kg subcutaneously once every 2 weeks for 24 weeks.
+  arm_group_label:
+  - ACE-031 (Extension of cohort 2 from core study, A031-03)
+  intervention_type: Biological
+- intervention_name: ACE-031 (Extension of cohort 3 from core study, A031-03)
+  other_name: []
+  description: Up to 2.5 mg/kg subcutaneously once every 4 weeks for 24 weeks.
+  arm_group_label:
+  - ACE-031 (Extension of cohort 3 from core study, A031-03)
+  intervention_type: Biological
+source: Acceleron Pharma, Inc.
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 4 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Completion of participation in Study A031-03 and Investigator approval
+
+                -  Continuation of corticosteroid therapy at the same absolute dose and schedule as on
+                   Study A031-03
+
+              Exclusion Criteria:
+
+                -  Participation in any other therapeutic clinical trial
+
+                -  Plans to have surgery during the course of the study
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: May 2011
+last_injected: '2015-09-26T05:39:07.713Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '3'
+start_date: October 2010
+why_stopped: This study was terminated based on preliminary safety data.
+id_info:
+  org_study_id: A031-06
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01239758
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: ACE-031 (Extension of cohort 1 from core study, A031-03)
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: ACE-031 (Extension of cohort 2 from core study, A031-03)
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: ACE-031 (Extension of cohort 3 from core study, A031-03)
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Acceleron Pharma, Inc.
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Percent change in total lean body mass by DXA scan.
+- safety_issue: 'No'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Percent change in total body and lumbar spine bone mineral density by DXA
+    scan.
+- safety_issue: 'No'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Percent change in muscle strength score by hand-held myometry.
+- safety_issue: 'No'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Change in distance traveled in 6 minutes (standardized 6-Minute-Walk Test).
+- safety_issue: 'No'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Change in time to travel 10 meters (standardized 10-Meter-Walk/Run test).
+- safety_issue: 'No'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Change in pulmonary function tests.
+study_type: Interventional
+biospec_retention: 
+overall_status: Terminated
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: From treatment initiation to End-of-Study Visit, approximately 24 weeks
+    later.
+  description: 
+  measure: Number of patients with adverse events.
+- safety_issue: 'Yes'
+  time_frame: Baseline to End-of-Study Visit, approximately 24 weeks later.
+  description: 
+  measure: Change in laboratory parameters and vital signs.
+overall_official: []
+phase: Phase 2
+location_countries:
+  country:
+  - Canada
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy
+  Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose:
+  Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'Canada: Health Canada'
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Acceleron Investigative Site
+    address:
+      city: Calgary
+      state: Alberta
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+- status: 
+  contact_backup: {}
+  facility:
+    name: Acceleron Investigative Site
+    address:
+      city: Hamilton
+      state: Ontario
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.244
+    formatted: Hamilton, ON, Canada
+    longitude: -79.889
+    original: Hamilton, Ontario
+- status: 
+  contact_backup: {}
+  facility:
+    name: Acceleron Investigative Site
+    address:
+      city: London
+      state: Ontario
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.979
+    formatted: London, ON, Canada
+    longitude: -81.246
+    original: London, Ontario
+- status: 
+  contact_backup: {}
+  facility:
+    name: Acceleron Investigative Site
+    address:
+      city: Ottawa
+      state: Ontario
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.422
+    formatted: Ottawa, ON, Canada
+    longitude: -75.697
+    original: Ottawa, Ontario
+official_title: An Open-Label Extension Study to Evaluate the Safety, Tolerability,
+  and Pharmacodynamics of ACE-031 (ActRIIB-IgG1) in Subjects With Duchenne Muscular
+  Dystrophy
+verification_date: January 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01239758
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Extension Study of ACE-031 in Subjects With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    To evaluate the long-term safety and tolerability of ACE-031 administration in subjects with
+          Duchenne muscular dystrophy (DMD) who participated in Study A031-03. [Note: This study was
+          terminated based on preliminary safety data. Pending further analysis of safety data and
+          discussion with health authorities, a new ACE-031 trial will be planned.]
+enrollment:
+  attributes:
+    type: Actual
+  value: '11'
+lastchanged_date: January 30, 2013

@@ -1,0 +1,313 @@
+---
+firstreceived_date: September 23, 2008
+is_fda_regulated: 'Yes'
+reference:
+- PMID: '17389552'
+  citation: Hirawat S, Welch EM, Elfring GL, Northcutt VJ, Paushkin S, Hwang S, Leonard
+    EM, Almstead NG, Ju W, Peltz SW, Miller LL. Safety, tolerability, and pharmacokinetics
+    of PTC124, a nonaminoglycoside nonsense mutation suppressor, following single-
+    and multiple-dose administration to healthy male and female adult volunteers.
+    J Clin Pharmacol. 2007 Apr;47(4):430-44.
+- PMID: '17450125'
+  citation: Welch EM, Barton ER, Zhuo J, Tomizawa Y, Friesen WJ, Trifillis P, Paushkin
+    S, Patel M, Trotta CR, Hwang S, Wilde RG, Karp G, Takasugi J, Chen G, Jones S,
+    Ren H, Moon YC, Corson D, Turpoff AA, Campbell JA, Conn MM, Khan A, Almstead NG,
+    Hedrick J, Mollin A, Risher N, Weetall M, Yeh S, Branstrom AA, Colacino JM, Babiak
+    J, Ju WD, Hirawat S, Northcutt VJ, Miller LL, Spatrick P, He F, Kawana M, Feng
+    H, Jacobson A, Peltz SW, Sweeney HL. PTC124 targets genetic disorders caused by
+    nonsense mutations. Nature. 2007 May 3;447(7140):87-91. Epub 2007 Apr 22.
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: May 2010
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description:
+  textblock: |-
+    This Phase 2a, multicenter, open-label safety and efficacy study will be performed at 3
+          sites in the United States. The study will enroll up to 38 subjects with nonsense mutation
+          Duchenne muscular dystrophy who participated in a previous Phase 2a study of ataluren
+          (Protocol Number PTC124-GD-004-DMD). Subjects will receive study drug 3 times per day (at
+          breakfast, lunch, and dinner) for approximately 96 weeks (approximately 2 years). Study
+          assessments will be performed at clinic visits during screening, every 6 weeks for the first
+          24 weeks, and then every 12 weeks until the end of the study. Additional safety laboratory
+          testing, which may be performed at the investigational site or at an accredited local
+          laboratory or clinic, is required every 3 weeks for the first 24 weeks and then every 6
+          weeks from Week 24 to Week 48. Subjects will have a biceps muscle biopsy before ataluren
+          treatment and again after 24 weeks of ataluren treatment to evaluate changes in muscle
+          dystrophin expression. An evaluation of the effects of ataluren on corticosteroid
+          pharmacokinetics will be performed. Associated with this ataluren clinical trial is a
+          substudy that will use magnetic resonance evaluations to assess changes in the composition
+          of muscles of the legs.
+link:
+- url: http://www.ptcbio.com
+  description: 
+has_expanded_access: 'No'
+id: NCT00759876
+intervention:
+- intervention_name: Ataluren
+  other_name:
+  - PTC124
+  description: Oral powder in a sachet taken 3 times per day with dosing based on
+    subject body weight. Doses are 20 mg/kg with breakfast, 20 mg/kg with lunch, and
+    40 mg/kg with dinner.
+  arm_group_label:
+  - ataluren (ptc124)
+  intervention_type: Drug
+source: PTC Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: N/A
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Completion of ataluren treatment in the previous Phase 2a study protocol (Protocol
+                   PTC124-GD-004-DMD).
+
+                -  Ability to provide written informed consent (parental/guardian consent if
+                   applicable)/assent (if <18 years of age).
+
+                -  Confirmed screening laboratory values within the central laboratory ranges.
+
+                -  In subjects who are sexually active, willingness to abstain from sexual intercourse
+                   or employ a barrier or medical method of contraception during ataluren administration
+                   and the 6-week follow up period.
+
+                -  Willingness and ability to comply with scheduled visits, drug administration plan,
+                   study procedures, laboratory tests, and study restrictions.
+
+              Exclusion Criteria:
+
+                -  Treatment with systemic aminoglycoside antibiotics within 3 months prior to start of
+                   study treatment.
+
+                -  Treatment with warfarin within 1 month prior to start of study treatment.
+
+                -  Known hypersensitivity to any of the ingredients or excipients of the study drug
+                   (Litesse® UltraTM [refined polydextrose], polyethylene glycol 3350, Lutrol® micro
+                   F127 [poloxamer 407], mannitol 25C, crospovidone XL10, hydroxyethyl cellulose,
+                   vanilla, Cab-O-Sil® M5P [colloidal silica], magnesium stearate).
+
+                -  Exposure to another investigational drug within 2 months prior to start of study
+                   treatment.
+
+                -  History of major surgical procedure within 1 month prior to start of study treatment.
+
+                -  Ongoing immunosuppressive therapy (other than corticosteroids).
+
+                -  Ongoing participation in any other clinical trial (except for substudies specifically
+                   approved by PTC Therapeutics).
+
+                -  Clinically significant symptoms and signs of congestive heart failure (CHF) (American
+                   College of Cardiology/American Heart Association Stage C or Stage D).
+
+                -  Prior or ongoing medical condition (eg, concomitant illness, psychiatric condition,
+                   behavioral disorder, alcoholism, drug abuse), medical history, physical findings,
+                   electrocardiogram findings, or laboratory abnormality that, in the investigator's
+                   opinion, could adversely affect the safety of the subject, makes it unlikely that the
+                   course of treatment or follow-up would be completed, or could impair the assessment
+                   of study results.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: May 2010
+last_injected: '2015-09-26T04:17:42.450Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: July 2008
+why_stopped: 
+id_info:
+  org_study_id: PTC124-GD-004e-DMD
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00759876
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: ataluren (ptc124)
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: Genzyme, a Sanofi Company
+    agency_class: Industry
+  lead_sponsor:
+    agency: PTC Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Ambulation
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Proximal muscle function
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Heart rate
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Cognitive ability
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Quality of life
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Activities of daily living
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Muscle fragility
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Biceps muscle dystrophin expression
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Compliance with PTC124 treatment
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: PTC124 pharmacokinetics
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: PTC124 effect on corticosteroid pharmacokinetics
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: 
+  measure: Muscle composition as assessed by magnetic resonance
+study_type: Interventional
+biospec_retention: 
+overall_status: Terminated
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 2 years
+  description: 
+  measure: Long-term safety
+overall_official:
+- first_name: 
+  last_name: Leone Atkinson
+  middle_name: 
+  affiliation: PTC Therapeutics, Inc.
+  degrees: 
+  role: Study Director
+phase: Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety Study,
+  Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose:
+  Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- Nonsense mutation
+- Premature stop codon
+- DMD
+- PTC124
+- Ataluren
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: 45229-3039
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Philadelphia
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Utah
+    address:
+      city: Salt Lake City
+      state: Utah
+      zip: '84112'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.761
+    formatted: Salt Lake City, UT, USA
+    longitude: -111.891
+    original: Salt Lake City, Utah
+official_title: A Phase 2a Extension Study of PTC124 in Subjects With Nonsense-Mutation-Mediated
+  Duchenne Muscular Dystrophy
+verification_date: August 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00759876
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Phase 2a Extension Study of Ataluren (PTC124) in Duchenne Muscular Dystrophy
+  (DMD)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Duchenne muscular dystrophy (DMD) is a genetic disorder that develops in boys. It is caused
+          by a mutation in the gene for dystrophin, a protein that is important for maintaining normal
+          muscle structure and function. Loss of dystrophin causes muscle fragility that leads to
+          weakness and loss of walking ability during childhood and teenage years. A specific type of
+          mutation, called a nonsense (premature stop codon) mutation, is the cause of DMD in
+          approximately 10-15% of boys with the disease. Ataluren is an orally delivered,
+          investigational drug that has the potential to overcome the effects of the nonsense
+          mutation. This study is a Phase 2a extension trial that will evaluate the long-term safety
+          of ataluren in boys with nonsense mutation DMD, as determined by adverse events and
+          laboratory abnormalities. The study will also assess changes in walking, muscle function,
+          strength, and other important clinical and laboratory measures.
+enrollment:
+  attributes:
+    type: Actual
+  value: '36'
+lastchanged_date: August 13, 2013

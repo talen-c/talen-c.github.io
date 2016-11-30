@@ -1,0 +1,360 @@
+---
+firstreceived_date: October 30, 2014
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: September 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    This is an open-label, multi-center, 96-week study to explore the safety and tolerability of
+          eteplirsen injection in patients with advanced stage DMD with confirmed genetic mutations
+          amenable to treatment by exon 51 skipping.
+
+          Patients will be evaluated for inclusion during a Screening/Baseline period of up to 4
+          weeks. Eligible patients will receive once weekly intravenous (IV) infusions of 30 mg/kg
+          eteplirsen for up to 96 weeks. An extension to the dosing period may be considered prior to
+          the end of the 96-week planned dosing period.
+
+          Safety will be regularly assessed throughout the study via the collection of adverse events
+          (AEs), laboratory tests, electrocardiograms (ECGs), echocardiograms (ECHOs), vital signs,
+          and physical examinations. Exploratory efficacy assessments, including PFTs, upper extremity
+          testing, and other measurements of functional status, will occur at functional assessment
+          visits every 12 weeks over the first year of treatment and approximately every 24 weeks over
+          the second year of treatment.
+link: []
+has_expanded_access: 'No'
+id: NCT02286947
+intervention:
+- intervention_name: eteplirsen
+  other_name: []
+  description: Eteplirsen 30 mg/kg will be administered as an IV infusion once a week
+    for 96 weeks.
+  arm_group_label:
+  - Advanced Stage Intervention Group
+  intervention_type: Drug
+source: Sarepta Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 21 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Male 7 - 21 years of age
+
+                -  Diagnosis of DMD with a mutation that is amenable to exon 51 skipping, confirmed by a
+                   genetic report
+
+                -  Stable dose of oral corticosteroids for at least 24 weeks or has not received
+                   corticosteroids for at least 24 weeks
+
+                -  Non-ambulatory, or incapable of walking ≥300 meters on the 6-Minute Walk Test (6MWT).
+
+                -  Score of ≤4 on the Brooke Score for Arms and Shoulders.
+
+                -  Stable cardiac and pulmonary function
+
+                -  Use of contraceptives for sexually active males throughout the study
+
+                -  Willing to provide consent and comply with the study
+
+              Exclusion Criteria:
+
+                -  Use of any pharmacologic treatment (other than corticosteroids) within 12 weeks that
+                   may have an effect on muscle strength or function (e.g., growth hormone, anabolic
+                   steroids).
+
+                -  Previous treatment with SMT C1100/BMN 195 at any time.
+
+                -  Previous treatment with drisapersen (PRO051) within the last 6 months.
+
+                -  Participation in any other DMD interventional clinical study within 12 weeks
+
+                -  Major change in physiotherapy regimen within the past 3 months
+
+                -  Major surgery within 3 months
+
+                -  Presence of other clinically significant illness
+
+                -  Use of an aminoglycoside antibiotic within 12 weeks or the need for this antibiotic
+                   or statin during study
+
+                -  Forced vital capacity % predicted [FVC % predicted] <40%, or requiring daytime
+                   ventilation.
+
+                -  Require antiarrhythmic and/or antidiuretic therapy for heart failure.
+
+                -  Have a left ventricular ejection fraction (LVEF) of <40%.
+
+                -  Prior or ongoing medical condition that could adversely affect the safety of the
+                   patient, make it unlikely that the course of treatment would be completed, or impair
+                   the assessment of study results.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2017
+last_injected: '2015-09-26T10:10:33.857Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: November 2014
+why_stopped: 
+id_info:
+  org_study_id: 4658-204
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02286947
+acronym: 
+arm_group:
+- description: Approximately 20 patients with advanced stage Duchenne muscular dystrophy
+    (DMD) who have genotypically confirmed mutations amenable to treatment by exon
+    51 skipping, will receive weekly infusions of eteplirsen 30 mg/kg for 96 weeks.
+  arm_group_label: Advanced Stage Intervention Group
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Sarepta Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Number of patients with clinical laboratory abnormalities
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Number of patients with abnormalities in vital signs and ECG
+- safety_issue: 'No'
+  time_frame: Baseline to Week 96
+  description: 
+  measure: Mean Change from baseline in maximum inspiratory pressure (MIP) % predicted
+- safety_issue: 'No'
+  time_frame: Baseline to Week 96
+  description: 
+  measure: Mean Change from baseline in maximum expiratory pressure (MEP) % predicted
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Number of patients with treatment emergent adverse events.
+overall_official:
+- first_name: 
+  last_name: Edward Kaye, MD, PhD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Chair
+- first_name: 
+  last_name: Genevieve Laforet, MD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Director
+phase: Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Muscular Dystrophy, Duchenne
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety Study, Intervention Model: Single Group
+  Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- DMD
+- exon 51
+- dystrophin
+- dystrophy
+- Eteplirsen
+- Duchenne
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Ronald Reagan UCLA Medical Center
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90095'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of California, Davis Medical Center
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Iowa Children's Hospital
+    address:
+      city: Iowa City
+      state: Iowa
+      zip: '52242'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.661
+    formatted: Iowa City, IA, USA
+    longitude: -91.53
+    original: Iowa City, Iowa
+- status: 
+  contact_backup: {}
+  facility:
+    name: Kennedy Krieger Institute
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: '21205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+- status: 
+  contact_backup: {}
+  facility:
+    name: Massachusetts General Hospital
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02114'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+- status: 
+  contact_backup: {}
+  facility:
+    name: St. Louis Children's Hospital
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Rochester Medical Center
+    address:
+      city: Rochester
+      state: New York
+      zip: '14642'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.161
+    formatted: Rochester, NY, USA
+    longitude: -77.611
+    original: Rochester, New York
+- status: 
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: Seattle Children's Hospital
+    address:
+      city: Seattle
+      state: Washington
+      zip: '98105'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.606
+    formatted: Seattle, WA, USA
+    longitude: -122.332
+    original: Seattle, Washington
+official_title: An Open-Label, Multi-Center Study to Evaluate the Safety and Tolerability
+  of Eteplirsen in Patients With Advanced Stage Duchenne Muscular Dystrophy
+verification_date: May 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02286947
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Safety Study of Eteplirsen to Treat Advanced Stage Duchenne Muscular
+  Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The primary objective of this study is to explore safety and tolerability of eteplirsen in
+          patients with advanced stage Duchenne muscular dystrophy (DMD) who are amenable to exon 51
+          skipping. The exploratory objectives are to evaluate the effect of eteplirsen on pulmonary
+          function tests (PFTs) and other functional clinical measures.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '20'
+lastchanged_date: May 14, 2015

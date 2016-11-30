@@ -1,0 +1,240 @@
+---
+firstreceived_date: January 26, 2015
+is_fda_regulated: 'Yes'
+reference:
+- PMID: '25322757'
+  citation: 'Mendell JR, Sahenk Z, Malik V, Gomez AM, Flanigan KM, Lowes LP, Alfano
+    LN, Berry K, Meadows E, Lewis S, Braun L, Shontz K, Rouhana M, Clark KR, Rosales
+    XQ, Al-Zaidy S, Govoni A, Rodino-Klapac LR, Hogan MJ, Kaspar BK. A phase 1/2a
+    follistatin gene therapy trial for becker muscular dystrophy. Mol Ther. 2015 Jan;23(1):192-201.
+    doi: 10.1038/mt.2014.200. Epub 2014 Oct 17.'
+- PMID: '20368179'
+  citation: 'Kota J, Handy CR, Haidet AM, Montgomery CL, Eagle A, Rodino-Klapac LR,
+    Tucker D, Shilling CJ, Therlfall WR, Walker CM, Weisbrode SE, Janssen PM, Clark
+    KR, Sahenk Z, Mendell JR, Kaspar BK. Follistatin gene delivery enhances muscle
+    growth and strength in nonhuman primates. Sci Transl Med. 2009 Nov 11;1(6):6ra15.
+    doi: 10.1126/scitranslmed.3000112.'
+- PMID: '19208403'
+  citation: 'Rodino-Klapac LR, Haidet AM, Kota J, Handy C, Kaspar BK, Mendell JR.
+    Inhibition of myostatin with emphasis on follistatin as a therapy for muscle disease.
+    Muscle Nerve. 2009 Mar;39(3):283-96. doi: 10.1002/mus.21244. Review.'
+- PMID: '17164329'
+  citation: Miller TM, Kim SH, Yamanaka K, Hester M, Umapathi P, Arnson H, Rizo L,
+    Mendell JR, Gage FH, Cleveland DW, Kaspar BK. Gene transfer demonstrates that
+    muscle is not a primary target for non-cell-autonomous toxicity in familial amyotrophic
+    lateral sclerosis. Proc Natl Acad Sci U S A. 2006 Dec 19;103(51):19546-51. Epub
+    2006 Dec 12.
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: January 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    The primary objective of this study is safety and endpoints will include hematology, serum
+          chemistry, urinalysis, immunologic response to rAAV1 and follistatin, and reported history
+          and observations of symptoms. Efficacy measures will be used as secondary outcomes and
+          include the distance walked on the 6MWT, functional tests by PT, life quality questionnaire,
+          MRI, EIM, and muscle biopsy. Subject will have follow up visits on days 7, 14, 30, 45, 60,
+          90, 180 and 9,12, 18 and 24 months post-gene transfer.
+link:
+- url: http://www.nationwidechildrens.org/center-for-gene-therapy
+  description: Click here for Center for Gene Therapy, The Research Institute at Nationwide
+    Children's Hospital
+has_expanded_access: 'No'
+id: NCT02354781
+intervention:
+- intervention_name: rAAV1.CMV.huFollistin344
+  other_name: []
+  description: Six DMD patients will receive rAAV1.CMV.huFollistatin344 to both limbs
+    by multiple injections to gluteal muscles, quadriceps and tibialis anterior muscles.
+  arm_group_label:
+  - Experimental
+  intervention_type: Biological
+source: Nationwide Children's Hospital
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Age 7 or older
+
+                -  Confirmed DMD gene mutations
+
+                -  Impaired muscle function based on clinical evidence including difficulty climbing
+                   stairs, getting from the floor (Gowers' sign), and weakness of individual muscles of
+                   extremities
+
+                -  Males of any ethnic group will be eligible
+
+                -  Ability to cooperate with study procedures including muscle testing.
+
+                -  Willingness of sexually active subjects with reproductive capacity to practice
+                   reliable method of contraception
+
+                -  Subjects must be on stable dose of prednisone for three months at time of enrollment
+                   or be started on oral dose of daily prednisone regimen for 30 days prior to gene
+                   transfer. Study participants will continue prednisone post gene transfer unless there
+                   is adverse event that warrants prednisone taper or withdrawal.
+
+              Exclusion Criteria:
+
+                -  Active viral infection based on clinical observations.
+
+                -  The presence of a DMD gene mutation without weakness or loss of function
+
+                -  Symptoms or signs of cardiomyopathy, including:
+
+                -  Dyspnea on exertion, pedal edema, shortness of breath upon lying flat, or rales at
+                   the base of the lungs
+
+                -  Echocardiogram with ejection fraction below 40%
+
+                -  Serological evidence of HIV infection, or Hepatitis A, B or C infection
+
+                -  Diagnosis of (or ongoing treatment for) an autoimmune disease
+
+                -  Concomitant illness or requirement for chronic drug treatment that in the opinion of
+                   the PI creates unnecessary risks for gene transfer
+
+                -  Subjects with rAAV1 binding antibody titers > 1:50 as determined by ELISA immunoassay
+
+                -  Abnormal laboratory values for liver, kidney, CBC, in the clinically significant
+                   range, based upon normal values in the Nationwide Children's Hospital Laboratory
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: January 2017
+last_injected: '2015-09-26T07:37:10.109Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: January 2015
+why_stopped: 
+id_info:
+  org_study_id: 14-00630
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02354781
+acronym: 
+arm_group:
+- description: The vector will be delivered to both limbs via multiple, direct intramuscular
+    injections of rAAV1.CMV.huFollistin344; the number of injections per muscle will
+    depend on the size of the patient. A total dose of 2.4E12 vg/kg (1.2E12vg/kg/limb)
+    will be delivered to the lower limbs of 6 DMD subjects
+  arm_group_label: Experimental
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: Duchenne Alliance
+    agency_class: Other
+  - agency: Milo Therapeutics
+    agency_class: Other
+  lead_sponsor:
+    agency: Jerry R. Mendell
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: The distance walked on the 6MWT is the major functional outcome to
+    be evaluated.
+  measure: Muscle Function
+- safety_issue: 'Yes'
+  time_frame: 2 years
+  description: "• Muscle biopsies on quadriceps muscles (a muscle biopsy on one leg
+    at baseline screening visit and the post gene transfer biopsy on the opposite
+    leg at day 180."
+  measure: Size of muscle fibers with lack of toxicity of follistatin following gene
+    transfer
+study_type: Interventional
+biospec_retention: 
+overall_status: Enrolling by invitation
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 2 years
+  description: The blood chemistries and immune studies to monitor organs system abnormalities
+    and T cell response measured by ELISpots.
+  measure: Organ system toxicity based on blood chemistries and immune studies
+overall_official:
+- first_name: 
+  last_name: Jerry R Mendell, MD
+  middle_name: 
+  affiliation: Director, Center for Gene Therapy, Nationwide Children's Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety Study, Intervention Model: Single Group
+  Assignment, Masking: Open Label'
+keyword:
+- DMD
+- muscular dystrophy
+- Follistatin
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'United States: Data and Safety Monitoring Board'
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+official_title: Phase I/II Clinical Intramuscular Gene Transfer of rAAV1.CMV.huFollistatin344
+  Trial to Patients With Duchenne Muscular Dystrophy
+verification_date: March 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02354781
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Clinical Intramuscular Gene Transfer of rAAV1.CMV.huFollistatin344 Trial
+  to Patients With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The proposed clinical trial is an outgrowth of the safety record and functional improvement
+          seen in the BMD follistatin gene therapy trial. In this study the investigators propose to
+          inject AAV1.CMV.huFS344 at a total dose of 2.4E12 vg/kg to six DMD patients. This dose will
+          be divided between gluteal muscles, quadriceps and tibialis anterior. This is a wider
+          distribution of vector than given to BMD patients, who overall improved the distance walked
+          on the 6MWT without adverse events related to viral transduction into a single muscle.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '6'
+lastchanged_date: March 4, 2015

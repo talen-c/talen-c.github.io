@@ -1,0 +1,1328 @@
+---
+firstreceived_date: May 24, 2013
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: April 2018
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01865084
+intervention:
+- intervention_name: Tadalafil
+  other_name:
+  - LY450190
+  - Cialis
+  description: Administered orally
+  arm_group_label:
+  - Tadalafil 0.3 mg/kg
+  - Tadalafil 0.6 mg/kg
+  intervention_type: Drug
+- intervention_name: Placebo
+  other_name:
+  - Administered orally
+  description: 
+  arm_group_label:
+  - Placebo
+  intervention_type: Drug
+source: Eli Lilly and Company
+eligibility:
+  gender: Male
+  maximum_age: 14 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Ambulant males with Duchenne muscular dystrophy (DMD) confirmed by typical clinical
+                   presentation (onset of clinical signs or symptoms before 6 years of age supported by
+                   an elevated serum creatinine kinase level, and ongoing difficulty with walking)
+                   together with either a record of a genetic confirmation of the DMD diagnosis, or a
+                   record of muscle biopsy showing near-complete dystrophin deficiency (excluding
+                   revertant fibers)
+
+                -  Receiving systemic corticosteroids for a minimum of 6 months immediately prior to
+                   screening, with no significant change in total daily dosage or dosing regimen (except
+                   those adjusting for weight changes) for a minimum of 3 months immediately prior to
+                   screening and a reasonable expectation that total daily dosage and dosing regimen
+                   will not change significantly (except for adjustments for weight) for the duration of
+                   the study
+
+                -  Able to complete the six minute walk distance (6MWD) test with results within 20% of
+                   each other at a minimum of 2 pre-randomization assessments
+
+                -  Left ventricular ejection fraction (LVEF) ≥50% as determined by echocardiogram
+
+                -  Written informed consent from parents/legal guardian will be obtained prior to any
+                   study procedure being performed. In addition, the child may be required to give
+                   documented assent, if capable.
+
+              Exclusion Criteria:
+
+                -  Symptomatic cardiomyopathy or heart failure
+
+                -  Change in prophylactic treatment for heart failure within 3 months prior to start of
+                   study treatment
+
+                -  Cardiac rhythm disorder
+
+                -  History of participation in gene or cell-based therapy , or antisense oligonucleotide
+                   or stop codon read-through therapy
+
+                -  Unable to take orally administered tablets
+
+                -  Use of any pharmacologic treatment, other than corticosteroids, that might have an
+                   effect on muscle strength within 3 months prior to the start of study treatment (for
+                   example, growth hormone, anabolic steroids including testosterone)
+
+                -  New or changed treatment with herbal or dietary supplements being taken with an
+                   expectation of an effect on muscle strength or function during 1 month prior to first
+                   dose of study drug
+
+                -  Surgery that might have an effect on muscle strength or function within 3 months
+                   before study entry or planned surgery at any time during the study
+
+                -  Evidence of a lower limb injury that may affect performance on the 6MWD
+
+                -  Severe behavioral problems, including severe autism or attention deficit disorders,
+                   that may interfere with completion of the 6MWD
+
+                -  Any contraindication to tadalafil (use of any form of organic nitrate, either
+                   regularly and/or intermittently, or known serious hypersensitivity to tadalafil)
+
+                -  History of significant renal insufficiency or clinical evidence of cirrhosis
+
+                -  Have known allergy to any of the excipients in tadalafil tablets, notably lactose
+
+                -  Current Phosphodiesterase Type 5 (PDE5) inhibitor therapy or treatment within the
+                   past 6 months
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2015
+last_injected: '2015-09-26T03:54:29.790Z'
+intervention_browse:
+  mesh_term:
+  - Tadalafil
+target_duration: 
+number_of_arms: '3'
+start_date: September 2013
+why_stopped: 
+id_info:
+  org_study_id: '15122'
+  secondary_id:
+  - H6D-MC-LVJJ
+  nct_alias: []
+  nct_id: NCT01865084
+acronym: 
+arm_group:
+- description: Placebo taken orally once daily.
+  arm_group_label: Placebo
+  arm_group_type: Experimental
+- description: Tadalafil 0.3 milligram per kilogram (mg/kg) taken orally once daily.
+  arm_group_label: Tadalafil 0.3 mg/kg
+  arm_group_type: Experimental
+- description: Tadalafil 0.6 mg/kg taken orally once daily.
+  arm_group_label: Tadalafil 0.6 mg/kg
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Eli Lilly and Company
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline, Week 48
+  description: 
+  measure: Change from Baseline in the North Star Ambulatory Assessment (NSAA) Global
+    Score
+- safety_issue: 'No'
+  time_frame: Baseline, Week 48
+  description: 
+  measure: Change from Baseline in Timed Function Tests in Seconds
+- safety_issue: 'No'
+  time_frame: Baseline through Week 48
+  description: 
+  measure: Time to Persistent 10% Worsening in 6MWD
+- safety_issue: 'No'
+  time_frame: Baseline through Week 48
+  description: 
+  measure: Time to Persistent 10% Worsening in Timed Function Tests
+- safety_issue: 'No'
+  time_frame: Baseline, Week 48
+  description: 
+  measure: Change from Baseline in Pediatric Outcomes Data Collection Instrument (PODCI)
+    Scores
+- safety_issue: 'No'
+  time_frame: 1 Hour up to 24 Hours Postdose; Weeks 4, 12, 24 and 36
+  description: 
+  measure: 'Pharmacokinetics (PK): Apparent Clearance (CL/F) of Tadalafil'
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline, Week 48
+  description: 
+  measure: Change from Baseline in Six Minute Walk Distance (6MWD) in Meters
+overall_official:
+- first_name: 
+  last_name: Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM
+    - 5 PM Eastern time (UTC/GMT - 5 hours, EST)
+  middle_name: 
+  affiliation: Eli Lilly and Company
+  degrees: 
+  role: Study Director
+phase: Phase 3
+location_countries:
+  country:
+  - Argentina
+  - Belgium
+  - Canada
+  - France
+  - Germany
+  - Italy
+  - Japan
+  - Korea, Republic of
+  - Netherlands
+  - Puerto Rico
+  - Russian Federation
+  - Spain
+  - Taiwan
+  - Turkey
+  - United Kingdom
+  - United States
+condition:
+- Muscular Dystrophy, Duchenne
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention
+  Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator,
+  Outcomes Assessor), Primary Purpose: Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'Argentina: Administracion Nacional de Medicamentos, Alimentos y Tecnologia Medica'
+  - 'Belgium: Federal Agency for Medicinal Products and Health Products'
+  - 'Canada: Health Canada'
+  - 'France: Agence Nationale de Sécurité du Médicament et des produits de santé'
+  - 'Germany: Federal Institute for Drugs and Medical Devices'
+  - 'Italy: The Italian Medicines Agency'
+  - 'Korea: Ministry of Food and Drug Safety'
+  - 'Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)'
+  - 'Russia: Ministry of Health of the Russian Federation'
+  - 'Spain: Agencia Española de Medicamentos y Productos Sanitarios'
+  - 'Taiwan : Food and Drug Administration'
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Cedars Sinai Medical Center
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90048'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of California, Davis - Health Systems
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital
+    address:
+      city: Aurora
+      state: Colorado
+      zip: '80045'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.729
+    formatted: Aurora, CO, USA
+    longitude: -104.832
+    original: Aurora, Colorado
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Florida Health Science Center
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: 
+  contact_backup: {}
+  facility:
+    name: NW Florida Clinical Research Group
+    address:
+      city: Gulf Breeze
+      state: Florida
+      zip: '32561'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 30.357
+    formatted: Gulf Breeze, FL, USA
+    longitude: -87.164
+    original: Gulf Breeze, Florida
+- status: 
+  contact_backup: {}
+  facility:
+    name: Nemours Children's Hospital
+    address:
+      city: Orlando
+      state: Florida
+      zip: '32827'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 28.538
+    formatted: Orlando, FL, USA
+    longitude: -81.379
+    original: Orlando, Florida
+- status: 
+  contact_backup: {}
+  facility:
+    name: Ann and Robert Lurie Children's Hospital of Chicago
+    address:
+      city: Chicago
+      state: Illinois
+      zip: '60611'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Iowa
+    address:
+      city: Iowa City
+      state: Iowa
+      zip: '52242'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.661
+    formatted: Iowa City, IA, USA
+    longitude: -91.53
+    original: Iowa City, Iowa
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Kansas Medical Center
+    address:
+      city: Kansas City
+      state: Kansas
+      zip: '66160'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.114
+    formatted: Kansas City, KS, USA
+    longitude: -94.627
+    original: Kansas City, Kansas
+- status: 
+  contact_backup: {}
+  facility:
+    name: Washington University Medical Center
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: 
+  contact_backup: {}
+  facility:
+    name: Carolinas Healthcare System
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: '28203'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: 
+  contact_backup: {}
+  facility:
+    name: Duke University Medical Center
+    address:
+      city: Durham
+      state: North Carolina
+      zip: '27705'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.994
+    formatted: Durham, NC, USA
+    longitude: -78.899
+    original: Durham, North Carolina
+- status: 
+  contact_backup: {}
+  facility:
+    name: Childrens Hospital Medical Center
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: Oregon Health and Science University
+    address:
+      city: Portland
+      state: Oregon
+      zip: '97239'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.523
+    formatted: Portland, OR, USA
+    longitude: -122.676
+    original: Portland, Oregon
+- status: 
+  contact_backup: {}
+  facility:
+    name: Pennsylvania State University College of Medicine
+    address:
+      city: Hershey
+      state: Pennsylvania
+      zip: '17033'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.286
+    formatted: Hershey, PA, USA
+    longitude: -76.65
+    original: Hershey, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: Childrens Hospital of Philadelphia
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: Childrens Hospital of Pittsburgh
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: '15224'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: Vanderbilt University Medical Center
+    address:
+      city: Nashville
+      state: Tennessee
+      zip: '37232'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 36.166
+    formatted: Nashville, TN, USA
+    longitude: -86.784
+    original: Nashville, Tennessee
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Medical Center Dallas
+    address:
+      city: Dallas
+      state: Texas
+      zip: '75207'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 32.803
+    formatted: Dallas, TX, USA
+    longitude: -96.77
+    original: Dallas, Texas
+- status: 
+  contact_backup: {}
+  facility:
+    name: Univ of Texas Health Science Center at San Antonio
+    address:
+      city: San Antonio
+      state: Texas
+      zip: '78229'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 29.424
+    formatted: San Antonio, TX, USA
+    longitude: -98.494
+    original: San Antonio, Texas
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Utah School of Medicine
+    address:
+      city: Salt Lake City
+      state: Utah
+      zip: '84132'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.761
+    formatted: Salt Lake City, UT, USA
+    longitude: -111.891
+    original: Salt Lake City, Utah
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children of the King's Daughters
+    address:
+      city: Norfolk
+      state: Virginia
+      zip: '23510'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 36.851
+    formatted: Norfolk, VA, USA
+    longitude: -76.286
+    original: Norfolk, Virginia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Seattle Children's Hospital Research Foundation
+    address:
+      city: Seattle
+      state: Washington
+      zip: '98105'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.606
+    formatted: Seattle, WA, USA
+    longitude: -122.332
+    original: Seattle, Washington
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Caba
+      state: 
+      zip: C1204AAD
+      country: Argentina
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -34.608
+    formatted: Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina
+    longitude: -58.373
+    original: Caba, Argentina
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Gent
+      state: 
+      zip: '9000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.053
+    formatted: Ghent, Belgium
+    longitude: 3.73
+    original: Gent, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Leuven
+      state: 
+      zip: '3000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.878
+    formatted: Leuven, Belgium
+    longitude: 4.704
+    original: Leuven, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Liège
+      state: 
+      zip: '4000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.633
+    formatted: Liège, Belgium
+    longitude: 5.58
+    original: Liège, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Calgary
+      state: Alberta
+      zip: T3B 6A8
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Vancouver
+      state: British Columbia
+      zip: V6H 3V4
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 49.261
+    formatted: Vancouver, BC, Canada
+    longitude: -123.114
+    original: Vancouver, British Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Winnipeg
+      state: Manitoba
+      zip: R3A 1R9
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 49.9
+    formatted: Winnipeg, MB, Canada
+    longitude: -97.137
+    original: Winnipeg, Manitoba
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Halifax
+      state: Nova Scotia
+      zip: B3K 6R8
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 44.649
+    formatted: Halifax, NS, Canada
+    longitude: -63.575
+    original: Halifax, Nova Scotia
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: London
+      state: Ontario
+      zip: N6C 2V5
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.979
+    formatted: London, ON, Canada
+    longitude: -81.246
+    original: London, Ontario
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Ottawa
+      state: Ontario
+      zip: K1H 8L1
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.422
+    formatted: Ottawa, ON, Canada
+    longitude: -75.697
+    original: Ottawa, Ontario
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Angers
+      state: 
+      zip: '49933'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.478
+    formatted: Angers, France
+    longitude: -0.563
+    original: Angers, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Nantes
+      state: 
+      zip: '44093'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.218
+    formatted: Nantes, France
+    longitude: -1.554
+    original: Nantes, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Dresden
+      state: 
+      zip: '01307'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.031
+    formatted: Dresden, Germany
+    longitude: 13.757
+    original: Dresden, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Essen
+      state: 
+      zip: '45122'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.462
+    formatted: Essen, Germany
+    longitude: 7.009
+    original: Essen, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Freiburg
+      state: 
+      zip: '79106'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.999
+    formatted: Freiburg im Breisgau, Germany
+    longitude: 7.842
+    original: Freiburg, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Göttingen
+      state: 
+      zip: '37075'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.538
+    formatted: Göttingen, Germany
+    longitude: 9.93
+    original: Göttingen, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Munich
+      state: 
+      zip: '80337'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.145
+    formatted: Munich, Germany
+    longitude: 11.558
+    original: Munich, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Genova
+      state: 
+      zip: '16147'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 44.407
+    formatted: Genoa, Italy
+    longitude: 8.934
+    original: Genova, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Milano
+      state: 
+      zip: '20122'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.464
+    formatted: Milan, Italy
+    longitude: 9.188
+    original: Milano, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Padova
+      state: 
+      zip: '35128'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.41
+    formatted: Padua, Italy
+    longitude: 11.877
+    original: Padova, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Rome
+      state: 
+      zip: '00165'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Rome, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Aichi
+      state: 
+      zip: 467-8602
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.18
+    formatted: Aichi Prefecture, Japan
+    longitude: 136.907
+    original: Aichi, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Nagano
+      state: 
+      zip: 390-8621
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 36.649
+    formatted: Nagano, Nagano Prefecture, Japan
+    longitude: 138.194
+    original: Nagano, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Saitama
+      state: 
+      zip: 349-0196
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.862
+    formatted: Saitama, Saitama Prefecture, Japan
+    longitude: 139.645
+    original: Saitama, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Tokyo
+      state: 
+      zip: 187-8551
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.689
+    formatted: Tokyo, Japan
+    longitude: 139.692
+    original: Tokyo, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Seoul
+      state: 
+      zip: 110-744
+      country: Korea, Republic of
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 37.532
+    formatted: National Assembly of the Republic of Korea, 1 Yeoeuido-dong, Yeongdeungpo-gu,
+      Seoul, South Korea
+    longitude: 126.914
+    original: Seoul, Korea, Republic of
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Leiden
+      state: 
+      zip: 2300 RC
+      country: Netherlands
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 52.16
+    formatted: Leiden, The Netherlands
+    longitude: 4.494
+    original: Leiden, Netherlands
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Nijmegen
+      state: 
+      zip: 6500 HB
+      country: Netherlands
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.843
+    formatted: Nijmegen, The Netherlands
+    longitude: 5.855
+    original: Nijmegen, Netherlands
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Puerto Rico, Medical Sciences Campus
+    address:
+      city: San Juan
+      state: 
+      zip: 000935
+      country: Puerto Rico
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 18.466
+    formatted: San Juan, Puerto Rico
+    longitude: -66.106
+    original: San Juan, Puerto Rico
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Moscow
+      state: 
+      zip: '125412'
+      country: Russian Federation
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 55.75
+    formatted: Moscow, Russian Federation
+    longitude: 37.617
+    original: Moscow, Russian Federation
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Barcelona
+      state: 
+      zip: 08025
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.388
+    formatted: Barcelona, Spain
+    longitude: 2.17
+    original: Barcelona, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Madrid
+      state: 
+      zip: '28046'
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.417
+    formatted: Madrid, Spain
+    longitude: -3.7
+    original: Madrid, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: San Sebastian
+      state: 
+      zip: '20014'
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.321
+    formatted: San Sebastián, Spain
+    longitude: -1.984
+    original: San Sebastian, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Valencia
+      state: 
+      zip: '46026'
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.47
+    formatted: Valencia, Spain
+    longitude: -0.377
+    original: Valencia, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Kaohsiung
+      state: 
+      zip: '807'
+      country: Taiwan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 23.011
+    formatted: Kaohsiung City, Taiwan
+    longitude: 120.666
+    original: Kaohsiung, Taiwan
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Taipei
+      state: 
+      zip: '100'
+      country: Taiwan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 25.091
+    formatted: Taipei City, Taiwan
+    longitude: 121.56
+    original: Taipei, Taiwan
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Adana
+      state: 
+      zip: '01330'
+      country: Turkey
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 37
+    formatted: Adana/Adana Province, Turkey
+    longitude: 35.321
+    original: Adana, Turkey
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Ankara
+      state: 
+      zip: '06100'
+      country: Turkey
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.921
+    formatted: Ankara, Turkey
+    longitude: 32.854
+    original: Ankara, Turkey
+- status: 
+  contact_backup: {}
+  facility:
+    name: For additional information regarding investigative sites for this trial,
+      contact 1-877-CTLILLY (1-877-285-4559, 1-317-615-4559) Mon - Fri from 9 AM to
+      5 PM Eastern Time (UTC/GMT - 5 hours, EST), or speak with your personal physician.
+    address:
+      city: Oxford
+      state: Oxfordshire
+      zip: OX3 9DU
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.752
+    formatted: Oxford, UK
+    longitude: -1.255
+    original: Oxford, Oxfordshire
+official_title: A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial of Tadalafil
+  for Duchenne Muscular Dystrophy
+verification_date: May 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01865084
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: A Study of Tadalafil for Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The main purpose of this study is to determine if tadalafil can slow the decline in walking
+          ability of boys who have Duchenne muscular dystrophy (DMD). The study will also assess the
+          safety of tadalafil and any side effects that might be associated with it in boys who have
+          DMD. Participants will receive study treatment (tadalafil or placebo) for the first 48 weeks
+          of the study, and can then continue into an open label extension (OLE) that consists of two
+          periods during which all participants will receive tadalafil. In OLE period 1, all
+          participants will receive tadalafil for 48 weeks. Participants completing OLE period 1 will
+          continue into OLE period 2 and will receive tadalafil for at least another 48 weeks.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '306'
+lastchanged_date: May 26, 2015

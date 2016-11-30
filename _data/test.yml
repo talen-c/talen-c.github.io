@@ -1,0 +1,160 @@
+---
+  firstreceived_date: "January 28, 2015"
+  is_fda_regulated: "Yes"
+  reference: []
+  overall_contact_backup: 
+    first_name: null
+    last_name: "Diane Goetz"
+    middle_name: null
+    phone_ext: null
+    phone: "866-282-5873"
+    degrees: null
+    email: "patientinfo@ptcbio.com"
+  completion_date: 
+    attributes: 
+      type: "Anticipated"
+    value: "April 2022"
+  responsible_party: {}
+  firstreceived_results_date: null
+  is_section_801: "No"
+  detailed_description: 
+    textblock: "This is a multicenter, observational study of patients receiving Translarna based on\n      inclusion of their data in a registry. This study is intended to enroll 200 patients across\n      ~50 care centers in Europe and other regions over a period of ~ 2 years. The study\n      population will include patients who are receiving usual care treatment with commercial\n      supply of Translarna (or receiving care within a named patient early access program) and who\n      provide consent. Patients will be followed for at least 5 years from their date of\n      enrollment. Safety and efficacy data will be collected in conjunction with routine visits\n      conducted as per usual care. Although there are no protocol-mandated procedures, it is\n      expected that physicians and other caregivers will follow published treatment guidelines and\n      standards of care."
+  link: []
+  has_expanded_access: "No"
+  id: "NCT02369731"
+  intervention: 
+    - 
+      intervention_name: "Translarna"
+      other_name: 
+        - "Ataluren"
+        - "PTC124"
+      description: null
+      arm_group_label: []
+      intervention_type: "Drug"
+  source: "PTC Therapeutics"
+  eligibility: 
+    gender: "Both"
+    maximum_age: "N/A"
+    sampling_method: "Probability Sample"
+    minimum_age: "N/A"
+    study_pop: 
+      textblock: "The target study population will include patients for whom the decision to prescribe\n        Translarna (outside of a clinical trial) has already been made, including patients in\n        named patient early access programs. Patients within each prescriber's practice who are or\n        will be receiving treatment with Translarna, and who meet the eligibility criteria and\n        provide informed consent (either by the patient or through authorisation by a legal\n        guardian), will be invited to enroll into the study and will be followed according to the\n        protocol."
+    criteria: 
+      textblock: "Inclusion Criteria:\n\n          -  Receiving or will be receiving usual care treatment with commercial supply of\n             Translarna (or receiving care within a named patient early access program)\n\n          -  Willing to provide written informed consent to allow the study data collection\n             procedures (either by the patient or through authorisation by a legal guardian)\n\n        Exclusion Criteria:\n\n          -  Patients who are receiving ataluren or placebo in a blinded, randomized clinical\n             trial, or ataluren in any other ataluren clinical trial or cohort early access\n             program that prevents participation in this study"
+    healthy_volunteers: "No"
+  removed_countries: {}
+  other_outcome: 
+    - 
+      safety_issue: "No"
+      time_frame: "5 years"
+      description: null
+      measure: "Patient health management measures"
+  primary_completion_date: 
+    attributes: 
+      type: "Anticipated"
+    value: "April 2022"
+  last_injected: "2015-07-13T18:36:40.926Z"
+  intervention_browse: {}
+  target_duration: "5 Years"
+  number_of_arms: null
+  start_date: "April 2015"
+  why_stopped: null
+  id_info: 
+    org_study_id: "PTC124-GD-025o-DMD"
+    secondary_id: []
+    nct_alias: []
+    nct_id: "NCT02369731"
+  acronym: null
+  arm_group: []
+  sponsors: 
+    collaborator: 
+      - 
+        agency: "TREAT-NMD"
+        agency_class: "Other"
+      - 
+        agency: "Cooperative International Neuromuscular Research Group (CINRG)"
+        agency_class: "Other"
+    lead_sponsor: 
+      agency: "PTC Therapeutics"
+      agency_class: "Industry"
+  secondary_outcome: 
+    - 
+      safety_issue: "Yes"
+      time_frame: "5 years"
+      description: null
+      measure: "Changes in laboratory parameters"
+    - 
+      safety_issue: "Yes"
+      time_frame: "5 years"
+      description: null
+      measure: "Changes in blood pressure"
+    - 
+      safety_issue: "No"
+      time_frame: "5 years"
+      description: null
+      measure: "Prescriber and patient compliance with prescribing information according to the approved labelling"
+  study_type: "Observational [Patient Registry]"
+  biospec_retention: null
+  overall_status: "Not yet recruiting"
+  primary_outcome: 
+    - 
+      safety_issue: "Yes"
+      time_frame: "5 years"
+      description: null
+      measure: "Incidence of adverse events"
+  overall_official: 
+    - 
+      first_name: null
+      last_name: "Robert Spiegel, MD"
+      middle_name: null
+      affiliation: "PTC Therapeutics"
+      degrees: null
+      role: "Study Director"
+  phase: "N/A"
+  location_countries: {}
+  condition: 
+    - "Muscular Dystrophy, Duchenne"
+  clinical_results: {}
+  study_design: "Observational Model: Cohort, Time Perspective: Prospective"
+  keyword: []
+  results_reference: []
+  oversight_info: 
+    has_dmc: "No"
+    authority: 
+      - "Denmark: Danish Medicines Agency"
+      - "France: Agence Nationale de Sécurité du Médicament et des produits de santé"
+      - "Germany: Federal Institute for Drugs and Medical Devices"
+      - "Italy: The Italian Medicines Agency"
+      - "Norway: Norwegian Medicines Agency"
+      - "Spain: Spanish Agency of Medicines"
+      - "Sweden: Medical Products Agency"
+      - "United Kingdom: Medicines and Healthcare Products Regulatory Agency"
+  number_of_groups: "1"
+  location: []
+  official_title: "Long-Term Observational Study of Translarna Safety and Effectiveness in Usual Care"
+  verification_date: "February 2015"
+  required_header: 
+    url: "https://clinicaltrials.gov/show/NCT02369731"
+    link_text: "Link to the current ClinicalTrials.gov record."
+  overall_contact: 
+    first_name: null
+    last_name: "Diane Goetz"
+    middle_name: null
+    phone_ext: null
+    phone: "908-912-9256"
+    degrees: null
+    email: "dgoetz@ptcbio.com"
+  brief_title: "Registry of Translarna (Ataluren) in Nonsense Mutation Duchenne Muscular Dystrophy"
+  biospec_descr: {}
+  condition_browse: 
+    mesh_term: 
+      - "Muscular Dystrophies"
+      - "Muscular Dystrophy, Duchenne"
+  brief_summary: 
+    textblock: "This study is being performed as a post-approval safety study (PASS), per the\n      Pharmacovigilance Risk Assessment Committee (PRAC) of the European Medicines Agency (EMA),\n      to gather data on Translarna (ataluren) safety, effectiveness, and prescription patterns in\n      routine clinical practice."
+  enrollment: 
+    attributes: 
+      type: "Anticipated"
+    value: "200"
+  lastchanged_date: "February 17, 2015"
+

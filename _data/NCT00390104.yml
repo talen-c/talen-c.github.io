@@ -1,0 +1,226 @@
+---
+firstreceived_date: October 17, 2006
+is_fda_regulated: 'No'
+reference:
+- PMID: '15962335'
+  citation: Kang PB, Kho AT, Sanoudou D, Haslett JN, Dow CP, Han M, Blasko JM, Lidov
+    HG, Beggs AH, Kunkel LM. Variations in gene expression among different types of
+    human skeletal muscle. Muscle Nerve. 2005 Oct;32(4):483-91.
+- PMID: '15652349'
+  citation: Liadaki K, Kho AT, Sanoudou D, Schienda J, Flint A, Beggs AH, Kohane IS,
+    Kunkel LM. Side population cells isolated from different tissues share transcriptome
+    signatures and express tissue-specific markers. Exp Cell Res. 2005 Feb 15;303(2):360-74.
+    Epub 2004 Nov 11.
+- PMID: '15707578'
+  citation: Guyon JR, Mosley AN, Jun SJ, Montanaro F, Steffen LS, Zhou Y, Nigro V,
+    Zon LI, Kunkel LM. Delta-sarcoglycan is required for early zebrafish muscle organization.
+    Exp Cell Res. 2005 Mar 10;304(1):105-15. Epub 2004 Dec 8.
+overall_contact_backup:
+  first_name: 
+  last_name: Elizabeth DeChene, M.S., C.G.C.
+  middle_name: 
+  phone_ext: 
+  phone: 617-919-2169
+  degrees: 
+  email: edechene@enders.tch.harvard.edu
+completion_date:
+  attributes:
+    type: Anticipated
+  value: January 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Our research has many goals, one of which is to characterize the genetic changes responsible
+          for the type of muscle disease found in our participants. In our past research, several new
+          genes responsible for various forms of neuromuscular disease were identified and/or are
+          being studied. These include dystrophin, the sarcoglycans, obscurin, and filamin. Each
+          discovery has resulted in advances in our ability to develop diagnostic tests which benefit
+          patients and their families by providing accurate diagnosis, presymptomatic and/or prenatal
+          testing. Genotype-phenotype correlation studies have increased our understanding of the
+          natural history of these rare disorders benefiting patients through better prognostic
+          determinations by clinicians. Biochemical and pathological analysis of muscle biopsies has
+          led to new insights into disease pathophysiology which we hope will aid in finding
+          treatments.
+
+          Our research also studies gene expression in muscle biopsy samples. This entails identifying
+          the genes whose expression is increased or decreased in the muscles of individuals with
+          different muscular dystrophy types. We believe these studies will identify genes and gene
+          pathways which are common to the pathogenesis of muscular dystrophy or which are unique to a
+          particular dystrophy. Our microarray research should lead to a better understanding of the
+          disease process and possible ways to halt the process. The end point of these studies would
+          be an accurate description of the disease pathogenesis.
+link: []
+has_expanded_access: 'No'
+id: NCT00390104
+intervention: []
+source: Children's Hospital Boston
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: Non-Probability Sample
+  minimum_age: N/A
+  study_pop:
+    textblock: |-
+      Families will be ascertained world-wide as the muscular dystrophies are a pan-ethinic
+              group of diseases.
+  criteria:
+    textblock: |-
+      The samples used in this study will be derived from individuals at risk for, or suffering
+              from, neuromuscular disease, generally resulting in clinical weakness of one or more
+              muscle groups.
+
+              Inclusion criteria:
+
+                1. having a clinical and/or pathological diagnosis of a muscular dystrophy
+
+                2. being the first degree relative of someone with such a diagnosis
+
+                3. having had a muscle biopsy if diagnosed with a neuromuscular disease
+
+              Exclusion Criteria:
+
+                1. not having such a diagnosis and not being related to such an individual
+
+                2. not wishing to participate
+
+                3. being incapable of giving consent and not having a legal guardian willing or able to
+                   do so
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date: {}
+last_injected: '2015-09-26T00:37:59.383Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: January 2002
+why_stopped: 
+id_info:
+  org_study_id: 03-12-205
+  secondary_id:
+  - 1 P01 NS40828-01
+  nct_alias: []
+  nct_id: NCT00390104
+acronym: 
+arm_group: []
+sponsors:
+  collaborator:
+  - agency: National Institutes of Health (NIH)
+    agency_class: NIH
+  lead_sponsor:
+    agency: Children's Hospital Boston
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational
+biospec_retention: Samples With DNA
+overall_status: Recruiting
+primary_outcome: []
+overall_official:
+- first_name: 
+  last_name: Louis M Kunkel, PhD
+  middle_name: 
+  affiliation: Children's Hospital Boston/Harvard Medical School
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Limb-girdle Muscular Dystrophy
+- Duchenne Muscular Dystrophy
+- Becker Muscular Dystrophy
+- Facioscapulohumeral Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Family-Based, Time Perspective: Prospective'
+keyword:
+- Neuromuscular Disease
+- Muscle weakness
+- Muscle atrophy
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '1'
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Liz DeChene, MS, CGC
+    middle_name: 
+    phone_ext: 
+    phone: 617-919-2169
+    degrees: 
+    email: edechene@enders.tch.harvard.edu
+  facility:
+    name: Children's Hospital Boston
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02115'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Louis M Kunkel, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Elicia A Estrella, M.S., C.G.C.
+    middle_name: 
+    phone_ext: 
+    phone: 617-919-4552
+    degrees: 
+    email: elicia.estrella@childrens.harvard.edu
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+official_title: Molecular Analysis of Nucleic Acids Derived From Patients With Neuromuscular
+  Disease and Their Family Members
+verification_date: July 2011
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00390104
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Elicia A Estrella, M.S., C.G.C.
+  middle_name: 
+  phone_ext: 
+  phone: 617-919-4552
+  degrees: 
+  email: elicia.estrella@childrens.harvard.edu
+brief_title: Molecular Analysis of Patients With Neuromuscular Disease
+biospec_descr:
+  textblock: |-
+    DNA from blood or saliva and muscle samples from proband/ DNA from blood or saliva from
+          family members
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophies, Limb-Girdle
+  - Muscular Dystrophy, Duchenne
+  - Muscular Dystrophy, Facioscapulohumeral
+  - Neuromuscular Diseases
+brief_summary:
+  textblock: |-
+    The purpose of this study is to identify genes and proteins responsible for specific muscle
+          disorders by studying genetic material from individuals with neuromuscular disease, as well
+          as their family members. We are interested in recruiting many types of neuromuscular disease
+          including; Duchenne and Becker muscular dystrophy DMD/BMD, limb-girdle muscle dystrophy
+          LGMD. There are still many patients diagnosed with muscular dystrophy but have no causative
+          gene implicated in their disease. We feel that these patients may have new genetic changes
+          in genes coding for important muscle proteins that we have yet to identify. Using molecular
+          genetics to unravel the biochemical basis of these neuromuscular disorders should lead to
+          more accurate diagnosis of these disorders and should lead to potential therapies.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '500'
+lastchanged_date: July 21, 2011

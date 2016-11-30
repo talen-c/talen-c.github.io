@@ -1,0 +1,584 @@
+---
+firstreceived_date: March 15, 2012
+is_fda_regulated: 'Yes'
+reference:
+- PMID: '17450125'
+  citation: Welch EM, Barton ER, Zhuo J, Tomizawa Y, Friesen WJ, Trifillis P, Paushkin
+    S, Patel M, Trotta CR, Hwang S, Wilde RG, Karp G, Takasugi J, Chen G, Jones S,
+    Ren H, Moon YC, Corson D, Turpoff AA, Campbell JA, Conn MM, Khan A, Almstead NG,
+    Hedrick J, Mollin A, Risher N, Weetall M, Yeh S, Branstrom AA, Colacino JM, Babiak
+    J, Ju WD, Hirawat S, Northcutt VJ, Miller LL, Spatrick P, He F, Kawana M, Feng
+    H, Jacobson A, Peltz SW, Sweeney HL. PTC124 targets genetic disorders caused by
+    nonsense mutations. Nature. 2007 May 3;447(7140):87-91. Epub 2007 Apr 22.
+- PMID: '17389552'
+  citation: Hirawat S, Welch EM, Elfring GL, Northcutt VJ, Paushkin S, Hwang S, Leonard
+    EM, Almstead NG, Ju W, Peltz SW, Miller LL. Safety, tolerability, and pharmacokinetics
+    of PTC124, a nonaminoglycoside nonsense mutation suppressor, following single-
+    and multiple-dose administration to healthy male and female adult volunteers.
+    J Clin Pharmacol. 2007 Apr;47(4):430-44.
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description:
+  textblock: |-
+    The study will enroll boys with nonsense mutation DBMD who have a history of exposure to
+          ataluren in a prior PTC study in nmDBMD (PTC124-GD-004-DMD, PTC124-GD-004e-DMD,
+          PTC124-GD-007-DMD, PTC124-GD-007e, and PTC124-GD-008-DMD) at a trial site in Europe, Israel,
+          Australia, or Canada. Patients will receive study drug 3 times per day (at breakfast, lunch,
+          and dinner). Study assessments will be performed at clinic visits during screening and every
+          12 weeks during the 96-week treatment period. Patients must also return to the clinic for a
+          post-treatment visit 6 weeks after the last dose of ataluren.
+link: []
+has_expanded_access: 'No'
+id: NCT01557400
+intervention:
+- intervention_name: Ataluren
+  other_name:
+  - PTC124
+  description: Oral powder for suspension taken 3 times per day (10 mg/kg in the morning,
+    10 mg/kg at mid-day, and 20mg/kg in the evening).
+  arm_group_label:
+  - Ataluren
+  intervention_type: Drug
+source: PTC Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: N/A
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Evidence of signed and dated informed consent/assent document(s) indicating that the
+                   subject (and/or his parent/legal guardian) has been informed of all pertinent aspects
+                   of the trial
+
+                -  History of exposure to ataluren in a prior PTC study in nmDBMD
+
+                -  Male sex
+
+                -  Confirmed screening laboratory values within the specified ranges
+
+                -  In subjects who are sexually active, willingness to abstain from sexual intercourse
+                   or employ a barrier or medical method of contraception during ataluren administration
+                   and the 6-week follow up period
+
+                -  Willingness and ability to comply with scheduled visits, drug administration plan,
+                   study procedures, laboratory tests, and study restrictions
+
+              Exclusion Criteria:
+
+                -  Exposure to another investigational drug within 1 month prior to start of study
+                   treatment
+
+                -  Eligibility for another ataluren clinical trial that is actively enrolling study
+                   participants
+
+                -  Known hypersensitivity to any of the ingredients or excipients of study drug
+
+                -  Ongoing use of the following medications: coumarin based anti-coagulants, phenytoin,
+                   tolbutamide, paclitaxel, or systemic aminoglycoside therapy
+
+                -  Ongoing uncontrolled medical/surgical condition, ECG findings, or laboratory
+                   abnormality that, in the investigator's opinion, could adversely affect the safety of
+                   the patient or make it unlikely that follow-up would be completed
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2015
+last_injected: '2015-07-14T06:22:37.425Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: May 2012
+why_stopped: 
+id_info:
+  org_study_id: PTC124-GD-019-DMD
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01557400
+acronym: 
+arm_group:
+- description: Ataluren
+  arm_group_label: Ataluren
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: PTC Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Change from baseline in 6MWD as measured by the 6MWT (in ambulatory patients)
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Change from baseline in subject and parent/caregiver-reported activities
+    of daily living, as measured by the Egen Klassifikation (EK) scale (in nonambulatory
+    patients)
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Change from baseline in timed function tests (in ambulatory patients)
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Change from baseline in pulmonary function as measured by spirometry (in
+    nonambulatory patients)
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Change from baseline in physical function as measured by the North Star
+    Ambulatory Assessment (in ambulatory patients)
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Changes in patient and/or parent/caregiver reports of disease status as
+    measured by a standardized survey administered by site personnel
+study_type: Interventional
+biospec_retention: 
+overall_status: Enrolling by invitation
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 96 weeks
+  description: The safety profile of ataluren will be characterized by type, frequency,
+    severity, timing, and relationship to ataluren of any adverse events or laboratory
+    abnormalities
+  measure: Safety and Tolerability
+overall_official:
+- first_name: 
+  last_name: Jay Barth, MD
+  middle_name: 
+  affiliation: PTC Therapeutics
+  degrees: 
+  role: Study Director
+phase: Phase 3
+location_countries:
+  country:
+  - Australia
+  - Belgium
+  - Canada
+  - France
+  - Germany
+  - Israel
+  - Italy
+  - Spain
+  - Sweden
+  - United Kingdom
+condition:
+- Duchenne Muscular Dystrophy
+- Becker Muscular Dystrophy
+- Dystrophinopathy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety Study, Intervention Model: Single Group
+  Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- Becker muscular dystrophy
+- Nonsense mutation
+- Premature stop codon
+- DMD
+- BMD
+- nmDBMD
+- DBMD
+- Ataluren
+- PTC124
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'Germany: Federal Institute for Drugs and Medical Devices'
+  - 'Belgium: Federal Agency for Medicinal Products and Health Products'
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+  - 'Italy: The Italian Medicines Agency'
+  - 'France: Afssaps - Agence française de sécurité sanitaire des produits de santé
+    (Saint-Denis)'
+  - 'Australia: Department of Health and Ageing Therapeutic Goods Administration'
+  - 'Sweden: Medical Products Agency'
+  - 'Spain: Agencia Española de Medicamentos y Productos Sanitarios'
+  - 'Israel: Ministry of Health'
+  - 'Canada: Health Canada'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Royal Children's Hospital
+    address:
+      city: Parkville, Victoria
+      state: 
+      zip: 
+      country: Australia
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -37.795
+    formatted: Parkville VIC, Australia
+    longitude: 144.957
+    original: Parkville, Victoria, Australia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Institute For Neuromuscular Research, The Children's Hospital at Westmead
+    address:
+      city: Westmead
+      state: 
+      zip: 
+      country: Australia
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -33.808
+    formatted: Westmead NSW 2145, Australia
+    longitude: 150.987
+    original: Westmead, Australia
+- status: 
+  contact_backup: {}
+  facility:
+    name: University Hospital KU Leuven
+    address:
+      city: Leuven
+      state: 
+      zip: 
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.878
+    formatted: Leuven, Belgium
+    longitude: 4.704
+    original: Leuven, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: Alberta Children's Hospital
+    address:
+      city: Calgary
+      state: Alberta
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+- status: 
+  contact_backup: {}
+  facility:
+    name: British Columbia Children's Hospital
+    address:
+      city: Vancouver
+      state: British Columbia
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 49.261
+    formatted: Vancouver, BC, Canada
+    longitude: -123.114
+    original: Vancouver, British Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Western Ontario
+    address:
+      city: London
+      state: Ontario
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.979
+    formatted: London, ON, Canada
+    longitude: -81.246
+    original: London, Ontario
+- status: 
+  contact_backup: {}
+  facility:
+    name: Hôpital d'Enfants CHU Timone
+    address:
+      city: Marseille
+      state: 
+      zip: 
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.296
+    formatted: Marseille, France
+    longitude: 5.37
+    original: Marseille, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: Laboratoire d'Exploration Fonctionnelles
+    address:
+      city: Nantes
+      state: 
+      zip: 
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.218
+    formatted: Nantes, France
+    longitude: -1.554
+    original: Nantes, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: Groupe Hospitalier La Pitie-Salpetriere
+    address:
+      city: Paris
+      state: 
+      zip: 
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Essen - Clinic for Children
+    address:
+      city: Essen
+      state: 
+      zip: 
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.462
+    formatted: Essen, Germany
+    longitude: 7.009
+    original: Essen, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: University Hospital
+    address:
+      city: Freiburg
+      state: 
+      zip: 
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.999
+    formatted: Freiburg im Breisgau, Germany
+    longitude: 7.842
+    original: Freiburg, Germany
+- status: 
+  contact_backup: {}
+  facility:
+    name: Hadassah Medical Center, Hebrew University Hospital
+    address:
+      city: Jerusalem
+      state: 
+      zip: 
+      country: Israel
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 31.768
+    formatted: Jerusalem, Israel
+    longitude: 35.214
+    original: Jerusalem, Israel
+- status: 
+  contact_backup: {}
+  facility:
+    name: Ospedale Maggiore Policlinico in Milan
+    address:
+      city: Milan
+      state: 
+      zip: 
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.464
+    formatted: Milan, Italy
+    longitude: 9.188
+    original: Milan, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: Ospedale Pediatrico Bambino Gesu
+    address:
+      city: Rome
+      state: 
+      zip: 
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Rome, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: U.O. Complessa di Neuropsichiatria Infantile
+    address:
+      city: Rome
+      state: 
+      zip: 
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Rome, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: Hospital Sant Joan de déu
+    address:
+      city: Barcelona
+      state: 
+      zip: 
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.388
+    formatted: Barcelona, Spain
+    longitude: 2.17
+    original: Barcelona, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: Hospital Universitari La Fe
+    address:
+      city: Valencia
+      state: 
+      zip: 
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.47
+    formatted: Valencia, Spain
+    longitude: -0.377
+    original: Valencia, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: Queen Silvia Children's Hospital
+    address:
+      city: Goteburg
+      state: 
+      zip: 
+      country: Sweden
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 57.709
+    formatted: Gothenburg, Sweden
+    longitude: 11.975
+    original: Goteburg, Sweden
+- status: 
+  contact_backup: {}
+  facility:
+    name: Astrid Lindgren Pediatric Hospital
+    address:
+      city: Stockholm
+      state: 
+      zip: 
+      country: Sweden
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 59.329
+    formatted: Stockholm, Sweden
+    longitude: 18.065
+    original: Stockholm, Sweden
+- status: 
+  contact_backup: {}
+  facility:
+    name: Great Ormond Street Hospital
+    address:
+      city: London
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.508
+    formatted: London, UK
+    longitude: -0.128
+    original: London, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Newcastle Institute of Human Genetics
+    address:
+      city: Newcastle Upon Tyne
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle Upon Tyne, United Kingdom
+official_title: An Open-Label Study for Previously Treated Ataluren (PTC124) Patients
+  With Nonsense Mutation Dystrophinopathy
+verification_date: November 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01557400
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Study of Ataluren for Previously Treated Patients With nmDBMD in Europe,
+  Israel, Australia, and Canada
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Duchenne/Becker muscular dystrophy (DBMD) is a genetic disorder that develops in boys. It is
+          caused by a mutation in the gene for dystrophin, a protein that is important for maintaining
+          normal muscle structure and function. Loss of dystrophin causes muscle fragility that leads
+          to weakness and loss of walking ability during childhood and teenage years. A specific type
+          of mutation, called a nonsense (premature stop codon) mutation, is the cause of DBMD in
+          approximately 10-15% of boys with the disease. Ataluren is an orally delivered,
+          investigational drug that has the potential to overcome the effects of the nonsense
+          mutation. This study is an open-label trial for patients with nonsense mutation
+          dystrophinopathy who received ataluren in a prior PTC-sponsored study at a clinical trial
+          site in Europe, Israel, Australia, or Canada. The primary objective of the study is to
+          evaluate the long-term safety of ataluren, as determined by adverse events and laboratory
+          abnormalities.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '96'
+lastchanged_date: November 12, 2013

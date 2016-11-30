@@ -1,0 +1,219 @@
+---
+firstreceived_date: April 29, 2015
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT02439216
+intervention:
+- intervention_name: CAT-1004
+  other_name: []
+  description: 
+  arm_group_label:
+  - Dose 1
+  - Dose 2
+  - Dose 3
+  intervention_type: Drug
+source: Catabasis Pharmaceuticals
+eligibility:
+  gender: Male
+  maximum_age: 7 Years
+  sampling_method: 
+  minimum_age: 4 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Written informed consent from parent or legal guardian prior to participation and,
+                   for patients who are 7 years of age, written assent from patient
+
+                -  Diagnosis of DMD based on a clinical phenotype with increased serum CK and the
+                   presence of a mutation in the dystrophin gene known to be associated with a DMD
+                   phenotype
+
+                -  Ability to walk independently (assistive devices are permitted)
+
+                -  Adequate immunization for influenza and varicella
+
+              Exclusion Criteria:
+
+                -  Use of corticosteroids within prior 6 months of treatment initiation or planning to
+                   initiate steroid therapy within the next 6 months
+
+                -  Other prior or ongoing significant medical conditions
+
+                -  Exposure to another investigational drug within 28 days prior to start of study
+                   treatment or ongoing participation in any other therapeutic clinical trial
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2015
+last_injected: '2015-09-26T04:11:04.976Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '3'
+start_date: May 2015
+why_stopped: 
+id_info:
+  org_study_id: CAT-1004-201
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02439216
+acronym: MoveDMD
+arm_group:
+- description: CAT-1004
+  arm_group_label: Dose 1
+  arm_group_type: Experimental
+- description: CAT-1004
+  arm_group_label: Dose 2
+  arm_group_type: Experimental
+- description: CAT-1004
+  arm_group_label: Dose 3
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Catabasis Pharmaceuticals
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: predose, 1, 2, 4, 6, 9, and 24 hours post-dose
+  description: 
+  measure: Area Under Curve (AUC)
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 7 days
+  description: 
+  measure: Number of Adverse Events
+overall_official: []
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Muscular Dystrophy, Duchenne
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety Study,
+  Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose:
+  Treatment'
+keyword:
+- Muscular Dystrophies
+- Musculoskeletal Diseases
+- Nervous System Diseases
+- Neuromuscular Diseases
+- Duchenne muscular dystrophy
+- DMD
+- dystrophin
+- dystrophy
+- Duchenne
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Portland
+      state: Oregon
+      zip: '97239'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.523
+    formatted: Portland, OR, USA
+    longitude: -122.676
+    original: Portland, Oregon
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+official_title: A Phase 1/2 Study of CAT-1004 in Pediatric Patients With Duchenne
+  Muscular Dystrophy
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02439216
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Joanne M Donovan, MD, PhD
+  middle_name: 
+  phone_ext: 
+  phone: 617-349-1971
+  degrees: 
+  email: joanne.donovan@catabasis.com
+brief_title: Phase 1/2 Study in Boys With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of Part A of the Phase 1/2 ascending multiple-dose, open-label study is to
+          evaluate the safety and pharmacokinetics (PK) of CAT-1004 in pediatric patients with a
+          confirmed diagnosis of Duchenne muscular dystrophy (DMD). CAT-1004 is an orally administered
+          small molecule targeted to inhibit activated NF-κB, a molecule that is activated from
+          infancy in DMD and which is central to causing muscle damage and preventing muscle
+          regeneration. Data on magnetic resonance imaging of the lower and upper leg muscles,
+          physical function (including timed function tests) and muscle strength will be collected at
+          baseline. Dose escalation between cohorts will only occur after patients in the prior cohort
+          have completed dosing and data have been evaluated by the Sponsor, Investigator and an
+          independent data safety monitoring board (DMSB). The intention is that enrolled patients, if
+          eligible, will return for additional treatment with CAT-1004 in a randomized,
+          placebo-controlled, 12-week Part B study, which is anticipated to be submitted as a protocol
+          amendment.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '18'
+lastchanged_date: September 10, 2015

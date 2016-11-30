@@ -1,0 +1,232 @@
+---
+firstreceived_date: May 21, 2012
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: October 2013
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    This study is designed to investigate the safety and efficacy of human umbilical cord
+          mesenchymal stem cells transplantation in patients with progressive muscular dystrophy.
+link: []
+has_expanded_access: 'No'
+id: NCT01610440
+intervention:
+- intervention_name: human umbilical cord mesenchymal stem cells
+  other_name: []
+  description: rehabilitation therapy plus human umbilical cord mesenchymal stem cells
+  arm_group_label:
+  - Intervention Group
+  intervention_type: Biological
+source: Shenzhen Beike Bio-Technology Co., Ltd.
+eligibility:
+  gender: Both
+  maximum_age: 12 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Aged 5-12 years
+
+                -  Clinical manifestation, enzymology, electromyogram, gene type confirmed the diagnose
+                   of Duchenne muscular dystrophy
+
+                -  Sign the consent form and follow the clinic trail procedure
+
+              Exclusion Criteria:
+
+                -  Not Duchenne muscular dystrophy
+
+                -  Any history of hypersensitivity to serum products,or other know drug and food allergy
+
+                -  Combined Pneumonia or other Severe systemic bacteria infection
+
+                -  HIV+, TPPA +， patients diagnosed as HBV or HCV
+
+                -  Tumor Markers +
+
+                -  Severe psychotic patients, cognitive dysfunction
+
+                -  Coagulation disorders
+
+                -  Uncontrolled hypertension after treatment，blood pressure≥180mmHg/110 mmHg
+
+                -  Other severe systemic or organic disease
+
+                -  Enrollment in other trials in the last 3 months
+
+                -  Received any stem cell therapy in past 6 months
+
+                -  Other criteria that investigator consider improper for inclusion
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2013
+last_injected: '2015-07-14T04:18:04.936Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: October 2011
+why_stopped: 
+id_info:
+  org_study_id: BKCR-DMD-1(Ⅰ)
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01610440
+acronym: 
+arm_group:
+- description: Participants will be given rehabilitation therapy plus human umbilical
+    cord mesenchymal stem cells transplantation with one year follow-up
+  arm_group_label: Intervention Group
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: The Second Affiliated Hospital of Kunming Medical University
+    agency_class: Other
+  lead_sponsor:
+    agency: Shenzhen Beike Bio-Technology Co., Ltd.
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Incidences of Adverse Event and Serious Adverse Event
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Change from baseline in CK
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Change from baseline in LDH
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Change from baseline in ALT
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Change from baseline in AST
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Change from baseline to manual muscle test(MMT)
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Change from baseline in electromyography(EMG)
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 1 year after treatment
+  description: 
+  measure: Activities of Daily Living(ADL)scale
+overall_official:
+- first_name: 
+  last_name: Liqing Yao
+  middle_name: 
+  affiliation: The Second Affiliated Hospital of Kunming Medical University
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - China
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- Human Umbilical Cord Mesenchymal Stem Cells
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'China: Ministry of Health'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: The Second Affiliated Hospital of Kunming Medical College
+    address:
+      city: Kunming
+      state: Yunnan
+      zip: '650031'
+      country: China
+  investigator:
+  - first_name: 
+    last_name: Liqing Yao
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Liqing Yao
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: yaoliqing98731@yahoo.com.cn
+  geodata:
+    latitude: 25.038
+    formatted: Kunming, Yunnan, China
+    longitude: 102.722
+    original: Kunming, Yunnan
+official_title: Phase I/II Study of Stem Cell Therapy in Patients With Duchenne Muscular
+  Dystrophy
+verification_date: November 2012
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01610440
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Liqing Yao
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: yaoliqing98731@yahoo.com.cn
+brief_title: Safety and Efficacy of Umbilical Cord Mesenchymal Stem Cell Therapy for
+  Patients With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Duchenne muscular dystrophy (DMD), an X-linked recessive genetic disease always progressed
+          slowly，tends to leading proximal skeletal muscle atrophy and weakness of limbs, as well as
+          impaired respiratory muscle and cardiac muscle. To a large extent, patients always lose
+          motor function gradually and die for heart failure or severe infection at the end stage of
+          DMD. At present, the treatment strategy relies on heteropathy accompanied with
+          rehabilitation training. However, the therapeutic effect remains extremely limited.
+
+          Human umbilical cord mesenchymal stem cells (hUC-MSCs) have been evidenced to improve motor
+          function, increase muscle strength and reduce abnormal levels of related enzymes, such as
+          creatine kinase (CK), lactate dehydrogenase (LDH), alanine aminotransferase (ALT) and
+          aspartate aminotransferase (AST). This study is aimed to explore the safety and efficacy of
+          hUC-MSCs transplantation for DMD.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '15'
+lastchanged_date: November 28, 2012
