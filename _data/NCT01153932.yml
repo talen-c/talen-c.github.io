@@ -1,0 +1,420 @@
+---
+firstreceived_date: June 29, 2010
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: September 2012
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    This is a phase II, double-blind, exploratory, parallel-group, placebo-controlled clinical
+          study in ambulant subjects with DMD resulting from a mutation that can be corrected by exon
+          skipping induced by GSK2402968. The study aims to randomise 54 subjects. There will be 2
+          parallel cohorts. Each cohort will include subjects on GSK2402968 and matched placebo in a
+          2:1 ratio.
+link: []
+has_expanded_access: 'No'
+id: NCT01153932
+intervention:
+- intervention_name: GSK2402968
+  other_name:
+  - '968'
+  description: Subcutaneous injection
+  arm_group_label:
+  - Intermittent regimen; 6mg/kg twice weekly
+  - Continuous regimen; 6mg/kg once weekly
+  intervention_type: Drug
+- intervention_name: matched placebo
+  other_name:
+  - Placebo
+  description: Subcutaneous injection
+  arm_group_label:
+  - Intermittent regimen; 6mg/kg twice weekly
+  - Continuous regimen; 6mg/kg once weekly
+  intervention_type: Drug
+source: GlaxoSmithKline
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Ambulant subjects with Duchenne muscular dystrophy resulting from a mutation in the
+                   DMD gene, confirmed by a state-of-the-art DNA diagnostic technique covering all DMD
+                   gene exons, including but not limited to MLPA (Multiplex Ligation-dependent Probe
+                   Amplification), CGH (Comparative Genomic Hybridisation) or H-RMCA (High-Resolution
+                   Melting Curve Analysis), and correctable by GSK2402968-induced DMD exon 51 skipping,
+
+                -  Males, at least 5 years of age and with a life expectancy of at least 1 year
+
+                -  Able to rise from floor in ≤7 seconds (without aids/orthoses),
+
+                -  Able to complete the 6MWD test with a distance of at least 75m
+
+                -  Receiving glucocorticoids for a minimum of 6 months immediately prior to screening,
+                   with no significant change in total daily dosage or dosing regimen for a minimum of 3
+                   months immediately prior to screening and a reasonable expectation that total daily
+                   dosage and dosing regimen will not change significantly for the duration of the study
+
+                -  QTc <450msec
+
+                -  On adequate contraception
+
+                -  Able to comply with and complete all protocol requirements
+
+              Exclusion Criteria:
+
+                -  any additional missing exon for DMD
+
+                -  Current of history of liver or renal disease or impairment
+
+                -  Acute illness within 4 weeks of the first dose
+
+                -  Use of prohibited meds within 6 months of fist dose
+
+                -  Current participation in any other investigational clinical trial
+
+                -  Positive hepatitis B surface antigen, hepatitis C antibody test, or human
+                   immunodeficiency virus (HIV) test at screening
+
+                -  Symptomatic cardiomyopathy
+
+                -  Children in Care
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: March 2012
+last_injected: '2015-09-26T07:50:23.750Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: September 2010
+why_stopped: 
+id_info:
+  org_study_id: '114117'
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01153932
+acronym: 
+arm_group:
+- description: Once Weekly
+  arm_group_label: Continuous regimen; 6mg/kg once weekly
+  arm_group_type: Experimental
+- description: Twice weekly on 1st, 3rd and 5th weeks, once weekly on 2nd, 4th and
+    6th weeks, and no active drug on 7th to 10th week of each 10 week cycle
+  arm_group_label: Intermittent regimen; 6mg/kg twice weekly
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: GlaxoSmithKline
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: one year
+  description: 
+  measure: To assess the safety and tolerability of 2 different dosing regimens of
+    subcutaneous GSK2402968 administered over 48 weeks in ambulant subjects
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: To assess the PK of 2 different dosing regimens of subcutaneous GSK2402968
+    administered over 48 weeks in ambulant subjects with DMD
+- safety_issue: 'No'
+  time_frame: one year
+  description: 
+  measure: To assess long term efficacy of 2 different dosing regimens of subcutaneous
+    GSK2402968 administered over 48 weeks in ambulant subjects with DMD
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 48 weeks
+  description: 
+  measure: To assess the efficacy of 2 different dosing regimens of subcutaneous GSK2402968
+    administered over 24 weeks in ambulant subjects with DMD
+overall_official:
+- first_name: 
+  last_name: GSK Clinical Trials
+  middle_name: 
+  affiliation: GlaxoSmithKline
+  degrees: 
+  role: Study Director
+phase: Phase 2
+location_countries:
+  country:
+  - Australia
+  - Belgium
+  - France
+  - Germany
+  - Israel
+  - Netherlands
+  - Spain
+  - Turkey
+  - United Kingdom
+condition:
+- Muscular Dystrophies
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- '968'
+- muscular dystrophy
+- duchenne
+- DMD
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+  - 'United Kingdom: Ethics Committee'
+  - 'France: Agence Française de Sécurité Sanitaire des Produits de Santé'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: WEstmead
+      state: New South Wales
+      zip: '2145'
+      country: Australia
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -33.808
+    formatted: Westmead NSW 2145, Australia
+    longitude: 150.987
+    original: WEstmead, New South Wales
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Parkville
+      state: Victoria
+      zip: '3052'
+      country: Australia
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -37.795
+    formatted: Parkville VIC, Australia
+    longitude: 144.957
+    original: Parkville, Victoria
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Gent
+      state: 
+      zip: '9000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.053
+    formatted: Ghent, Belgium
+    longitude: 3.73
+    original: Gent, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Paris cedex 13
+      state: 
+      zip: '75651'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris cedex 13, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Freiburg
+      state: Baden-Wuerttemberg
+      zip: '79106'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.999
+    formatted: Freiburg im Breisgau, Germany
+    longitude: 7.842
+    original: Freiburg, Baden-Wuerttemberg
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Essen
+      state: Nordrhein-Westfalen
+      zip: '45122'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.462
+    formatted: Essen, Germany
+    longitude: 7.009
+    original: Essen, Nordrhein-Westfalen
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Jerusalem
+      state: 
+      zip: '91240'
+      country: Israel
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 31.768
+    formatted: Jerusalem, Israel
+    longitude: 35.214
+    original: Jerusalem, Israel
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Nijmegen
+      state: 
+      zip: 6525 GA
+      country: Netherlands
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.843
+    formatted: Nijmegen, The Netherlands
+    longitude: 5.855
+    original: Nijmegen, Netherlands
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Esplugues (Barcelona)
+      state: 
+      zip: 08950
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.378
+    formatted: Esplugues de Llobregat, Spain
+    longitude: 2.088
+    original: Esplugues (Barcelona), Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Valencia
+      state: 
+      zip: '46009'
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.47
+    formatted: Valencia, Spain
+    longitude: -0.377
+    original: Valencia, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Ankara
+      state: 
+      zip: '06100'
+      country: Turkey
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.921
+    formatted: Ankara, Turkey
+    longitude: 32.854
+    original: Ankara, Turkey
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: London
+      state: 
+      zip: WC1N 1EH
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.508
+    formatted: London, UK
+    longitude: -0.128
+    original: London, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Newcastle upon Tyne
+      state: 
+      zip: NE1 3BZ
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle upon Tyne, United Kingdom
+official_title: A Phase II, Double Blind, Exploratory, Parallel-group, Placebocontrolled
+  Clinical Study to Assess Two Dosing Regimens of GSK2402968 for Efficacy, Safety,
+  Tolerability and Pharmacokinetics in Ambulant Subjects With Duchenne Muscular Dystrophy
+verification_date: August 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01153932
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Phase II Doubleblind Exploratory Study of GSK2402968 in Ambulant Subjects
+  With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to determine whether GSK2402968 given as a continuous dose and
+          as an intermittent dose is effective and safe in the treatment of Duchenne muscular
+          dystrophy.
+enrollment:
+  attributes:
+    type: Actual
+  value: '53'
+lastchanged_date: August 21, 2014

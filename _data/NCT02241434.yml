@@ -1,0 +1,171 @@
+---
+firstreceived_date: September 12, 2014
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT02241434
+intervention:
+- intervention_name: Stem Cell
+  other_name: []
+  description: 
+  arm_group_label:
+  - Stem Cell
+  intervention_type: Biological
+source: Neurogen Brain and Spine Institute
+eligibility:
+  gender: Both
+  maximum_age: 25 Years
+  sampling_method: 
+  minimum_age: 3 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  age group of 3-25 years
+
+                -  Duchenne muscular dystrophy diagnosed on the basis of clinical presentation
+
+              Exclusion Criteria:
+
+                -  presence of respiratory distress
+
+                -  presence of acute infections such as Human Immunodeficient Virus/Hepatitis B
+                   Virus/Hepatitis C Virus
+
+                -  malignancies
+
+                -  acute medical conditions such as respiratory infection, fever, hemoglobin less than
+                   8, bleeding tendency, bone marrow disorder, left ventricular ejection fraction < 30%
+
+                -  pregnancy or breastfeeding
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: January 2016
+last_injected: '2015-09-26T11:26:17.909Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: January 2009
+why_stopped: 
+id_info:
+  org_study_id: NGBSI-13
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02241434
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Stem Cell
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Neurogen Brain and Spine Institute
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 1 year
+  description: 
+  measure: Brooke and Vignos Scale
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 1 year
+  description: 
+  measure: Manual Muscle Testing
+overall_official: []
+phase: Phase 1
+location_countries:
+  country:
+  - India
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- Autologous Bone marrow Mononuclear cell therapy
+- Stem Cells
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'India: Indian Council of Medical Research'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Neurogen brain and spine institute
+    address:
+      city: Navi Mumbai
+      state: Maharashtra
+      zip: '400706'
+      country: India
+  investigator:
+  - first_name: 
+    last_name: Alok K Sharma, M.S, M.Ch
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Alok K Sharma, M.S, M.Ch
+    middle_name: 
+    phone_ext: 
+    phone: 022-25283706
+    degrees: 
+    email: alok276@gmail.com
+  geodata:
+    latitude: 19.033
+    formatted: Navi Mumbai, Maharashtra, India
+    longitude: 73.03
+    original: Navi Mumbai, Maharashtra
+official_title: The Role of Autologous Bone Marrow Mononuclear Cell Therapy in Duchenne
+  Muscular Dystrophy
+verification_date: September 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02241434
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Alok K Sharma, M.S, M.Ch
+  middle_name: 
+  phone_ext: 
+  phone: 022-25283706
+  degrees: 
+  email: alok276@gmail.com
+brief_title: Stem Cell Therapy in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study was to study the effect of stem cell therapy in patients with
+          Duchenne Muscular Dystrophy.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '500'
+lastchanged_date: September 12, 2014

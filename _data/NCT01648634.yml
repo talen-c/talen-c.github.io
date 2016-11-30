@@ -1,0 +1,249 @@
+---
+firstreceived_date: July 20, 2012
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Laurence LECOMTE, PhD
+  middle_name: 
+  phone_ext: 
+  phone: "++33171196494"
+  degrees: 
+  email: laurence.lecomte@nck.aphp.fr
+completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2020
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    A 1.25 mg-test dose will be administrated to assess the treatment tolerance before
+          randomization. A forced titration of nebivolol and placebo will be performed with 2 weeks
+          periods. Full dose of nebivolol and placebo is 5mg/day (7.5mg/day for patients whose weight
+          is>60kg).
+link: []
+has_expanded_access: 'No'
+id: NCT01648634
+intervention:
+- intervention_name: Nebivolol
+  other_name: []
+  description: A 1.25mg-test dose will be administrated to assess the treatment tolerance
+    before randomization. A forced titration of nebivolol will be performed with 2
+    weeks periods. Full dose of nebivolol is 5mg/day (7.5mg/day for patients whose
+    weight is>60kg)
+  arm_group_label:
+  - Nebivolol
+  intervention_type: Drug
+- intervention_name: Placebo
+  other_name: []
+  description: A 1.25mg-test dose of nebivolol will be administrated to assess the
+    treatment tolerance before randomization. A forced titration of placebo will be
+    performed with 2 weeks periods. Full dose of placebo is 5mg/day (7.5mg/day for
+    patients whose weight is>60kg)
+  arm_group_label:
+  - Placebo
+  intervention_type: Drug
+source: Assistance Publique - Hôpitaux de Paris
+eligibility:
+  gender: Male
+  maximum_age: 15 Years
+  sampling_method: 
+  minimum_age: 10 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Duchenne muscular dystrophy genetically proven
+
+                -  Age between 10 and 15 years
+
+                -  Left ventricular ejection fraction assessed by radionuclide angiography ≥50% and
+                   measured within 3 months
+
+                -  Systolic blood pressure ≥80 mmHg
+
+                -  Diastolic blood pressure ≥70 mmHg
+
+              Exclusion Criteria:
+
+                -  Heart rate <50 bpm
+
+                -  2nd or 3rd degree atrioventricular blocks, sinus node dysfunction
+
+                -  Asthma or bronchospasm
+
+                -  Severe peripheral circulatory disease
+
+                -  Hypersensitivity to nebivolol or excipients
+
+                -  Metabolic acidosis
+
+                -  Blood urea >7 mmol/l
+
+                -  Liver transaminases enzymes >6 fold the upper limit of normal
+
+                -  Formal indication for beta-blockade treatment
+
+                -  Cardiac treatments except angiotensin-converting enzyme inhibitors
+
+                -  Participation to another clinical trial within 3 months
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: September 2019
+last_injected: '2015-07-14T02:36:13.489Z'
+intervention_browse:
+  mesh_term:
+  - Nebivolol
+target_duration: 
+number_of_arms: '2'
+start_date: March 2012
+why_stopped: 
+id_info:
+  org_study_id: P090202
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01648634
+acronym: NEBIDYS
+arm_group:
+- description: 
+  arm_group_label: Nebivolol
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: Placebo
+  arm_group_type: Placebo Comparator
+sponsors:
+  collaborator:
+  - agency: Association Française contre les Myopathies (AFM), Paris
+    agency_class: Other
+  lead_sponsor:
+    agency: Assistance Publique - Hôpitaux de Paris
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'Yes'
+  time_frame: at 5 years
+  description: Right ventricular ejection fraction assessed by radionuclide angiography
+  measure: Right ventricular ejection fraction
+- safety_issue: 'Yes'
+  time_frame: at 1, 2, 3, 4, and 5 years
+  description: NT-ProBNP
+  measure: NT-ProBNP
+- safety_issue: 'No'
+  time_frame: at 10 years
+  description: Development of left ventricular dysfunction
+  measure: Left ventricular dysfunction
+- safety_issue: 'No'
+  time_frame: at 10 years
+  description: hospitalizations for heart failure
+  measure: Hospitalizations
+- safety_issue: 'No'
+  time_frame: at 10 years ((5-years open label extension)
+  description: Cardiovascular mortality
+  measure: Mortality
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: at 5 years
+  description: Development of left ventricular systolic dysfunction with an ejection
+    fraction < 45%
+  measure: Left ventricular systolic dysfunction
+overall_official:
+- first_name: 
+  last_name: Henri-Marc BECANE, MD,PhD
+  middle_name: 
+  affiliation: Armand Trousseau Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 3
+location_countries:
+  country:
+  - France
+condition:
+- Duchenne Muscular Dystrophy
+- Cardiomyopathy
+- Heart Failure
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention
+  Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary
+  Purpose: Prevention'
+keyword:
+- Nebivolol
+- beta-blockade treatment
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'France: Ministry of Health'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Laurence LECOMTE, PhD
+    middle_name: 
+    phone_ext: 
+    phone: "++33171196494"
+    degrees: 
+    email: laurence.lecomte@nck.aphp.fr
+  facility:
+    name: Armand Trousseau Hospital
+    address:
+      city: Paris
+      state: 
+      zip: '75012'
+      country: France
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Henri-Marc BECANE, MD, PhD
+    middle_name: 
+    phone_ext: 
+    phone: "+331 44 73 54 87"
+    degrees: 
+    email: henri-marc.becane@croix-rouge.fr
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris, France
+official_title: A Randomized, Double-Blind, Placebo-Controlled, Multi-center Study
+  to Examine the Effect of Nebivolol, a Beta-Blockade Drug, for the Prevention of
+  Ventricular Systolic Dysfunction in Patients With Duchenne Muscular Dystrophy
+verification_date: April 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01648634
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Henri-Marc BECANE, MD, PhD
+  middle_name: 
+  phone_ext: 
+  phone: "+33144 73 54 87"
+  degrees: 
+  email: henri-marc.becane@croix-rouge.fr
+brief_title: Nebivolol for the Prevention of Left Ventricular Systolic Dysfunction
+  in Patients With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Cardiomyopathies
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The objective is to determine whether nebivolol, a beta-blockade drug, can prevent the
+          development of heart disease in patients with Duchenne muscular dystrophy aged 10 to 15
+          year-old.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '60'
+lastchanged_date: April 20, 2015

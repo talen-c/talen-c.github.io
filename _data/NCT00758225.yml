@@ -1,0 +1,181 @@
+---
+firstreceived_date: September 23, 2008
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: January 2011
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT00758225
+intervention:
+- intervention_name: Idebenone
+  other_name: []
+  description: 'Patients ≤ 45 kg: 450 mg/day (1 tablet 3 times a day) Patients > 45
+    kg: 900 mg/day (2 tablets 3 times a day)'
+  arm_group_label:
+  - only one arm
+  intervention_type: Drug
+source: Santhera Pharmaceuticals
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: N/A
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Completion of study SNT-II-001
+
+                -  Body weight ≥ 25 kg
+
+                -  Glucocorticosteroids and ACE-inhibitors are allowed, if on stable dosage within 2
+                   months prior to inclusion
+
+                -  Eligibility to participate in the present extension study as confirmed by the
+                   investigator
+
+              Exclusion Criteria:
+
+                -  Safety or tolerability issues arising during the course of SNT-II-001 which in the
+                   opinion of the investigator preclude further treatment with idebenone
+
+                -  Clinically significant abnormalities of haematology or biochemistry
+
+                -  Abuse of drugs or alcohol
+
+                -  Use of coenzyme Q10 or idebenone within 30 days prior to inclusion
+
+                -  Intake of any investigational drug within 30 days prior to inclusion
+
+                -  Symptomatic heart failure
+
+                -  Previous history of ventricular arrhythmias (other than isolated ventricular
+                   extrasystole); ventricular arrhythmias presented at baseline
+
+                -  Known individual hypersensitivity to idebenone or to any of the excipients
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: January 2011
+last_injected: '2015-10-15T00:20:11.476Z'
+intervention_browse:
+  mesh_term:
+  - Idebenone
+target_duration: 
+number_of_arms: '1'
+start_date: September 2008
+why_stopped: 
+id_info:
+  org_study_id: SN T-II-001-E
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00758225
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: only one arm
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Santhera Pharmaceuticals
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Month 0, 6, 12, 18, 24
+  description: 
+  measure: 'Measures of efficacy of idebenone: - Respiratory Function Testing - Motor
+    Function Measure - Quantitative Muscle Testing - Hand-Held Myometry - Echocardiography
+    and Color Doppler Myocardial Imaging - Cardiac biomarkers'
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: Month 0, 3, 6, 12, 18, 24, FU
+  description: 
+  measure: 'Measures of safety and tolerability of idebenone: - Nature and frequency
+    of AEs - Laboratory parameters (haematology, biochemistry and urinalysis) - Physical
+    examinations and vital signs - ECGs'
+overall_official:
+- first_name: 
+  last_name: Prof Gunnar Buyse, MD PhD
+  middle_name: 
+  affiliation: Universitaire Ziekenhuizen Leuven
+  degrees: 
+  role: Principal Investigator
+phase: Phase 2
+location_countries:
+  country:
+  - Belgium
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne Muscular Dystrophy
+- DMD
+- Duchenne
+- Idebenone
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'Belgium: Federal Agency for Medicinal Products and Health Products'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: University Hospitals Leuven
+    address:
+      city: Leuven
+      state: 
+      zip: '3000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.878
+    formatted: Leuven, Belgium
+    longitude: 4.704
+    original: Leuven, Belgium
+official_title: A Phase II Open-label Extension Study to Obtain Long-term Safety,
+  Tolerability and Efficacy Data of Idebenone in the Treatment of Duchenne Muscular
+  Dystrophy - Extension to Study SNT-II-001
+verification_date: May 2011
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00758225
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Long-term Safety, Tolerability and Efficacy of Idebenone in Duchenne
+  Muscular Dystrophy (DELPHI Extension)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The scientific aim of the present extension study is to monitor long-term safety and
+          tolerability of idebenone in patients with DMD. Furthermore, the long-term effect on
+          respiratory, cardiac and motor functions, and skeletal muscle strength/function will be
+          assessed.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '21'
+lastchanged_date: May 30, 2011

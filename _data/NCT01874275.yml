@@ -1,0 +1,972 @@
+---
+firstreceived_date: June 7, 2013
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: September 2014
+responsible_party: {}
+firstreceived_results_date: November 4, 2014
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    Muscle Strength and Joint Range of Motion Testing - All muscle and joint testing was
+          performed at the MedCenter Therapy clinic in Houston, Texas. JTech computerized testing
+          system was utilized including Goniometry, Grip testing, Inclinometry, Muscle Testing and
+          Joint Range of Motion testing occurred on Day 0, 30, 60, 90, 180, and repeated at 12 months
+          to determine muscular strength and joint Range of Motion. JTech computerized testing system
+          was chosen on the basis of reliability and accuracy. At each of the testing intervals, the
+          testing was administered by the same technician with the same equipment to all of the
+          participants. Inter-and intra-tester reliability of the JTech computerized testing system
+          has been the subject of multiple studies. Each of which found high ICCs (>0.93) for both
+          inter- and intra-tester reliability.
+
+          All sleep studies were performed at Sleep Diagnostics of Texas in The Woodlands, Texas.
+          Prior to the clinical trial, all of the participants spent two nights in the sleep unit and
+          their sleep study examinations were performed. The second night was used as the Day 0 data.
+          Sleep, breathing, arousals and limb movements were scored manually according to guidelines
+          set forth by the American Academy of Sleep Medicine. The sleep studies were repeated at 6
+          months and 1 year.
+link: []
+has_expanded_access: 'No'
+id: NCT01874275
+intervention:
+- intervention_name: VECTTOR
+  other_name:
+  - electrical nerve stimulator
+  description: |-
+    The VT-200, or VECTTOR system, delivers electrical stimulation via electrodes on the acupuncture points of a patient's feet/legs and hands/arms to provide symptomatic relief of chronic intractable pain and/or management of post-surgical pain.
+    Once these electrodes are placed, the machine determines the appropriate choice of stimulation by automatically measuring body temperatures through the use of thermistors placed on the fingers during a testing sequence.
+  arm_group_label:
+  - VECTTOR
+  - Device - sham
+  intervention_type: Device
+source: Alan Neuromedical Technologies, LLC
+eligibility:
+  gender: Both
+  maximum_age: 20 Years
+  sampling_method: 
+  minimum_age: 8 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Participants must have Duchenne Muscular Dystrophy diagnosis as confirmed by licensed
+                   physician, wheelchair bound, & age 8 - 20 years old.
+
+              Exclusion Criteria:
+
+                -  Active cancer in the area of application of the treatment, infection, skin infection,
+                   pregnancy, thrombophlebitis, pacemaker, amputation of any part of feet or hands,
+                   taking steroids. In addition, the participant may not be in any other clinical trial
+                   during the time they are in this study.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline to 180 days
+  description: 'Sleep / Arousal Statistics Index (ASI) description: Sleep Studies
+    were obtained twice before beginning the study. The second sleep study data was
+    used as baseline. A follow up sleep study was obtained after 6 months (180 days)
+    of Active or Placebo VECTTOR treatment. Sleep, breathing, arousal(s), and limb
+    movements were scored manually according to guidelines of the American Academy
+    of Sleep Medicine. The efficacy of the outcome measure of ASI is demonstrated
+    by a percent improvement between Baseline and 180 days. The ASI is measured by
+    the number of times sleep is interrupted per hour.'
+  measure: Percent Change in Sleep Quality Arousal Statistics Index (ASI) From Baseline
+    to 180 Days
+- safety_issue: 'No'
+  time_frame: Baseline to 365 days
+  description: 'Sleep / Arousal Statistics Index (ASI) description: Sleep Studies
+    were obtained twice before beginning the study. The second sleep study data was
+    used as baseline. A follow up sleep study was obtained after 6 months (180 days)
+    of Active or Placebo VECTTOR treatment. Sleep, breathing, arousal(s), and limb
+    movements were scored manually according to guidelines of the American Academy
+    of Sleep Medicine. The efficacy of the outcome measure of ASI is demonstrated
+    by a decrease in the value between Baseline and 180 days. The ASI is measured
+    by the number of times sleep is interrupted per hour. Lower ASI values/numbers
+    indicate improved sleep quality.'
+  measure: Sleep Arousal Statistics Index at 365 Days
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: September 2014
+last_injected: '2015-10-15T00:06:13.640Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: June 2013
+why_stopped: 
+id_info:
+  org_study_id: VECTTOR DMD2012
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01874275
+acronym: DMD
+arm_group:
+- description: nerve stimulator treatment twice daily for duration of study - 365
+    days
+  arm_group_label: VECTTOR
+  arm_group_type: Experimental
+- description: placebo treatment - no electrical stimulation treatment twice daily
+    for duration of study, 180 days - if VECTTOR arm experiencing improvement, subjects
+    in Device-Sham arm will be crossed over into the VECTTOR group and followed for
+    an additional 180 days, for a total study involvement (duration) of 365 days>
+  arm_group_label: Device - sham
+  arm_group_type: Placebo Comparator
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Alan Neuromedical Technologies, LLC
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline to 180 days
+  description: Muscle strength testing (Wireless Tracker system) - All muscle strength
+    testing was performed using the JTech computerized testing system, including Goniometry,
+    Grip Testing, Inclinometry, Muscle Testing and Joint Range of Motion. Testing
+    occurred at Baseline (Day 0), 30, 60, 90, and 180 days to determine changes in
+    muscle strength. JTech computerized testing system determined the muscle strength
+    by radio signals from a strain gauge measuring strength of the participant's muscles.
+    44 separate tests were performed for muscle strength for each participant at each
+    time interval. Efficacy is defined as an increase in the strength measurement
+    (pounds) from Baseline to 180 days.
+  measure: Percent Change in Muscle Strength
+- safety_issue: 'No'
+  time_frame: Baseline to 365 days
+  description: Range of Motion (ROM) testing (Wireless Tracker System) - All muscle
+    and joint testing was performed using the JTech computerized testing system, including
+    Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint Range of Motion.
+    Testing occurred at Baseline (Day 0), 30, 60, 90, 180 and 365 days to determine
+    changes in joint Range of Motion. JTech computerized testing system determined
+    the joint range of motion by radio signals from a goniometer measuring movement
+    of the participants' joints. 44 separate tests were performed for Range of Motion
+    for each participant at each time interval. The results from the range of motion
+    tests were averaged the percent change from baseline to 365 days. Efficacy is
+    defined as an increase in range of motion.
+  measure: Percent Change in Percent Range of Motion From Baseline to 365 Days
+- safety_issue: 'No'
+  time_frame: Baseline to 365 days
+  description: Muscle strength testing (Wireless Tracker system) - All muscle strength
+    testing was performed using the JTech computerized testing system, including Goniometry,
+    Grip Testing, Inclinometry, Muscle Testing and Joint Range of Motion. Testing
+    occurred at Baseline (Day 0), 30, 60, 90, 180 and 365 days to determine changes
+    in muscle strength. JTech computerized testing system determined the muscle strength
+    by radio signals from a strain gauge measuring strength of the participant's muscles.
+    44 separate tests were performed for muscle strength for each participant at each
+    time interval. Efficacy is defined as an increase in the strength measurement
+    (pounds) from Baseline to 365 days.
+  measure: Percent Change in Muscle Strength
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline to 180 days
+  description: Range of Motion (ROM) testing (Wireless Tracker System) - All muscle
+    and joint testing was performed using the JTech computerized testing system, including
+    Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint Range of Motion.
+    Testing occurred at Baseline (Day 0), 30, 60, 90 and 180 days to determine changes
+    in joint Range of Motion. JTech computerized testing system determined the joint
+    range of motion by radio signals from a goniometer measuring movement of the participants'
+    joints. 44 separate tests were performed for Range of Motion for each participant
+    at each time interval. The results from the range of motion tests were averaged
+    the percent change from baseline to 180 days. Efficacy is defined as an increase
+    in range of motion.
+  measure: Percent Change in Range of Motion From Baseline to 180 Days
+overall_official:
+- first_name: 
+  last_name: Charlotte Stelly-Seitz, MD
+  middle_name: 
+  affiliation: Pediatric Physical Medicine and Rehabilitation Houston, Texas
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results:
+  limitations_and_caveats: 
+  baseline:
+    measure_list:
+      measure:
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '6'
+                  upper_limit: 
+        title: Number of Participants
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: "<=18 years"
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '6'
+                  upper_limit: 
+          - sub_title: Between 18 and 65 years
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: ">=65 years"
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+        title: Age
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: Female
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Male
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '6'
+                  upper_limit: 
+        title: Gender
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: United States
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '4'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '2'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '6'
+                  upper_limit: 
+        title: Region of Enrollment
+        param: Number
+        dispersion: 
+        units: participants
+    group_list:
+      group:
+      - attributes:
+          group_id: B1
+        description: nerve stimulator treatment twice daily for duration of study
+          - 365 days ...
+        title: VECTTOR - Active
+      - attributes:
+          group_id: B2
+        description: placebo treatment - no nerve stimulator treatment twice daily
+          for 180 days of study
+        title: Device Sham
+      - attributes:
+          group_id: B3
+        description: Total of all reporting groups
+        title: Total
+    population: 
+  point_of_contact:
+    name_or_title: Charlotte Stelly-Seitz, MD
+    email: drstellyseitzmd@gmail.com
+    phone: 713-523-3463
+    organization: Independent Principal Investigator
+  reported_events: {}
+  certain_agreements:
+    restrictive_agreement: There is NOT an agreement between Principal Investigators
+      and the Sponsor (or its agents) that restricts the PI's rights to discuss or
+      publish trial results after the trial is completed.
+    pi_employee: Principal Investigators are NOT employed by the organization sponsoring
+      the study.
+  outcome_list:
+    outcome:
+    - description: Range of Motion (ROM) testing (Wireless Tracker System) - All muscle
+        and joint testing was performed using the JTech computerized testing system,
+        including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+        Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90 and 180
+        days to determine changes in joint Range of Motion. JTech computerized testing
+        system determined the joint range of motion by radio signals from a goniometer
+        measuring movement of the participants' joints. 44 separate tests were performed
+        for Range of Motion for each participant at each time interval. The results
+        from the range of motion tests were averaged the percent change from baseline
+        to 180 days. Efficacy is defined as an increase in range of motion.
+      title: Percent Change in Range of Motion From Baseline to 180 Days
+      safety_issue: 'No'
+      time_frame: Baseline to 180 days
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: nerve stimulator treatment twice daily for duration of study
+            - assessed at 180 days
+          title: VECTTOR
+        - attributes:
+            group_id: O2
+          description: placebo treatment - no electrical stimulation treatment twice
+            daily for 180 days followed by cross-over with active treatment for the
+            next 180 days
+          title: Device - Sham
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Range of Motion (ROM) testing (Wireless Tracker System) - All
+            muscle and joint testing was performed using the JTech computerized testing
+            system, including Goniometry, Grip Testing, Inclinometry, Muscle Testing
+            and Joint Range of Motion. Testing occurred at Baseline (Day 0), 30, 60,
+            90 and 180 days to determine changes in joint Range of Motion. JTech computerized
+            testing system determined the joint range of motion by radio signals from
+            a goniometer measuring movement of the participants' joints. 44 separate
+            tests were performed for Range of Motion for each participant at each
+            time interval. The results from the range of motion tests were averaged
+            the percent change from baseline to 180 days. Efficacy is defined as an
+            increase in range of motion.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '44.3'
+                    group_id: O1
+                    lower_limit: 
+                    value: '67'
+                    upper_limit: 
+                - attributes:
+                    spread: '49.2'
+                    group_id: O2
+                    lower_limit: 
+                    value: '33'
+                    upper_limit: 
+          title: Percent Change in Range of Motion From Baseline to 180 Days
+          param: Mean
+          dispersion: Standard Deviation
+          units: percentage of change
+      type: Primary
+      population: 
+    - description: Muscle strength testing (Wireless Tracker system) - All muscle
+        strength testing was performed using the JTech computerized testing system,
+        including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+        Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90, and 180
+        days to determine changes in muscle strength. JTech computerized testing system
+        determined the muscle strength by radio signals from a strain gauge measuring
+        strength of the participant’s muscles. 44 separate tests were performed for
+        muscle strength for each participant at each time interval. Efficacy is defined
+        as an increase in the strength measurement (pounds) from Baseline to 180 days.
+      title: Percent Change in Muscle Strength
+      safety_issue: 'No'
+      time_frame: Baseline to 180 days
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: nerve stimulator treatment twice daily for duration of study
+          title: VECTTOR
+        - attributes:
+            group_id: O2
+          description: placebo treatment - no electrical stimulation treatment twice
+            daily for 180 days followed by muscle stimulator treatment twice daily
+            for 180 days
+          title: Device - Sham
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Muscle strength testing (Wireless Tracker system) - All muscle
+            strength testing was performed using the JTech computerized testing system,
+            including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+            Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90, and
+            180 days to determine changes in muscle strength. JTech computerized testing
+            system determined the muscle strength by radio signals from a strain gauge
+            measuring strength of the participant’s muscles. 44 separate tests were
+            performed for muscle strength for each participant at each time interval.
+            Efficacy is defined as an increase in the strength measurement (pounds)
+            from Baseline to 180 days.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '2.16'
+                    group_id: O1
+                    lower_limit: 
+                    value: '95'
+                    upper_limit: 
+                - attributes:
+                    spread: '1.08'
+                    group_id: O2
+                    lower_limit: 
+                    value: '48'
+                    upper_limit: 
+          title: Percent Change in Muscle Strength
+          param: Mean
+          dispersion: Standard Deviation
+          units: percentage of change
+      type: Secondary
+      population: 
+    - description: 'Sleep / Arousal Statistics Index (ASI) description: Sleep Studies
+        were obtained twice before beginning the study. The second sleep study data
+        was used as baseline. A follow up sleep study was obtained after 6 months
+        (180 days) of Active or Placebo VECTTOR treatment. Sleep, breathing, arousal(s),
+        and limb movements were scored manually according to guidelines of the American
+        Academy of Sleep Medicine. The efficacy of the outcome measure of ASI is demonstrated
+        by a percent improvement between Baseline and 180 days. The ASI is measured
+        by the number of times sleep is interrupted per hour.'
+      title: Percent Change in Sleep Quality Arousal Statistics Index (ASI) From Baseline
+        to 180 Days
+      safety_issue: 'No'
+      time_frame: Baseline to 180 days
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: |-
+            nerve stimulator treatment twice daily for duration of study - 180 days
+            VECTTOR: The VT-200, or VECTTOR system, delivers electrical stimulation via electrodes on the acupuncture points of a patient’s feet/legs and hands/arms to provide symptomatic relief of chronic intractable pain and/or management of post-surgical pain.
+            Once these electrodes are placed, the machine determines the appropriate choice of stimulation by automatically measuring body temperatures through the use of thermistors placed on the fingers during a testing sequence.
+          title: VECTTOR
+        - attributes:
+            group_id: O2
+          description: |-
+            placebo treatment - no electrical stimulation treatment twice daily for 180 days
+            VECTTOR: The VT-200, or VECTTOR system, delivers electrical stimulation via electrodes on the acupuncture points of a patient’s feet/legs and hands/arms to provide symptomatic relief of chronic intractable pain and/or management of post-surgical pain.
+            Once these electrodes are placed, the machine determines the appropriate choice of stimulation by automatically measuring body temperatures through the use of thermistors placed on the fingers during a testing sequence.
+          title: Device - Sham
+      analysis_list:
+        analysis:
+        - dispersion_value: 
+          p_value: '0.2413'
+          non_inferiority_desc: 
+          group_id_list:
+            group_id:
+            - O1
+            - O2
+          ci_lower_limit: 
+          p_value_desc: 
+          ci_percent: 
+          method: Mixed Models Analysis
+          method_desc: 
+          groups_desc: 
+          param_type: 
+          dispersion_type: 
+          ci_n_sides: 
+          param_value: 
+          ci_upper_limit: 
+          ci_upper_limit_na_comment: 
+          non_inferiority: 'No'
+          estimate_desc: 
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '2'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: 'Sleep / Arousal Statistics Index (ASI) description: Sleep
+            Studies were obtained twice before beginning the study. The second sleep
+            study data was used as baseline. A follow up sleep study was obtained
+            after 6 months (180 days) of Active or Placebo VECTTOR treatment. Sleep,
+            breathing, arousal(s), and limb movements were scored manually according
+            to guidelines of the American Academy of Sleep Medicine. The efficacy
+            of the outcome measure of ASI is demonstrated by a percent improvement
+            between Baseline and 180 days. The ASI is measured by the number of times
+            sleep is interrupted per hour.'
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '1.31'
+                    group_id: O1
+                    lower_limit: 
+                    value: '38'
+                    upper_limit: 
+                - attributes:
+                    spread: '1.77'
+                    group_id: O2
+                    lower_limit: 
+                    value: "-53"
+                    upper_limit: 
+          title: Percent Change in Sleep Quality Arousal Statistics Index (ASI) From
+            Baseline to 180 Days
+          param: Mean
+          dispersion: Standard Deviation
+          units: percentage of change
+      type: Other Pre-specified
+      population: 
+    - description: Range of Motion (ROM) testing (Wireless Tracker System) - All muscle
+        and joint testing was performed using the JTech computerized testing system,
+        including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+        Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90, 180 and
+        365 days to determine changes in joint Range of Motion. JTech computerized
+        testing system determined the joint range of motion by radio signals from
+        a goniometer measuring movement of the participants' joints. 44 separate tests
+        were performed for Range of Motion for each participant at each time interval.
+        The results from the range of motion tests were averaged the percent change
+        from baseline to 365 days. Efficacy is defined as an increase in range of
+        motion.
+      title: Percent Change in Percent Range of Motion From Baseline to 365 Days
+      safety_issue: 'No'
+      time_frame: Baseline to 365 days
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: Range of Motion (ROM) testing (Wireless Tracker System) - All
+            muscle and joint testing was performed using the JTech computerized testing
+            system, including Goniometry, Grip Testing, Inclinometry, Muscle Testing
+            and Joint Range of Motion. Testing occurred at Baseline (Day 0), 30, 60,
+            90, 180 and 365 days to determine changes in joint Range of Motion. JTech
+            computerized testing system determined the joint range of motion by radio
+            signals from a goniometer measuring movement of the participants' joints.
+            44 separate tests were performed for Range of Motion for each participant
+            at each time interval. The results from the range of motion tests were
+            averaged the percent change from baseline to 365 days. Efficacy is defined
+            as an increase in range of motion.
+          title: VECTTOR
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Range of Motion (ROM) testing (Wireless Tracker System) - All
+            muscle and joint testing was performed using the JTech computerized testing
+            system, including Goniometry, Grip Testing, Inclinometry, Muscle Testing
+            and Joint Range of Motion. Testing occurred at Baseline (Day 0), 30, 60,
+            90, 180 and 365 days to determine changes in joint Range of Motion. JTech
+            computerized testing system determined the joint range of motion by radio
+            signals from a goniometer measuring movement of the participants' joints.
+            44 separate tests were performed for Range of Motion for each participant
+            at each time interval. The results from the range of motion tests were
+            averaged the percent change from baseline to 365 days. Efficacy is defined
+            as an increase in range of motion.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '45.1'
+                    group_id: O1
+                    lower_limit: 
+                    value: '59'
+                    upper_limit: 
+          title: Percent Change in Percent Range of Motion From Baseline to 365 Days
+          param: Mean
+          dispersion: Standard Deviation
+          units: percentage of change
+      type: Secondary
+      population: 
+    - description: Muscle strength testing (Wireless Tracker system) - All muscle
+        strength testing was performed using the JTech computerized testing system,
+        including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+        Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90, 180 and
+        365 days to determine changes in muscle strength. JTech computerized testing
+        system determined the muscle strength by radio signals from a strain gauge
+        measuring strength of the participant’s muscles. 44 separate tests were performed
+        for muscle strength for each participant at each time interval. Efficacy is
+        defined as an increase in the strength measurement (pounds) from Baseline
+        to 365 days.
+      title: Percent Change in Muscle Strength
+      safety_issue: 'No'
+      time_frame: Baseline to 365 days
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: Muscle strength testing (Wireless Tracker system) - All muscle
+            strength testing was performed using the JTech computerized testing system,
+            including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+            Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90, 180
+            and 365 days to determine changes in muscle strength. JTech computerized
+            testing system determined the muscle strength by radio signals from a
+            strain gauge measuring strength of the participant's muscles. 44 separate
+            tests were performed for muscle strength for each participant at each
+            time interval. Efficacy is defined as an increase in the strength measurement
+            (pounds) from Baseline to 365 days.
+          title: VECTTOR
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '4'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: Muscle strength testing (Wireless Tracker system) - All muscle
+            strength testing was performed using the JTech computerized testing system,
+            including Goniometry, Grip Testing, Inclinometry, Muscle Testing and Joint
+            Range of Motion. Testing occurred at Baseline (Day 0), 30, 60, 90, 180
+            and 365 days to determine changes in muscle strength. JTech computerized
+            testing system determined the muscle strength by radio signals from a
+            strain gauge measuring strength of the participant’s muscles. 44 separate
+            tests were performed for muscle strength for each participant at each
+            time interval. Efficacy is defined as an increase in the strength measurement
+            (pounds) from Baseline to 365 days.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '1.93'
+                    group_id: O1
+                    lower_limit: 
+                    value: '110'
+                    upper_limit: 
+          title: Percent Change in Muscle Strength
+          param: Mean
+          dispersion: Standard Deviation
+          units: percentage of change
+      type: Secondary
+      population: 
+    - description: 'Sleep / Arousal Statistics Index (ASI) description: Sleep Studies
+        were obtained twice before beginning the study. The second sleep study data
+        was used as baseline. A follow up sleep study was obtained after 6 months
+        (180 days) of Active or Placebo VECTTOR treatment. Sleep, breathing, arousal(s),
+        and limb movements were scored manually according to guidelines of the American
+        Academy of Sleep Medicine. The efficacy of the outcome measure of ASI is demonstrated
+        by a decrease in the value between Baseline and 180 days. The ASI is measured
+        by the number of times sleep is interrupted per hour. Lower ASI values/numbers
+        indicate improved sleep quality.'
+      title: Sleep Arousal Statistics Index at 365 Days
+      safety_issue: 'No'
+      time_frame: Baseline to 365 days
+      group_list: {}
+      analysis_list: {}
+      posting_date: 03/2015
+      measure_list: {}
+      type: Other Pre-specified
+      population: 
+  participant_flow:
+    period_list:
+      period:
+      - drop_withdraw_reason_list:
+          drop_withdraw_reason:
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '1'
+                  group_id: P1
+              - attributes:
+                  count: '0'
+                  group_id: P2
+            title: Lost to Follow-up
+        milestone_list:
+          milestone:
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '4'
+                  group_id: P1
+              - attributes:
+                  count: '2'
+                  group_id: P2
+            title: STARTED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '3'
+                  group_id: P1
+              - attributes:
+                  count: '2'
+                  group_id: P2
+            title: COMPLETED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '1'
+                  group_id: P1
+              - attributes:
+                  count: '0'
+                  group_id: P2
+            title: NOT COMPLETED
+        title: Overall Study
+    recruitment_details: 
+    pre_assignment_details: 
+    group_list:
+      group:
+      - attributes:
+          group_id: P1
+        description: |-
+          muscle stimulator treatment twice daily for duration of study - 365 days
+          VECTTOR: The VT-200, or VECTTOR system, delivers electrical stimulation via electrodes on the acupuncture points of a patient’s feet/legs and hands/arms to provide symptomatic relief of chronic intractable pain and/or management of post-surgical pain.
+          Once these electrodes are placed, the machine determines the appropriate choice of stimulation by automatically measuring body temperatures through the use of thermistors placed on the fingers during a testing sequence.
+        title: VECTTOR
+      - attributes:
+          group_id: P2
+        description: |-
+          placebo treatment - no electrical stimulation treatment twice daily for 180 days followed by active treatment for the duration of study, 365 days
+          VECTTOR: The VT-200, or VECTTOR system, delivers electrical stimulation via electrodes on the acupuncture points of a patient’s feet/legs and hands/arms to provide symptomatic relief of chronic intractable pain and/or management of post-surgical pain.
+          Once these electrodes are placed, the machine determines the appropriate choice of stimulation by automatically measuring body temperatures through the use of thermistors placed on the fingers during a testing sequence.
+        title: Device - Sham
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Crossover Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Alan Neuromedical
+    address:
+      city: Houston
+      state: Texas
+      zip: '77004'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 29.76
+    formatted: Houston, TX, USA
+    longitude: -95.369
+    original: Houston, Texas
+official_title: Double-blind, Randomized, Placebo-controlled Study of VECTTOR Treatment
+  for Duchenne Muscular Dystrophy
+verification_date: April 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01874275
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Duchenne Muscular Dystrophy Clinical Trial
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The primary objective of this investigation is to assess the effectiveness of transcutaneous
+          electrical nerve stimulation applied using VECTTOR to reduce the symptoms of Duchenne
+          Muscular Dystrophy and reduce the impact of DMD upon the participants' quality of life.
+
+          The primary outcome measures will include:
+
+            1. increased muscle strength,
+
+            2. increased range of joint motions and
+
+            3. improved sleep parameters of ASI, N3 and REM.
+enrollment:
+  attributes:
+    type: Actual
+  value: '6'
+lastchanged_date: April 14, 2015

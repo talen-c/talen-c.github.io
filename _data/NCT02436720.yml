@@ -1,0 +1,212 @@
+---
+firstreceived_date: April 30, 2015
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2015
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    This is a multicentric study involving a large number of patients that could not be
+          collected in a single Unit.
+
+          The aim of the project is to collect a large number of patients that will allow to assess
+          the suitability of different measures assessing upper limb function. As DMD is a relatively
+          rare condition, such goal can only be reached in a multicentric setting. All the
+          participating centres (Rome Gemelli, Messina, Rome Bambin Gesù, Pavia, Genoa, Naples, Turin,
+          Bologna, Padua, Milan, Bosisio Parini, Pisa) have a good record of cooperation in similar
+          projects having already been involved in the validation of the North Star in DMD and of the
+          Hammersmith Functional motor Scale for SMA.
+
+          The projects will be developed through different steps, related to different specific aims:
+
+            1. Interobserver reliability/quality and quantity of training One of the aims of the study
+               is to assess reliability of the selected measures in a multicentric setting and the
+               quantity of training required to be sure of the reliability among observers after the
+               training sessions. Following our experience in the training of the North Star
+               Ambulatory Assessment (NSAA) in the same network, the investigators have become aware
+               that a single training session may not be sufficient to be sure that interobserver
+               reliability will be maintained after the training sessions (Mazzone et al, 2009).
+
+            2. Natural history data collection The PUL will be applied to the whole cohort with
+               repeated assessments at 6, 12, 18 and 24 months . This will allow to monitor possible
+               changes over time and the rate of changes in patients with different level of ability
+               and age. This will also help to evaluate the responsiveness to change and the level of
+               sensitivity of the measure over an interval that would be useful for a study of a
+               putative agent that could improve muscle power.
+
+            3. Correlation with other measures Another aim of the study is to relate possible changes
+               in upper limb function with other measures of care and function such as the EK scale,
+               that provides information on aspects of function, such as transfer or self feeding that
+               are important in everyday life. Correlation with respiratory function will also be
+               performed.
+
+            4. improving statistical properties of the scales. There has been increasing evidence in
+               the last few years that Rasch analysis may help to improvethe statistical properties.
+               The data collected will offer the opportunity to perform these new psychometric
+               techniques.
+link: []
+has_expanded_access: 'No'
+id: NCT02436720
+intervention: []
+source: Catholic University of the Sacred Heart
+eligibility:
+  gender: Male
+  maximum_age: 35 Years
+  sampling_method: Probability Sample
+  minimum_age: 4 Years
+  study_pop:
+    textblock: Boys and adults affected by Duchenne muscular dystrophy
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  proven DMD
+
+              Exclusion Criteria:
+
+                -  severe mental retardation
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: March 2013
+last_injected: '2015-09-26T04:18:03.996Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: January 2013
+why_stopped: 
+id_info:
+  org_study_id: UCSCPUL
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02436720
+acronym: PUL in DMD
+arm_group: []
+sponsors:
+  collaborator:
+  - agency: Bambino Gesù Hospital
+    agency_class: Other
+  - agency: IRCCS National Neurological Institute "C. Mondino" Foundation
+    agency_class: Other
+  - agency: Azienda Ospedaliera San Giovanni Battista
+    agency_class: Other
+  - agency: University of Messina
+    agency_class: Other
+  - agency: Fondazione I.R.C.C.S. Istituto Neurologico Carlo Besta
+    agency_class: Other
+  - agency: University of Naples
+    agency_class: Other
+  - agency: IRCCS Fondazione Stella Maris
+    agency_class: Other
+  - agency: Istituto Giannina Gaslini
+    agency_class: Other
+  - agency: University of Padua
+    agency_class: Other
+  - agency: Maggiore Bellaria Hospital, Bologna
+    agency_class: Other
+  - agency: IRCCS Eugenio Medea
+    agency_class: Other
+  - agency: Nemo Clinical Center Milan
+    agency_class: Other
+  lead_sponsor:
+    agency: Catholic University of the Sacred Heart
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 2 years
+  description: the test evaluates performance of upper limbs by providing a score
+    for shoulder, elbow and distal domain and total score
+  measure: assessment of upper limb (PUL)
+overall_official:
+- first_name: 
+  last_name: Eugenio Mercuri, MD, PhD
+  middle_name: 
+  affiliation: Catholic University
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - Italy
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Cohort, Time Perspective: Prospective'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'Italy: Ethics Committee'
+number_of_groups: '1'
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Catholic University
+    address:
+      city: Rome
+      state: 
+      zip: 00168
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Rome, Italy
+official_title: Performance of Upper Limb (PUL) in Duchenne Muscular Dystrophy
+verification_date: May 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02436720
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Upper Limb Assessment in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The literature on outcome measures assessing upper limbs in Duchenne muscular dystrophy
+          (DMD) is quite scanty. While there have been considerable advances for ambulant DMD boys, no
+          prospective study has so far been devoted to outcome measures in non ambulant patients, with
+          increasing complaints from families and patients. This information appears to be highly
+          important not only for a better understanding of the progression of the disease but also for
+          possible enrollment of patients in future trials.
+
+          The aim of this project is to identify outcome measures for non ambulant patients in an
+          Italian population of DMD patients. At least 200 non ambulant DMD boys and adults will be
+          included in the study. All patients will be assessed using the newly developed Performance
+          of Upper limb (PUL) test. This measure will be used at baseline and 6 and 12 months after
+          baseline. This will allow to monitor possible changes over time and the rate of changes in
+          patients with different level of ability and age. As part of this study the investigators
+          will also correlate possible changes in upper limb function with other measures of care and
+          function such as the EK scale.
+
+          The investigators aim to assess the suitability of the individual measures in a large number
+          of patients, trying to establish whether whole scales or individual items appear to be
+          relevant across ages and level of abilities. The investigators also aim to assess the
+          suitability of the selected measures in a multicentric setting and the quantity of training
+          required The data collected will also be analysed using Rasch analysis in order to improve
+          the statistical properties of the measures used.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '300'
+lastchanged_date: May 6, 2015

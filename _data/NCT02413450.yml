@@ -1,0 +1,194 @@
+---
+firstreceived_date: April 6, 2015
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: August 2023
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Further study details as provided by Gordon F. Tomaselli, Johns Hopkins University:
+
+          Biospecimen Retention: Blood or tissue samples, hiPSCs and cardiomyocytes reprogrammed from
+          hiPSCs Eligible patients will be approached and the study will be explained in full as a
+          part of obtaining informed consent for the study. The subjects will have an opportunity to
+          ask questions about the study. Control subjects, often but not exclusively family member
+          that meet the eligibility criteria will undergo a similar procedure for informed consent.
+          Subjects will be evaluated in clinic and will have a 1-3 mm skin biopsy or blood draw (30
+          cc). The subjects will be asked about their medical history during the clinic visit but this
+          information will not be transmitted to the research laboratories where the iPSCs are
+          generated and re-programmed, only the disease genotype will be associated with the samples.
+          The samples that will be frozen and stored are whole blood, white blood cells, skin
+          biopsies, hiPSCs and reprogrammed cardiomyocytes.
+link: []
+has_expanded_access: 'No'
+id: NCT02413450
+intervention: []
+source: Johns Hopkins University
+eligibility:
+  gender: Both
+  maximum_age: 85 Years
+  sampling_method: Non-Probability Sample
+  minimum_age: 18 Years
+  study_pop:
+    textblock: |-
+      Participants who have a mutation causing ARVD/C or LQTS or a first degree family member
+              with such a gene mutation. Participants, including patients with ARVD/C or LQTS and family
+              members, who have previously been genotyped for clinically indicated reasons will be
+              approached to join the study.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  All patients and family members 18 years of age or older with inherited cardiac
+                   arrhythmias including LQTS, Brugada Syndrome (BrS), cathecholaminergic polymorphic
+                   ventricular tachycardia (CPVT) or early repolarization syndrome (ERS) are eligible
+                   for enrollment.
+
+                -  All enrolled patients will have undergone clinically indicated genetic testing.
+
+              Exclusion Criteria:
+
+                -  Age <18 years
+
+                -  >85 years
+
+                -  pregnant women
+
+                -  life-limiting co-morbidities
+
+                -  immunocompromise
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: August 2023
+last_injected: '2015-10-15T00:46:37.780Z'
+intervention_browse: {}
+target_duration: 1 Day
+number_of_arms: 
+start_date: August 2013
+why_stopped: 
+id_info:
+  org_study_id: NA_00085175
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02413450
+acronym: 
+arm_group: []
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Johns Hopkins University
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational [Patient Registry]
+biospec_retention: Samples With DNA
+overall_status: Enrolling by invitation
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 10 years
+  description: Whole Blood drawn on day of informed consent obtained.
+  measure: "•Production of cardiomyocytes and engineered tissues from hiPSC-derived
+    cardiomyocytes to be used in mechanistic studies of disease and testing of therapeutic
+    interventions."
+overall_official:
+- first_name: 
+  last_name: Gordon F Tomaselli, MD
+  middle_name: 
+  affiliation: Johns Hopkins University
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Inherited Cardiac Arrythmias
+- Long QT Syndrome (LQTS)
+- Brugada Syndrome (BrS)
+- Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)
+- Early Repolarization Syndrome (ERS)
+- Arrhythmogenic Cardiomyopathy (AC, ARVD/C)
+- Hypertrophic Cardiomyopathy (HCM)
+- Dilated Cardiomyopathy (DCM)
+- Muscular Dystrophies (Duchenne, Becker, Myotonic Dystrophy)
+- Normal Control Subjects
+clinical_results: {}
+study_design: 'Observational Model: Family-Based, Time Perspective: Prospective'
+keyword:
+- induced Pluripotent Stem Cells (iPSC)
+- Channelopathies
+- Catecholaminergic
+- Arrhythmogenic
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '1'
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Johns Hopkins Medical Institute
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: 21287-9106
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+official_title: Derivation of Human Induced Pluripotent Stem (iPS) Cells to Heritable
+  Cardiac Arrhythmias (Long QT Syndrome, Brugada Syndrome, CPVT and Early Repolarization
+  Syndrome)
+verification_date: April 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02413450
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Derivation of Human Induced Pluripotent Stem (iPS) Cells to Heritable
+  Cardiac Arrhythmias
+biospec_descr:
+  textblock: induced pluripotent stem cells (iPSC)
+condition_browse:
+  mesh_term:
+  - Arrhythmias, Cardiac
+  - Brugada Syndrome
+  - Cardiomyopathies
+  - Cardiomyopathy, Dilated
+  - Cardiomyopathy, Hypertrophic
+  - Long QT Syndrome
+  - Muscular Dystrophies
+  - Myotonic Dystrophy
+  - Syndrome
+  - Tachycardia
+  - Tachycardia, Ventricular
+brief_summary:
+  textblock: |-
+    Human induced pluripotent stem cells (hiPSCs) have driven a paradigm shift in the modeling
+          of human disease; the ability to reprogram patient-specific cells holds the promise of an
+          enhanced understanding of disease mechanisms and phenotypic variability, with applications
+          in personalized predictive pharmacology/toxicology, cell therapy and regenerative medicine.
+          This research will collect blood or skin biopsies from patients and healthy controls for the
+          purpose of generating cell and tissue models of Mendelian heritable forms of heart disease
+          focusing on cardiomyopathies, channelopathies and neuromuscular diseases. Cardiomyocytes
+          derived from hiPSCs will provide a ready source of disease specific cells to study
+          pathogenesis and therapeutics.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '100'
+lastchanged_date: April 9, 2015

@@ -1,0 +1,299 @@
+---
+firstreceived_date: February 6, 2009
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: December 2011
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Justification Respiratory muscle weakness reduces the efficacy of the cough reflex in
+          patients with neuromuscular disorders and exposes them to the risk of acute respiratory
+          failure. Mechanical insufflation-exsufflation devices assist cough and have been shown to be
+          efficient in increasing the cough expiratory flow in children and adults with neuromuscular
+          disease and decreasing the risk of intubation in a limited population of hospitalized adults
+          with acute respiratory failure.
+
+          Primary objective The goal is to record the efficacy of mechanical insufflation-exsufflation
+          (MI-E) during acute respiratory failure in patients with neuromuscular disorders.The primary
+          objective is the reduction of the number of patients requiring invasive ventilatory support
+          (endotracheal intubation or tracheotomy) in the group treated with MI-E (MI-E group)
+          compared to the group treated with traditional chest physiotherapy without MI-E (Control
+          group).
+
+          Secondary objectives
+
+          In the MI-E group, compared to the Control group:
+
+            1. Decrease in the length of hospitalization in the intensive care unit (ICU)
+
+            2. Decrease in the total length of hospitalization
+
+            3. Decrease in the incidence of bronchoscopy-assisted aspiration
+
+            4. Decrease in the duration of oxygen therapy
+
+            5. Decrease in the daily length of noninvasive positive pressure ventilation (NPPV)
+
+            6. Improvement in blood gases on room air during hospitalization
+
+            7. Improvement of the peak cough flow (PCF)
+
+            8. Improvement of the vital capacity (VC), maximal inspiratory (PImax) and expiratory
+               (PEmax) pressures, sniff nasal inspiratory pressure (SNIP), peak expiratory flow (PEF)
+               and dyspnea during hospitalization.
+
+            9. Decrease in the number of secondary tracheotomies (for weaning of ventilatory support)
+
+          Type of study Prospective, randomized, controlled, multicenter study
+
+          Number of subjects The calculation of the number of subjects is based on two retrospective
+          studies. In the study by VIANELLO, which included 11 adults hospitalized in the ICU for
+          respiratory failure, the number of therapeutic failures, defined as the need for a "mini"
+          tracheotomy or intubation, was significantly less in the group using MI-E than in a group of
+          16 historical control patients [2 failures in the MI-E group (18%) versus 10 failures in the
+          control group (63%), p<0.05] (1). Another study reported 19 successes (80%) versus 5
+          failures on MI-E (2).
+link: []
+has_expanded_access: 'No'
+id: NCT00839033
+intervention:
+- intervention_name: mechanical insufflation - exsufflation
+  other_name:
+  - Mechanical insufflation-exsufflation devices assist cough
+  description: 'Patients will receive MI-E treatment with the following settings:
+    insufflation pressure of at least +30 cm H2O and an exsufflation pressure ≥ -30
+    cm H2O. There will be at least 6 hyperinflation/exsufflation sequences per session
+    of chest physiotherapy. There will be at least two daily sessions done routinely
+    by the respiratory therapist at 8 hour intervals.'
+  arm_group_label:
+  - '1'
+  intervention_type: Device
+- intervention_name: Standard respiratory physiotherapy
+  other_name: []
+  description: Traditional chest physiotherapy without mechanical insufflation-exsufflation
+  arm_group_label:
+  - '2'
+  intervention_type: Device
+source: Assistance Publique - Hôpitaux de Paris
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 4 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+              Pediatric or adult patients with chronic neuromuscular disorders, such as spinal muscular
+              atrophy, Duchenne muscular dystrophy, other congenital myopathy, or amyotrophic lateral
+              sclerosis (ALS), hospitalized for acute respiratory failure, as defined by:
+
+                -  Persistent bronchial encumbrance (> 2 days) despite regular treatment in the homecare
+                   setting, associated with-Oxygen desaturation on room air, defined by a pulse oximetry
+                   (SaO2) <95%) or
+
+                -  In patients not receiving long-term NPPV: the need to institute NPPV-In patients
+                   receiving long-term NPPV: the need to increase the daily length of NPPV by at least
+                   25%.
+
+              Exclusion Criteria:
+
+                -  Need for immediate intubation (alteration in consciousness, coma, hemodynamic
+                   disorders)
+
+                -  Multiple organ failure (e.g., associated cardiac failure)
+
+                -  In adults: respiratory rate >30/min, pH < 7.35, PaCO2 > 50 mm Hg
+
+                -  Facial deformity or anomaly which prevents the use of a mouthpiece or mask
+
+                -  Patients who signed a refusal to be intubated regardless of the progression of their
+                   disease
+
+                -  Patients on long-term oxygen therapy
+
+                -  Tracheotomized patients
+
+                -  Patients requiring the use of an intrapulmonary percussive ventilation device during
+                   hospitalization
+
+                -  Acute neuromuscular disorder of known or unknown etiology
+
+                -  Associated lung disease such as chronic obstructive pulmonary disease (COPD)
+
+                -  Refusal of patient consent and/or parental consent in the case of a minor
+
+                -  Uncooperative patients
+
+                -  Patients < 4 years old
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: February 2011
+last_injected: '2015-10-14T23:47:59.747Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: June 2009
+why_stopped: No inclusion
+id_info:
+  org_study_id: P080406
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00839033
+acronym: Nemucough
+arm_group:
+- description: patients treated with standard treatment and a mechanical insufflation-exsufflation
+  arm_group_label: '1'
+  arm_group_type: Experimental
+- description: Patients with standard treatment and standard respiratory physiotherapy
+  arm_group_label: '2'
+  arm_group_type: Active Comparator
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Assistance Publique - Hôpitaux de Paris
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Decrease in the length of hospitalization in the intensive care unit (ICU)
+    (if necessary)
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Decrease in the total length of hospitalization
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Decrease in the incidence of bronchoscopy-assisted aspiration
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Decrease in the duration of oxygen therapy
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Decrease in the daily length of noninvasive positive pressure ventilation
+    (NPPV)
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Improvement in blood gases on room air during hospitalization and improvement
+    of the peak cough flow (PCF)
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Improvement of the vital capacity (VC), maximal inspiratory (PImax) and
+    expiratory (PEmax) pressures, sniff nasal inspiratory pressure (SNIP), peak expiratory
+    flow (PEF) and dyspnea during hospitalization
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Decrease in the number of secondary tracheotomies (for weaning of ventilatory
+    support)
+study_type: Interventional
+biospec_retention: 
+overall_status: Terminated
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: During the treatment phase
+  description: 
+  measure: Reduction of the number of patients requiring invasive ventilatory support
+    in the group treated with MI-E (MI-E group) compared to the group treated with
+    traditional chest physiotherapy without MI-E (Control group).
+overall_official:
+- first_name: 
+  last_name: Brigitte FAUROUX, MD PhD
+  middle_name: 
+  affiliation: Assistance Publique - Hôpitaux de Paris
+  degrees: 
+  role: Principal Investigator
+phase: Phase 3
+location_countries:
+  country:
+  - France
+condition:
+- Duchenne Muscular Dystrophy
+- Amyotrophic Lateral Sclerosis
+- Neuromuscular Diseases
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention
+  Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Cough assisted device
+- Neuromuscular disease
+- Respiratory exacerbation
+- Invasive ventilation,
+- Chest physiotherapy
+- Congenital myopathies
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'France: Ministry of Health'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Hospital Armand Trousseau, Pediatric Pulmonology Department and INSERM UMR
+      S-893
+    address:
+      city: Paris
+      state: 
+      zip: '75012'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris, France
+official_title: 'Evaluation of a Mechanical Insufflation-exsufflation Device During
+  Acute Respiratory Failure in Patients With Neuromuscular Disorders: a Prospective,
+  Randomized, Controlled, Multicenter Study'
+verification_date: May 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00839033
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Evaluation of a Mechanical Device During Acute Respiratory Failure in
+  Patients With Neuromuscular Disorders
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Amyotrophic Lateral Sclerosis
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+  - Neuromuscular Diseases
+  - Respiratory Distress Syndrome, Adult
+  - Respiratory Insufficiency
+brief_summary:
+  textblock: |-
+    The hypothesis is that a mechanical insufflation-exsufflation (MI-E) is associated with a
+          decrease in the number of intubations and more rapid clinical improvement in children and
+          adults with neuromuscular disease who are admitted for an acute respiratory exacerbation.In
+          this prospective, randomised, multicenter study, 55 patients will be treated with standard
+          treatment and a MI-E, and 55 patients with standard treatment and standard respiratory
+          physiotherapy. The primary objective is the reduction of the number of patients requiring
+          invasive ventilatory support (endotracheal intubation or tracheotomy) in the group treated
+          with MI-E (MI-E group). The main secondary objectives are a reduction in hospital stay and
+          an improvement in clinical condition, dyspnea and respiratory muscle function.
+enrollment:
+  attributes:
+    type: Actual
+  value: '14'
+lastchanged_date: May 27, 2015

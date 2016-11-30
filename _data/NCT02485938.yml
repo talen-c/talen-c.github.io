@@ -1,0 +1,338 @@
+---
+firstreceived_date: June 19, 2015
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Brian Fedor
+  middle_name: 
+  phone_ext: 
+  phone: "(310) 358-3200"
+  degrees: 
+  email: bfedor@capricor.com
+completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    Male subjects with cardiomyopathy secondary to DMD meeting all inclusion and no exclusion
+          criteria will be enrolled. They will be randomized in a 1:1 manner to either intracoronary
+          infusion of CAP-1002 in three coronary arteries supplying the three major cardiac
+          territories of the left ventricle of the heart (anterior, lateral, inferior/posterior) or
+          usual care.
+
+          All subjects (Groups 1 and 2) assigned to the active treatment arm will receive an intended
+          total dose of 75 million (M) CAP-1002 cells infused as 25M cells into each of the three left
+          ventricle cardiac territories (anterior, lateral, inferior/posterior). If any of the three
+          coronary arteries are deemed by the infusing Investigator to supply less than 30% of the
+          left ventricular myocardium, the infusing Investigator may choose to infuse only 12.5M cells
+          into that coronary artery or arteries. Should the infusing Investigator deem that one
+          coronary artery territory receive 12.5M cells while the other two receive 25M cells, the
+          subject will receive a total of 67.5M cells. Should the infusing Investigator deem that two
+          coronary artery territories receive 12.5M cells and the third 25M cells, the subject will
+          receive a total of 50M cells.
+
+          Subjects randomized to receive usual care will continue to be cared for and treated in
+          whatever manner the investigator deems most appropriate for the subject on an ongoing basis,
+          and will receive no infusion.
+
+          All enrolled subjects will be followed at Weeks 2 and 6, and at Months 3, 6 and 12 after
+          randomization (for usual care arm) or after CAP-1002 infusion (active treatment arm).
+link: []
+has_expanded_access: 'No'
+id: NCT02485938
+intervention:
+- intervention_name: Allogeneic Cardiosphere-Derived Cells (CAP-1002)
+  other_name:
+  - CAP-1002
+  description: Intracoronary delivery of Allogeneic Cardiosphere-Derived Cells (CAP-1002)
+  arm_group_label:
+  - Allogeneic Cardiosphere-Derived Cells (CAP-1002)
+  intervention_type: Drug
+source: Capricor Inc.
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 12 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                1. Male subjects 18 years of age or older must be able to provide informed consent and
+                   follow up with protocol procedures. Male subjects at least 12 years of age but
+                   younger than 18 years of age must be able to provide assent with parent or guardian
+                   providing permission for study participation. Only male subjects will be enrolled
+                   into this study.
+
+                2. Documented diagnosis of Duchenne Muscular Dystrophy by genetic mutation analysis.
+
+                3. Cardiomyopathy with left ventricular scar by LGE in at least 4 segments and EF >35%
+                   within at least 6 months and less than 15 months prior to signing consent and/or
+                   assent.
+
+                4. Use of evidence based medical-therapy in accordance with the "DMD Care Considerations
+                   Working Group" guidelines for the management of DMD, for at least three months prior
+                   to signing the consent form (or, providing assent) or documented contraindication or
+                   intolerance or patient preference. Additionally, subjects must be taking systemic
+                   glucocorticoids for at least six months prior to signing the consent form/assent.
+
+                5. Group 1 subjects must be 18 years of age or older at time of signing consent. Group 2
+                   subjects must be 12 years of age or older at time of signing consent and/or assent,
+                   and weigh > 50 kg as confirmed during the screening procedures.
+
+              Exclusion Criteria:
+
+                1. Therapy with chronic inotropes or currently receiving intravenous vasoactive
+                   medications at the time of screening.
+
+                2. Inability to undergo cardiac catheterization and/or MRI without general anesthesia.
+
+                3. Immunologic incompatibility with all available Master Cell Banks (MCBs) by
+                   single-antigen bead (SAB) serum antibody profiling.
+
+                4. Planned or likely major surgery in the next 12 months after planned randomization.
+
+                5. Left Ventricular Assist Devices (LVAD) or those subjects actively in the process of
+                   acquiring a LVAD.
+
+                6. Contraindication to cardiac MRI.
+
+                7. Known hypersensitivity to contrast agents.
+
+                8. Estimated glomerular filtration rate (GFR) <60 mL/min.
+
+                9. Active infection not responsive to treatment.
+
+               10. Active systemic allergic reaction(s), connective tissue disease or autoimmune
+                   disorder(s).
+
+               11. History of cardiac tumor or cardiac tumor demonstrated on screening MRI.
+
+               12. History of previous stem cell therapy.
+
+               13. History of use of medications listed in Appendix 3 within 3 months prior to signing
+                   the ICF / Assent through completion of the study infusion.
+
+               14. Known moderate-to-severe aortic stenosis/insufficiency or severe mitral
+                   stenosis/regurgitation.
+
+               15. Current active alcohol or drug abuse.
+
+               16. Known history of Human Immunodeficiency Virus (HIV) infection.
+
+               17. Known history of chronic viral hepatitis.
+
+               18. Abnormal liver function (ALT/AST >10 times the upper reference range) and/or abnormal
+                   hematology (hematocrit <25%, WBC <3000 μl, platelets <100,000 μl) studies without a
+                   reversible, identifiable cause.
+
+               19. Known hypersensitivity to bovine products.
+
+               20. Known hypersensitivity to dimethyl sulfoxide (DMSO).
+
+               21. Uncontrolled diabetes (HbA1c >9.0).
+
+               22. Inability to comply with protocol-related procedures, including required study
+                   visits.
+
+               23. Any condition or other reason that, in the opinion of the Investigator or Medical
+                   Monitor, would render the subject unsuitable for the study.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2017
+last_injected: '2015-07-13T10:31:31.580Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: August 2015
+why_stopped: 
+id_info:
+  org_study_id: CAP-1002-DMD-01
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02485938
+acronym: HOPE
+arm_group:
+- description: CAP-1002 is an investigational product consisting of allogeneic cardiosphere-derived
+    cells (CDCs). All subjects assigned to the active treatment arm will receive an
+    intended total dose of 75 million (M) CAP-1002 cells infused as 25M cells into
+    each of the three left ventricle cardiac territories (anterior, lateral, inferior/posterior).
+    If any of the three coronary arteries are deemed by the infusing Investigator
+    to supply less than 30% of the left ventricular myocardium, the infusing Investigator
+    may choose to infuse only 12.5M cells into that coronary artery or arteries. Therefore
+    the full dose of CAP-1002 delivered may range from 50M cells to 75M cells provided
+    that all three arteries are infused.
+  arm_group_label: Allogeneic Cardiosphere-Derived Cells (CAP-1002)
+  arm_group_type: Experimental
+- description: Subjects randomized to receive usual care will continue to be cared
+    for and treated in whatever manner the investigator deems most appropriate for
+    the subject on an ongoing basis, and will receive no infusion.
+  arm_group_label: Usual Care
+  arm_group_type: No Intervention
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Capricor Inc.
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 12 months post infusion of CAP-1002 or randomization to the usual care
+    arm
+  description: 
+  measure: 'Cardiac Structural composite assessed as: Absolute and relative change
+    in parameters measured by cardiac MRI'
+- safety_issue: 'No'
+  time_frame: 12 months post infusion of CAP-1002 or randomization to the usual care
+    arm
+  description: 
+  measure: 'Functional composite assessed as: Serial change in mobility measurements
+    and Performance of Upper Limb (PUL) scale, spirometry, and 6-minute walk test
+    (6MWT) when deemed appropriate by the Investigator.'
+- safety_issue: 'No'
+  time_frame: 12 months post infusion of CAP-1002 or randomization to the usual care
+    arm
+  description: 
+  measure: 'Quality of Life composite assessed as: Change in PedsQL (Pediatric Quality
+    of Life Inventory), including the cardiac module, and PODCI Adolescent Questionnaire.'
+- safety_issue: 'No'
+  time_frame: 12 months post infusion of CAP-1002 or randomization to the usual care
+    arm
+  description: 
+  measure: 'Biomarkers composite assessed as: Osteopontin, ST2, IL-10, Galectin-3,
+    and exploratory biomarkers (if consented/provided assent).'
+study_type: Interventional
+biospec_retention: 
+overall_status: Not yet recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 72 hours post infusion of allogeneic cardiosphere-derived cells
+  description: 
+  measure: Safety and tolerability composite of CAP-1002 will be established by summaries
+    of the occurrence of TIMIs, major cardiac events, laboratory assessments, vital
+    signs, physical examination, ECG, and the occurrence of major adverse events.
+overall_official:
+- first_name: 
+  last_name: John L Jefferies, MD, MPH
+  middle_name: 
+  affiliation: Children's Hospital Medical Center, Cincinnati
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Andrew Hamer, MBChB FRACP
+  middle_name: 
+  affiliation: Capricor Inc.
+  degrees: 
+  role: Study Director
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+- Cardiomyopathy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- Duchenne Muscular Dystrophy
+- Cardiomyopathy
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Cedars-Sinai Medical Center
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90048'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Mohamad Rashid
+    middle_name: 
+    phone_ext: 
+    phone: 424-315-2501
+    degrees: 
+    email: Mohamad.Rashid@cshs.org
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center
+    address:
+      city: Cincinnait
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Ashwini Roy-Chaudhury, MA, MPH
+    middle_name: 
+    phone_ext: 
+    phone: 513-636-2073
+    degrees: 
+    email: Ashwini.Roy-Chaudhury@cchmc.org
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnait, Ohio
+official_title: A Randomized, Open-label Study of the Safety and Efficacy of Multi-
+  Vessel Intracoronary Delivery of Allogeneic Cardiosphere-Derived Cells in Patients
+  With Cardiomyopathy Secondary to Duchenne Muscular Dystrophy
+verification_date: June 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02485938
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Andrew Hamer, MBChB FRACP
+  middle_name: 
+  phone_ext: 
+  phone: "(310) 358-3195"
+  degrees: 
+  email: ahamer@capricor.com
+brief_title: HOPE-Duchenne (Halt cardiomyOPathy progrEssion in Duchenne)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Cardiomyopathies
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The safety objective of the HOPE-Duchenne trial will be to investigate the safety and
+          tolerability of CAP-1002 administered by multi-vessel intracoronary infusion in subjects
+          with cardiomyopathy secondary to Duchenne muscular dystrophy (DMD).
+
+          The efficacy objective of the HOPE-Duchenne trial will be to investigate the efficacy of
+          CAP-1002 administered by multi-vessel intracoronary infusion in subjects with cardiomyopathy
+          secondary to DMD by stabilizing or improving cardiac structure, by evaluating functional
+          status, and by assessment of quality of life.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '24'
+lastchanged_date: June 26, 2015

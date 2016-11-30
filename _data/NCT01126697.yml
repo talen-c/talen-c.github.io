@@ -1,0 +1,306 @@
+---
+firstreceived_date: May 18, 2010
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link:
+- url: http://www.cinrgresearch.org
+  description: CINRG Network Website
+has_expanded_access: 'No'
+id: NCT01126697
+intervention:
+- intervention_name: Coenzyme Q10 and Lisinopril
+  other_name: []
+  description: 'Arm 1. Coenzyme Q10: taken once a day each morning by mouth OR Arm
+    2. Lisinopril: taken once a day each morning by mouth OR Arm 3. Coenzyme Q10 and
+    lisinopril: each taken once a day in the morning by mouth OR Arm 4. Enhanced Standard
+    Care (more doctor visits, muscle and breathing testing, and x-rays for monitoring,
+    but no study medication).'
+  arm_group_label:
+  - Lisinopril
+  - Coenzyme Q10
+  - Coenzyme Q10 and Lisinopril
+  intervention_type: Drug
+source: Cooperative International Neuromuscular Research Group
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 8 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  8 years of age or older
+
+                -  Confirmed genetic diagnosis of Duchenne, Becker, or Limb Girdle muscular dystrophy
+
+                -  Beta-blocker naïve
+
+                -  Screening Doppler echocardiographic MPI measurement greater than or equal to 0.40 for
+                   the highest MPI value (spectral and tissue) or circumferential strain measured by STE
+                   that is less negative than or equal to - 23
+
+                -  Normal left ventricular fractional shortening (≥28%) and no clinical cardiac symptoms
+
+                -  Has not participated in other therapeutic research protocol within the last 6 months
+                   prior to screening
+
+                -  Ability to swallow tablets
+
+              Exclusion Criteria:
+
+                -  Spine curvature greater than 30% (based on the x-ray performed at screening)
+
+                -  History of significant concomitant illness or significant impairment of renal or
+                   hepatic function
+
+                -  History of hypersensitivity to ACE inhibitors
+
+                -  History of idiopathic or hereditary angioedema or a history of angioedema with prior
+                   ACE inhibitor use
+
+                -  Use of carnitine, creatine, glutamine, or any herbal medicines (this would not
+                   include herbal teas unless they are consumed daily with intended medicinal effect) in
+                   the 3-months prior to enrollment
+
+                -  CoQ10 and/or ACE inhibitor use for a duration greater than 6 months
+
+                -  CoQ10 and/or ACE inhibitor use in the 3-months prior to enrollment
+
+                -  CoQ10 serum level of 2.5 ug/ml or higher
+
+                -  Investigator assessment of inability to comply with protocol
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2016
+last_injected: '2015-09-26T08:28:59.258Z'
+intervention_browse:
+  mesh_term:
+  - Coenzyme Q10
+  - Lisinopril
+  - Ubiquinone
+target_duration: 
+number_of_arms: '4'
+start_date: February 2010
+why_stopped: 
+id_info:
+  org_study_id: PITT0908
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01126697
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Enhanced standard of care
+  arm_group_type: No Intervention
+- description: 
+  arm_group_label: Lisinopril
+  arm_group_type: Active Comparator
+- description: 
+  arm_group_label: Coenzyme Q10
+  arm_group_type: Active Comparator
+- description: 
+  arm_group_label: Coenzyme Q10 and Lisinopril
+  arm_group_type: Active Comparator
+sponsors:
+  collaborator:
+  - agency: Department of Defense
+    agency_class: U.S. Fed
+  lead_sponsor:
+    agency: Cooperative International Neuromuscular Research Group
+    agency_class: Other
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: every 6 months
+  description: The MPI is a sensitive, quantifiable, noninvasive measure of global
+    ventricular function that is independent of cardiac geometry and heart rate. MPI
+    is collected through standard echocardiogram assessment. MPI is a ratio of the
+    total time spent in isovolumic activity (isovolumic contraction time and isovolumic
+    relaxation time) to the time spent in ventricular ejection.
+  measure: myocardial performance index (MPI)
+overall_official: []
+phase: Phase 2/Phase 3
+location_countries:
+  country:
+  - Canada
+  - Japan
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+- Becker Muscular Dystrophy
+- Limb Girdle Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Factorial Assignment, Masking: Open Label, Primary Purpose:
+  Treatment'
+keyword:
+- Cardiac
+- Muscular Dystrophy
+- Randomized
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Federal Government'
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's National Medical Center
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: '20010'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Lurie Children's Hospital
+    address:
+      city: Chicago
+      state: Illinois
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: 
+  contact_backup: {}
+  facility:
+    name: Carolinas Medical Center
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Pittsburgh
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: '15213'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Tennessee
+    address:
+      city: Memphis
+      state: Tennessee
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.15
+    formatted: Memphis, TN, USA
+    longitude: -90.049
+    original: Memphis, Tennessee
+- status: 
+  contact_backup: {}
+  facility:
+    name: Alberta Children's Hospital
+    address:
+      city: Calgary
+      state: Alberta
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+- status: 
+  contact_backup: {}
+  facility:
+    name: National Center of Neurology and Psychiatry
+    address:
+      city: Tokyo
+      state: 
+      zip: 
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.689
+    formatted: Tokyo, Japan
+    longitude: 139.692
+    original: Tokyo, Japan
+official_title: 'PITT0908: Clinical Trial of Coenzyme Q10 and Lisinopril in Muscular
+  Dystrophies'
+verification_date: October 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01126697
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Clinical Trial of Coenzyme Q10 and Lisinopril in Muscular Dystrophies
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophies, Limb-Girdle
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The study will include 120 participants aged 8 and up with Duchenne, Becker, or autosomal
+          recessive limb-girdle (specifically: LGMD 2C-2F and 2I) muscular dystrophies that have no
+          clinical cardiac symptoms. Participants will be randomized to one of four arms: Arm 1 CoQ10
+          alone, Arm 2 Lisinopril alone, Arm 3 CoQ10 and Lisinopril or Arm 4 No study medication.
+          Randomization will be stratified by ambulatory status and corticosteroid use. The primary
+          outcome for the study is the myocardial performance index (MPI), measured by standard
+          Doppler echocardiography. The study will last 24 months with visits at Months 0.5,1.5, 6,
+          12, 18 and 24.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '120'
+lastchanged_date: October 10, 2014

@@ -1,0 +1,1170 @@
+---
+firstreceived_date: November 23, 2011
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: March 2014
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01480245
+intervention:
+- intervention_name: GSK2402968
+  other_name: []
+  description: 6mg/kg/week
+  arm_group_label:
+  - Continuous Dosing
+  - Intermittent Dosing
+  intervention_type: Drug
+source: GlaxoSmithKline
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Previous participation in either DMD114117 or DMD114044
+
+                -  Continued use of glucocorticoids
+
+                -  Willing and able to comply with all protocol requirements
+
+                -  Able to give informed consent
+
+                -  French subjects: Eligible for inclusion only if either affiliated to or a beneficiary
+                   of a social security category.
+
+              Exclusion Criteria:
+
+                -  Subject experienced a serious adverse event or who met safety stopping criteria that
+                   remains unresolved from DMD114117 or DMD114044, which in opinion of the investigator
+                   could have been attributable to study medication and is ongoing,
+
+                -  Use of anticoagulants, antithrombotics or antiplatelet agents, previous treatment
+                   with investigational drugs,except GSK2402968, within 1 month of the first
+                   administration of study medication,
+
+                -  Current or anticipated participation in any investigational clinical studies,
+
+                -  History of significant medical disorder which may confound the interpretation of
+                   either efficacy or safety data e.g. current history of renal or liver
+                   disease/impairment, history of inflammatory disease.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: March 2014
+last_injected: '2015-09-25T23:34:54.585Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '3'
+start_date: September 2011
+why_stopped: |-
+  The study was formally terminated given that GSK is not submitting an application for
+      regulatory approval for drisapersen in Duchenne Muscular Dystrophy.
+id_info:
+  org_study_id: '114349'
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01480245
+acronym: 
+arm_group:
+- description: GSK2402968 6mg/kg/week
+  arm_group_label: Continuous Dosing
+  arm_group_type: Experimental
+- description: GSK2402968 6mg/kg/week
+  arm_group_label: Intermittent Dosing
+  arm_group_type: Experimental
+- description: The objective of this arm will be to explore DMD disease progression
+    in a naturalistic setting once discontinuing active treatment
+  arm_group_label: Natural History Observation
+  arm_group_type: No Intervention
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: GlaxoSmithKline
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Timed Function tests
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Muscle strength
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: North Star Ambulatory Assessment Scores
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Creatine kinase Serum concentrations
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Pulmonary Function
+- safety_issue: 'No'
+  time_frame: 104weeks
+  description: 
+  measure: Pediatric Quality of Life Neuromuscular module
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Clinician Global Impression of Improvement
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Health Utilities Index
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Frequency of accidental falls during 6 Minute Walk Distance test
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Functional Outcomes Assessment
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Time to major disease milestones
+study_type: Interventional
+biospec_retention: 
+overall_status: Terminated
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 104 weeks
+  description: 
+  measure: Differences between the 6MWD at baseline and Week 104
+overall_official:
+- first_name: 
+  last_name: GSK Clinical Trials
+  middle_name: 
+  affiliation: GlaxoSmithKline
+  degrees: 
+  role: Study Director
+phase: Phase 3
+location_countries:
+  country:
+  - Argentina
+  - Australia
+  - Belgium
+  - Brazil
+  - Bulgaria
+  - Canada
+  - Chile
+  - Czech Republic
+  - Denmark
+  - France
+  - Germany
+  - Hungary
+  - Israel
+  - Italy
+  - Japan
+  - Korea, Republic of
+  - Netherlands
+  - Norway
+  - Poland
+  - Russian Federation
+  - Spain
+  - Taiwan
+  - Turkey
+  - United Kingdom
+condition:
+- Muscular Dystrophies
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy
+  Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary
+  Purpose: Treatment'
+keyword:
+- '968'
+- Duchenne
+- DMD
+- drisapersen
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'Belgium: Local Medical Ethics Committee'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Ciudad Autónoma de Buenos Aires
+      state: Buenos Aires
+      zip: C1125ABD
+      country: Argentina
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -34.608
+    formatted: Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina
+    longitude: -58.373
+    original: Ciudad Autónoma de Buenos Aires, Buenos Aires
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: WEstmead
+      state: New South Wales
+      zip: '2145'
+      country: Australia
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -33.808
+    formatted: Westmead NSW 2145, Australia
+    longitude: 150.987
+    original: WEstmead, New South Wales
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Parkville
+      state: Victoria
+      zip: '3052'
+      country: Australia
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -37.795
+    formatted: Parkville VIC, Australia
+    longitude: 144.957
+    original: Parkville, Victoria
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Gent
+      state: 
+      zip: '9000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.053
+    formatted: Ghent, Belgium
+    longitude: 3.73
+    original: Gent, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Leuven
+      state: 
+      zip: '3000'
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.878
+    formatted: Leuven, Belgium
+    longitude: 4.704
+    original: Leuven, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Curitiba
+      state: Paraná
+      zip: 80250-060
+      country: Brazil
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -25.428
+    formatted: Curitiba - Paraná, Brazil
+    longitude: -49.273
+    original: Curitiba, Paraná
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Porto Alegre
+      state: Rio Grande Do Sul
+      zip: 90035-903
+      country: Brazil
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -30.028
+    formatted: Porto Alegre - Rio Grande do Sul, Brazil
+    longitude: -51.229
+    original: Porto Alegre, Rio Grande Do Sul
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Ribeirao Preto
+      state: São Paulo
+      zip: 14048-900
+      country: Brazil
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -21.177
+    formatted: Ribeirão Preto - São Paulo, Brazil
+    longitude: -47.821
+    original: Ribeirao Preto, São Paulo
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Santo Andre
+      state: São Paulo
+      zip: 09060-650
+      country: Brazil
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -23.655
+    formatted: Santo André - São Paulo, Brazil
+    longitude: -46.532
+    original: Santo Andre, São Paulo
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Sao Paulo
+      state: São Paulo
+      zip: 05403-000
+      country: Brazil
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -23.549
+    formatted: Sao Paulo - São Paulo, Brazil
+    longitude: -46.639
+    original: Sao Paulo, São Paulo
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Rio de Janeiro
+      state: 
+      zip: 21941-490
+      country: Brazil
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -22.904
+    formatted: Rio de Janeiro, Brazil
+    longitude: -43.21
+    original: Rio de Janeiro, Brazil
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Sofia
+      state: 
+      zip: '1431'
+      country: Bulgaria
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.696
+    formatted: Sofia, Bulgaria
+    longitude: 23.326
+    original: Sofia, Bulgaria
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Vancouver
+      state: British Columbia
+      zip: V6H 3V4
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 49.261
+    formatted: Vancouver, BC, Canada
+    longitude: -123.114
+    original: Vancouver, British Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: London
+      state: Ontario
+      zip: N6A 5W9
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.979
+    formatted: London, ON, Canada
+    longitude: -81.246
+    original: London, Ontario
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Montreal
+      state: Quebec
+      zip: H3T 1C5
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.509
+    formatted: Montreal, QC, Canada
+    longitude: -73.554
+    original: Montreal, Quebec
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Temuco
+      state: Región De La Araucania
+      zip: 
+      country: Chile
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -38.734
+    formatted: Temuco, Araucanía Region, Chile
+    longitude: -72.584
+    original: Temuco, Región De La Araucania
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Santiago
+      state: Región Metro De Santiago
+      zip: '7500539'
+      country: Chile
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -33.417
+    formatted: Santiago, Santiago Metropolitan Region, Chile
+    longitude: -70.55
+    original: Santiago, Región Metro De Santiago
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Santiago
+      state: 
+      zip: '8330074'
+      country: Chile
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: -33.417
+    formatted: Santiago, Santiago Metropolitan Region, Chile
+    longitude: -70.55
+    original: Santiago, Chile
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Brno
+      state: 
+      zip: 613 00
+      country: Czech Republic
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 49.192
+    formatted: Brno, Czech Republic
+    longitude: 16.613
+    original: Brno, Czech Republic
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Praha 5
+      state: 
+      zip: 
+      country: Czech Republic
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.072
+    formatted: Prague 5, Czech Republic
+    longitude: 14.398
+    original: Praha 5, Czech Republic
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Koebenhavn Oe
+      state: 
+      zip: '2100'
+      country: Denmark
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 55.71
+    formatted: København Ø, 2100 Copenhagen, Denmark
+    longitude: 12.577
+    original: Koebenhavn Oe, Denmark
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Bordeaux cedex
+      state: 
+      zip: '33076'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 44.838
+    formatted: Bordeaux, France
+    longitude: -0.579
+    original: Bordeaux cedex, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Lille cedex
+      state: 
+      zip: '59037'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.629
+    formatted: Lille, France
+    longitude: 3.057
+    original: Lille cedex, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Marseille cedex 5
+      state: 
+      zip: '13385'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.296
+    formatted: Marseille, France
+    longitude: 5.37
+    original: Marseille cedex 5, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Montpellier cedex 5
+      state: 
+      zip: '34295'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.611
+    formatted: Montpellier, France
+    longitude: 3.877
+    original: Montpellier cedex 5, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Nantes cedex 01
+      state: 
+      zip: '44093'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.218
+    formatted: Nantes, France
+    longitude: -1.554
+    original: Nantes cedex 01, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Paris cedex 15
+      state: 
+      zip: '75743'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris cedex 15, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Paris
+      state: 
+      zip: '75013'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Pau cedex
+      state: 
+      zip: '64046'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.295
+    formatted: Pau, France
+    longitude: -0.371
+    original: Pau cedex, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Toulouse cedex 9
+      state: 
+      zip: '31059'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.605
+    formatted: Toulouse, France
+    longitude: 1.444
+    original: Toulouse cedex 9, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Freiburg
+      state: Baden-Wuerttemberg
+      zip: '79106'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.999
+    formatted: Freiburg im Breisgau, Germany
+    longitude: 7.842
+    original: Freiburg, Baden-Wuerttemberg
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Muenchen
+      state: Bayern
+      zip: '80337'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.145
+    formatted: Munich, Germany
+    longitude: 11.558
+    original: Muenchen, Bayern
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Goettingen
+      state: Niedersachsen
+      zip: '37075'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.538
+    formatted: Göttingen, Germany
+    longitude: 9.93
+    original: Goettingen, Niedersachsen
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Essen
+      state: Nordrhein-Westfalen
+      zip: '45122'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.462
+    formatted: Essen, Germany
+    longitude: 7.009
+    original: Essen, Nordrhein-Westfalen
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Kiel
+      state: Schleswig-Holstein
+      zip: '24105'
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.323
+    formatted: Kiel, Germany
+    longitude: 10.123
+    original: Kiel, Schleswig-Holstein
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Budapest
+      state: 
+      zip: '1095'
+      country: Hungary
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 47.498
+    formatted: Budapest, Hungary
+    longitude: 19.041
+    original: Budapest, Hungary
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Jerusalem
+      state: 
+      zip: '91240'
+      country: Israel
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 31.768
+    formatted: Jerusalem, Israel
+    longitude: 35.214
+    original: Jerusalem, Israel
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Ferrara
+      state: Emilia-Romagna
+      zip: '44100'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 44.838
+    formatted: Ferrara, Italy
+    longitude: 11.62
+    original: Ferrara, Emilia-Romagna
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Roma
+      state: Lazio
+      zip: '00165'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Roma, Lazio
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Roma
+      state: Lazio
+      zip: 00168
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Roma, Lazio
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Milano
+      state: Lombardia
+      zip: '20122'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 45.464
+    formatted: Milan, Italy
+    longitude: 9.188
+    original: Milano, Lombardia
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Messina
+      state: Sicilia
+      zip: '98125'
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.192
+    formatted: Messina, Italy
+    longitude: 15.556
+    original: Messina, Sicilia
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Hyogo
+      state: 
+      zip: 650-0017
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 34.691
+    formatted: Hyogo Prefecture, Japan
+    longitude: 135.183
+    original: Hyogo, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Kumamoto
+      state: 
+      zip: 860-8556
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 32.803
+    formatted: Kumamoto, Kumamoto Prefecture, Japan
+    longitude: 130.708
+    original: Kumamoto, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Saitama
+      state: 
+      zip: 349-0196
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.862
+    formatted: Saitama, Saitama Prefecture, Japan
+    longitude: 139.645
+    original: Saitama, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Tokyo
+      state: 
+      zip: 187-8551
+      country: Japan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.689
+    formatted: Tokyo, Japan
+    longitude: 139.692
+    original: Tokyo, Japan
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Seoul
+      state: 
+      zip: 110-744
+      country: Korea, Republic of
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 37.532
+    formatted: National Assembly of the Republic of Korea, 1 Yeoeuido-dong, Yeongdeungpo-gu,
+      Seoul, South Korea
+    longitude: 126.914
+    original: Seoul, Korea, Republic of
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Leiden
+      state: 
+      zip: 2333 ZA
+      country: Netherlands
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 52.16
+    formatted: Leiden, The Netherlands
+    longitude: 4.494
+    original: Leiden, Netherlands
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Nijmegen
+      state: 
+      zip: 6525 GC
+      country: Netherlands
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.843
+    formatted: Nijmegen, The Netherlands
+    longitude: 5.855
+    original: Nijmegen, Netherlands
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Oslo
+      state: 
+      zip: '0027'
+      country: Norway
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 59.914
+    formatted: Oslo, Norway
+    longitude: 10.752
+    original: Oslo, Norway
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Warszawa
+      state: 
+      zip: 02-097
+      country: Poland
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 52.23
+    formatted: Warsaw, Poland
+    longitude: 21.012
+    original: Warszawa, Poland
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Moscow
+      state: 
+      zip: '125412'
+      country: Russian Federation
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 55.75
+    formatted: Moscow, Russian Federation
+    longitude: 37.617
+    original: Moscow, Russian Federation
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Esplugues de Llobregat. Barcelona
+      state: 
+      zip: 08950
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.378
+    formatted: Esplugues de Llobregat, Spain
+    longitude: 2.088
+    original: Esplugues de Llobregat. Barcelona, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Madrid
+      state: 
+      zip: '28046'
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.417
+    formatted: Madrid, Spain
+    longitude: -3.7
+    original: Madrid, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Valencia
+      state: 
+      zip: '46026'
+      country: Spain
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.47
+    formatted: Valencia, Spain
+    longitude: -0.377
+    original: Valencia, Spain
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Kaohsiung
+      state: 
+      zip: '80708'
+      country: Taiwan
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 23.011
+    formatted: Kaohsiung City, Taiwan
+    longitude: 120.666
+    original: Kaohsiung, Taiwan
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Ankara
+      state: 
+      zip: '06100'
+      country: Turkey
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.921
+    formatted: Ankara, Turkey
+    longitude: 32.854
+    original: Ankara, Turkey
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: London
+      state: 
+      zip: WC1N 3JH
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.508
+    formatted: London, UK
+    longitude: -0.128
+    original: London, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Newcastle-upon-Tyne
+      state: 
+      zip: NE1 4LP
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle-upon-Tyne, United Kingdom
+official_title: An Open-label Extension Study of the Long-term Safety, Tolerability
+  and Efficacy of GSK2402968 in Subjects With Duchenne Muscular Dystrophy
+verification_date: September 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01480245
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Open Label Study of GSK2402968 in Subjects With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to explore long-term safety, tolerability and efficacy of
+          GSK2402968 in DMD subjects who previously participated in either DMD114117 or DMD114044.
+enrollment:
+  attributes:
+    type: Actual
+  value: '233'
+lastchanged_date: September 25, 2014

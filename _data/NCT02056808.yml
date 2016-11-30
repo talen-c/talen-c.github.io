@@ -1,0 +1,291 @@
+---
+firstreceived_date: November 21, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: July 2014
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Primary Objective: To determine the safety and tolerability of single and multiple oral
+          doses of SMT C1100 in patients with Duchenne Muscular Dystrophy (DMD).
+
+          Secondary Objectives: To determine the single and multiple oral dose pharmacokinetics of SMT
+          C1100 and its metabolites in patients with DMD.
+link: []
+has_expanded_access: 'No'
+id: NCT02056808
+intervention:
+- intervention_name: SMT C1100
+  other_name: []
+  description: Comparison of safety and pharmacokinetic of different dosages of drug
+  arm_group_label:
+  - SMT C1100
+  intervention_type: Drug
+source: Summit Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 11 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Patients will be males of any ethnic origin with a genetic diagnosis of DMD.
+
+                -  Children between 5 and 11 years of age.
+
+                -  A parent/legal guardian must date and sign a written consent on behalf of the
+                   patient, according to International Conference on Harmonisation (ICH) and local
+                   regulations. This person must understand the contents of the consent, requirements of
+                   the study and have had an opportunity to review questions with a medically trained
+                   member of the site study team.
+
+                -  The patient is willing to give verbal or written age appropriate assent to
+                   participate.
+
+                -  For safety reasons, the patient's parent/legal guardian must have a good
+                   understanding of the English language, as this is the only language the
+                   consent/assent forms are written in, and understand the requirements for reporting of
+                   any adverse event to the Investigator.
+
+              Exclusion Criteria:
+
+                -  Enrollment or participation in any therapeutic clinical trial within the prior 3
+                   months or 5 times the half-life (whichever is longer).
+
+                -  Initiation or change (other than dose modifications for body weight) of systemic
+                   corticosteroid therapy within 2 months prior to the start of dose administration or
+                   discontinuation of corticosteroids within 30 days prior to the start of dose
+                   administration.
+
+                -  Known hypersensitivity to the excipients of the study drug or a previous history of
+                   drug allergy.
+
+                -  Use of the following therapies is prohibited during the study and for at least 5
+                   half-lives prior to the start of dose administration: Inducers of cytochrome P450
+                   CYP1A2 (eg, carbamazepine, phenytoin, primidone, rifampin, omeprazole, and
+                   barbiturates), and moderate and strong inhibitors of CYP1A2 (e.g., fluvoxamine,
+                   ciprofloxacin, enoxacin, mexiletine; propafenone, zileuton). Substrates of CYP1A2
+                   with narrow therapeutic windows (e.g., tacrine, theophylline, methadone, mexiletine).
+                   Nicotine, including exposure to daily passive smoking to minimize cytochrome P450 CYP
+                   1A induction. Chargrilled food, cruciferous vegetables, caffeine, tea, and any
+                   xanthine containing foods, and drinks are prohibited from 36 hours prior to check-in
+                   until final discharge from study. Herbal supplements and homeopathic preparations
+                   (unless approved by medical monitor).
+
+                -  Need for mechanical ventilation.
+
+                -  Non ambulatory.
+
+                -  Any clinically significant acute illness within 4 weeks of the start of dose
+                   administration.
+
+                -  Any co-morbidity that, in the opinion of the Investigator, increases the risk of
+                   participating in the study.
+
+                -  Symptomatic cardiomyopathy that in the opinion of the Investigator prohibits
+                   participation in this study.
+
+                -  Abnormality in the 12-lead ECG that, in the opinion of the Investigator, increases
+                   the risk of participating in the study.
+
+                -  Any clinically significant medical condition, other than DMD that in the opinion of
+                   the Investigator may increase the risk of participating in the study or interfere
+                   with the interpretation of safety or efficacy evaluations (e.g., concomitant illness,
+                   psychiatric condition or behavioral disorder).
+
+                -  Exposure to daily passive smoking (including parent/legal guardian, siblings) so as
+                   to minimize environmental factors causing cytochrome P450 CYP 1A induction. For
+                   information SMT C1100 is metabolized by cytochrome P450 CYP 1A.
+
+                -  Excessive exercise (Investigator opinion).
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: May 2014
+last_injected: '2015-07-14T08:34:08.590Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: November 2013
+why_stopped: 
+id_info:
+  org_study_id: SMT C11002
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02056808
+acronym: 
+arm_group:
+- description: Patients will be studied in 3 groups (Groups A to C), with each group
+    consisting of 4 patients aged between 5 to 11 years. It is planned that doses
+    for Groups A to C will be administered in an escalating manner after safety review
+    for each dose group.
+  arm_group_label: SMT C1100
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Summit Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: After single oral dose and after 10 days of treatment phase
+  description: Plasma concentration of SMT C1100 calculated at each time point for
+    each subject (sample size (n), mean, standard deviation (SD), percentage of coefficient
+    of variation (%CV), geometric mean, median, minimum, and maximum for the parent
+    and the major metabolites.
+  measure: Pharmacokinetic parameters at different dose levels
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: After 10 days of treatment phase
+  description: To determine the safety and tolerability of single and multiple oral
+    doses of SMT C1100 in patients with Duchenne Muscular Dystrophy (DMD) by assessing
+    the participants adverse events, ECG results, vital signs and laboratory tests.
+  measure: Safety and tolerability
+overall_official:
+- first_name: 
+  last_name: Stefan Spinty, MD
+  middle_name: 
+  affiliation: Alder Hey Children's NHS Foundation Trust
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Helen Roper, MD
+  middle_name: 
+  affiliation: Heart of England NHS Foundation Trust - Heartlands Hospital
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Imelda Hughes, MD
+  middle_name: 
+  affiliation: Central Manchester University Hospitals NHS Foundation Trust - Royal
+    Manchester Childrens Hospital
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Franceso Muntoni, MD
+  middle_name: 
+  affiliation: Great Ormond Street Hospital for Children NHS Foundation Trust
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1
+location_countries:
+  country:
+  - United Kingdom
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Intervention Model: Single Group Assignment, Masking: Open Label, Primary
+  Purpose: Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Heart of England NHS Foundation Trust - Heart Lands Hospital
+    address:
+      city: Birmingham
+      state: 
+      zip: B9 5SS
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 52.486
+    formatted: Birmingham, West Midlands, UK
+    longitude: -1.89
+    original: Birmingham, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: Alder Hey Children's NHS Foundation Trust
+    address:
+      city: Liverpool
+      state: 
+      zip: L12 2AP
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 53.412
+    formatted: Liverpool, Merseyside, UK
+    longitude: -2.99
+    original: Liverpool, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: Great Ormond Street for Children NHS Foundation Trust
+    address:
+      city: London
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.508
+    formatted: London, UK
+    longitude: -0.128
+    original: London, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: Central Manchester University Hospitals NHS Foundation Trust- Royal Manchester
+      Children's Hospital
+    address:
+      city: Manchester
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 53.479
+    formatted: Manchester, UK
+    longitude: -2.248
+    original: Manchester, United Kingdom
+official_title: SMT C1100 - A Phase 1b, Open-label, Single and Multiple Oral Dose,
+  Safety, Tolerability and Pharmacokinetic Study in Paediatric Patients With Duchenne
+  Muscular Dystrophy
+verification_date: August 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02056808
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: A Phase 1b Study of SMT C1100 in Subjects With Duchenne Muscular Dystrophy
+  (DMD)
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to determine whether increasing doses of SMT C1100 are safe,
+          well tolerated and achieve appropriate blood levels in patients with Duchenne Muscular
+          Dystrophy (DMD).
+enrollment:
+  attributes:
+    type: Actual
+  value: '12'
+lastchanged_date: August 26, 2014

@@ -1,0 +1,191 @@
+---
+firstreceived_date: June 21, 2012
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Pediatric Magnetic resonance (MR) imaging techniques have been limited by the unavailability
+          of specialized radio-frequency (RF) coils for pediatric imaging. Typically, MR coils are
+          designed for general purpose adult imaging and lack the mechanical design, flexibility and
+          high channel count needed for pediatric imaging. Furthermore, pediatric patients are often
+          positioned decubitus or prone rather than supine. This makes coil positioning even more
+          challenging and often results in images with low SNR and poor image quality. Many coils used
+          in clinical practice have fixed dimensions that do not fit within the realm of "one-size
+          fits all," especially for the huge variation found in the pediatric patient population.
+
+          MRI coil development and optimization is performed by MR manufacturers and in research
+          laboratories across the world including the Imaging Research Center (IRC) of Cincinnati
+          Children's Hospital and Medical Center (CCHMC). Coil development and refinement involves
+          evaluating the new coils on inert phantoms and then imaging examinations performed on
+          healthy participants and patients. The focus of this study protocol is to evaluate the
+          design and performance of investigational coils on patients and healthy participants.
+link: []
+has_expanded_access: 'No'
+id: NCT01633866
+intervention: []
+source: Children's Hospital Medical Center, Cincinnati
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: Non-Probability Sample
+  minimum_age: N/A
+  study_pop:
+    textblock: |-
+      Healthy participants will be recruited by word-of-mouth, generally from within CCHMC.The
+              healthy participants could include children of faculty or staff members of CCHMC.Because
+              the healthy participants could include children of faculty or staff members, recruitment
+              will be consistent with CCHMC Research Policy.Patients will be recruited at the time of
+              their scheduled clinical scan.We are only using these participants to evaluate the safety
+              and feasibility of the use of the new coils in our patient population.For this reason, we
+              will not focus on the demographics of the participants.However, we will attempt to obtain
+              a broad anatomic size range to match that of the patient population for which the coils
+              were developed.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+              Healthy participants:
+
+                -  Male or Female
+
+                -  Thermally stable
+
+                -  Any age
+
+              Clinical patients:
+
+                -  Male or Female
+
+                -  Thermally stable
+
+                -  any age
+
+              Exclusion Criteria:
+
+              Healthy participants & Clinical patients
+
+                -  Female participants who are pregnant or lactating
+
+                -  Subjects iwth standard contraindications to MRI
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2017
+last_injected: '2015-09-26T10:15:46.819Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: July 2012
+why_stopped: 
+id_info:
+  org_study_id: 2012-1041
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01633866
+acronym: 
+arm_group:
+- description: advances in radio frequency (RF) coil magnetic resonance imaging (MRI)
+  arm_group_label: Advances in Radio Frequency for MRI
+  arm_group_type: 
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Children's Hospital Medical Center, Cincinnati
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 2 Weeks Post MRI Scan
+  description: 
+  measure: MRI Image Quality
+study_type: Observational
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: Day 1
+  description: 
+  measure: Number of participants with adverse events as measured by heating and comfort
+    participant response
+overall_official:
+- first_name: 
+  last_name: Charles Dumoulin, PhD
+  middle_name: 
+  affiliation: Children's Hospital Medical Center, Cincinnati
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+- Musculoskeletal Abnormalities
+clinical_results: {}
+study_design: 'Time Perspective: Prospective'
+keyword:
+- Magnetic Resonance Imaging
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '1'
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Kansie E Somers, M.A.
+    middle_name: 
+    phone_ext: 
+    phone: 513-636-9403
+    degrees: 
+    email: kansie.somers@cchmc.org
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+official_title: Pediatric Radio Frequency Coil Development on Clinical and Research
+  MR Scanners
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01633866
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Pediatric Radio Frequency Coils Generic
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+  - Musculoskeletal Abnormalities
+brief_summary:
+  textblock: |-
+    The purpose of this study is to evaluate and optimize advances in radio frequency (RF) coil
+          magnetic resonance imaging (MRI) technology at Cincinnati Children's Hospital Medical Center
+          (CCHMC).
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '75'
+lastchanged_date: September 11, 2015

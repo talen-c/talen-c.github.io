@@ -1,0 +1,204 @@
+---
+firstreceived_date: August 22, 2011
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2012
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01422200
+intervention:
+- intervention_name: 2011-2012 seasonal flu vaccine
+  other_name:
+  - fluzone
+  description: The 2011-2012 seasonal flu vaccine will be given by subcutaneous injection.
+  arm_group_label:
+  - Subcutaneous
+  intervention_type: Biological
+- intervention_name: 2011-2012 seasonal flu vaccine
+  other_name:
+  - fluzone
+  description: the 2011-2012 seasonal flu vaccine will be given by intramuscular injection
+  arm_group_label:
+  - Intromuscular
+  intervention_type: Biological
+source: Children's Hospital Medical Center, Cincinnati
+eligibility:
+  gender: Both
+  maximum_age: 35 Years
+  sampling_method: 
+  minimum_age: 3 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Non-ambulatory;
+
+                -  Quadriceps muscle strength of MRC (Medical Research Council Scale) grade 3 or below
+
+                -  Any subject who is between 3 to 8 years of age must have received at least two doses
+                   of influenza vaccine last season or at least one dose tow or more years ago.
+
+              Exclusion Criteria:
+
+                -  Subject must not have a history of severe reactions following previous immunization
+                   with influenza vaccine.
+
+                -  Subject must not have previously received a 2011-2012 influenza vaccine.
+
+                -  Subject must not have a history of Guillain-Barre syndrome.
+
+                -  Subject must not have received a live viral vaccine (i.e., MMR, varicella) within 28
+                   days prior to receipt of the study vaccine.
+
+                -  Subject must not have any condition that the investigator believes would render
+                   vaccination unsafe or interfere with successful completion of the study.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2011
+last_injected: '2015-09-26T01:05:37.280Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: August 2011
+why_stopped: 
+id_info:
+  org_study_id: 2010-2319
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01422200
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Subcutaneous
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: Intromuscular
+  arm_group_type: Active Comparator
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Children's Hospital Medical Center, Cincinnati
+    agency_class: Other
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 21-28 days after vaccination
+  description: Serum HAI antibody titers for each strain immediately prior to study
+    vaccine receipt and 21-28 days after study vaccine receipt
+  measure: Immunogenicity
+- safety_issue: 'Yes'
+  time_frame: 4 days following receipt of study vaccine
+  description: 'For the 4 days following receipt of study vaccine(days 0 to 4), the
+    following local reactions will be assessed: pain, redness, and swelling. The following
+    systemic reactions will also be assessed: feverishness, fatigue/malaise, myalgia/body
+    ache, headache, nausea, weakness and chills.'
+  measure: safety
+overall_official:
+- first_name: 
+  last_name: Brenda Wong, MD
+  middle_name: 
+  affiliation: Children's Hospital Medical Center, Cincinnati
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+- Spinal Muscular Atrophy
+- Congenital Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention'
+keyword:
+- DMD
+- SMA
+- CMD
+- flu vaccine
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Shengyong Hu, MS
+    middle_name: 
+    phone_ext: 
+    phone: 513-636-3202
+    degrees: 
+    email: shengyong.hu@cchmc.org
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+official_title: Comparison of the Immunogenicity of Intramuscular Versus Subcutaneous
+  Administration of Trivalent Inactivated Influenza Vaccine in Individuals With Neuromuscular
+  Diseases
+verification_date: August 2011
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01422200
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Shengyong Hu, MS
+  middle_name: 
+  phone_ext: 
+  phone: 513-636-3202
+  degrees: 
+  email: shengyong.hu@cchmc.org
+brief_title: Flu Vaccine Study in Neuromuscular Patients 2011
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Atrophy
+  - Muscular Atrophy, Spinal
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of the study is to compare the immune response of two different injection
+          methods (Intramuscular V.S. Subcutaneous) of the 2011-2012 seasonal Influenza (Flu) vaccine
+          among patients with neuromuscular conditions who have significant muscle degeneration. This
+          research study hypothesizes that the subcutaneous route of vaccine administration, as
+          compared to the intramuscular route, may confer at least comparable, or possibly better,
+          immunogenicity. At least 30 individuals followed by the CCHMC Neuromuscular Comprehensive
+          Care Center will be recruited to participate in this study lasting approximately one to two
+          months with two clinic visits and one follow-up telephone call. Immunogenicity will be
+          assessed by comparing hemagglutination inhibition (HAI) antibody titers obtained pre- and
+          post-vaccination.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '30'
+lastchanged_date: August 22, 2011

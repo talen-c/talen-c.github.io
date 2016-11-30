@@ -1,0 +1,276 @@
+---
+firstreceived_date: January 17, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: August 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    The purpose of this tissue bank is to collect blood and skin samples from participants who
+          are diagnosed with Duchenne muscular dystrophy (DMD) and carry one of nine specific changes
+          in the dystrophin gene. The specific dystrophin changes that we are interested in studying
+          are those that would work with exon-skipping therapies in patients with DMD, specifically
+          deletions of the follow exons: 10-52, 13-50, 29-50, 43-52, 44, 43-50, 45-50, 45-52, 46,
+          46-47, 46-48, 46-49, 46-51, 46-53, 46-55, 46-60, 47-50, 47-52, 48-50, 49-50, 50, 52, 52-63,
+          48-52, 49-52, 50-52.
+
+          These blood and skin samples will be held in a tissue bank at Carolinas Medical Center for
+          future DMD research.
+link: []
+has_expanded_access: 'No'
+id: NCT01772043
+intervention: []
+source: Cooperative International Neuromuscular Research Group
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: Non-Probability Sample
+  minimum_age: 4 Years
+  study_pop:
+    textblock: |-
+      Duchenne muscular dystrophy (DMD) is an X-linked recessive disorder caused by mutations in
+              the dystrophin gene. DMD participants over 4 years of age with known mutations that could
+              be targeted by exon skipping therapies will be recruited for this study.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Age 4 and above
+
+                -  Diagnosis of DMD with a confirmed out-of-frame dystrophin gene deletions that could
+                   be corrected by skipping exon 45, 51, or 53 based on past genetic testing.
+
+              Exclusion Criteria:
+
+                -  Investigator assessment of inability to comply with blood and skin sample collection
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: August 2016
+last_injected: '2015-07-28T22:40:26.856Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: September 2012
+why_stopped: 
+id_info:
+  org_study_id: CHAR0312
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01772043
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Duchenne muscular dystrophy
+  arm_group_type: 
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Cooperative International Neuromuscular Research Group
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational
+biospec_retention: Samples With DNA
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 1 day
+  description: Collection of blood, skin and optional muscle samples
+  measure: Tissue Collection
+overall_official: []
+phase: N/A
+location_countries:
+  country:
+  - United States
+  - Canada
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Cohort, Time Perspective: Prospective'
+keyword:
+- muscular dystrophy
+- tissue bank
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '1'
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of California Davis
+    address:
+      city: Sacramento
+      state: California
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: Stanford University Medical Center
+    address:
+      city: Stanford
+      state: California
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 37.429
+    formatted: Stanford University, 450 Serra Mall, Stanford, CA 94305, USA
+    longitude: -122.169
+    original: Stanford, California
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's National Health System
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: Johns Hopkins University School of Medicine, Kennedy Krieger
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+- status: 
+  contact_backup: {}
+  facility:
+    name: Carolinas Medical Center
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: 
+  contact_backup: {}
+  facility:
+    name: Duke Children's Hospital and Health Center
+    address:
+      city: Durham
+      state: North Carolina
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.994
+    formatted: Durham, NC, USA
+    longitude: -78.899
+    original: Durham, North Carolina
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Pittsburgh
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: 
+  contact_backup: {}
+  facility:
+    name: University of Tennessee
+    address:
+      city: Memphis
+      state: Tennessee
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 35.15
+    formatted: Memphis, TN, USA
+    longitude: -90.049
+    original: Memphis, Tennessee
+- status: 
+  contact_backup: {}
+  facility:
+    name: Alberta Children's Hospital
+    address:
+      city: Calgary
+      state: Alberta
+      zip: 
+      country: Canada
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+official_title: 
+verification_date: July 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01772043
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Duchenne Muscular Dystrophy Tissue Bank for Exon Skipping
+biospec_descr:
+  textblock: Blood samples with DNA Skin samples Muscle samples (optional)
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    We will utilize the Cooperative International Neuromuscular Research Group (CINRG) network
+          to collect and store tissue and blood from patients with Duchenne muscular dystrophy (DMD)
+          with specific genetic mutations within the dystrophin gene that could be treated by
+          antisense oligonucleotide (AO) drugs.
+enrollment:
+  attributes:
+    type: Actual
+  value: '53'
+lastchanged_date: July 27, 2015

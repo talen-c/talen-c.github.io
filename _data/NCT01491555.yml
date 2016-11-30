@@ -1,0 +1,180 @@
+---
+firstreceived_date: December 5, 2011
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Nicole Visyak, MS, MA
+  middle_name: 
+  phone_ext: 
+  phone: 857-218-4677
+  degrees: 
+  email: nicole.visyak@childrens.harvarad.edu
+completion_date: {}
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01491555
+intervention: []
+source: Children's Hospital Boston
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: Non-Probability Sample
+  minimum_age: 2 Years
+  study_pop:
+    textblock: This study will involve boys with DMD and healthy male controls.
+  criteria:
+    textblock: |-
+      Inclusion criteria (DMD):
+
+                1. Genetically established diagnosis of DMD
+
+                2. Male, age 2 and up
+
+              Inclusion criteria (Control):
+
+              1. Male, age 2 and up
+
+              Exclusion criteria (DMD):
+
+                1. Involvement in an ongoing clinical trial in DMD (outside of a natural history study)
+
+                2. Presence of implanted pacemaker or other electrical device
+
+                3. Presence of a superimposed neuromuscular or other medical condition that
+                   substantially impacts the individual's health
+
+              Exclusion criteria (control):
+
+                1. Presence or past history of a neuromuscular disorder or other disease that
+                   substantially impacts health
+
+                2. Presence of implanted pacemaker or other electrical device.
+  healthy_volunteers: Accepts Healthy Volunteers
+removed_countries: {}
+other_outcome: []
+primary_completion_date: {}
+last_injected: '2015-09-25T23:18:00.201Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: April 2012
+why_stopped: 
+id_info:
+  org_study_id: IRB-P00001218
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01491555
+acronym: QED
+arm_group:
+- description: 35 boys age 2 and over with DMD
+  arm_group_label: DMD patients
+  arm_group_type: 
+- description: 35 healthy boys age 2 and up
+  arm_group_label: Control Group
+  arm_group_type: 
+sponsors:
+  collaborator:
+  - agency: Beth Israel Deaconess Medical Center
+    agency_class: Other
+  lead_sponsor:
+    agency: Children's Hospital Boston
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome: []
+overall_official:
+- first_name: 
+  last_name: Basil Darras, MD
+  middle_name: 
+  affiliation: Children's Hospital Boston
+  degrees: 
+  role: Principal Investigator
+- first_name: 
+  last_name: Seward Rutkove, MD
+  middle_name: 
+  affiliation: Beth Israel Deaconess Medical Center
+  degrees: 
+  role: Principal Investigator
+phase: N/A
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Case Control, Time Perspective: Prospective'
+keyword:
+- Duchenne Muscular Dystrophy
+- DMD
+- controls
+- EIM
+- QUS
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '2'
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital Boston
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02115'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+official_title: Electrical Impedance Myography and Ultrasound as Biomarkers of Duchenne
+  Muscular Dystrophy
+verification_date: April 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01491555
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Lavanya Madabusi, BA
+  middle_name: 
+  phone_ext: 
+  phone: 617-919-3554
+  degrees: 
+  email: lavanya.madabusi@childrens.harvard.edu
+brief_title: Electrical Impedance Myography and Ultrasound as Biomarkers of Duchenne
+  Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Researchers at Children's Hospital Boston Neurology Department invite children to
+          participate in a new research study. Researchers are looking for boys age 2 and up with
+          Duchenne Muscular Dystrophy (DMD) and healthy boys age 2 and up(without any nerve or muscle
+          concerns) to serve as controls. The study is evaluating a new technique that will test nerve
+          and muscle function. The testing is all pain free.
+
+          Children participating in the study will come in for 10 visits over two years. Visits will
+          take place every month at first, then less often for the remaining visits. The tests for the
+          study itself take approximately 2hours. If you are interested or would like to learn more
+          about the study, please call Rebecca Parad at 617-355-2752 or
+          Rebecca.Parad@childrens.harvard.edu. All inquiries will be kept strictly confidential.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '70'
+lastchanged_date: April 30, 2014

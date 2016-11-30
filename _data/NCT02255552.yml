@@ -1,0 +1,1329 @@
+---
+firstreceived_date: September 25, 2014
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: May 2018
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    This is an open-label, multi-center, 48-week study to evaluate the efficacy and safety of
+          eteplirsen in patients with genotypically confirmed Duchenne muscular dystrophy (DMD) with
+          genetic deletions amenable to exon 51 skipping (treated group), with a concurrent control
+          arm of DMD patients not amenable to exon 51 skipping (untreated group). Following primary
+          efficacy endpoints at week 48, dosing will continue to week 96 to evaluate the long term
+          effects of eteplirsen.
+
+          Patients in the treated group will receive once weekly intravenous (IV) infusions of 30
+          mg/kg Eteplirsen. Patients in the untreated group will not receive treatment.
+
+          Clinical efficacy will be assessed at regularly scheduled study visits, including functional
+          tests such as the six minute walk test. Patients in the treated group will undergo a muscle
+          biopsy at Baseline and a second muscle biopsy over the course of the study. Patients in the
+          untreated group will not undergo muscle biopsy.
+
+          Safety, including adverse event monitoring and routine laboratory assessments, will be
+          continuously monitored for all patients.
+
+          The sponsor is working to initiate approximately 39 sites across the United States. Sites
+          will vary in the following functions:
+
+            1. Local Site (N=39) - Enrolls patients and is the primary contact point for their
+               patients. Sites will perform all protocol activities (including dosing and laboratory
+               assessments), except for functional assessments and biopsies.
+
+            2. Hub Site (N=14) - Performs functional (physical) assessments at specified times per
+               protocol.
+
+            3. Surgical Site (N=2) - Performs muscle biopsies for the Treated group.
+link:
+- url: http://www.skipahead.com/
+  description: Online resource center for patients with DMD, families, and their healthcare
+    providers
+has_expanded_access: 'No'
+id: NCT02255552
+intervention:
+- intervention_name: eteplirsen injection
+  other_name: []
+  description: Eteplirsen 30 mg/kg will be administered as an IV infusion once a week
+    for 96 weeks.
+  arm_group_label:
+  - Treated Group
+  intervention_type: Drug
+source: Sarepta Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 16 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Male 7-16 years old
+
+                -  Diagnosed with DMD, genotypically confirmed
+
+                -  Stable dose of corticosteroids for at least 6 months
+
+                -  Have intact right and left alternative upper muscle groups
+
+                -  Mean 6MWT greater than 300m (primary analysis on 300 to 450 meters)
+
+                -  Stable pulmonary and cardiac function: predicted FVC equal to or greater than 50% and
+                   LVEF of greater than 50%
+
+              Exclusion Criteria:
+
+                -  Previous treatment with drisapersen or any other RNA antisense agent or any gene
+                   therapy within the last 6 months
+
+                -  Participation in any other DMD interventional clinical study within 12 weeks
+
+                -  Major surgery within 3 months
+
+                -  Presence of other clinically significant illness
+
+                -  Major change in the physical therapy regime within 3 months
+
+              Other inclusion/exclusion criteria apply.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: Week 1-96
+  description: 
+  measure: Evaluate the long-term effects of eteplirsen up to 96 weeks
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: January 2018
+last_injected: '2015-10-15T02:07:31.312Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: September 2014
+why_stopped: 
+id_info:
+  org_study_id: 4658-301
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02255552
+acronym: PROMOVI
+arm_group:
+- description: Approximately 80 patients with genotypically confirmed Duchenne muscular
+    dystrophy (DMD) with genetic deletions amenable to correction by exon 51 skipping.
+  arm_group_label: Treated Group
+  arm_group_type: Experimental
+- description: Approximately 80 DMD patients not amenable to exon 51 skipping.
+  arm_group_label: Untreated Group
+  arm_group_type: No Intervention
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Sarepta Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline, Weeks 24/48/72/96
+  description: 
+  measure: The percentage of dystrophin-positive fibers
+- safety_issue: 'No'
+  time_frame: Baseline, Weeks 12, 24, 36, 48
+  description: 
+  measure: Maximum inspiratory/expiratory pressure percent predicted (MIP/MEP % predicted)
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline, Weeks 12, 24, 36, 48
+  description: 
+  measure: Change in 6-Minute Walk Test (6MWT) distance from baseline
+overall_official:
+- first_name: 
+  last_name: Petra Duda, MD, PhD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Director
+- first_name: 
+  last_name: Edward M. Kaye, MD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Director
+phase: Phase 3
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy (DMD)
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword:
+- DMD, Duchenne, Eteplirsen, dystrophy, dystrophin, exon 51
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Neuromuscular Research Center
+    address:
+      city: Phoenix
+      state: Arizona
+      zip: '85028'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Kumaraswamy Sivakumar, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kristy Osgood
+    middle_name: 
+    phone_ext: 
+    phone: 480-314-1007
+    degrees: 
+    email: kosgood@nrcaz.com
+  geodata:
+    latitude: 33.448
+    formatted: Phoenix, AZ, USA
+    longitude: -112.074
+    original: Phoenix, Arizona
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: David Geffen School of Medicine at UCLA
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90095'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Perry Shieh, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Juan Valderramos
+    middle_name: 
+    phone_ext: 
+    phone: 310-825-3264
+    degrees: 
+    email: JValderramos@mednet.ucla.edu
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Erica Goude
+    middle_name: 
+    phone_ext: 
+    phone: 916-734-0968
+    degrees: 
+    email: erica.goude@ucdmc.ucdavis.edu
+  facility:
+    name: University of California, Davis Medical Center
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Craig McDonald, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Candace Aguilar
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: candace.aguilar@ucdmc.ucdavis.edu
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Rady Children's Hospital, U.C. San Diego
+    address:
+      city: San Diego
+      state: California
+      zip: '92130'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Richard Haas, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Arlene Smith
+    middle_name: 
+    phone_ext: 
+    phone: 858-966-6246
+    degrees: 
+    email: awsmith@rchsd.org
+  geodata:
+    latitude: 32.715
+    formatted: San Diego, CA, USA
+    longitude: -117.157
+    original: San Diego, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Stanford University School of Medicine/Medical Center
+    address:
+      city: Stanford
+      state: California
+      zip: '94305'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: John Day, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Bona Purse
+    middle_name: 
+    phone_ext: 
+    phone: 650-724-6147
+    degrees: 
+    email: bonap@stanford.edu
+  geodata:
+    latitude: 37.429
+    formatted: Stanford University, 450 Serra Mall, Stanford, CA 94305, USA
+    longitude: -122.169
+    original: Stanford, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital Colorado
+    address:
+      city: Aurora
+      state: Colorado
+      zip: '80045'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Julie Parsons, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Megan Brocato
+    middle_name: 
+    phone_ext: 
+    phone: 720-777-8864
+    degrees: 
+    email: Megan.Brocato@childrenscolorado.org
+  geodata:
+    latitude: 39.729
+    formatted: Aurora, CO, USA
+    longitude: -104.832
+    original: Aurora, Colorado
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Connecticut Children's Medical Center
+    address:
+      city: Hartford
+      state: Connecticut
+      zip: '06106'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Gyula Acsadi, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Hendriana Nielsen
+    middle_name: 
+    phone_ext: 
+    phone: 860-837-5881
+    degrees: 
+    email: HNielsen@connecticutchildrens.org
+  geodata:
+    latitude: 41.764
+    formatted: Hartford, CT, USA
+    longitude: -72.685
+    original: Hartford, Connecticut
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's National Health System
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: '20010'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Mathula Thangarajh, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Allyn Toles
+    middle_name: 
+    phone_ext: 
+    phone: 202-476-4802
+    degrees: 
+    email: AToles2@childrensnational.org
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: The University of Florida, Powell Gene Therapy Center
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Barry J Byrne, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Lee Ann Lawson
+    middle_name: 
+    phone_ext: 
+    phone: 352-273-7762
+    degrees: 
+    email: LLawson@peds.ufl.edu
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: NW FL Clinical Research Group, LLC
+    address:
+      city: Gulf Breeze
+      state: Florida
+      zip: '32561'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Ben Renfroe, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Shezsay Lancelin
+    middle_name: 
+    phone_ext: 
+    phone: 850-221-5116
+    degrees: 
+    email: shae.lancelin@cneurology.com
+  geodata:
+    latitude: 30.357
+    formatted: Gulf Breeze, FL, USA
+    longitude: -87.164
+    original: Gulf Breeze, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Miami Hospitals and Clinics
+    address:
+      city: Miami
+      state: Florida
+      zip: '33136'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Khema Ram Sharma, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Monica Quesada
+    middle_name: 
+    phone_ext: 
+    phone: 305-243-7424
+    degrees: 
+    email: mquesada2@med.miami.edu
+  geodata:
+    latitude: 25.789
+    formatted: Miami, FL, USA
+    longitude: -80.226
+    original: Miami, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Nemours Children's Hospital
+    address:
+      city: Orlando
+      state: Florida
+      zip: '32827'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Richard Finkel, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Debbie Berry
+    middle_name: 
+    phone_ext: 
+    phone: 407-650-7523
+    degrees: 
+    email: Debbie.Berry@nemours.org
+  geodata:
+    latitude: 28.538
+    formatted: Orlando, FL, USA
+    longitude: -81.379
+    original: Orlando, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Emory University
+    address:
+      city: Atlanta
+      state: Georgia
+      zip: '30324'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Han C Phan, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Saadia Khizer
+    middle_name: 
+    phone_ext: 
+    phone: 404-785-9893
+    degrees: 
+    email: Saadia.Khizer@choa.org
+  geodata:
+    latitude: 33.749
+    formatted: Atlanta, GA, USA
+    longitude: -84.388
+    original: Atlanta, Georgia
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Ann and Robert H. Lurie Children's Hospital of Chicago
+    address:
+      city: Chicago
+      state: Illinois
+      zip: '60611'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Nancy Kuntz, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Braeden Dolan
+    middle_name: 
+    phone_ext: 
+    phone: 312-227-4449
+    degrees: 
+    email: brdolan@luriechildrens.org
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Iowa Children's Hospital
+    address:
+      city: Iowa City
+      state: Iowa
+      zip: '52242'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Katherine Mathews, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Julia Collison
+    middle_name: 
+    phone_ext: 
+    phone: 319-384-9619
+    degrees: 
+    email: Julia-collison@uiowa.edu
+  geodata:
+    latitude: 41.661
+    formatted: Iowa City, IA, USA
+    longitude: -91.53
+    original: Iowa City, Iowa
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Kansas Medical Center
+    address:
+      city: Kansas City
+      state: Kansas
+      zip: '66160'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Richard Barohn, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Gabrielle Rico
+    middle_name: 
+    phone_ext: 
+    phone: 913-588-5703
+    degrees: 
+    email: grico@kumc.edu
+  geodata:
+    latitude: 39.114
+    formatted: Kansas City, KS, USA
+    longitude: -94.627
+    original: Kansas City, Kansas
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Kennedy Krieger Institute
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: '21205'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Kathryn Wagner, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Mary Yep
+    middle_name: 
+    phone_ext: 
+    phone: 443-923-7318
+    degrees: 
+    email: Yep@kennedykrieger.org
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: 'Boston site location #2'
+      state: Massachusetts
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.4072107
+    original: 'Boston site location #2, Massachusetts'
+    longitude: -71.3824374
+    formatted: Massachusetts, USA
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital Boston
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: '02115'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Basil Darras, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Tim Harrington
+    middle_name: 
+    phone_ext: 
+    phone: 857-218-4677
+    degrees: 
+    email: Timothy.Harrington@childrens.harvard.edu
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Detroit
+      state: Michigan
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.331
+    formatted: Detroit, MI, USA
+    longitude: -83.046
+    original: Detroit, Michigan
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Minnesota
+    address:
+      city: Minneapolis
+      state: Minnesota
+      zip: '55455'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Peter Karachunski, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Joline Dalton
+    middle_name: 
+    phone_ext: 
+    phone: 612-625-7967
+    degrees: 
+    email: jcdalton@umn.edu
+  geodata:
+    latitude: 44.98
+    formatted: Minneapolis, MN, USA
+    longitude: -93.264
+    original: Minneapolis, Minnesota
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: St. Louis Children's Hospital
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Anne M Connolly, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Krystal Reese
+    middle_name: 
+    phone_ext: 
+    phone: 314-362-1146
+    degrees: 
+    email: reesek@neuro.wustl.edu
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Dartmouth-Hitchcock Medical Center
+    address:
+      city: Lebanon
+      state: New Hampshire
+      zip: '03756'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Linda A Specht, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Julie Bursey
+    middle_name: 
+    phone_ext: 
+    phone: 603-653-9948
+    degrees: 
+    email: Julie.A.Bursey@hitchcock.org
+  geodata:
+    latitude: 43.642
+    formatted: Lebanon, NH, USA
+    longitude: -72.252
+    original: Lebanon, New Hampshire
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Columbia University Medical Center
+    address:
+      city: New York City
+      state: New York
+      zip: '10032'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Jahannaz Dastgir, DO
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jonathan Marra
+    middle_name: 
+    phone_ext: 
+    phone: 212-305-2461
+    degrees: 
+    email: jdm2132@cumc.columbia.edu
+  geodata:
+    latitude: 40.714
+    formatted: New York, NY, USA
+    longitude: -74.006
+    original: New York City, New York
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Rochester Clinical Research Center
+    address:
+      city: Rochester
+      state: New York
+      zip: '14642'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Emma Ciafaloni, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Patricia Smith
+    middle_name: 
+    phone_ext: 
+    phone: 585-275-4339
+    degrees: 
+    email: Patty_Smith@URMC.Rochester.edu
+  geodata:
+    latitude: 43.161
+    formatted: Rochester, NY, USA
+    longitude: -77.611
+    original: Rochester, New York
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Levine Childrens Hospital, Carolinas Medical Center
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: '28207'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Amy Harper, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jenifer Lavigne
+    middle_name: 
+    phone_ext: 
+    phone: 704-446-3491
+    degrees: 
+    email: Jenifer.Lavigne@carolinashealthcare.org
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center (CCHMC)
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Brenda Wong, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kaila Schollaert-Fitch
+    middle_name: 
+    phone_ext: 
+    phone: 513-636-8967
+    degrees: 
+    email: Kaila.Schollaert-Fitch@cchmc.org
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Jerry R Mendell, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kandice Roush, RN
+    middle_name: 
+    phone_ext: 
+    phone: 614-722-2558
+    degrees: 
+    email: Kandice.Roush@nationwidechildrens.org
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Shriners Hospital for Children
+    address:
+      city: Portland
+      state: Oregon
+      zip: '97239'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Erika Finanger, MD MS
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Maria Grompe
+    middle_name: 
+    phone_ext: 
+    phone: 971-544-3377
+    degrees: 
+    email: MTG@shcc.org
+  geodata:
+    latitude: 45.523
+    formatted: Portland, OR, USA
+    longitude: -122.676
+    original: Portland, Oregon
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Penn State Hershey Medical Center
+    address:
+      city: Hershey
+      state: Pennsylvania
+      zip: '17033'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Matthew Wicklund, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Heidi Runk
+    middle_name: 
+    phone_ext: '287177'
+    phone: 717-531-0003
+    degrees: 
+    email: hrunk@hmc.psu.edu
+  geodata:
+    latitude: 40.286
+    formatted: Hershey, PA, USA
+    longitude: -76.65
+    original: Hershey, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Philadelphia
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Gihan Tennekoon, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Meghan Wakefield
+    middle_name: 
+    phone_ext: 
+    phone: 267-425-0191
+    degrees: 
+    email: wakefieldm@email.chop.edu
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Pittsburgh of UPMC
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: '15224'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Hoda Z Abdel-Hamid, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jennifer M Monahan
+    middle_name: 
+    phone_ext: 
+    phone: 412-692-5176
+    degrees: 
+    email: jennifer.monahan@chp.edu
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Tennessee Health Science Center/MDA Clinic
+    address:
+      city: Memphis
+      state: Tennessee
+      zip: '38104'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Tulio Bertorini, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Robert Henegar
+    middle_name: 
+    phone_ext: 
+    phone: 901-725-8920
+    degrees: 
+    email: rhenegar@wesleyneurology.com
+  geodata:
+    latitude: 35.15
+    formatted: Memphis, TN, USA
+    longitude: -90.049
+    original: Memphis, Tennessee
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Vanderbilt University Medical Center
+    address:
+      city: Nashville
+      state: Tennessee
+      zip: '37232'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: William Burnette, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Diana Davis
+    middle_name: 
+    phone_ext: 
+    phone: 615-322-8957
+    degrees: 
+    email: diana.davis@vanderbilt.edu
+  geodata:
+    latitude: 36.166
+    formatted: Nashville, TN, USA
+    longitude: -86.784
+    original: Nashville, Tennessee
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: The University of Texas Southwestern Medical Center
+    address:
+      city: Dallas
+      state: Texas
+      zip: '75390'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Susan T Iannaccone, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Holly Lawrence
+    middle_name: 
+    phone_ext: 
+    phone: 214-648-9312
+    degrees: 
+    email: holly.lawrence@utsouthwestern.edu
+  geodata:
+    latitude: 32.803
+    formatted: Dallas, TX, USA
+    longitude: -96.77
+    original: Dallas, Texas
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Texas Children's Hospital
+    address:
+      city: Houston
+      state: Texas
+      zip: '77030'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Tim Lotze, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Mariam Pontifes
+    middle_name: 
+    phone_ext: 
+    phone: 832-822-1268
+    degrees: 
+    email: mepontif@texaschildrens.org
+  geodata:
+    latitude: 29.76
+    formatted: Houston, TX, USA
+    longitude: -95.369
+    original: Houston, Texas
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Utah
+    address:
+      city: Salt Lake City
+      state: Utah
+      zip: '84132'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Russell Butterfield, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Carenina Trujillo
+    middle_name: 
+    phone_ext: 
+    phone: 801-585-0892
+    degrees: 
+    email: caren.trujillo@hsc.utah.edu
+  geodata:
+    latitude: 40.761
+    formatted: Salt Lake City, UT, USA
+    longitude: -111.891
+    original: Salt Lake City, Utah
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Vermont College of Medicine
+    address:
+      city: Burlington
+      state: Vermont
+      zip: '05405'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Michael Hehir, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Shannon Lucy
+    middle_name: 
+    phone_ext: 
+    phone: 802-656-4582
+    degrees: 
+    email: Shannon.lucy@med.uvm.edu
+  geodata:
+    latitude: 44.476
+    formatted: Burlington, VT, USA
+    longitude: -73.212
+    original: Burlington, Vermont
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Seattle Children's Hospital
+    address:
+      city: Seattle
+      state: Washington
+      zip: '98105'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Susan Apkon, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Ana Christensen
+    middle_name: 
+    phone_ext: 
+    phone: 206-884-2756
+    degrees: 
+    email: ana.christensen@seattlechildrens.org
+  geodata:
+    latitude: 47.606
+    formatted: Seattle, WA, USA
+    longitude: -122.332
+    original: Seattle, Washington
+official_title: An Open-Label, Multi-Center, 48-Week Study With a Concurrent Untreated
+  Control Arm to Evaluate the Efficacy and Safety of Eteplirsen in Duchenne Muscular
+  Dystrophy
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02255552
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Kara Boniface
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: trialinfo@sarepta.com
+brief_title: Confirmatory Study of Eteplirsen in DMD Patients
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The main objective of this study is to provide confirmatory evidence of efficacy of
+          eteplirsen (AVI-4658) in Duchenne muscular dystrophy (DMD) patients that are amenable to
+          skipping exon 51. Additional objectives include evaluation of safety, biomarkers and the
+          long-term effects of eteplirsen up to 96 weeks.
+
+          Sites are currently being initiated into the study. Initiation of approximately 39 planned
+          sites in the United States is expected to be completed by November 2015. The initiated sites
+          can be found in the "Contacts and Locations" section of this posting in addition to a
+          listing of the city and states of sites the investigators are working to initiate. This
+          information will be updated on a rolling basis as additional sites are initiated.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '160'
+lastchanged_date: October 5, 2015

@@ -1,0 +1,369 @@
+---
+firstreceived_date: March 20, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2016
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    A phase IIb, open-label, multiple-dose study. The study consists of two phases; a dose
+          escalation phase (with subsequent dose-titration) and a 48-week treatment phase.
+link:
+- url: http://www.biomarin.com
+  description: BioMarin website
+has_expanded_access: 'No'
+id: NCT01826474
+intervention:
+- intervention_name: PRO045, 0.15 mg/kg/week
+  other_name: []
+  description: Subcutaneous injection
+  arm_group_label:
+  - PRO045, cohort 1
+  intervention_type: Drug
+- intervention_name: PRO045, 1.0 mg/kg/week
+  other_name: []
+  description: Subcutaneous injection
+  arm_group_label:
+  - PRO045, cohort 2
+  intervention_type: Drug
+- intervention_name: PRO045, 3.0 mg/kg/week
+  other_name: []
+  description: Subcutaneous injection
+  arm_group_label:
+  - PRO045, cohort 3
+  intervention_type: Drug
+- intervention_name: PRO045, 6.0 mg/kg/week
+  other_name: []
+  description: Subcutaneous injection
+  arm_group_label:
+  - PRO045, cohort 4
+  intervention_type: Drug
+- intervention_name: PRO045, 9.0 mg/kg/week
+  other_name: []
+  description: Subcutaneous injection
+  arm_group_label:
+  - PRO045, cohort 5
+  intervention_type: Drug
+- intervention_name: PRO045, selected dose
+  other_name: []
+  description: Subcutaneous injection
+  arm_group_label:
+  - PRO045, cohort 6
+  intervention_type: Drug
+source: BioMarin Nederland BV
+eligibility:
+  gender: Male
+  maximum_age: 18 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                1. Duchenne muscular dystrophy resulting from a mutation correctable by treatment with
+                   PRO045 confirmed by a state-of-the-art DNA diagnostic technique covering all DMD gene
+                   exons, including but not limited to MLPA (Multiplex Ligation-dependent Probe
+                   Amplification), CGH (Comparative Genomic Hybridisation), SCAIP (Single Condition
+                   Amplification/Internal Primer) or HRMCA (High-Resolution Melting Curve Analysis), and
+                   correctable by PRO045-induced DMD exon 45 skipping in cultured skin-derived
+                   myo-converted fibroblasts.
+
+                2. Ambulant boys aged at least 5 years on the day of first dosing able to walk for at
+                   least 230 meters in the 6 minute walking distance (6MWD) test at first screening
+                   visit and also at the baseline visit. In addition, 2 of the 3 pre-treatment 6MWD
+                   tests (screen 1, screen 2, baseline) must be within +/-30 metres of each other prior
+                   to first PRO045 administration.
+
+                3. Adequate quality for biopsy (confirmed with MRI) of the lateral head of the
+                   gastrocnemius muscle. An alternative muscle may be considered for biopsy but only
+                   following discussion between the Principal Investigator and the Prosensa Medical
+                   Monitor.
+
+                4. Life expectancy of at least 3 years after inclusion in the study.
+
+                5. Glucocorticosteroid use which is stable for at least 3 months prior to first PRO045
+                   administration. Subjects must have been receiving glucocorticosteroids for at least 6
+                   months prior to the first PRO045 administration.
+
+                6. Willing and able to adhere to the study visit schedule and other protocol
+                   requirements.
+
+                7. Written informed consent signed (by parent(s)/legal guardian and/or the subject,
+                   according to the local regulations).
+
+                8. In France, a subject will be eligible for inclusion in this study only if either
+                   affiliated to, or a beneficiary of, a social security category.
+
+              Exclusion Criteria:
+
+                1. Known presence of dystrophin in ≥5% of fibres in a pre-study diagnostic muscle biopsy
+                   (i.e. historic muscle biopsy taken prior to written informed consent for this study).
+
+                2. Current or history of liver disease or impairment.
+
+                3. Current or history of renal disease or impairment.
+
+                4. At least two aPTT above ULN within the last month.
+
+                5. Screening platelet count below the lower limit of normal (LLN).
+
+                6. Acute illness within 4 weeks prior to first dose of PRO045 which may interfere with
+                   the study assessments.
+
+                7. Severe mental retardation or behavioural problems which in the opinion of the
+                   investigator prohibits participation in this study.
+
+                8. Severe cardiomyopathy which in the opinion of the investigator prohibits
+                   participation in this study. If a subject has a left ventricular ejection fraction
+                   <45% at screening, the investigator should discuss inclusion of the subject with the
+                   Medical Monitor.
+
+                9. Expected need for daytime mechanical ventilation within the next year.
+
+               10. Use of anticoagulants, antithrombotics or antiplatelet agents.
+
+               11. Use of idebenone or other forms of coenzyme Q10 within 1 month prior to the start of
+                   the screening for the study.
+
+               12. Use of nutritional or herbal supplements which, in the opinion of the investigator,
+                   may influence muscle performance, within 1 month of the study.
+
+               13. Use of any other investigational product or participation in another trial with an
+                   investigational product, within 6 months prior to the start of the screening for the
+                   study.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: July 2016
+last_injected: '2015-07-13T18:08:44.528Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '6'
+start_date: January 2013
+why_stopped: 
+id_info:
+  org_study_id: PRO045-CLIN-01
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01826474
+acronym: 
+arm_group:
+- description: 0.15 mg/kg until dose-titration
+  arm_group_label: PRO045, cohort 1
+  arm_group_type: Experimental
+- description: 1.0 mg/kg until dose-titration
+  arm_group_label: PRO045, cohort 2
+  arm_group_type: Experimental
+- description: 3.0 mg/kg until dose-titration
+  arm_group_label: PRO045, cohort 3
+  arm_group_type: Experimental
+- description: 6.0 mg/kg until dose-titration
+  arm_group_label: PRO045, cohort 4
+  arm_group_type: Experimental
+- description: 9.0 mg/kg until move to 48 week treatment phase
+  arm_group_label: PRO045, cohort 5
+  arm_group_type: Experimental
+- description: 48 week treatment phase
+  arm_group_label: PRO045, cohort 6
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: BioMarin Nederland BV
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: after 48 weeks of treatment phase
+  description: 
+  measure: Muscle function
+- safety_issue: 'No'
+  time_frame: after 48 weeks treatment phase
+  description: 
+  measure: Muscle strength
+- safety_issue: 'No'
+  time_frame: after 48 weeks of treatment phase
+  description: 
+  measure: Performance of upper limb
+- safety_issue: 'No'
+  time_frame: after 48 weeks of treatment
+  description: 
+  measure: Functional outcomes questionnaire
+- safety_issue: 'Yes'
+  time_frame: after 48 weeks of treatment phase
+  description: 
+  measure: Safety
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: after 48 weeks of treatment phase
+  description: 
+  measure: Change from baseline in 6 minute walk test
+overall_official:
+- first_name: 
+  last_name: Giles Campion, MD PhD
+  middle_name: 
+  affiliation: BioMarin Nederland B.V
+  degrees: 
+  role: Study Chair
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - Belgium
+  - France
+  - Italy
+  - Netherlands
+  - United Kingdom
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy
+  Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary
+  Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- DMD
+- Prosensa
+- Duchenne
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'Belgium: Federal Agency for Medicinal Products and Health Products'
+  - 'United Kingdom: Medicines and Healthcare Products Regulatory Agency'
+  - 'France: Agence Nationale de Sécurité du Médicament et des produits de santé'
+  - 'Netherlands: The Central Committee on Research Involving Human Subjects (CCMO)'
+  - 'Italy: National Institute of Health'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: UZ Leuven
+    address:
+      city: Leuven
+      state: 
+      zip: 
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.878
+    formatted: Leuven, Belgium
+    longitude: 4.704
+    original: Leuven, Belgium
+- status: 
+  contact_backup: {}
+  facility:
+    name: Institut de Myologie
+    address:
+      city: Paris
+      state: 
+      zip: 
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris, France
+- status: 
+  contact_backup: {}
+  facility:
+    name: Policlinico Universitario Agostino Gemelli
+    address:
+      city: Roma
+      state: 
+      zip: 
+      country: Italy
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.891
+    formatted: Rome, Italy
+    longitude: 12.494
+    original: Roma, Italy
+- status: 
+  contact_backup: {}
+  facility:
+    name: Leids Universitair Medisch Centrum
+    address:
+      city: Leiden
+      state: 
+      zip: 
+      country: Netherlands
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 52.16
+    formatted: Leiden, The Netherlands
+    longitude: 4.494
+    original: Leiden, Netherlands
+- status: 
+  contact_backup: {}
+  facility:
+    name: Great Ormond Street Hospital for Children
+    address:
+      city: London
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 51.508
+    formatted: London, UK
+    longitude: -0.128
+    original: London, United Kingdom
+- status: 
+  contact_backup: {}
+  facility:
+    name: Institute of Genetic Medicine International Centre for Life
+    address:
+      city: Newcastle
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle, United Kingdom
+official_title: A Phase IIb, Open-label Study to Assess the Efficacy, Safety, Pharmacodynamics
+  and Pharmacokinetics of Multiple Subcutaneous Doses of PRO045 in Subjects With Duchenne
+  Muscular Dystrophy
+verification_date: June 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01826474
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Phase IIb Study of PRO045 in Subjects With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of the study is to see whether PRO045 is safe and effective to use as medication
+          for Duchenne Muscular Dystrophy (DMD) patients with a mutation around location 45 in the DNA
+          for the dystrophin protein.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '45'
+lastchanged_date: June 3, 2015

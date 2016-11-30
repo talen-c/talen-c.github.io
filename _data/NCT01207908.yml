@@ -1,0 +1,227 @@
+---
+firstreceived_date: September 22, 2010
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2013
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    Detailed Description:
+
+          DMD is a progressive degenerative muscle disorder for which there is no current cure.
+          Glucocorticoids (GC) are often used to improve motor function and survival but have
+          significant side effects such as growth failure, weight gain, insulin resistance and
+          osteoporosis. IGF-1 stimulates both the proliferation and differentiation of skeletal muscle
+          cells and is thus important for muscle repair and regeneration. IGF-1 offers potential as a
+          therapeutic agent for DMD as it may improve or preserve motor function and reduce GC side
+          effects such as growth failure and insulin resistance.
+link:
+- url: http://ghr.nlm.nih.gov/
+  description: Genetics Home Reference
+- url: http://ghr.nlm.nih.gov/condition/duchenne-and-becker-muscular-dystrophy
+  description: Duchenne and Becker Muscular Dystrophy
+- url: http://www.nlm.nih.gov/medlineplus/musculardystrophy.html
+  description: Muscular Dystrophy
+- url: http://www.nlm.nih.gov/medlineplus/
+  description: Medline
+has_expanded_access: 'No'
+id: NCT01207908
+intervention:
+- intervention_name: IGF-1
+  other_name:
+  - Increlex (mecasermin [rDNA origin] injection)
+  description: IGF-1 will be administered once daily by subcutaneous injection every
+    morning with breakfast. Duration 6 months.
+  arm_group_label:
+  - IGF-1
+  intervention_type: Drug
+- intervention_name: Standard steroid treatment
+  other_name: []
+  description: Will complete all study related procedures and evaluations
+  arm_group_label:
+  - Standard steroid treatment alone
+  intervention_type: Other
+source: Children's Hospital Medical Center, Cincinnati
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  DMD diagnosed with mutational testing and/or complete absence of dystrophin on muscle
+                   biopsy
+
+                -  Proximal pelvic girdle weakness (Gower's maneuver, difficulty with arising from floor
+                   and going up steps)
+
+                -  Male
+
+                -  Age > 5 years of age
+
+                -  Bone maturation (assess by bone age x-ray): </= 11 years of age
+
+                -  Daily GC (prednisone or deflazacort) therapy for > 12 months
+
+                -  Ambulatory
+
+                -  Informed consent
+
+                -  Willingness and ability to comply with all protocol requirements and procedures
+
+              Exclusion Criteria:
+
+                -  Current or prior treatment with growth hormone or IGF-1 therapy
+
+                -  Non-ambulatory
+
+                -  Pubertal (based on clinical Tanner staging examination)
+
+                -  Congestive cardiac failure
+
+                -  History of intracranial hypertension
+
+                -  Daytime ventilatory dependence (non-invasive or tracheostomy)
+
+                -  Concomitant therapy - any other medications/supplements that would be considered, in
+                   the opinion of the investigators, to affect muscle function, need to have been
+                   started 3 months prior to enrollment
+
+                -  Patients enrolled in other clinical drug trials
+
+                -  Any physical or mental conditions which may, in the investigators'opinions, render
+                   the subject unable to complete the tasks of the study appropriately
+
+                -  There will be no selection by ethnicity
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: October 2012
+last_injected: '2015-07-13T21:21:07.250Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: November 2010
+why_stopped: 
+id_info:
+  org_study_id: 2010-1491
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01207908
+acronym: 
+arm_group:
+- description: IGF-1 plus standard steroid treatment
+  arm_group_label: IGF-1
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: Standard steroid treatment alone
+  arm_group_type: No Intervention
+sponsors:
+  collaborator:
+  - agency: Tercica- Subsidiary of Ipsen
+    agency_class: Other
+  - agency: Charley's Fund
+    agency_class: Other
+  lead_sponsor:
+    agency: Children's Hospital Medical Center, Cincinnati
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 6 months
+  description: 
+  measure: Growth Rate
+- safety_issue: 'No'
+  time_frame: 6 months
+  description: Assessed by North Star Ambulatory Assessment, timed functional tests
+  measure: Difference in motor function
+- safety_issue: 'Yes'
+  time_frame: 6 months
+  description: Measuring pulmonary function, cardiac function, and safety labs.
+  measure: Safety parameters
+study_type: Interventional
+biospec_retention: 
+overall_status: Active, not recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 6 months
+  description: IGF-1 treatment motor function assessment by the difference in the
+    distance traveled using the 6MWT.
+  measure: Six Minute Walk Test (6MWT)
+overall_official:
+- first_name: 
+  last_name: Meilan Rutter, MD
+  middle_name: 
+  affiliation: Children's Hospital Medical Center, Cincinnati
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Single Blind (Outcomes Assessor),
+  Primary Purpose: Treatment'
+keyword:
+- DMD
+- Duchenne Muscular Dystrophy
+- Insulin like growth factor
+- 6 minute walk test
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Cincinnati Children's Hospital Medical Center
+    address:
+      city: Cincinnati
+      state: Ohio
+      zip: '45229'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.103
+    formatted: Cincinnati, OH, USA
+    longitude: -84.512
+    original: Cincinnati, Ohio
+official_title: IGF-1 Therapy and Muscle Function in Duchenne Muscular Dystrophy
+verification_date: June 2012
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01207908
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Safety and Efficacy Study of IGF-1 in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is to determine whether IGF-1 therapy improves or preserves muscle
+          function in Duchenne Muscular Dystrophy (DMD).
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '40'
+lastchanged_date: June 12, 2012

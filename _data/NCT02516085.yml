@@ -1,0 +1,150 @@
+---
+firstreceived_date: August 3, 2015
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: October 2012
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    This is an investigator-initiated, open-label, single-center, proof-of-concept-study. The
+          study medication consists of L-arginine and metformin. The duration of the study is 16 weeks
+          and comprehends one screening and four study visits.
+link: []
+has_expanded_access: 'No'
+id: NCT02516085
+intervention:
+- intervention_name: Metformin
+  other_name: []
+  description: 
+  arm_group_label:
+  - L-arginine and metformin
+  intervention_type: Drug
+- intervention_name: L-Arginine
+  other_name: []
+  description: 
+  arm_group_label:
+  - L-arginine and metformin
+  intervention_type: Drug
+source: University Hospital, Basel, Switzerland
+eligibility:
+  gender: Both
+  maximum_age: 10 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Molecular diagnosis of DMD
+
+                -  Patients 7 - 10 years of age at time of screening
+
+                -  Ambulant
+
+              Exclusion Criteria:
+
+                -  Previous (3 months or less) or concomitant participation in another therapeutic trial
+
+                -  Use of L-arginine, L-citrulline or metformin within the last 3 months
+
+                -  Known individual hypersensitivity to L-citrulline or metformin
+
+                -  Other chronic disease or clinical relevant limitation of renal, liver, heart function
+                   according to discretion of the investigator
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: October 2012
+last_injected: '2015-08-07T22:35:30.143Z'
+intervention_browse:
+  mesh_term:
+  - Metformin
+target_duration: 
+number_of_arms: '1'
+start_date: January 2012
+why_stopped: 
+id_info:
+  org_study_id: DMD01
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02516085
+acronym: 
+arm_group:
+- description: 7.5 g L-arginine p.o. and 500 mg metformin p.o. per day (3x 2.5 g,
+    respectively 3x 250 mg) for 16 weeks
+  arm_group_label: L-arginine and metformin
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: University Hospital, Basel, Switzerland
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: baseline to week 16
+  description: indirect calorimetry, Dual-Energy X-Ray Absorptiometry, quantitative
+    thigh muscle MRI, clinical score of muscle performance
+  measure: In vivo change of muscle metabolism
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: baseline to week 16
+  description: mitochondrial protein expression analysis in muscular biopsies
+  measure: Mean change of muscle metabolism
+overall_official:
+- first_name: 
+  last_name: Dirk Fischer, MD
+  middle_name: 
+  affiliation: University of Basel, Children's Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1
+location_countries: {}
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Endpoint Classification: Safety/Efficacy Study, Intervention Model:
+  Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'Switzerland: Swissmedic'
+number_of_groups: 
+location: []
+official_title: 
+verification_date: August 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02516085
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Improved Muscle Function in Duchenne Muscular Dystrophy Through L-Arginine
+  and Metformin
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of the study is to show that the intake of L-arginine and metformin improves
+          muscle function and delays disease progression in patients with Duchenne's muscular
+          dystrophy.
+enrollment:
+  attributes:
+    type: Actual
+  value: '5'
+lastchanged_date: August 5, 2015

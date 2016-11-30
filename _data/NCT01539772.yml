@@ -1,0 +1,707 @@
+---
+firstreceived_date: February 22, 2012
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Andrea Smith, MS, CGC
+  middle_name: 
+  phone_ext: 
+  phone: 412-383-7207
+  degrees: 
+  email: smithal7@upmc.edu
+completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    We will utilize the Cooperative International Neuromuscular Research group (CINRG) network
+          to collect cohorts of Becker muscular dystrophy (BMD) patients with in-frame deletions in
+          the dystrophin gene. We will collect clinical data across multiple body systems and
+          correlate these findings to the high-resolution deletion break-point mapping performed from
+          the tissue samples. We will investigate the observed variability to deepen our understanding
+          of molecular mechanisms relevant to the optimization of exon skipping therapeutic
+          approaches.
+link: []
+has_expanded_access: 'No'
+id: NCT01539772
+intervention: []
+source: Cooperative International Neuromuscular Research Group
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: Non-Probability Sample
+  minimum_age: 4 Years
+  study_pop:
+    textblock: BMD participants over 4 years of age with in-frame deletions in the
+      dystrophin gene.
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Male
+
+                -  Age 4 or older
+
+                -  Diagnosis of BMD with an in-frame deletion in the dystrophin gene, where the
+                   boundaries of the mutations are confirmed.
+
+              Exclusion Criteria:
+
+              • Investigator assessment of inability to comply with protocol
+  healthy_volunteers: 'No'
+removed_countries:
+  country:
+  - Argentina
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2017
+last_injected: '2015-10-01T23:48:19.692Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: April 2012
+why_stopped: 
+id_info:
+  org_study_id: PITT0112
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01539772
+acronym: 
+arm_group:
+- description: BMD participants over 4 years of age with in-frame deletions in the
+    dystrophin gene.
+  arm_group_label: Becker
+  arm_group_type: 
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Cooperative International Neuromuscular Research Group
+    agency_class: Other
+secondary_outcome: []
+study_type: Observational
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Annual
+  description: 
+  measure: Strength and function
+- safety_issue: 'No'
+  time_frame: Annual
+  description: |-
+    These questionnaires include:
+    Pediatric Quality of Life Inventory (PedsQL)
+    Pediatrics and Adult Neuromuscular module Quality of Life (NeuroQOL)
+  measure: Quality of life
+- safety_issue: 'No'
+  time_frame: Annual
+  description: 
+  measure: Medical history assessment - ambulation status, medication history, hospitalizations,
+    surgeries, nutrition, fractures, and cardiac tests
+overall_official:
+- first_name: 
+  last_name: Paula R Clemens, MD
+  middle_name: 
+  affiliation: University of Pittsburgh
+  degrees: 
+  role: Study Chair
+phase: N/A
+location_countries:
+  country:
+  - Canada
+  - Israel
+  - Italy
+  - United Kingdom
+  - United States
+condition:
+- Becker Muscular Dystrophy
+clinical_results: {}
+study_design: 'Observational Model: Cohort, Time Perspective: Prospective'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+number_of_groups: '1'
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of California Davis
+    address:
+      city: Sacramento
+      state: California
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Craig McDonald, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Candace Aguilar
+    middle_name: 
+    phone_ext: 
+    phone: 916-734-8898
+    degrees: 
+    email: pmr.research@ucdmc.ucdavis.edu
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's National Health System
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Mathula Thangarajh, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Allyn Toles
+    middle_name: 
+    phone_ext: 
+    phone: 202-476-4802
+    degrees: 
+    email: AToles2@childrensnational.org
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Florida
+    address:
+      city: Gainesville
+      state: Florida
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Barry J Byrne, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kaitlyn Faris
+    middle_name: 
+    phone_ext: 
+    phone: 352-273-7573
+    degrees: 
+    email: kfaris10@ufl.edu
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Kristin Harbaugh
+    middle_name: 
+    phone_ext: 
+    phone: 404-785-7504
+    degrees: 
+    email: Kristin.Harbaugh@choa.org
+  facility:
+    name: Children's Healthcare of Atlanta
+    address:
+      city: Atlanta
+      state: Georgia
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Han Phan, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Saadia Khizer
+    middle_name: 
+    phone_ext: 
+    phone: 404-785-9893
+    degrees: 
+    email: saadia.khizer@choa.org
+  geodata:
+    latitude: 33.749
+    formatted: Atlanta, GA, USA
+    longitude: -84.388
+    original: Atlanta, Georgia
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Ann & Robert H. Lurie Children's Hospital of Chicago
+    address:
+      city: Chicago
+      state: Illinois
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Nancy Kuntz, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Lauren Webb
+    middle_name: 
+    phone_ext: 
+    phone: 312-227-4483
+    degrees: 
+    email: lwebb@luriechildrens.org
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Minnesota
+    address:
+      city: Minneapolis
+      state: Minnesota
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Peter Karachunski, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Joline Dalton
+    middle_name: 
+    phone_ext: 
+    phone: 612-625-7967
+    degrees: 
+    email: jcdalton@umn.edu
+  geodata:
+    latitude: 44.98
+    formatted: Minneapolis, MN, USA
+    longitude: -93.264
+    original: Minneapolis, Minnesota
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Alyssa Sonsoucie
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: sonsouciea@neuro.wustl.edu
+  facility:
+    name: Washington University
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Anne Connolly, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Rebecca Gadeken
+    middle_name: 
+    phone_ext: 
+    phone: 314-362-1624
+    degrees: 
+    email: gadekenr@neuro.wustl.edu
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Carolinas Medical Center
+    address:
+      city: Charlotte
+      state: North Carolina
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Amy Harper, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jackie Sykes
+    middle_name: 
+    phone_ext: 
+    phone: 704-333-3967
+    degrees: 
+    email: Jacqueline.Sykes@carolinashealthcare.org
+  geodata:
+    latitude: 35.227
+    formatted: Charlotte, NC, USA
+    longitude: -80.843
+    original: Charlotte, North Carolina
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Duke Children's Hospital and Health Center
+    address:
+      city: Durham
+      state: North Carolina
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Edward Smith, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Priya Kishnani, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Karen Cornett
+    middle_name: 
+    phone_ext: 
+    phone: 919-684-1143
+    degrees: 
+    email: k.cornett@duke.edu
+  geodata:
+    latitude: 35.994
+    formatted: Durham, NC, USA
+    longitude: -78.899
+    original: Durham, North Carolina
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Travis Haines
+    middle_name: 
+    phone_ext: '287666'
+    phone: "(717) 531-0003"
+    degrees: 
+    email: thaines@hmc.psu.edu
+  facility:
+    name: Penn State Hershey Medical Center
+    address:
+      city: Hershey
+      state: Pennsylvania
+      zip: '17033'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Matthew Wicklund, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Heidi Runk
+    middle_name: 
+    phone_ext: 
+    phone: 717-531-0003
+    degrees: 
+    email: hrunk@hmc.psu.edu
+  geodata:
+    latitude: 40.286
+    formatted: Hershey, PA, USA
+    longitude: -76.65
+    original: Hershey, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Pittsburgh
+    address:
+      city: Pittsburgh
+      state: Pennsylvania
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Paula Clemens, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Hoda Abdel-Hamid, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Andrea Smith, MS, CGC
+    middle_name: 
+    phone_ext: 
+    phone: 412-383-7207
+    degrees: 
+    email: smithal7@upmc.edu
+  geodata:
+    latitude: 40.441
+    formatted: Pittsburgh, PA, USA
+    longitude: -79.996
+    original: Pittsburgh, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Tennessee
+    address:
+      city: Memphis
+      state: Tennessee
+      zip: 
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Tulio Bertorini, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Cindy Benzel
+    middle_name: 
+    phone_ext: 
+    phone: 901-725-8920
+    degrees: 
+    email: cbenzel@wesleyneurology.com
+  geodata:
+    latitude: 35.15
+    formatted: Memphis, TN, USA
+    longitude: -90.049
+    original: Memphis, Tennessee
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: University of Texas Southwestern Medical Center
+    address:
+      city: Dallas
+      state: Texas
+      zip: '75390'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Susan Iannacone, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Mariam Andersen, MA
+    middle_name: 
+    phone_ext: 
+    phone: 214-648-6329
+    degrees: 
+    email: Mariam.Andersen@UTSouthwestern.edu
+  geodata:
+    latitude: 32.803
+    formatted: Dallas, TX, USA
+    longitude: -96.77
+    original: Dallas, Texas
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Karla Sanchez
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: Karla.Sanchez@albertahealthservices.ca
+  facility:
+    name: Alberta Children's Hospital
+    address:
+      city: Calgary
+      state: Alberta
+      zip: 
+      country: Canada
+  investigator:
+  - first_name: 
+    last_name: Jean Mah, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Jean Mah, MD
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: jean.mah@albertahealthservices.ca
+  geodata:
+    latitude: 51.045
+    formatted: Calgary, AB, Canada
+    longitude: -114.057
+    original: Calgary, Alberta
+- status: Not yet recruiting
+  contact_backup:
+    first_name: 
+    last_name: Ofir Becker
+    middle_name: 
+    phone_ext: 
+    phone: '972546275055'
+    degrees: 
+    email: ofirbe3@clalit.org.il
+  facility:
+    name: Schneider Children's Medical Center of Israel
+    address:
+      city: Tel-Aviv
+      state: 
+      zip: 
+      country: Israel
+  investigator:
+  - first_name: 
+    last_name: Yoram Nevo, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Tamar Lev
+    middle_name: 
+    phone_ext: 
+    phone: 972-3-925-3559
+    degrees: 
+    email: TamarLe5@clalit.org.il
+  geodata:
+    latitude: 32.066
+    formatted: Tel Aviv, Israel
+    longitude: 34.778
+    original: Tel-Aviv, Israel
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Centro Clinico Nemo
+    address:
+      city: Milan
+      state: 
+      zip: 
+      country: Italy
+  investigator:
+  - first_name: 
+    last_name: Ksenija Gorni, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Ksenija Gorni
+    middle_name: 
+    phone_ext: 
+    phone: 011-39-0291433731
+    degrees: 
+    email: ksenija.gorni@centrocliniconemo.it
+  geodata:
+    latitude: 45.464
+    formatted: Milan, Italy
+    longitude: 9.188
+    original: Milan, Italy
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Institute of Genetic Medicine - Newcastle University
+    address:
+      city: Newcastle upon Tyne
+      state: 
+      zip: 
+      country: United Kingdom
+  investigator:
+  - first_name: 
+    last_name: Michela Guglieri, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Becky Davis
+    middle_name: 
+    phone_ext: 
+    phone: 01912418649
+    degrees: 
+    email: becky.davis@ncl.ac.uk
+  geodata:
+    latitude: 54.978
+    formatted: Newcastle Upon Tyne, Tyne and Wear, UK
+    longitude: -1.618
+    original: Newcastle upon Tyne, United Kingdom
+official_title: 'PITT0112: Becker Muscular Dystrophy - A Natural History Study to
+  Predict Efficacy of Exon Skipping'
+verification_date: September 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01539772
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Lauren P Morgenroth, MS, CGC
+  middle_name: 
+  phone_ext: 
+  phone: 412-224-2030
+  degrees: 
+  email: lhache@childrensnational.org
+brief_title: Becker Muscular Dystrophy - A Natural History Study to Predict Efficacy
+  of Exon Skipping
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This is a multi-center natural history study that will be conducted at participating centers
+          in the Cooperative International Neuromuscular Research Group (CINRG). Following a baseline
+          evaluation, participants will have three follow-up visits over a three-year period. The
+          investigators will characterize the Becker muscular dystrophy phenotype, and correlate
+          specific abnormal dystrophin proteins with the range of clinical outcomes.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '80'
+lastchanged_date: September 14, 2015

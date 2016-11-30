@@ -1,0 +1,235 @@
+---
+firstreceived_date: February 26, 2015
+is_fda_regulated: 'Yes'
+reference:
+- PMID: '21194036'
+  citation: 'Rodino-Klapac LR, Montgomery CL, Mendell JR, Chicoine LG. AAV-mediated
+    gene therapy to the isolated limb in rhesus macaques. Methods Mol Biol. 2011;709:287-98.
+    doi: 10.1007/978-1-61737-982-6_19.'
+- PMID: '19904237'
+  citation: 'Rodino-Klapac LR, Montgomery CL, Bremer WG, Shontz KM, Malik V, Davis
+    N, Sprinkle S, Campbell KJ, Sahenk Z, Clark KR, Walker CM, Mendell JR, Chicoine
+    LG. Persistent expression of FLAG-tagged micro dystrophin in nonhuman primates
+    following intramuscular and vascular delivery. Mol Ther. 2010 Jan;18(1):109-17.
+    doi: 10.1038/mt.2009.254. Epub 2009 Nov 10.'
+- PMID: '17892583'
+  citation: Rodino-Klapac LR, Janssen PM, Montgomery CL, Coley BD, Chicoine LG, Clark
+    KR, Mendell JR. A translational approach for limb vascular delivery of the micro-dystrophin
+    gene without high volume or high pressure for treatment of Duchenne muscular dystrophy.
+    J Transl Med. 2007 Sep 24;5:45.
+overall_contact_backup: {}
+completion_date: {}
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    The primary objective of this study is the assessment of the safety of an intramuscular
+          administration of rAAVrh74.MCK.micro-Dystrophin to the Extensor Digitorum Brevis (EDB)
+          muscle of patients with Duchenne Muscular Dystrophy (DMD). Safety will be assessed by
+          changes in hematology, serum chemistry, urinalysis, immunologic response to rAAVrh74 and
+          micro-Dystrophin protein, and reported history and observations of symptoms. Subjects will
+          be evaluated at baseline, injection visit (days 0-2), and return for follow up visits on
+          days 7, 14, 30,60, 90, and 180 and at the end of 1st and 2nd years. On Day 180, subjects
+          will undergo a muscle biopsy on the injected muscles in one foot compared with
+          placebo-treatment in the opposite foot to establish transgene expression and any potential
+          toxicity from gene transfer.
+link:
+- url: http://www.nationwidechildrens.org/center-for-gene-therapy
+  description: Center for Gene Therapy, The Research Institute at Nationwide Children's
+    Hospital
+- url: http://www.nationwidechildrens.org/wellstone-center
+  description: Senator Paul D. Wellstone Muscular Dystrophy Cooperative Research Center
+    at Nationwide Children's Hospital
+- url: http://www.nationwidechildrens.org/gene-therapy-clinical-studies--1
+  description: Gene Therapy Clinical Studies at Nationwide Children's Hospital
+has_expanded_access: 'No'
+id: NCT02376816
+intervention:
+- intervention_name: rAAVrh74.MCK.micro-Dystrophin
+  other_name: []
+  description: Recombinant adeno-associated virus carrying a truncated "micro" dystrophin
+    transgene under control of a muscle specific MCK promoter.
+  arm_group_label:
+  - 'Cohort 1: Low Dose'
+  - 'Cohort 2: High Dose'
+  intervention_type: Biological
+source: Nationwide Children's Hospital
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Age 7 or older; must be wheelchair-dependent
+
+                -  Confirmed Dystrophin mutations based on mutation compatibility with micro-dys cDNA
+                   based on previously published methods.
+
+                -  Males of any ethnic group will be eligible.
+
+                -  Ability to cooperate with muscle testing.
+
+                -  Willingness of sexually active subjects with reproductive capacity to practice
+                   reliable method of contraception (If appropriate).
+
+              Exclusion Criteria:
+
+                -  Active viral infection based on clinical observations.
+
+                -  Symptoms or signs of cardiomyopathy, including:
+
+                     -  Dyspnea on exertion, pedal edema, shortness of breath upon lying flat, or rales
+                        at the base of the lungs
+
+                     -  Echocardiogram with ejection fraction below 40%
+
+                -  Serological evidence of HIV infection, or Hepatitis A, B or C infection
+
+                -  Diagnosis of (or ongoing treatment for) an autoimmune disease
+
+                -  Concomitant illness or requirement for chronic drug treatment that in the opinion of
+                   the PI creates unnecessary risks for gene transfer.
+
+                -  Subjects with AAVrh74 binding antibody titers ≥ 1:50 as determined by ELISA
+                   immunoassay.
+
+                -  Abnormal laboratory values in the clinically significant range as defined in protocol
+                   or based upon normal values in the Nationwide Children's Hospital Laboratory.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: June 2017
+last_injected: '2015-09-26T06:49:43.950Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: March 2015
+why_stopped: 
+id_info:
+  org_study_id: 14-00718
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02376816
+acronym: 
+arm_group:
+- description: The rAAVrh74.MCK.micro-Dystrophin vector will be injected to the Extensor
+    Digitorum Brevis (EDB) muscle of a single foot at a total dose of 3E11 vg. The
+    contralateral EDB muscle will injected with normal saline placebo as a comparator.
+    Both physician and study team will be blinded as to which muscle received vector
+    vs placebo. A minimum of three (3) patients with DMD will be enrolled in this
+    cohort.
+  arm_group_label: 'Cohort 1: Low Dose'
+  arm_group_type: Experimental
+- description: The rAAVrh74.MCK.micro-Dystrophin vector will be injected to the Extensor
+    Digitorum Brevis (EDB) muscle of a single foot at a total dose of 1E12 vg. The
+    contralateral EDB muscle will injected with normal saline placebo as a comparator.
+    Both physician and study team will be blinded as to which muscle received vector
+    vs placebo. A minimum of three (3) patients with DMD will be enrolled in this
+    cohort.
+  arm_group_label: 'Cohort 2: High Dose'
+  arm_group_type: Experimental
+sponsors:
+  collaborator:
+  - agency: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+      (NICHD)
+    agency_class: NIH
+  lead_sponsor:
+    agency: Jerry R. Mendell
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 180 Days
+  description: Biologic activity of the vector will be measured by immunohistochemistry
+    detection of dystrophin on muscle biopsies as compared to placebo treated controls.
+  measure: Transgene Expression
+study_type: Interventional
+biospec_retention: 
+overall_status: Enrolling by invitation
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 2 years
+  description: AEs will be monitored and scored for severity and relatedness to the
+    study article.
+  measure: Safety based on number of participants with adverse events
+overall_official:
+- first_name: 
+  last_name: Jerry R Mendell, MD
+  middle_name: 
+  affiliation: Nationwide Children's Hospital
+  degrees: 
+  role: Principal Investigator
+phase: Phase 1
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- DMD
+- muscular dystrophy
+- dystrophin
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'United States: Data and Safety Monitoring Board'
+  - 'United States: Institutional Review Board'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Nationwide Children's Hospital
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+official_title: Phase I Gene Transfer Clinical Trial for Duchenne Muscular Dystrophy
+  Using rAAVrh74.MCK.Micro-dystrophin
+verification_date: February 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02376816
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Clinical Intramuscular Gene Transfer Trial of rAAVrh74.MCK.Micro-Dystrophin
+  to Patients With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The proposed phase I clinical trial is a pilot study to evaluate safety and biological
+          activity of the rAAVrh74.MCK.micro-Dystrophin vector administered by an intramuscular route.
+          This study will evaluated the micro-Dystrophin vector as a potential dystrophin replacement
+          mechanism for Duchenne Muscular Dystrophy. Two cohorts will undergo gene transfer in a
+          standard three-six dose escalation scheme to establish maximum tolerated dose (MTD) using
+          toxicity. A minimum of three subjects will be enrolled into each cohort. The first cohort
+          will receive a total dose of 3E11 vg. The second cohort will receive 1E12 vg total dose.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '6'
+lastchanged_date: February 26, 2015

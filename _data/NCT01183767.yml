@@ -1,0 +1,272 @@
+---
+firstreceived_date: August 17, 2010
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Arpad von Moers, Dr.
+  middle_name: 
+  phone_ext: '00'
+  phone: 030 - 3035 57
+  degrees: 
+  email: a.moers@drk-kliniken-berlin.de
+completion_date:
+  attributes:
+    type: Anticipated
+  value: September 2018
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    Duchenne muscular dystrophy (DMD) is the most frequent neuromuscular condition to occur in
+          childhood and youth. The course of the disease is progressive, and life expectancy is
+          severely curtailed by the participation of the respiratory muscles and/or by progressive
+          cardiomyopathy.
+
+          DMD derives from mutations in the DMD gene which leads to a loss of the protein dystrophin.
+          Secondary inflammatory/immunological reactions contribute to the progressive course of the
+          disease (1,2).
+
+          No curative therapy yet exists. Administration of steroids is the only established medical
+          treatment. Symptomatic measures are also available, such as orthopaedic operations, the
+          treatment of cardiomyopathy or, in advanced stages, home mechanical ventilation.
+
+          In studies involving experiments on cells and animals, Epigallocatechin-Gallate (EGCG, the
+          major polyphenol in green tea) has shown a neuroprotective effect. The neuroprotective
+          mechanism of action is probably based on several factors, including EGCG's modulation of
+          several signal transduction pathways, its influence on the expression of genes regulating
+          cell survival or programmed cell death, as well as its modulation of mitochondrial function.
+
+          The mdx mouse is the best-investigated animal model of a dystrophin-negative muscular
+          dystrophy. Administration of EGCG in the mdx mouse led to both a reduction in the proportion
+          of fibre necroses as well as to a less pronounced proliferation of connective tissue in the
+          muscle (3,4), and also to an improvement in clinical symptoms (5,6).
+
+          Therefore, the investigators want to investigate safety and tolerance of EGCG in a dosage of
+          up to 10mg/kg in patients with muscular dystrophy of the Duchenne type in this multicentre,
+          prospective, double blind, placebo controlled, randomized pilot study.
+link: []
+has_expanded_access: 'No'
+id: NCT01183767
+intervention:
+- intervention_name: Epigallocatechin-Gallate
+  other_name: []
+  description: EGCG in a dosage of up to 10mg/kg body weight
+  arm_group_label:
+  - EGCG
+  intervention_type: Drug
+- intervention_name: Placebo
+  other_name: []
+  description: 
+  arm_group_label:
+  - Placebo
+  intervention_type: Drug
+source: Charite University, Berlin, Germany
+eligibility:
+  gender: Both
+  maximum_age: 10 Years
+  sampling_method: 
+  minimum_age: 5 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Duchenne muscular dystrophy
+
+                -  age 5-10 years
+
+                -  ability to walk without support
+
+                -  informed consent by the parents
+
+              Exclusion Criteria:
+
+                -  another serious organic disease
+
+                -  further primary psychiatric or neurological diseases
+
+                -  long-term intake of liver-toxic medicines
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: September 2015
+last_injected: '2015-07-13T22:21:19.826Z'
+intervention_browse:
+  mesh_term:
+  - Epigallocatechin gallate
+target_duration: 
+number_of_arms: '2'
+start_date: December 2010
+why_stopped: 
+id_info:
+  org_study_id: SUNIMUD
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01183767
+acronym: SUNIMUD
+arm_group:
+- description: Epigallocatechin-Gallate (EGCG)
+  arm_group_label: EGCG
+  arm_group_type: Active Comparator
+- description: 
+  arm_group_label: Placebo
+  arm_group_type: Placebo Comparator
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Charite University, Berlin, Germany
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 36 months
+  description: changes in the means of the 6 minute walk test (baseline to visit after
+    month 36).
+  measure: efficacy
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 12 months
+  description: safety and tolerability in terms of number of adverse events in which
+    a causal relationship with the test substance cannot be excluded, and GLDH values.
+  measure: safety and tolerability
+overall_official:
+- first_name: 
+  last_name: Friedemann Paul, Dr.
+  middle_name: 
+  affiliation: Charite University, Berlin, Germany
+  degrees: 
+  role: Study Director
+phase: Phase 2/Phase 3
+location_countries:
+  country:
+  - Germany
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- Duchenne Muscular Dystrophy
+- Epigallocatechin-Gallate
+- Green tea extract
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'Germany: Federal Institute for Drugs and Medical Devices'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Charité University Berlin
+    address:
+      city: Berlin
+      state: 
+      zip: '10405'
+      country: Germany
+  investigator:
+  - first_name: 
+    last_name: Ulrike Grieben, Dr.
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Friedemann Paul, Dr.
+    middle_name: 
+    phone_ext: '639705'
+    phone: "+49 30 450"
+    degrees: 
+    email: friedemann.paul@charite.de
+  geodata:
+    latitude: 52.524
+    formatted: Berlin, Germany
+    longitude: 13.406
+    original: Berlin, Germany
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: DRK Kliniken Berlin, Westend, Pädiatrie
+    address:
+      city: Berlin
+      state: 
+      zip: '14050'
+      country: Germany
+  investigator:
+  - first_name: 
+    last_name: Arpad von Moers, Dr.
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Arpad von Moers, Dr.
+    middle_name: 
+    phone_ext: '00'
+    phone: "+49 30 3035 57"
+    degrees: 
+    email: a.moers@drk-kliniken-berlin.de
+  geodata:
+    latitude: 52.524
+    formatted: Berlin, Germany
+    longitude: 13.406
+    original: Berlin, Germany
+- status: Active, not recruiting
+  contact_backup: {}
+  facility:
+    name: Diakonisches Werk Oldenburg SPZ
+    address:
+      city: Oldenburg
+      state: 
+      zip: 
+      country: Germany
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 53.148
+    formatted: Oldenburg, Germany
+    longitude: 8.211
+    original: Oldenburg, Germany
+official_title: Sunphenon Epigallocatechin-Gallate (EGCg) in Duchenne Muscular Dystrophy
+verification_date: May 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01183767
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Friedemann Paul, Dr.
+  middle_name: 
+  phone_ext: '639705'
+  phone: "+49 30 450"
+  degrees: 
+  email: friedemann.paul@charite.de
+brief_title: Sunphenon Epigallocatechin-Gallate (EGCg) in Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The aim of this multicentre, prospective, double blind, placebo controlled, randomized pilot
+          study is to investigate safety and tolerance of Epigallocatechin-Gallate (EGCG, the major
+          polyphenol in green tea) in patients with muscular dystrophy of the Duchenne type.
+
+          In a second step the investigators want to investigate the effect of EGCG on the course of
+          the Duchenne condition.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '40'
+lastchanged_date: May 20, 2015

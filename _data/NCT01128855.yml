@@ -1,0 +1,256 @@
+---
+firstreceived_date: May 20, 2010
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: October 2011
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT01128855
+intervention:
+- intervention_name: 3 mg/kg GSK2402968
+  other_name: []
+  description: Weekly subcutaneous injection
+  arm_group_label:
+  - Cohort 1
+  intervention_type: Drug
+- intervention_name: 6 mg/kg GSK2402968
+  other_name: []
+  description: Weekly subcutaneous injection
+  arm_group_label:
+  - Cohort 2
+  intervention_type: Drug
+- intervention_name: 9 mg/kg GSK2402968
+  other_name: []
+  description: Weekly subcutaneous injection
+  arm_group_label:
+  - Cohort 3
+  intervention_type: Drug
+- intervention_name: 12 mg/kg GSK2402968
+  other_name: []
+  description: Weekly subcutaneous injection
+  arm_group_label:
+  - Cohort 4
+  intervention_type: Drug
+- intervention_name: Placebo
+  other_name: []
+  description: Weekly Placebo
+  arm_group_label:
+  - Cohort 3
+  - Cohort 2
+  - Cohort 1
+  - Cohort 4
+  intervention_type: Other
+source: GlaxoSmithKline
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 9 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Duchenne muscular dystrophy resulting from a mutation in the DMD gene, confirmed by a
+                   sponsor approved DNA diagnostic technique covering all DMD gene exons, including but
+                   not limited to MLPA (Multiplex Ligation-dependent Probe Amplification), CGH
+                   (Comparative Genomic Hybridisation), SCAIP (Single Condition Amplification/Internal
+                   Primer) or H-RMCA (High-Resolution Melting Curve Analysis), and correctable by
+                   treatment with GSK2402968.
+
+                -  Age 9 years old or greater at Screening;
+
+                -  Male;
+
+                -  Non-ambulant (at least 1 year in a wheelchair) within the last 4 years;
+
+                -  Life expectancy at least three years;
+
+                -  Willingness and ability to comply with all protocol requirements and procedures;
+
+                -  QTc <450msec (based on single or average QTc value of triplicate ECGs obtained over a
+                   brief recording period). Note: QTc may be either QTcB or QTcF, machine read or manual
+                   overread;
+
+                -  Subjects must be willing to use adequate contraception (condoms or abstinence), from
+                   Screening until at least 5 months after the last dose of study drug;
+
+                -  Informed assent and/or consent in writing signed by the subject and/or
+                   parent(s)/legal guardian (according to local regulations).
+
+              Exclusion Criteria:
+
+                -  Any additional mutation (such as an additional missing exon for DMD) that cannot be
+                   treated with GSK2402968;
+
+                -  Current or history of liver or renal disease;
+
+                -  Acute illness within 4 weeks of anticipated administration of study medication, which
+                   may interfere with study assessments;
+
+                -  Use of anticoagulants, antithrombotics or antiplatelet agents, previous treatment
+                   with investigational drugs, idebenone or other forms of Coenzyme Q10, within 6 months
+                   of the first administration of study medication;
+
+                -  Start of glucocorticosteroids within 6 months or non-stable use of
+                   glucocorticosteroids within 3 months of the anticipated first administration of study
+                   medication;
+
+                -  Positive hepatitis B surface antigen (HbsAg), hepatitis C antibody test (HCV), or
+                   human immunodeficiency virus (HIV) test at Screening;
+
+                -  Symptomatic cardiomyopathy;
+
+                -  Use of alcohol from Screening through to the 1 month Follow-up visit ;
+
+                -  Any Child in Care.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: October 2011
+last_injected: '2015-07-14T00:36:54.198Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '4'
+start_date: July 2010
+why_stopped: 
+id_info:
+  org_study_id: '114118'
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT01128855
+acronym: DEMAND I
+arm_group:
+- description: 3 mg/kg GSK2402968 / placebo
+  arm_group_label: Cohort 1
+  arm_group_type: Experimental
+- description: 6 mg/kg GSK2402968 / placebo
+  arm_group_label: Cohort 2
+  arm_group_type: Experimental
+- description: 9 mg/kg GSK2402968 / placebo
+  arm_group_label: Cohort 3
+  arm_group_type: Experimental
+- description: 12 mg/kg GSK2402968 / placebo
+  arm_group_label: Cohort 4
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: GlaxoSmithKline
+    agency_class: Industry
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 35 days
+  description: 
+  measure: Primary Pharmacokinetic Variables:AUC, Cmax,t-max, CL/F
+- safety_issue: 'Yes'
+  time_frame: 35 days
+  description: 
+  measure: Incidence of Adverse Events
+- safety_issue: 'Yes'
+  time_frame: 35 days
+  description: 
+  measure: Incidence of Injection Site Reactions
+overall_official:
+- first_name: 
+  last_name: GSK Clinical Trials
+  middle_name: 
+  affiliation: GlaxoSmithKline
+  degrees: 
+  role: Study Director
+phase: Phase 1
+location_countries:
+  country:
+  - United States
+  - France
+condition:
+- Muscular Dystrophies
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Pharmacokinetics Study,
+  Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator), Primary Purpose: Treatment'
+keyword:
+- Duchenne
+- Duchenne Muscular Dystrophy
+- DMD
+- '968'
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Institutional Review Board'
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: GSK Investigational Site
+    address:
+      city: Paris cedex 13
+      state: 
+      zip: '75651'
+      country: France
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 48.857
+    formatted: Paris, France
+    longitude: 2.352
+    original: Paris cedex 13, France
+official_title: A Double-blind, Escalating Dose, Randomized, Placebo-controlled Study
+  to Assess the Pharmacokinetics, Safety and Tolerability of Single Subcutaneous Injections
+  of GSK2402968 in Non-ambulant Subjects With Duchenne Muscular Dystrophy
+verification_date: July 2013
+required_header:
+  url: https://clinicaltrials.gov/show/NCT01128855
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: A Double-blind, Escalating Dose, Randomized, Placebo-controlled Study
+  Assessing PK, Safety, Tolerability in Non-ambulant DMD Subjects
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The purpose of this study is investigate the pharmacokinetics, safety and tolerability of
+          single subcutaneous administration of GSK2402968 in non-ambulant boys with Duchenne muscular
+          dystrophy
+enrollment:
+  attributes:
+    type: Actual
+  value: '20'
+lastchanged_date: July 18, 2013

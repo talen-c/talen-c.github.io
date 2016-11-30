@@ -1,0 +1,254 @@
+---
+firstreceived_date: August 10, 2015
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: April 2018
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'No'
+detailed_description:
+  textblock: |-
+    This is a randomized, placebo-controlled dose-titration study to assess safety,
+          tolerability, and pharmacokinetics of 4 dose levels of SRP-4045 in genotypically confirmed
+          advanced-stage DMD patients with deletions amenable to exon 45 skipping.
+
+          After completion of the dose-titration portion of the study and SRP-4045 is determined to be
+          safe, all patients will be evaluated on open-label SRP-4045 for the duration of the study.
+
+          Safety, including adverse event monitoring, routine laboratory assessments, and cardiac
+          testing will be monitored through the duration of the dose-titration and open-label portions
+          of the study.
+
+          Clinical efficacy will be assessed at regularly scheduled study visits via quality of life
+          questionnaires and tests of pulmonary and upper extremity function through the duration of
+          the dose-titration and open-label portions of the trial.
+link: []
+has_expanded_access: 'No'
+id: NCT02530905
+intervention:
+- intervention_name: SRP-4045
+  other_name: []
+  description: 
+  arm_group_label:
+  - SRP-4045 (double-blind dose titration)
+  - SRP-4045 (open label)
+  intervention_type: Drug
+- intervention_name: Placebo
+  other_name: []
+  description: 
+  arm_group_label:
+  - Placebo (double-blind dose titration)
+  intervention_type: Drug
+source: Sarepta Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 21 Years
+  sampling_method: 
+  minimum_age: 7 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Genotypically confirmed DMD (amenable to exon 45 skipping).
+
+                -  Stable cardiac and pulmonary function.
+
+                -  Limited or no ambulation.
+
+                -  On a stable dose of oral corticosteroids for at least 24 weeks OR has not received
+                   corticosteroids for at least 24 weeks.
+
+              Exclusion Criteria:
+
+                -  Current or previous treatment with the experimental agents SMT C1100 (BMN-195) or
+                   PRO045.
+
+                -  Other experimental treatment in the past 12 weeks.
+
+                -  If on cardiac medication, must be on a stable dose for the past 12 weeks.
+
+                -  Major surgery within the past 3 months.
+
+              Other inclusion/exclusion criteria apply.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: March 2016
+last_injected: '2015-10-19T23:47:33.572Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '3'
+start_date: October 2015
+why_stopped: 
+id_info:
+  org_study_id: 4045-101
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02530905
+acronym: 
+arm_group:
+- description: Approximately 8 genotypically confirmed DMD patients amenable to exon
+    45 skipping
+  arm_group_label: SRP-4045 (double-blind dose titration)
+  arm_group_type: Experimental
+- description: Approximately 4 genotypically confirmed DMD patients amenable to exon
+    45 skipping.
+  arm_group_label: Placebo (double-blind dose titration)
+  arm_group_type: Placebo Comparator
+- description: Approximately 12 DMD patients who completed the double-blind dose titration
+    part of the study.
+  arm_group_label: SRP-4045 (open label)
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Sarepta Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Approximately 12 Weeks (double-blind dose titration)
+  description: 
+  measure: Drug concentration in plasma
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: Approximately 12 Weeks (double-blind dose titration)
+  description: 
+  measure: Incidence of adverse events
+overall_official:
+- first_name: 
+  last_name: Genevieve Laforet, MD, PhD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Director
+- first_name: 
+  last_name: Edward Kaye, MD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Chair
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- Duchenne muscular dystrophy
+- Exon Skipping
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: David Geffen School of Medicine at UCLA
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90095'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Perry Shieh, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Michael Bonitati
+    middle_name: 
+    phone_ext: 
+    phone: 310-825-2937
+    degrees: 
+    email: mbonitati@mednet.ucla.edu
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Chicago
+      state: Illinois
+      zip: '60611'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 41.878
+    formatted: Chicago, IL, USA
+    longitude: -87.63
+    original: Chicago, Illinois
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: '21205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+official_title: A Randomized, Double-Blind, Placebo-Controlled, Dose-Titration, Safety,
+  Tolerability, and Pharmacokinetics Study Followed by an Open-Label Safety and Efficacy
+  Evaluation of SRP-4045 in Advanced-Stage Patients With Duchenne Muscular Dystrophy
+  Amenable to Exon 45 Skipping
+verification_date: October 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02530905
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Kara Boniface
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: trialinfo@sarepta.com
+brief_title: Dose-Titration and Open-label Extension Study of SRP-4045 in Advanced
+  Stage Duchenne Muscular Dystrophy (DMD) Patients
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This is a first-in-human dose-titration and open-label extension study to assess safety,
+          tolerability, and pharmacokinetics of SRP-4045 in advanced-stage Duchenne muscular dystrophy
+          (DMD) patients with deletions amenable to exon 45 skipping.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '12'
+lastchanged_date: October 15, 2015

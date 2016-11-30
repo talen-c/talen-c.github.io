@@ -1,0 +1,783 @@
+---
+firstreceived_date: April 3, 2008
+is_fda_regulated: 
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: August 2007
+responsible_party: {}
+firstreceived_results_date: June 7, 2011
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT00654784
+intervention:
+- intervention_name: idebenone
+  other_name: []
+  description: idebenone 450 mg/day (150 mg three times a day)
+  arm_group_label:
+  - '1'
+  intervention_type: Drug
+- intervention_name: placebo
+  other_name: []
+  description: 
+  arm_group_label:
+  - '2'
+  intervention_type: Drug
+source: Santhera Pharmaceuticals
+eligibility:
+  gender: Male
+  maximum_age: 16 Years
+  sampling_method: 
+  minimum_age: 8 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Patients 8 - 16 years of age at time of enrolment
+
+                -  Male
+
+                -  Presence of cardiac involvement/dysfunction, defined by abnormal peak systolic strain
+                   in left ventricle (LV) inferolateral wall
+
+                -  Confirmed diagnosis of DMD (out of frame dystrophin gene deletion OR absent/<5%
+                   dystrophin protein on muscle biopsy; clinical picture consistent of typical DMD)
+
+                -  If on chronic glucocorticosteroids treatment (deflazacort, prednisone) for DMD (or
+                   any other disease) (i.e. concomitant medication): dosage must be stable (unchanged) 6
+                   months prior to inclusion
+
+                -  If on chronic medication for DMD associated cardiomyopathy (β-blocker, diuretics):
+                   dosage must be stable (unchanged) 3 months prior to inclusion
+
+                -  Ability to provide reproducible repeat quantitative muscle testing (QMT) upper limb
+                   score within 15% of first assessment score (at Visit1/Day 1 versus Screening Visit
+
+              Exclusion Criteria:
+
+                -  Symptomatic cardiomyopathy or heart failure
+
+                -  Asymptomatic but severe cardiac dysfunction on baseline (Screening) evaluation:
+                   Fractional shortening (FS) < 20% and/or Ejection fraction (EF) < 40%
+
+                -  Use of ACE-inhibitors
+
+                -  Previous history of ventricular arrhythmias (other than isolated ventricular
+                   extrasystole); ventricular arrhythmias presented at Screening
+
+                -  Previous (6 months or less) participation in any other therapeutic trial for DMD
+
+                -  Use of coenzymeQ10, idebenone, creatine, glutamine, oxatomide, or any herbal
+                   medicines within the last 6 months
+
+                -  History of significant concomitant illness or significant impairment of renal or
+                   hepatic function
+
+                -  Known individual hypersensitivity to idebenone
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Actual
+  value: August 2007
+last_injected: '2015-10-01T23:47:09.490Z'
+intervention_browse:
+  mesh_term:
+  - Idebenone
+target_duration: 
+number_of_arms: '2'
+start_date: October 2005
+why_stopped: 
+id_info:
+  org_study_id: SNT-II-001
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00654784
+acronym: DELPHI
+arm_group:
+- description: 
+  arm_group_label: '1'
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: '2'
+  arm_group_type: Placebo Comparator
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Santhera Pharmaceuticals
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 1 year
+  description: 
+  measure: 'Respiratory Function: Forced Vital Capacity (FVC), Forced Expiratory Volume
+    in 1 Second (FEV1), Maximal Inspiratory Pressure (MIP) and Peak Flow (PF)'
+- safety_issue: 'No'
+  time_frame: 1 year
+  description: 
+  measure: 'Skeletal Muscle Strength (Upper Limb, Right and Left): Hand Grip, Elbow
+    Flexors and Elbow Extensors (Upper Limb Score) Timed Walking Test (10 Metres)
+    (Ambulant Patients Only)'
+- safety_issue: 'Yes'
+  time_frame: 1 year
+  description: 
+  measure: Safety and Tolerability, Assessed by Adverse Events, Blood and Urine Laboratory
+    Measures, ECG.
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: baseline and Week 52
+  description: |-
+    Assessing the peak systolic radial strain of the left ventricle inferolateral wall is used to characterize the cardiac involvement in the DMD patients.
+    Color Doppler Myocardial Imaging technique is used to quantify regional myocardial function.
+    The cardiac involvement in DMD is characterized by degeneration, atrophy and fibrosis of the myocardium, leading to dilated cardiomyopathy. The process begins in the posterolateral wall of the left ventricle, with septal involvement appearing at later stages.
+  measure: The Relative Change in Peak Systolic Radial Strain of the Left Ventricle
+    (LV) Inferolateral Wall From Baseline (at Screening) to Week 52, Assessed by Color
+    Doppler Myocardial Imaging (CDMI).
+overall_official:
+- first_name: 
+  last_name: Gunnar Buyse, MD PhD
+  middle_name: 
+  affiliation: Universitaire Ziekenhuizen Leuven
+  degrees: 
+  role: Principal Investigator
+phase: Phase 2
+location_countries:
+  country:
+  - Belgium
+condition:
+- Duchenne Muscular Dystrophy (DMD)
+clinical_results:
+  limitations_and_caveats: 
+  baseline:
+    measure_list:
+      measure:
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '13'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '8'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '21'
+                  upper_limit: 
+        title: Number of Participants
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: "<=18 years"
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '13'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '8'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '21'
+                  upper_limit: 
+          - sub_title: Between 18 and 65 years
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: ">=65 years"
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+        title: Age
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: 
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: '2.1'
+                  group_id: B1
+                  lower_limit: 
+                  value: '13.4'
+                  upper_limit: 
+              - attributes:
+                  spread: '1.9'
+                  group_id: B2
+                  lower_limit: 
+                  value: '10.8'
+                  upper_limit: 
+              - attributes:
+                  spread: '2.0'
+                  group_id: B3
+                  lower_limit: 
+                  value: '12.4'
+                  upper_limit: 
+        title: Age
+        param: Mean
+        dispersion: Standard Deviation
+        units: years
+      - description: 
+        category_list:
+          category:
+          - sub_title: Female
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '0'
+                  upper_limit: 
+          - sub_title: Male
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '13'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '8'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '21'
+                  upper_limit: 
+        title: Gender
+        param: Number
+        dispersion: 
+        units: participants
+      - description: 
+        category_list:
+          category:
+          - sub_title: Belgium
+            measurement_list:
+              measurement:
+              - attributes:
+                  spread: 
+                  group_id: B1
+                  lower_limit: 
+                  value: '13'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B2
+                  lower_limit: 
+                  value: '8'
+                  upper_limit: 
+              - attributes:
+                  spread: 
+                  group_id: B3
+                  lower_limit: 
+                  value: '21'
+                  upper_limit: 
+        title: Region of Enrollment
+        param: Number
+        dispersion: 
+        units: participants
+    group_list:
+      group:
+      - attributes:
+          group_id: B1
+        description: 'idebenone 150 mg tablet: One tablet 3 times a day (Tid) with
+          meals'
+        title: Idebenone 450 mg/ Day
+      - attributes:
+          group_id: B2
+        description: 'Placebo tablet: One tablet 3 times a day (Tid) with meals'
+        title: Placebo
+      - attributes:
+          group_id: B3
+        description: Total of all reporting groups
+        title: Total
+    population: 
+  point_of_contact:
+    name_or_title: Thomas Meier
+    email: thomas.meier@santhera.com
+    phone: "+4161 906 8964"
+    organization: Santhera
+  reported_events:
+    serious_events:
+      frequency_threshold: 
+      category_list:
+        category:
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Total, serious adverse events
+              description: 
+          title: Total
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: '1'
+                  subjects_affected: '1'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: '0'
+                  subjects_affected: '0'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Ankle fracture
+              description: 
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: '0'
+                  subjects_affected: '0'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Femur fracture
+              description: 
+          title: Injury, poisoning and procedural complications
+      default_assessment: Non-systematic Assessment
+      default_vocab: 
+    other_events:
+      frequency_threshold: '1'
+      category_list:
+        category:
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: 
+                  subjects_affected: '12'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: 
+                  subjects_affected: '8'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Total, other adverse events
+              description: 
+          title: Total
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: '5'
+                  subjects_affected: '4'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: '6'
+                  subjects_affected: '5'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Gastrointestinal disorders
+              description: 
+          title: Gastrointestinal disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: '4'
+                  subjects_affected: '2'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: '1'
+                  subjects_affected: '1'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: General disorders
+              description: 
+          title: General disorders
+        - event_list:
+            event:
+            - assessment: 
+              counts:
+              - attributes:
+                  subjects_at_risk: '13'
+                  group_id: E1
+                  events: '19'
+                  subjects_affected: '8'
+              - attributes:
+                  subjects_at_risk: '8'
+                  group_id: E2
+                  events: '12'
+                  subjects_affected: '5'
+              sub_title:
+                attributes:
+                  vocab: 
+                value: Infections
+              description: 
+          title: Infections and infestations
+      default_assessment: Non-systematic Assessment
+      default_vocab: 
+    time_frame: 
+    group_list:
+      group:
+      - attributes:
+          group_id: E1
+        description: 'idebenone 150 mg tablet: One tablet 3 times a day (Tid) with
+          meals'
+        title: Idebenone 450 mg/ Day
+      - attributes:
+          group_id: E2
+        description: 'Placebo tablet: One tablet 3 times a day (Tid) with meals'
+        title: Placebo
+    desc: 
+  certain_agreements:
+    restrictive_agreement: There is NOT an agreement between Principal Investigators
+      and the Sponsor (or its agents) that restricts the PI's rights to discuss or
+      publish trial results after the trial is completed.
+    pi_employee: Principal Investigators are NOT employed by the organization sponsoring
+      the study.
+  outcome_list:
+    outcome:
+    - description: |-
+        Assessing the peak systolic radial strain of the left ventricle inferolateral wall is used to characterize the cardiac involvement in the DMD patients.
+        Color Doppler Myocardial Imaging technique is used to quantify regional myocardial function.
+        The cardiac involvement in DMD is characterized by degeneration, atrophy and fibrosis of the myocardium, leading to dilated cardiomyopathy. The process begins in the posterolateral wall of the left ventricle, with septal involvement appearing at later stages.
+      title: The Relative Change in Peak Systolic Radial Strain of the Left Ventricle
+        (LV) Inferolateral Wall From Baseline (at Screening) to Week 52, Assessed
+        by Color Doppler Myocardial Imaging (CDMI).
+      safety_issue: 'No'
+      time_frame: baseline and Week 52
+      group_list:
+        group:
+        - attributes:
+            group_id: O1
+          description: 'idebenone 150 mg tablet: One tablet 3 times a day (Tid) with
+            meals'
+          title: Idebenone 450 mg/ Day
+        - attributes:
+            group_id: O2
+          description: 'Placebo tablet: One tablet 3 times a day (Tid) with meals'
+          title: Placebo
+      analysis_list: {}
+      posting_date: 
+      measure_list:
+        measure:
+        - description: 
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: 
+                    group_id: O1
+                    lower_limit: 
+                    value: '11'
+                    upper_limit: 
+                - attributes:
+                    spread: 
+                    group_id: O2
+                    lower_limit: 
+                    value: '7'
+                    upper_limit: 
+          title: Number of Participants
+          param: Number
+          dispersion: 
+          units: participants
+        - description: |-
+            Assessing the peak systolic radial strain of the left ventricle inferolateral wall is used to characterize the cardiac involvement in the DMD patients.
+            Color Doppler Myocardial Imaging technique is used to quantify regional myocardial function.
+            The cardiac involvement in DMD is characterized by degeneration, atrophy and fibrosis of the myocardium, leading to dilated cardiomyopathy. The process begins in the posterolateral wall of the left ventricle, with septal involvement appearing at later stages.
+          category_list:
+            category:
+            - sub_title: 
+              measurement_list:
+                measurement:
+                - attributes:
+                    spread: '92.0'
+                    group_id: O1
+                    lower_limit: 
+                    value: '104.4'
+                    upper_limit: 
+                - attributes:
+                    spread: '40.7'
+                    group_id: O2
+                    lower_limit: 
+                    value: '28.9'
+                    upper_limit: 
+          title: The Relative Change in Peak Systolic Radial Strain of the Left Ventricle
+            (LV) Inferolateral Wall From Baseline (at Screening) to Week 52, Assessed
+            by Color Doppler Myocardial Imaging (CDMI).
+          param: Mean
+          dispersion: Standard Deviation
+          units: "% change in peak systolic"
+      type: Primary
+      population: At Week 52, data from only 18 patients were available for the primary
+        endpoint analysis due to missing data from 2 patients and the inability to
+        acquire data from a 3rd patient. The efficacy comparison for the primary endpoint
+        was conducted using the LOCF method in the ITT population. In addition, the
+        analysis was repeated using the OC dataset.
+    - description: 
+      title: 'Respiratory Function: Forced Vital Capacity (FVC), Forced Expiratory
+        Volume in 1 Second (FEV1), Maximal Inspiratory Pressure (MIP) and Peak Flow
+        (PF)'
+      safety_issue: 'No'
+      time_frame: 1 year
+      group_list: {}
+      analysis_list: {}
+      posting_date: 
+      measure_list: {}
+      type: Secondary
+      population: 
+    - description: 
+      title: 'Skeletal Muscle Strength (Upper Limb, Right and Left): Hand Grip, Elbow
+        Flexors and Elbow Extensors (Upper Limb Score) Timed Walking Test (10 Metres)
+        (Ambulant Patients Only)'
+      safety_issue: 'No'
+      time_frame: 1 year
+      group_list: {}
+      analysis_list: {}
+      posting_date: 
+      measure_list: {}
+      type: Secondary
+      population: 
+    - description: 
+      title: Safety and Tolerability, Assessed by Adverse Events, Blood and Urine
+        Laboratory Measures, ECG.
+      safety_issue: 'Yes'
+      time_frame: 1 year
+      group_list: {}
+      analysis_list: {}
+      posting_date: 
+      measure_list: {}
+      type: Secondary
+      population: 
+  participant_flow:
+    period_list:
+      period:
+      - drop_withdraw_reason_list: {}
+        milestone_list:
+          milestone:
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '13'
+                  group_id: P1
+              - attributes:
+                  count: '8'
+                  group_id: P2
+            title: STARTED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '13'
+                  group_id: P1
+              - attributes:
+                  count: '8'
+                  group_id: P2
+            title: COMPLETED
+          - participants_list:
+              participants:
+              - attributes:
+                  count: '0'
+                  group_id: P1
+              - attributes:
+                  count: '0'
+                  group_id: P2
+            title: NOT COMPLETED
+        title: Overall Study
+    recruitment_details: 
+    pre_assignment_details: 
+    group_list:
+      group:
+      - attributes:
+          group_id: P1
+        description: 'idebenone 150 mg tablet: One tablet 3 times a day (Tid) with
+          meals'
+        title: Idebenone 450 mg/ Day
+      - attributes:
+          group_id: P2
+        description: 'Placebo tablet: One tablet 3 times a day (Tid) with meals'
+        title: Placebo
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword:
+- Duchenne Muscular Dystrophy
+- DMD
+- Duchenne
+results_reference:
+- PMID: '21435876'
+  citation: 'Buyse GM, Goemans N, van den Hauwe M, Thijs D, de Groot IJ, Schara U,
+    Ceulemans B, Meier T, Mertens L. Idebenone as a novel, therapeutic approach for
+    Duchenne muscular dystrophy: results from a 12 month, double-blind, randomized
+    placebo-controlled trial. Neuromuscul Disord. 2011 Jun;21(6):396-405. doi: 10.1016/j.nmd.2011.02.016.
+    Epub 2011 Mar 23.'
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'Belgium: The Federal Public Service (FPS) Health, Food Chain Safety and Environment'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: Children's Hospital, University Hospital
+    address:
+      city: Leuven
+      state: 
+      zip: 
+      country: Belgium
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 50.878
+    formatted: Leuven, Belgium
+    longitude: 4.704
+    original: Leuven, Belgium
+official_title: A Phase IIa Double Blind, Randomised, Placebo Controlled, Single Centre
+  Study at the University of Leuven to Assess the Efficacy and Tolerability of Idebenone
+  in 8 - 16 Year Old Males With Cardiac Dysfunction Associated With Duchenne Muscular
+  Dystrophy
+verification_date: July 2011
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00654784
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Efficacy and Tolerability of Idebenone in Boys With Cardiac Dysfunction
+  Associated With Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Idebenone is a synthetic analogue of coenzyme Q10 and is a powerful antioxidant and
+          essential constituent of the process of energy production on the cellular level. It can
+          protect mitochondria from oxidative damage and boost their impaired function. It is thought
+          that this mechanism will slow decline in heart function that is part of the disease process
+          of Duchenne Muscular Dystrophy (DMD). It is possible that patients may benefit in terms of
+          muscle strength and respiratory function. This pilot trial is designed to investigate this.
+enrollment:
+  attributes:
+    type: Actual
+  value: '21'
+lastchanged_date: July 29, 2011

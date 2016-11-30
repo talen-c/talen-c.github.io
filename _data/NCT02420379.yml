@@ -1,0 +1,534 @@
+---
+firstreceived_date: April 10, 2015
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Anticipated
+  value: February 2018
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    Safety, including adverse event monitoring and routine laboratory assessments, will be
+          followed on an ongoing basis for all patients.
+
+          Clinical efficacy, including functional tests and MRI, will be assessed at regularly
+          scheduled study visits. Patients will undergo one baseline and one follow-up muscle biopsy.
+
+          Population and serial PK will be collected.
+link: []
+has_expanded_access: 'No'
+id: NCT02420379
+intervention:
+- intervention_name: eteplirsen
+  other_name: []
+  description: Eteplirsen 30 mg/kg will be administered as an IV infusion once a week
+    for 96 weeks.
+  arm_group_label:
+  - Open-Label
+  intervention_type: Drug
+source: Sarepta Therapeutics
+eligibility:
+  gender: Male
+  maximum_age: 6 Years
+  sampling_method: 
+  minimum_age: 4 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Male 4-6 years of age.
+
+                -  Diagnosis of DMD, genotypically confirmed.
+
+                -  Stable dose of oral corticosteroids for at least 12 weeks or has not received
+                   corticosteroids for at least 12 weeks.
+
+                -  Intact right and left biceps muscles or two alternative upper arm muscle groups.
+
+                -  Parent that is willing to provide consent and comply with study procedures.
+
+              Exclusion Criteria:
+
+                -  Use of any pharmacologic treatment (other than corticosteroids) within 12 weeks that
+                   may have an effect on muscle strength or function (e.g., growth hormone, anabolic
+                   steroids).
+
+                -  Previous or current treatment with any other experimental treatments within 12 weeks
+                   or participation in any other clinical trial within 6 months.
+
+                -  Major surgery within 3 months prior to the first dose of study drug, or planned
+                   surgery during this study which would interfere with the ability to perform study
+                   activities.
+
+                -  Presence of other clinically significant illness.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Drug concentration in plasma
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2017
+last_injected: '2015-10-22T22:51:07.541Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '2'
+start_date: May 2015
+why_stopped: 
+id_info:
+  org_study_id: 4658-203
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02420379
+acronym: 
+arm_group:
+- description: Approximately 20 patients will receive weekly infusions of eteplirsen
+    30 mg/kg .
+  arm_group_label: Open-Label
+  arm_group_type: Experimental
+- description: Approximately 20 patients with DMD not amenable to exon 51 skipping
+    will be observed for 96 weeks.
+  arm_group_label: Control Group
+  arm_group_type: No Intervention
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Sarepta Therapeutics
+    agency_class: Industry
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: Baseline to Week 96
+  description: 
+  measure: Change from baseline in percent of dystrophin-positive skeletal muscle
+    fibers
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 96 weeks
+  description: 
+  measure: Number of patients with treatment emergent adverse events
+overall_official:
+- first_name: 
+  last_name: Petra Duda, MD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Director
+- first_name: 
+  last_name: Edward M. Kaye, MD
+  middle_name: 
+  affiliation: Sarepta Therapeutics
+  degrees: 
+  role: Study Chair
+phase: Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy (DMD)
+clinical_results: {}
+study_design: 'Allocation: Non-Randomized, Endpoint Classification: Safety Study,
+  Intervention Model: Single Group Assignment, Masking: Single Blind (Outcomes Assessor),
+  Primary Purpose: Treatment'
+keyword:
+- DMD
+- Duchenne muscular dystrophy
+- eteplirsen
+- Dystrophin
+- exon 51
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Mark Gonzalez
+    middle_name: 
+    phone_ext: 
+    phone: 480-314-1007
+    degrees: 
+    email: markgonzalez@nrcaz.com
+  facility:
+    name: Neuromuscular Research Center of Arizona
+    address:
+      city: Phoenix
+      state: Arizona
+      zip: '85028'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Kumaraswamy Sivakumar, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Kristy Osgood, DPM, MPH
+    middle_name: 
+    phone_ext: '6'
+    phone: 480-314-1007
+    degrees: 
+    email: nrcresearch@nrcaz.com
+  geodata:
+    latitude: 33.448
+    formatted: Phoenix, AZ, USA
+    longitude: -112.074
+    original: Phoenix, Arizona
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Ronald Reagan UCLA Medical Center
+    address:
+      city: Los Angeles
+      state: California
+      zip: '90095'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Perry Shieh, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Juan Valderramos
+    middle_name: 
+    phone_ext: 
+    phone: 310-825-3264
+    degrees: 
+    email: JValderramos@mednet.ucla.edu
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of California, Davis Medical Center
+    address:
+      city: Sacramento
+      state: California
+      zip: '95817'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Craig McDonald, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Erica Goude
+    middle_name: 
+    phone_ext: 
+    phone: 916-734-0384
+    degrees: 
+    email: 'emgoude@ucdavis.edu:'
+  geodata:
+    latitude: 38.582
+    formatted: Sacramento, CA, USA
+    longitude: -121.494
+    original: Sacramento, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Stanford University Medical Center
+    address:
+      city: Stanford
+      state: California
+      zip: '94305'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: John Day, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Bona Purse
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: bonap@stanford.edu
+  geodata:
+    latitude: 37.429
+    formatted: Stanford University, 450 Serra Mall, Stanford, CA 94305, USA
+    longitude: -122.169
+    original: Stanford, California
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Florida, Shands Hospital
+    address:
+      city: Gainesville
+      state: Florida
+      zip: '32610'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Barry Byrne, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: LeeAnn Lawson
+    middle_name: 
+    phone_ext: 
+    phone: 352-273-7762
+    degrees: 
+    email: LLawson@peds.ufl.edu
+  geodata:
+    latitude: 29.652
+    formatted: Gainesville, FL, USA
+    longitude: -82.325
+    original: Gainesville, Florida
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Atlanta
+    address:
+      city: Atlanta
+      state: Georgia
+      zip: '30324'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Han Phan, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Saadia Khizer
+    middle_name: 
+    phone_ext: 
+    phone: 
+    degrees: 
+    email: Saadia.Khizer@choa.org
+  geodata:
+    latitude: 33.749
+    formatted: Atlanta, GA, USA
+    longitude: -84.388
+    original: Atlanta, Georgia
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: University of Iowa Children's Hospital
+    address:
+      city: Iowa City
+      state: Iowa
+      zip: '52242'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Katherine Mathews, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Carrie Stephan
+    middle_name: 
+    phone_ext: 
+    phone: 319-356-2673
+    degrees: 
+    email: carrie-stephan@uiowa.edu
+  geodata:
+    latitude: 41.661
+    formatted: Iowa City, IA, USA
+    longitude: -91.53
+    original: Iowa City, Iowa
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Krystal Reese
+    middle_name: 
+    phone_ext: 
+    phone: 314-362-1146
+    degrees: 
+    email: reesek@neuro.wustl.edu
+  facility:
+    name: St. Louis Children's Hospital
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: '63110'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Anne M Connolly, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Traci Christenson
+    middle_name: 
+    phone_ext: 
+    phone: 314-362-6991
+    degrees: 
+    email: christensont@neuro.wustl.edu
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43205'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: Not yet recruiting
+  contact_backup: {}
+  facility:
+    name: Shriners Hospital for Children
+    address:
+      city: Portland
+      state: Oregon
+      zip: '97239'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Erika Finanger, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Maria Grompe
+    middle_name: 
+    phone_ext: 
+    phone: 971-544-3377
+    degrees: 
+    email: MTG@shcc.org
+  geodata:
+    latitude: 45.523
+    formatted: Portland, OR, USA
+    longitude: -122.676
+    original: Portland, Oregon
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Children's Hospital of Philadelphia
+    address:
+      city: Philadelphia
+      state: Pennsylvania
+      zip: '19104'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Gihan Tennekoon, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Heather Wolf
+    middle_name: 
+    phone_ext: 
+    phone: 267-425-2179
+    degrees: 
+    email: wolfh@email.chop.edu
+  geodata:
+    latitude: 39.952
+    formatted: Philadelphia, PA, USA
+    longitude: -75.164
+    original: Philadelphia, Pennsylvania
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Seattle Children's Hospital
+    address:
+      city: Seattle
+      state: Washington
+      zip: '98105'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Susan Apkon, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Ana Christensen
+    middle_name: 
+    phone_ext: 
+    phone: 206-884-2756
+    degrees: 
+    email: ana.christensen@seattlechildrens.org
+  geodata:
+    latitude: 47.606
+    formatted: Seattle, WA, USA
+    longitude: -122.332
+    original: Seattle, Washington
+official_title: An Open-Label, Multi-Center Study to Evaluate the Safety, Efficacy
+  and Tolerability of Eteplirsen in Early Stage Duchenne Muscular Dystrophy
+verification_date: October 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02420379
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Kara Boniface
+  middle_name: 
+  phone_ext: 
+  phone: 
+  degrees: 
+  email: trialinfo@sarepta.com
+brief_title: Safety Study of Eteplirsen to Treat Early Stage Duchenne Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    This is an open-label study to assess the safety, tolerability, efficacy and
+          pharmacokinetics of eteplirsen in patients with early stage Duchenne muscular dystrophy
+          (DMD) who are amenable to exon 51 skipping.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '40'
+lastchanged_date: October 21, 2015

@@ -1,0 +1,302 @@
+---
+firstreceived_date: January 22, 2008
+is_fda_regulated: 'No'
+reference:
+- PMID: '11157687'
+  citation: Sato Y, Yamada T, Taniguchi R, Nagai K, Makiyama T, Okada H, Kataoka K,
+    Ito H, Matsumori A, Sasayama S, Takatsu Y. Persistently increased serum concentrations
+    of cardiac troponin t in patients with idiopathic dilated cardiomyopathy are predictive
+    of adverse outcomes. Circulation. 2001 Jan 23;103(3):369-74.
+- PMID: '15336589'
+  citation: Yasuma F, Konagaya M, Sakai M, Kuru S, Kawamura T. A new lease on life
+    for patients with Duchenne muscular dystrophy in Japan. Am J Med. 2004 Sep 1;117(5):363.
+- PMID: '7114081'
+  citation: Hunsaker RH, Fulkerson PK, Barry FJ, Lewis RP, Leier CV, Unverferth DV.
+    Cardiac function in Duchenne's muscular dystrophy. Results of 10-year follow-up
+    study and noninvasive tests. Am J Med. 1982 Aug;73(2):235-8.
+- PMID: '16246949'
+  citation: Jefferies JL, Eidem BW, Belmont JW, Craigen WJ, Ware SM, Fernbach SD,
+    Neish SR, Smith EO, Towbin JA. Genetic predictors and remodeling of dilated cardiomyopathy
+    in muscular dystrophy. Circulation. 2005 Nov 1;112(18):2799-804. Epub 2005 Oct
+    24.
+- PMID: '10220639'
+  citation: Ishikawa Y, Bach JR, Minami R. Cardioprotection for Duchenne's muscular
+    dystrophy. Am Heart J. 1999 May;137(5):895-902.
+overall_contact_backup:
+  first_name: 
+  last_name: Fumihiko Yasuma, MD,PhD
+  middle_name: 
+  phone_ext: 
+  phone: "+81-59-378-1321"
+  degrees: 
+  email: yasuma@suzuka.go.jp
+completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2012
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description:
+  textblock: |-
+    The life span in patients with Duchenne muscular dystrophy has been extending due to the
+          development of artificial respiratory devices. According to that, the ratio of cardiac
+          dysfunction as a cause of death has been increasing. This cardiac dysfunction was associated
+          with minor cardiac damage as indicated by elevation of plasma cardiac troponin I (cTnI).
+          Furthermore, and the detection rate of cTnI plasma as revealed to be correlated with the
+          deterioration speed of LV dysfunction assessed by serial echocardiography measurements.
+          Accordingly, if this minor cardiac damage is suppressed, it is postulated that the
+          progression of cardiac dysfunction can be stopped. In the cases with ventricular arrhythmia
+          and tachycardia, we found plasma cTnI became undetectable after administration of
+          beta-blocker. Accordingly, we investigate whether administration of beta-blocker, carvedilol
+          can persistently suppress the minor cardiac damage and lead to suppress the deterioration of
+          LV function. Note that his study preventive study for preserved to moderate LV dysfunction
+          and is not intended to the beta-blocker treatment for severe LV dysfunction. Because we
+          assume that the mechanism of elevation of cTnI is different; spontaneous in preserved to
+          mild LV dysfunction in patients but LV wall stress in severe LV dysfunction in patients with
+          Duchenne muscular dystrophy.
+link: []
+has_expanded_access: 'No'
+id: NCT00606775
+intervention:
+- intervention_name: Carvedilol
+  other_name:
+  - Artist, Daich-Sankyo Co.Ltd
+  description: 2.5-5mg/day
+  arm_group_label:
+  - Carvedilol
+  intervention_type: Drug
+source: Suzuka Hospital
+eligibility:
+  gender: Male
+  maximum_age: 45 Years
+  sampling_method: 
+  minimum_age: 8 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+              Male patients with Duchenne muscular dystrophy are required to meet the following
+              criteria:
+
+                1. Aged ８ to 45 years
+
+                2. Positive plasma cardiac troponin I (0.06ng/mL) at least 4 blood measurement in every
+                   3 month.
+
+                3. Left ventricular ejection fraction >30% by echocardiography assessment
+
+                4. Written informed consent
+
+              Exclusion Criteria:
+
+              Patients with the following conditions will be excluded from the study:
+
+                1. Left ventricular ejection fraction <30%
+
+                2. No plasma cTnI elevation
+
+                3. beta-blocker is already administered without measurement of plasma cTnI
+
+                4. Contraindication against treatment with β blockers
+
+                5. Any other serious disease that could potentially complicate the management and
+                   follow-up protocols
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2008
+last_injected: '2015-10-15T01:23:40.472Z'
+intervention_browse:
+  mesh_term:
+  - Carvedilol
+target_duration: 
+number_of_arms: '2'
+start_date: December 2007
+why_stopped: 
+id_info:
+  org_study_id: TN1966220
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00606775
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Carvedilol
+  arm_group_type: Experimental
+- description: 
+  arm_group_label: Control
+  arm_group_type: No Intervention
+sponsors:
+  collaborator:
+  - agency: Nagoya University
+    agency_class: Other
+  lead_sponsor:
+    agency: Suzuka Hospital
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 5 years
+  description: 
+  measure: Left ventricular function deterioration assessed by echocardiography In-hospital
+    mortality for cardiac dysfunction In-hospital mortality for any cause Overall
+    mortality
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'Yes'
+  time_frame: 2 years
+  description: 
+  measure: The suppression of minor cardiac damage indicated as elevation of plasma
+    cTnI
+overall_official:
+- first_name: 
+  last_name: Takao Nishizawa, MD, PhD
+  middle_name: 
+  affiliation: Department of Cardiology, Nagoya University Graduate School of Medicine
+  degrees: 
+  role: Principal Investigator
+phase: Phase 4
+location_countries:
+  country:
+  - Japan
+condition:
+- Duchenne Muscular Dystrophy
+- Cardiomyopathies
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Prevention'
+keyword:
+- Adrenergic beta-Antagonists
+- Duchenne Muscular Dystrophy
+- Cardiomyopathies
+- Troponin I
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'Japan: Institutional Review Board'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Fumihiko Yasuma, MD. PhD
+    middle_name: 
+    phone_ext: 
+    phone: "+81-593-78-0337"
+    degrees: 
+    email: yasuma@suzuka.go.jp
+  facility:
+    name: Suzuka Hospial
+    address:
+      city: Suzuka
+      state: Mie
+      zip: 513-8501
+      country: Japan
+  investigator:
+  - first_name: 
+    last_name: Fumihiko Yasuma, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Toshimitsu Mori, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Motoko Sakai, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Satoshi Kuru, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Seigo Kimura, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Takuya Tamura, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Kentaro Sahashi, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Rei Shibata, MD, PhD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  - first_name: 
+    last_name: Taiki Ohashi, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Takao Nishizawa, MD. PhD
+    middle_name: 
+    phone_ext: 
+    phone: "+81-52-744-2150"
+    degrees: 
+    email: nishizta@med.nagoya-u.ac.jp
+  geodata:
+    latitude: 34.882
+    formatted: Suzuka, Mie Prefecture, Japan
+    longitude: 136.584
+    original: Suzuka, Mie
+official_title: Carvedilol for the Prevention of Minor Cardiac Damage and Cardiac
+  Function in Duchenne Muscular Dystrophy
+verification_date: December 2007
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00606775
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Takao Nishizawa, MD,PhD
+  middle_name: 
+  phone_ext: 
+  phone: "+81-52-744-2150"
+  degrees: 
+  email: nishizta@med.nagoya-u.ac.jp
+brief_title: The Preventive Efficacy of Carvedilol on Cardiac Dysfunction in Duchenne
+  Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Cardiomyopathies
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    Purpose This cardiac dysfunction in patients with Duchenne muscular dystrophy is associated
+          with minor cardiac damage as indicated by elevation of plasma cardiac troponin I (cTnI). The
+          purpose of this study is to investigate whether the administration of Carvedilol can
+          suppress the minor cardiac damage and prevent deterioration of cardiac function.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '60'
+lastchanged_date: February 4, 2008

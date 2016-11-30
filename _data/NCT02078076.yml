@@ -1,0 +1,171 @@
+---
+firstreceived_date: June 3, 2013
+is_fda_regulated: 'No'
+reference: []
+overall_contact_backup: {}
+completion_date: {}
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT02078076
+intervention:
+- intervention_name: Magnetic Resonance Cardiac Imaging (with Gadolinium)
+  other_name: []
+  description: 
+  arm_group_label:
+  - Magnetic Resonance Cardiac Imaging (with Gadolinium)
+  intervention_type: Device
+source: Institut National de la Santé Et de la Recherche Médicale, France
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 8 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Dystophinopathy (Duchenne or severe Becker)
+
+                -  >8yo
+
+                -  with social insurance
+
+                -  informed consent
+
+              Exclusion Criteria:
+
+                -  arythmia
+
+                -  impossibility to undergo an MRI (pacemaker, ....)
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: December 2015
+last_injected: '2015-07-14T08:17:57.671Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: '1'
+start_date: June 2013
+why_stopped: 
+id_info:
+  org_study_id: C13-04
+  secondary_id:
+  - 2013-A00179-36
+  nct_alias: []
+  nct_id: NCT02078076
+acronym: 
+arm_group:
+- description: 
+  arm_group_label: Magnetic Resonance Cardiac Imaging (with Gadolinium)
+  arm_group_type: Experimental
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Institut National de la Santé Et de la Recherche Médicale, France
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: after the last inclusion
+  description: correlation between fibrosis information (conventional LGE, qualitative
+    detection with GRICS, and quantiative measure with GRICS)
+  measure: Number of anatomic cardiac segments with significant fibrosis according
+    to the assessment methods (conventional LGE, qualitative detection with GRICS,
+    and quantiative measure with GRICS)
+- safety_issue: 'No'
+  time_frame: after the last inclusion
+  description: Correlation between fibrosis and regional function for each cardiac
+    segment
+  measure: Number of cardiac segments with fibrosis and/or regional dysfunction
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: after the last inclusion
+  description: Was it possible to acquire the whole examination for every patient
+    ?
+  measure: Number of exams correctly acquired (feasabiliy of the exam)
+- safety_issue: 'No'
+  time_frame: after the last MRI exam
+  description: The image quality allows a qualitative diagnosis ?
+  measure: Number of exams allowing a qualitative assessment of images by the physician
+- safety_issue: 'No'
+  time_frame: after the last MRI examination
+  description: Did the image quality allow a quantitative assessment of the diagnosis
+    ?
+  measure: Number of exams allowing a quantitative assessment of the diagnosis
+overall_official: []
+phase: N/A
+location_countries:
+  country:
+  - France
+condition:
+- Duchenne or Severe Becker Myopathy
+clinical_results: {}
+study_design: 'Endpoint Classification: Efficacy Study, Intervention Model: Single
+  Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic'
+keyword:
+- MRI
+- free-breathing acquisitions
+- myopathy
+- fibrosis assessment
+- function
+results_reference: []
+oversight_info:
+  has_dmc: 'No'
+  authority:
+  - 'France: Agence Nationale de Sécurité du Médicament et des produits de santé'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup: {}
+  facility:
+    name: Service de médecin nucléaire / CHU Nancy Brabois
+    address:
+      city: Vandoeuvre
+      state: 
+      zip: 
+      country: France
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Pierre Yves MARIE
+    middle_name: 
+    phone_ext: 
+    phone: 03.83.15.39.09
+    degrees: 
+    email: py.marie@chu-nancy.fr
+  geodata:
+    latitude: 48.652
+    formatted: Rue de Vandoeuvre, 54180 Heillecourt, France
+    longitude: 6.182
+    original: Vandoeuvre, France
+official_title: IRM Cardiaque en Respiration Libre Pour Des Patients Atteints de Dystrophinopathie
+  sévère
+verification_date: March 2014
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02078076
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: IRM Cardiaque en Respiration Libre Pour Des Patients Atteints de Dystrophinopathie
+  sévère
+biospec_descr: {}
+condition_browse: {}
+brief_summary:
+  textblock: |-
+    Clinical, prospective and monocentric study aiming at assessing the feasibility of fibrosis
+          detection and quantification (and of function assessment) during MRI without breath-holds in
+          a population of adults and children with Duchenne myopathy.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '30'
+lastchanged_date: March 12, 2014

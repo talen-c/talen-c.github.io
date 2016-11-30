@@ -1,0 +1,275 @@
+---
+firstreceived_date: February 22, 2005
+is_fda_regulated: 
+reference: []
+overall_contact_backup: {}
+completion_date:
+  attributes:
+    type: Actual
+  value: January 2007
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 
+detailed_description: {}
+link: []
+has_expanded_access: 'No'
+id: NCT00104078
+intervention:
+- intervention_name: MYO-029
+  other_name: []
+  description: 
+  arm_group_label: []
+  intervention_type: Drug
+source: Wyeth is now a wholly owned subsidiary of Pfizer
+eligibility:
+  gender: Both
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 18 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Written informed consent.
+
+                -  Confirmed clinical and molecular diagnosis of Becker Muscular Dystrophy (BMD),
+                   Facioscapulohumeral Muscular Dystrophy (FSHD), or Limb-Girdle Muscular Dystrophy
+                   (LGMD)
+
+                -  Independently ambulatory
+
+              Exclusion Criteria:
+
+                -  Patients with certain clinical conditions
+
+                -  Patients using steroids or other medications with the potential to affect muscle
+                   function
+
+                -  History of sensitivity to monoclonal antibodies or protein pharmaceuticals
+
+                -  Pregnant or lactating women.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome: []
+primary_completion_date: {}
+last_injected: '2015-07-13T23:13:19.109Z'
+intervention_browse: {}
+target_duration: 
+number_of_arms: 
+start_date: February 2005
+why_stopped: 
+id_info:
+  org_study_id: 3147K2-101
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT00104078
+acronym: 
+arm_group: []
+sponsors:
+  collaborator: []
+  lead_sponsor:
+    agency: Wyeth is now a wholly owned subsidiary of Pfizer
+    agency_class: Industry
+secondary_outcome: []
+study_type: Interventional
+biospec_retention: 
+overall_status: Completed
+primary_outcome:
+- safety_issue: 
+  time_frame: 
+  description: 
+  measure: Safety assessment
+overall_official:
+- first_name: 
+  last_name: Medical Monitor, MD
+  middle_name: 
+  affiliation: Wyeth is now a wholly owned subsidiary of Pfizer
+  degrees: 
+  role: Study Director
+phase: Phase 1/Phase 2
+location_countries:
+  country:
+  - United States
+condition:
+- Becker Muscular Dystrophy
+- Facioscapulohumeral Muscular Dystrophy
+- Limb-Girdle Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety Study, Intervention
+  Model: Crossover Assignment, Masking: Double-Blind, Primary Purpose: Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 
+  authority:
+  - 'United States: Food and Drug Administration'
+number_of_groups: 
+location:
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Washington
+      state: District of Columbia
+      zip: '20010'
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.895
+    formatted: Washington, DC, USA
+    longitude: -77.036
+    original: Washington, District of Columbia
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Kansas City
+      state: Kansas
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.114
+    formatted: Kansas City, KS, USA
+    longitude: -94.627
+    original: Kansas City, Kansas
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Baltimore
+      state: Maryland
+      zip: 21287-7519
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.29
+    formatted: Baltimore, MD, USA
+    longitude: -76.612
+    original: Baltimore, Maryland
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Boston
+      state: Massachusetts
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 42.358
+    formatted: Boston, MA, USA
+    longitude: -71.06
+    original: Boston, Massachusetts
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: St. Louis
+      state: Missouri
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 38.627
+    formatted: St Louis, MO, USA
+    longitude: -90.199
+    original: St. Louis, Missouri
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Rochester
+      state: New York
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 43.161
+    formatted: Rochester, NY, USA
+    longitude: -77.611
+    original: Rochester, New York
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Columbus
+      state: Ohio
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Dallas
+      state: Texas
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 32.803
+    formatted: Dallas, TX, USA
+    longitude: -96.77
+    original: Dallas, Texas
+- status: 
+  contact_backup: {}
+  facility:
+    name: 
+    address:
+      city: Salt Lake City
+      state: Utah
+      zip: 
+      country: United States
+  investigator: []
+  contact: {}
+  geodata:
+    latitude: 40.761
+    formatted: Salt Lake City, UT, USA
+    longitude: -111.891
+    original: Salt Lake City, Utah
+official_title: 
+verification_date: December 2007
+required_header:
+  url: https://clinicaltrials.gov/show/NCT00104078
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact: {}
+brief_title: Study Evaluating MYO-029 in Adult Muscular Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophies, Limb-Girdle
+  - Muscular Dystrophy, Duchenne
+  - Muscular Dystrophy, Facioscapulohumeral
+brief_summary:
+  textblock: |-
+    The purpose of this phase I/II, multicenter, safety trial is to study MYO-029 in adult
+          patients with muscular dystrophy.
+enrollment:
+  attributes:
+    type: 
+  value: '108'
+lastchanged_date: December 19, 2007

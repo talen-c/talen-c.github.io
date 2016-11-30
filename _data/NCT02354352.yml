@@ -1,0 +1,368 @@
+---
+firstreceived_date: January 27, 2015
+is_fda_regulated: 'Yes'
+reference: []
+overall_contact_backup:
+  first_name: 
+  last_name: Beth McCarthy, BSRT(R)
+  middle_name: 
+  phone_ext: 
+  phone: 614-688-8020
+  degrees: 
+  email: beth.mccarthy@osumc.edu
+completion_date:
+  attributes:
+    type: Anticipated
+  value: September 2017
+responsible_party: {}
+firstreceived_results_date: 
+is_section_801: 'Yes'
+detailed_description:
+  textblock: |-
+    DMD is an X-linked disorder in which the sarcolemmal protein dystrophin is effectively
+          absent. Males with DMD typically die in the third and fourth decades of life of
+          cardiopulmonary disease. Mouse models of DMD, autopsy data, and in vivo human studies using
+          magnetic resonance-based late gadolinium enhancement imaging (LGE) have shown that
+          progressive myocardial damage is well underway before left ventricular ejection fraction (LV
+          EF) becomes abnormal.
+
+          Exertional symptoms and signs of myocardial disease are typically absent as skeletal muscle
+          disease progressively limits functional capacity in affected boys. Thus, cardiac involvement
+          can go undetected until LV dysfunction and myocardial fibrosis are advanced. While
+          echocardiography remains a useful tool to evaluate LV dysfunction, CMR with LGE is
+          advantageous for DMD patients since it identifies myocardial injury before decline in EF is
+          apparent by echocardiography. Further, greater reproducibility affords efficient sample
+          sizes for cardiomyopathy clinical trials in patients with rare diseases. CMR's increasing
+          availability at DMD clinical centers has afforded earlier cardiomyopathy detection, and has
+          helped refine current management to typically include agents such as angiotensin converting
+          enzyme inhibitors (ACEI) once damage is evident. This strategy, however, may not be
+          sufficient, with prior studies showing decline in systolic function with or without ACEI or
+          angiotensin receptor blocker (ARB) therapy.
+
+          The investigators previously tested mineralocorticoid receptor antagonism (MRA) added to
+          ACEI while EF was still normal in a mouse model that mimics the myocardial damage seen in
+          DMD patients. This combination significantly reduced myocardial injury and improved (made
+          more negative) LV circumferential strain (Ecc), a sensitive and early marker of LV systolic
+          dysfunction. Additionally, preliminary findings from a recently completed clinical trial
+          suggests efficacy of eplerenone vs. placebo, while further preclinical data suggests greater
+          benefit without concomitant steroid use. Thus, a non-inferiority trial comparing MRAs is
+          needed.
+link: []
+has_expanded_access: 'No'
+id: NCT02354352
+intervention:
+- intervention_name: Eplerenone
+  other_name:
+  - Inspra
+  description: 26 Subjects will take Eplerenone, one 50mg capsule by mouth once daily
+    for 12 months.
+  arm_group_label:
+  - Eplerenone
+  intervention_type: Drug
+- intervention_name: Spironolactone
+  other_name:
+  - Aldactone
+  description: 26 Subjects will take Spironolactone, one 50mg capsule by mouth once
+    daily for 12 months.
+  arm_group_label:
+  - Spironolactone
+  intervention_type: Drug
+source: Ohio State University
+eligibility:
+  gender: Male
+  maximum_age: N/A
+  sampling_method: 
+  minimum_age: 10 Years
+  study_pop: {}
+  criteria:
+    textblock: |-
+      Inclusion Criteria:
+
+                -  Boys age ≥10 years with DMD confirmed clinically and by mutation analysis able to
+                   undergo cardiac magnetic resonance (CMR) without sedation
+
+                -  LV EF ≥45% by clinically-acquired echocardiography, nuclear scan or cardiac MRI done
+                   within 2 weeks of enrollment
+
+                -  non-ambulatory
+
+              Exclusion Criteria:
+
+                -  Non-MR compatible implants
+
+                -  Severe claustrophobia
+
+                -  Gadolinium contrast allergy
+
+                -  Kidney disease
+
+                -  Prior use of or allergy to aldosterone antagonist
+
+                -  Use of other investigational therapy.
+  healthy_volunteers: 'No'
+removed_countries: {}
+other_outcome:
+- safety_issue: 'No'
+  time_frame: 12 months
+  description: blood measures of muscle damage and repair
+  measure: muscle injury blood biomarkers (blood measures of muscle damage and repair)
+primary_completion_date:
+  attributes:
+    type: Anticipated
+  value: September 2017
+last_injected: '2015-10-22T22:52:49.980Z'
+intervention_browse:
+  mesh_term:
+  - Diuretics, Potassium Sparing
+  - Eplerenone
+  - Sodium Channel Blockers
+  - Spironolactone
+target_duration: 
+number_of_arms: '2'
+start_date: January 2015
+why_stopped: 
+id_info:
+  org_study_id: 2014H0387
+  secondary_id: []
+  nct_alias: []
+  nct_id: NCT02354352
+acronym: 
+arm_group:
+- description: Eplerenone is an aldosterone antagonist used as an adjunct in the management
+    of chronic heart failure. It is marketed under the trade name Inspra. Eplerenone
+    is a potassium-sparing diuretic.
+  arm_group_label: Eplerenone
+  arm_group_type: Active Comparator
+- description: Spironolactone is an aldosterone antagonist used as an adjunct in the
+    management of chronic heart failure. It is marketed under the trade name Aldactone.
+    Spironolactone is a potassium-sparing diuretic.
+  arm_group_label: Spironolactone
+  arm_group_type: Active Comparator
+sponsors:
+  collaborator:
+  - agency: University of California, Los Angeles
+    agency_class: Other
+  - agency: University of Utah
+    agency_class: Other
+  - agency: University of Colorado, Denver
+    agency_class: Other
+  lead_sponsor:
+    agency: Ohio State University
+    agency_class: Other
+secondary_outcome:
+- safety_issue: 'No'
+  time_frame: 12 months
+  description: a measure of pulmonary function
+  measure: Forced vital capacity (a measure of pulmonary function)
+study_type: Interventional
+biospec_retention: 
+overall_status: Recruiting
+primary_outcome:
+- safety_issue: 'No'
+  time_frame: 12 months
+  description: a sensitive measurement of heart function using cardiac MRI
+  measure: Left ventricular strain (a sensitive measurement of heart function using
+    cardiac MRI)
+overall_official:
+- first_name: 
+  last_name: Subha V Raman, MD
+  middle_name: 
+  affiliation: Ohio State University
+  degrees: 
+  role: Principal Investigator
+phase: Phase 3
+location_countries:
+  country:
+  - United States
+condition:
+- Duchenne Muscular Dystrophy
+clinical_results: {}
+study_design: 'Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study,
+  Intervention Model: Single Group Assignment, Masking: Double Blind (Subject, Caregiver,
+  Investigator, Outcomes Assessor), Primary Purpose: Treatment'
+keyword: []
+results_reference: []
+oversight_info:
+  has_dmc: 'Yes'
+  authority:
+  - 'United States: Food and Drug Administration'
+  - 'United States: Data and Safety Monitoring Board'
+number_of_groups: 
+location:
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Vanessa DePaz
+    middle_name: 
+    phone_ext: 
+    phone: 310-267-7618
+    degrees: 
+    email: vdepaz@mednet.ucla.edu
+  facility:
+    name: Mattel Children's Hospital and David Geffen School of Medicine at UCLA
+    address:
+      city: Los Angeles
+      state: California
+      zip: 90095-1743
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Nancy Halnon, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  contact:
+    first_name: 
+    last_name: Nancy Halnon, MD
+    middle_name: 
+    phone_ext: 
+    phone: 310-267-7667
+    degrees: 
+    email: nhalnon@mednet.ucla.edu
+  geodata:
+    latitude: 34.052
+    formatted: Los Angeles, CA, USA
+    longitude: -118.244
+    original: Los Angeles, California
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Alison Ballard, PNP
+    middle_name: 
+    phone_ext: 
+    phone: 720-777-8723
+    degrees: 
+    email: alison.ballard@childrenscolorado.org
+  facility:
+    name: University of Colorado
+    address:
+      city: Aurora
+      state: Colorado
+      zip: '80045'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Scott Auerbach, MD
+    middle_name: 
+    phone_ext: 
+    phone: 720-777-3218
+    degrees: 
+    email: scott.auerbach@childrenscolorado.org
+  geodata:
+    latitude: 39.729
+    formatted: Aurora, CO, USA
+    longitude: -104.832
+    original: Aurora, Colorado
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Subha V Raman, MD, MSEE
+    middle_name: 
+    phone_ext: 
+    phone: 614-293-8963
+    degrees: 
+    email: raman.1@osu.edu
+  facility:
+    name: The Ohio State University Medical Center
+    address:
+      city: Columbus
+      state: Ohio
+      zip: '43210'
+      country: United States
+  investigator:
+  - first_name: 
+    last_name: Subha V Raman, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Principal Investigator
+  - first_name: 
+    last_name: Linda H Cripe, MD
+    middle_name: 
+    affiliation: 
+    degrees: 
+    role: Sub-Investigator
+  contact:
+    first_name: 
+    last_name: Beth McCarthy, BSRT(R)(CV)
+    middle_name: 
+    phone_ext: 
+    phone: 614-688-8020
+    degrees: 
+    email: beth.mccarthy@osumc.edu
+  geodata:
+    latitude: 39.961
+    formatted: Columbus, OH, USA
+    longitude: -82.999
+    original: Columbus, Ohio
+- status: Recruiting
+  contact_backup:
+    first_name: 
+    last_name: Ashley Snyder
+    middle_name: 
+    phone_ext: 
+    phone: 801-587-9104
+    degrees: 
+    email: ashley.snyder@hsc.utah.edu
+  facility:
+    name: University of Utah
+    address:
+      city: Salt Lake City
+      state: Utah
+      zip: '84113'
+      country: United States
+  investigator: []
+  contact:
+    first_name: 
+    last_name: Michael Puchalski, MD
+    middle_name: 
+    phone_ext: 
+    phone: 801-213-7652
+    degrees: 
+    email: michael.puchalski@hsc.utah.edu
+  geodata:
+    latitude: 40.761
+    formatted: Salt Lake City, UT, USA
+    longitude: -111.891
+    original: Salt Lake City, Utah
+official_title: Therapeutic Potential for Aldosterone Inhibition in Duchenne Muscular
+  Dystrophy
+verification_date: October 2015
+required_header:
+  url: https://clinicaltrials.gov/show/NCT02354352
+  link_text: Link to the current ClinicalTrials.gov record.
+overall_contact:
+  first_name: 
+  last_name: Subha V Raman, MD
+  middle_name: 
+  phone_ext: 
+  phone: 614-293-8963
+  degrees: 
+  email: raman.1@osu.edu
+brief_title: Therapeutic Potential for Aldosterone Inhibition in Duchenne Muscular
+  Dystrophy
+biospec_descr: {}
+condition_browse:
+  mesh_term:
+  - Muscular Dystrophies
+  - Muscular Dystrophy, Duchenne
+brief_summary:
+  textblock: |-
+    The study is to demonstrate non-inferiority of spironolactone vs. eplerenone in preserving
+          cardiac and pulmonary function in patients with preserved LV ejection fraction. Males with
+          Duchenne muscular dystrophy (DMD) confirmed clinically and by mutation analysis will be
+          enrolled. Subjects must also be non-ambulatory and not taking corticosteroids at the time of
+          enrollment. Subjects will be randomized to either eplerenone or spironolactone. Subjects
+          will use a drug diary to record daily compliance of taking the study medication as well as
+          any concerns they may have during the study period. Subjects will undergo cardiac magnetic
+          resonance imaging (CMR) and pulmonary function tests (PFT) at baseline and then again at 12
+          months post enrollment. Subjects will also complete a quality of life questionnaire at
+          baseline and 12 months. Degree of elbow contracture will be measured using a goniometer at
+          baseline and 12 months.
+enrollment:
+  attributes:
+    type: Anticipated
+  value: '52'
+lastchanged_date: October 1, 2015
