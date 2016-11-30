@@ -60,4 +60,3 @@ collections:
 #markdown: kramdown
 
 #gems
-gems:         'jekyll-paginate', group: :jekyll_plugins
