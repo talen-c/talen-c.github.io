@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All the King's Horses (PT I)"
+title: "Exon Skipping"
 date: 2013-02-12T21:43:19-05:00
 ---
 
