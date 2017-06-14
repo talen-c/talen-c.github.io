@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Disney Trip - Days 1 and 2"
+title: "Disney Trip - Day 3"
 date: 2013-04-04T21:43:19-05:00
 ---
 
