@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Rebooting the Blog and Site"
-date: 2017-01-25
 ---
 
 We are creeping up on two years since the last time I touched the blog and page I mashed together after Talen's diagnosis. I needed to take a step back and catch my breath. It just turned out that it took me two years to collect myself after the manic burst of activity when the doctors broke the news to us.
