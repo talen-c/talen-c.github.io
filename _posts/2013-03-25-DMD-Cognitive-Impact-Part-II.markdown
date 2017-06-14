@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "DMD - Cognitive Impact (PT II)"
-date: 2013-03-25T21:43:19-05:00
 ---
 
 DMD - Cognitive Impact (Pt. II)

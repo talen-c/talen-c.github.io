@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Disney Trip - Days 6-8"
-date: 2013-06-30T21:43:19-05:00
 ---
 
 Disney Trip - Days 6 - 8 (Plus All the Pics)

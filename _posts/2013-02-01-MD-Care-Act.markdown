@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "MD Care Act"
-date: 2013-02-01T21:43:19-05:00
 ---
 
 The question of the day comes from Joann, who asks, "What the flip is up with the MD Care Act, and why are people posting pictures of sick kids on my Facebook telling me this is important?"

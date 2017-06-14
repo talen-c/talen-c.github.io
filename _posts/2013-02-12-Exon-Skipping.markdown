@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Exon Skipping"
-date: 2013-02-12T21:43:19-05:00
 ---
 
 When you tell someone that your child has Duchenne Muscular Dystrophy, more often than not you get this blank look from them while they try to gauge your demeanor to figure out just how serious it is. Most people have at least heard of the disease, but the impact of DMD isn't something the average person tracks until it affects them, and it's difficult to reconcile that someone as happy and full of energy as Talen could be afflicted with a terminal wasting disease.

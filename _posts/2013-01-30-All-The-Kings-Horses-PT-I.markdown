@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "All the King's Horses (PT I)"
-date: 2013-01-30T21:43:19-05:00
 ---
 
 You reach this state of mind when you're looking at your son on the ground with his leg twisted back behind him at an unnatural angle that you can never fully enunciate. It's this perfect state of panic that threatens to overwhelm you, all while your forebrain is screaming at you to pull your shit together because someone is completely depending on you to take care of this.

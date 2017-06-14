@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Disney Trip - Days 1 and 2"
-date: 2013-04-02T21:43:19-05:00
 ---
 
 Disney Trip - Days 1 and 2

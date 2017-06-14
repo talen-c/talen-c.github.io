@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Guess Who is Back on His Feet?"
-date: 2013-02-15T21:43:19-05:00
 ---
 
 We went to our follow up appointment at Levine's Pediatric Orthopedic Surgery on Wednesday (Feb. 13th), and Talen got the green light to get back up on his feet and start walking. Of course he had to immediately give it a go, and he was shaky but demanded to walk out of the doctor's office.

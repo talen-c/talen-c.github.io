@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Catching Up (Bullet List Version) and December's MDA Clinic Visit"
-date: 2013-01-28T21:43:19-05:00
 ---
 
 I think it is probably fitting that 2012 transitioned to 2013 in a tempestuous fashion, given the earth shattering way that 2012 up-ended our lives. I had intended to get on a more regular schedule with updates and changes to the site, but life really hasn't been conducive to a quiet half hour or so at the keyboard. To catch everyone up with the Cliff's Notes version of events since Halloween:

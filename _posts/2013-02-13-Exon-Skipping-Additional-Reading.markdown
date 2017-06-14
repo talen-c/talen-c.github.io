@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Exon Skipping - Additional Reading"
-date: 2013-02-13T21:43:19-05:00
 ---
 
 If you're anything like me, you get all hot and bothered about eukaryotic initiation factors and you're just dying to read more about exon skipping. The rest of you need to get with the program. Here are some links for anyone interested in diving deeper into exon skipping.

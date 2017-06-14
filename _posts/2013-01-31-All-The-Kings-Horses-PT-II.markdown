@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "All the King's Horses (PT II)"
-date: 2013-01-31T21:43:19-05:00
 ---
 
 Talen pushed the call button attached to his bed and the nurse buzzed back to ask if she could help him. Talen held the intercom up to his mouth and announced, "I need more morphine."
