@@ -4,9 +4,13 @@ title: All Posts
 description: "An archive of posts."
 comments: false
 ---
-
-{% for post in site.posts %}    
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-    <p><small><strong>{{ post.date | date: "%mm%dd%Y" }}</strong> . {{ post.category }} . <a href="{{ post.url }}"></a></small></p>            
-    <p><small><strong>{{ post.previous.date | date: "%mm%dd%Y" }}</strong> . {{ post.category }} . <a href="{{ post.url }}"></a></small></p>            
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <li id="y{{currentdate}}">{{ currentdate }}</li>
+    {% assign date = currentdate %} 
+  {% endif %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+
+
