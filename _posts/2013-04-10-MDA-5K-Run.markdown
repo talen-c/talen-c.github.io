@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MDA 5K Run""
+title: "MDA 5K Run"
 ---
 
 MDA 5K Run

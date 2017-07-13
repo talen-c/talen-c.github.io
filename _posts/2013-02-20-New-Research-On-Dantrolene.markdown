@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Research on Dantrolene""
+title: "New Research on Dantrolene"
 ---
 
 I noticed recently that a lot of the research on exon skipping has started to focus on a new, non-morpholine based compound named Dantrolene, which is currently FDA approved as a muscle relaxer.
