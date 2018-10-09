@@ -27,11 +27,11 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2018-10-09T00:03:00Z</lastmod>
+  <lastmod>2018-10-09T03:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2018-10-09T00:03:00Z</lastmod>
+  <lastmod>2018-10-09T03:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://example.com/rss.xml</loc>
@@ -39,6 +39,6 @@
  </sitemap>
  <sitemap>
   <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2018-10-09T00:03:00Z</lastmod>
+  <lastmod>2018-10-09T03:24:00Z</lastmod>
  </sitemap>
 </sitemapindex>
