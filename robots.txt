@@ -1,4 +1,4 @@
-Sitemap: https://toomee.org/sitemapindex.xml
+Sitemap: https://example.com/sitemapindex.xml
 
 User-Agent: *
-Host: toomee.org
+Host: example.com
