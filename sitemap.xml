@@ -6,99 +6,99 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://example.com/</loc>
+  <loc>https://toomee.org/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/2018/</loc>
+  <loc>https://toomee.org/2018/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/archive.html</loc>
-  <lastmod>2018-11-22T06:30:00Z</lastmod>
+  <loc>https://toomee.org/archive.html</loc>
+  <lastmod>2018-11-22T06:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/categories/</loc>
+  <loc>https://toomee.org/categories/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/</loc>
+  <loc>https://toomee.org/galleries/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/galleries/demo/</loc>
+  <loc>https://toomee.org/galleries/demo/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/</loc>
+  <loc>https://toomee.org/listings/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/__pycache__/</loc>
+  <loc>https://toomee.org/listings/__pycache__/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2018-11-22T06:30:00Z</lastmod>
+  <loc>https://toomee.org/listings/hello.py.html</loc>
+  <lastmod>2018-11-22T06:33:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/about-nikola/</loc>
+  <loc>https://toomee.org/pages/about-nikola/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/bootstrap-demo/</loc>
+  <loc>https://toomee.org/pages/bootstrap-demo/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/charts/</loc>
+  <loc>https://toomee.org/pages/charts/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/creating-a-theme/</loc>
+  <loc>https://toomee.org/pages/creating-a-theme/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://toomee.org/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/extending/</loc>
+  <loc>https://toomee.org/pages/extending/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/handbook/</loc>
+  <loc>https://toomee.org/pages/handbook/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/internals/</loc>
+  <loc>https://toomee.org/pages/internals/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/listings-demo/</loc>
+  <loc>https://toomee.org/pages/listings-demo/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/path-handlers/</loc>
+  <loc>https://toomee.org/pages/path-handlers/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickref/</loc>
+  <loc>https://toomee.org/pages/quickref/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/quickstart/</loc>
+  <loc>https://toomee.org/pages/quickstart/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/social_buttons/</loc>
+  <loc>https://toomee.org/pages/social_buttons/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/pages/theming/</loc>
+  <loc>https://toomee.org/pages/theming/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
-  <loc>https://example.com/posts/test/</loc>
+  <loc>https://toomee.org/posts/test/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
 </urlset>
