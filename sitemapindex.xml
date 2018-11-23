@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://toomee.org/galleries/demo/rss.xml</loc>
-  <lastmod>2018-11-22T06:33:00Z</lastmod>
+  <lastmod>2018-11-23T03:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://toomee.org/galleries/rss.xml</loc>
-  <lastmod>2018-11-22T06:33:00Z</lastmod>
+  <lastmod>2018-11-23T03:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://toomee.org/rss.xml</loc>
@@ -19,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://toomee.org/sitemap.xml</loc>
-  <lastmod>2018-11-22T06:33:00Z</lastmod>
+  <lastmod>2018-11-23T03:26:00Z</lastmod>
  </sitemap>
 </sitemapindex>
