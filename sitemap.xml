@@ -7,7 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://toomee.org/</loc>
-  <lastmod>2018-11-22T06:29:00Z</lastmod>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/2013/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/2017/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://toomee.org/2018/</loc>
@@ -15,7 +23,7 @@
  </url>
  <url>
   <loc>https://toomee.org/archive.html</loc>
-  <lastmod>2018-11-24T06:04:00Z</lastmod>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://toomee.org/categories/</loc>
@@ -24,10 +32,6 @@
  <url>
   <loc>https://toomee.org/galleries/</loc>
   <lastmod>2018-11-24T06:04:00Z</lastmod>
- </url>
- <url>
-  <loc>https://toomee.org/galleries/demo/</loc>
-  <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
   <loc>https://toomee.org/galleries/london/</loc>
@@ -114,6 +118,14 @@
   <lastmod>2018-11-24T06:04:00Z</lastmod>
  </url>
  <url>
+  <loc>https://toomee.org/index-1.html</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/index-2.html</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://toomee.org/listings/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
@@ -123,7 +135,7 @@
  </url>
  <url>
   <loc>https://toomee.org/listings/hello.py.html</loc>
-  <lastmod>2018-11-24T06:04:00Z</lastmod>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://toomee.org/pages/about-nikola/</loc>
@@ -182,7 +194,91 @@
   <lastmod>2018-11-22T06:29:00Z</lastmod>
  </url>
  <url>
+  <loc>https://toomee.org/posts/all-the-kings-horses-i/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/all-the-kings-horses-ii/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/catching-up-and-december-clinic-visit/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/disney-trip-d1-d2/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/disney-trip-d3/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/disney-trip-d4/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/disney-trip-d5/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/disney-trip-d6-d7-d8/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/dmd-cognitive-impact-i/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/dmd-cognitive-impact-ii/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/exon-skipping-additional-reading/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/exon-skipping/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/guess-who-is-back-on-his-feet/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/md-care-act/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/mda-5k-run/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/new-research-on-dantrolene/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/prosensa-webinar/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/qa-with-toomee/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/talent-for-talen-the-sequel/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://toomee.org/posts/test/</loc>
   <lastmod>2018-11-22T06:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/testpost/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://toomee.org/posts/this-is-a-test/</loc>
+  <lastmod>2018-11-26T04:09:00Z</lastmod>
  </url>
 </urlset>
