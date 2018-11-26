@@ -1,5 +1,5 @@
-.. title: This is a test
-.. slug: this-is-a-test
+.. title: Rebooting the Blog and Site
+.. slug: rebooting-the-blog-and-site
 .. date: 2017-01-25 22:10:50 UTC-05:00
 .. tags: 
 .. category: 
