@@ -1,4 +1,0 @@
-Sitemap: https://toomee.org/sitemapindex.xml
-
-User-Agent: *
-Host: toomee.org
